@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Crest.md
       - School Rules and Policies.md
       - School Management Committee.md
       - Staff Email Address.md
