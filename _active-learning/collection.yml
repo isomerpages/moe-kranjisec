@@ -2,6 +2,7 @@ collections:
   active-learning:
     output: true
     order:
+      - Music.md
       - Nutrition and Food Science.md
       - Physical Education.md
       - Science.md
