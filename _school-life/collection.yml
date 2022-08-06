@@ -2,6 +2,7 @@ collections:
   school-life:
     output: true
     order:
+      - Student Leadership/Peer Support Leaders.md
       - Student Leadership/.keep
       - Houses/Overview.md
       - Houses/Kestrel.md
