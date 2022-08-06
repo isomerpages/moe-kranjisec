@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Key Events.md
       - Our Community.md
       - Environment Sustainability.md
       - Our Stories.md
