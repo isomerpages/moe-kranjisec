@@ -19,3 +19,28 @@ links:
         url: /about-us/staff-email-address/
       - title: Achievements
         url: /about-us/achievements/
+  - title: Active Learning
+    url: /active-learning/arts/
+    sublinks:
+      - title: Character Education
+        url: /active-learning/character-education
+      - title: Computing (New!)
+        url: /active-learning/computing
+      - title: Design and Technology
+        url: /active-learning/design-and-technology/
+      - title: English Language & Literature
+        url: /active-learning/english-language-and-literature/
+      - title: Humanities
+        url: /active-learning/humanities/
+      - title: Mathematics
+        url: /active-learning/mathematics/
+      - title: Mother Tongue Languages
+        url: /active-learning/mother-tongue-languages/
+      - title: Music
+        url: /active-learning/music/
+      - title: Nutrition and Food Science
+        url: /active-learning/nutrition-and-food-science/
+      - title: Physical Education
+        url: /active-learning/physical-education/
+      - title: Science
+        url: /active-learning/science/
