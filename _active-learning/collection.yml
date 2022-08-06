@@ -2,6 +2,7 @@ collections:
   active-learning:
     output: true
     order:
+      - Design and Technology.md
       - English Language and Literature.md
       - Humanities.md
       - Mathematics.md
