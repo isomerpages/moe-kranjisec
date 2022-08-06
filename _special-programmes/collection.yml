@@ -1,4 +1,5 @@
 collections:
   special-programmes:
     output: true
-    order: []
+    order:
+      - Talent Development Programme.md
