@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - Internationalism Programme/.keep
       - Sports Education Programme.md
       - Aesthetics Department Education.md
       - Talent Development Programme.md
