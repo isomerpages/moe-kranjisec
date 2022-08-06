@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Direct School Admissions.md
       - Secondary One Posting/Overview.md
       - Secondary One Posting/Appeal for School Transfer for Sec 1.md
       - Secondary One Posting/.keep
