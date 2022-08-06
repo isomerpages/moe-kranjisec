@@ -15,7 +15,7 @@ sections:
           url: /announcements/school-sharing-with-parents-and-p6-students/
         - title: Admissions
           description: For local and international students
-          url: /the-kranji-experience/secondary-1/drama-in-literature-curriculum/
+          url: /admissions/direct-school-admissions/
         - title: Highlights
           description: Events . Community . Stories
           url: /privacy/
