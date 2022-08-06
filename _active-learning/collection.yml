@@ -2,4 +2,5 @@ collections:
   active-learning:
     output: true
     order:
+      - Physical Education.md
       - Science.md
