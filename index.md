@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: Latest news and updates
-          url: /announcements/school-sharing-with-parents-and-p6-students/
+          url: /announcements/overview/
         - title: Admissions
           description: For local and international students
           url: /admissions/direct-school-admissions/
