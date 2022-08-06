@@ -2,4 +2,5 @@ collections:
   the-kranji-experience:
     output: true
     order:
+      - Secondary 4 and 5/Resilience Walk.md
       - Secondary 4 and 5/.keep
