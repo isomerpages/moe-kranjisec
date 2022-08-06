@@ -2,7 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-### Privacy Statement of Kranji Secondary School
+### Privacy Statement 
 
 *     
     This is the Kranji Secondary School website. Thank you for examining our privacy statement.
