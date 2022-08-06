@@ -2,6 +2,7 @@ collections:
   the-kranji-experience:
     output: true
     order:
+      - Secondary 3/.keep
       - Secondary 4 and 5/Graduation Ceremony.md
       - Secondary 4 and 5/Resilience Walk.md
       - Secondary 4 and 5/.keep
