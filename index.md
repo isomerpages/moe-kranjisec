@@ -2,7 +2,7 @@
 layout: homepage
 title: Kranji Secondary School
 description: An Isomer site of the Singapore Government
-image: /images/kssfavlogo.png
+image: /images/kranjilogo.png
 permalink: /
 notification: ""
 sections:
@@ -26,3 +26,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
