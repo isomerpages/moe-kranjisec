@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d28t49xsr05e29.amplifyapp.com
 prod: https://master.d28t49xsr05e29.amplifyapp.com
-shareicon: /images/kssfavlogo.png
+shareicon: /images/kranjilogo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
