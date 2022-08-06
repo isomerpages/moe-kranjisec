@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Visual and Performing Arts/Kranji Choir.md
       - Visual and Performing Arts/Kranji Chinese Dance Society.md
       - Visual and Performing Arts/Kranji Modern Dance Club.md
       - Visual and Performing Arts/Kranji Concert Band.md
