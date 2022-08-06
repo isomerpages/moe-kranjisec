@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs and Societies/English Literary Drama and Debate Society.md
       - Clubs and Societies/Infocomm Technology.md
       - Clubs and Societies/International and Global Studies.md
       - Clubs and Societies/Malay Culture and Language.md
