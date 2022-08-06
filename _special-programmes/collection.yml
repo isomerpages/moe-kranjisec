@@ -2,6 +2,8 @@ collections:
   special-programmes:
     output: true
     order:
+      - Internationalisation Programme/First Prize Winner of the Education for
+        Sustainable Development Award.md
       - Internationalisation Programme/.keep
       - Sports Education Programme.md
       - Aesthetics Department Education.md
