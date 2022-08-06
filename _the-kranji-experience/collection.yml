@@ -2,6 +2,7 @@ collections:
   the-kranji-experience:
     output: true
     order:
+      - Secondary 1/Orientation Programme.md
       - Secondary 1/.keep
       - Secondary 2.md
       - Secondary 3/Internationalisation Programme @ Kranji Secondary School.md
