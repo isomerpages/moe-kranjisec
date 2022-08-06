@@ -1,4 +1,5 @@
 collections:
   the-kranji-experience:
     output: true
-    order: []
+    order:
+      - Secondary 4 and 5/.keep
