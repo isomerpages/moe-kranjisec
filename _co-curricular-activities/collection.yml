@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Uniformed Groups/Saint John Brigade.md
       - Uniformed Groups/.keep
       - Visual and Performing Arts/Art and Crafts.md
       - Visual and Performing Arts/Kranji Choir.md
