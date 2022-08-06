@@ -1,8 +1,21 @@
 logo: /images/kranjilogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: School History
+        url: /about-us/school-history/
+      - title: Vision, Mission, Values, Motto
+        url: /about-us/vision-mission-values-motto/
+      - title: School Crest
+        url: /about-us/school-crest/
+      - title: School Rules and Policies
+        url: /about-us/school-rules-and-policies/
+      - title: "School Management Committee "
+        url: /about-us/school-management-committee/
+      - title: Staff Email Address
+        url: /about-us/staff-email-address/
+      - title: Achievements
+        url: /about-us/achievements/
