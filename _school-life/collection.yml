@@ -2,6 +2,7 @@ collections:
   school-life:
     output: true
     order:
+      - Houses/Albatross.md
       - Houses/Nighthawk.md
       - Houses/Jaguar.md
       - Houses/Ibex.md
