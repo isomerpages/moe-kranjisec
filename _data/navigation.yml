@@ -55,3 +55,18 @@ links:
         url: /school-life/cca/overview/
       - title: Houses
         url: /school-life/houses/overview/
+  - title: Special Programmes
+    url: /special-programmes/applied-learning-programme/
+    sublinks:
+      - title: Special Programmes
+        url: /special-programmes/applied-learning-programme/
+      - title: Learning for Life Programme
+        url: /special-programmes/learning-for-life-programme/
+      - title: Internationalisation Programme
+        url: /special-programmes/internationalisation-programme/overview/
+      - title: Sports Education Programme
+        url: /special-programmes/sports-education-programme/
+      - title: Aesthetics Education Programme
+        url: /special-programmes/aesthetics-education-programme/
+      - title: Talent Development Programme
+        url: /special-programmes/talent-development-programme/
