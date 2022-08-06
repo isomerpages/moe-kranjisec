@@ -2,5 +2,6 @@ collections:
   school-life:
     output: true
     order:
+      - Houses/Jaguar.md
       - Houses/Ibex.md
       - Houses/.keep
