@@ -2,7 +2,6 @@ collections:
   school-life:
     output: true
     order:
-      - Co Curricular Activities/.keep
       - Houses/Overview.md
       - Houses/Kestrel.md
       - Houses/Rhino.md
