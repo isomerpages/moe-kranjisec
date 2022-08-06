@@ -8,10 +8,9 @@ notification: ""
 sections:
   - hero:
       background: /images/kssbanner.gif
-      url: /contact-us/
       key_highlights:
         - title: Announcements
-          description: Latest news and updates
+          description: Newsletters and Updates
           url: /announcements/overview/
         - title: Admissions
           description: For Local and International students
