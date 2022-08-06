@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parents Support Group.md
       - Alumni/Overview.md
       - Alumni/Notable Alumni.md
       - Alumni/.keep
