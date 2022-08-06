@@ -13,7 +13,7 @@ sections:
           description: Newsletters and Updates
           url: /announcements/overview/
         - title: Admissions
-          description: For Local and International students
+          description: For Local and International Students
           url: /admissions/direct-school-admissions/
         - title: Highlights
           description: Events . Community . Stories
