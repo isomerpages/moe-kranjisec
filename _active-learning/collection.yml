@@ -2,5 +2,6 @@ collections:
   active-learning:
     output: true
     order:
+      - Nutrition and Food Science.md
       - Physical Education.md
       - Science.md
