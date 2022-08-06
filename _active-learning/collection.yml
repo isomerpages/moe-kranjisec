@@ -1,5 +1,4 @@
 collections:
   active-learning:
     output: true
-    order:
-      - Arts.md
+    order: []
