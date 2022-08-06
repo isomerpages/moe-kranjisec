@@ -4,23 +4,20 @@ title: Kranji Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/kssfavlogo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
+      background: /images/kssbanner.gif
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Announcements
+          description: Latest news and updates
+          url: /announcements/school-sharing-with-parents-and-p6-students/
+        - title: The Kranji Experience
+          description: Thinker . Leader . Champion
+          url: /the-kranji-experience/secondary-1/drama-in-literature-curriculum/
+        - title: Highlights
+          description: Events . Community . Stories
           url: /privacy/
   - infobar:
       title: Infobar title
@@ -29,6 +26,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
-
