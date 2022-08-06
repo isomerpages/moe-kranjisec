@@ -2,6 +2,7 @@ collections:
   school-life:
     output: true
     order:
+      - Student Leadership/CCA Leaders.md
       - Student Leadership/Class Leaders.md
       - Student Leadership/Peer Support Leaders.md
       - Student Leadership/.keep
