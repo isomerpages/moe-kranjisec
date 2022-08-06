@@ -14,7 +14,7 @@ sections:
           description: Latest news and updates
           url: /announcements/overview/
         - title: Admissions
-          description: For local and international students
+          description: For Local and International students
           url: /admissions/direct-school-admissions/
         - title: Highlights
           description: Events . Community . Stories
