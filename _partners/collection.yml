@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - Alumni/Notable Alumni.md
       - Alumni/.keep
       - Fei Yue Community Services.md
