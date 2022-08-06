@@ -2,4 +2,5 @@ collections:
   special-programmes:
     output: true
     order:
+      - Aesthetics Department Education.md
       - Talent Development Programme.md
