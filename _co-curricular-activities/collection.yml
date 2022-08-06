@@ -2,4 +2,5 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports and Games/Table Tennies.md
       - Sports and Games/.keep
