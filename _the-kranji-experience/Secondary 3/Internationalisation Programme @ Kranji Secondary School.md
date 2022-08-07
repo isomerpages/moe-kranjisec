@@ -45,7 +45,7 @@ Stepping into the school, I was very shocked to see that Merlion school was evid
 
 On the second day of my cultural trip to Hangzhou, we visited Xingzhi Secondary School. From the activities planned by the school as well as the student ambassadors, I can sense the immense pride they have of the Hangzhou culture. This could be seen from the series of beautiful student artwork placed all around school, focusing on the theme of the Hangzhou beauty and identity. I am very amazed and thrilled as I walked past the school corridors, and appreciating those beautiful art works. One student’s artwork is titled ‘West Lake’ and it has left a lasting impression on me. It was very beautiful and was painted based on the students’ interpretation of the actual West Lake, a famous scenic spot in Hangzhou. In addition, the traditional food prepared by the parent volunteers during the welcome ceremony provided us with an opportunity to have a taste of the different types of snacks in Hangzhou. This whole trip has been memorable as I understand better the similarities and differences between Singapore and Hangzhou.
 
-** _SINGH SAKSHI, 3K5 (2020)_**
+**_SINGH SAKSHI, 3K5 (2020)_**
 
 <img src="/images/internationalisation3.gif" 
      style="width:60%">
