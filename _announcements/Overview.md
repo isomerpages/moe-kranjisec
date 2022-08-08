@@ -6,7 +6,7 @@ description: ""
 ### Annnouncements
 
 **School Sharing with Parents and P6 Students**
-<iframe width="360" height="115" src="https://www.youtube.com/embed/MpZqByh3msY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="215" src="https://www.youtube.com/embed/MpZqByh3msY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Parent Engagement Slides on National Digital Literary Programme 2022](/files/KSS%20Parent%20Engagement%20Slides%202022.pdf)
 
