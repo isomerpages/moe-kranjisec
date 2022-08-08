@@ -30,4 +30,17 @@ Each month, a one-hour English lesson is used for the discussion of a selected m
 
 <img src="/images/el1.gif" 
      style="width:60%">
+		 
+##### 2. Drama in Literature Curriculum and Drama Performance Assessment
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2l77asZNmyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The drama programme is offered to Secondary 1 students as part of the lower secondary Literature curriculum. It serves as an alternative platform for the expression of personal response through drama instead of the traditional pen-and-paper mode of assessment. In particular, the programme aims to achieve the following objectives:
+
+*   To provide an authentic context for students to engage in deep learning through critical reading and analyses of the themes and characters in the Literature text
+*   To provide opportunities for collaborative learning in the form of play-building so as to develop teamwork in students and improve their communication skills
+
+The programme consists of a series of drama sessions conducted by qualified drama instructors and closely monitored by the school’s Literature teachers. Working in groups, students are actively involved in all the stages of play-building, from script writing, improvisation of props and costumes to the production of the play. The programme culminates in the final performance assessment of the play.
+
+
+The drama programme is rigorous yet enjoyable for students. Its varied and engaging activities enrich students’ experiences in the learning of Literature.
