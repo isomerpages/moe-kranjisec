@@ -92,13 +92,13 @@ The Model United Nations is an academic simulation of the United Nations Confere
 <img src="/images/hu11.png" 
      style="width:60%"> _Our school won the “Best Newcomer Delegation” award, and Emylia Audreyna Binte Shaiful Anuar (3K3, 2019) was awarded the “Best Position Paper” award_.
 		 
-#### National University of Singapore Geography Challenge  
+##### National University of Singapore Geography Challenge  
 
 The National University of Singapore (NUS) Geography Challenge is a competition that aims to engage, empower and educate Geography students on local and global issues. Through exploring the relevance of Geography in our daily lives, students have the opportunity to deepen their knowledge and hone their skills in geographical fieldwork and techniques.
 
 The NUS Geography Challenge has encouraged Kranjians to embark on independent learning and apply disciplinary knowledge to better understand the intricacies of our globalised world.
 
-#### MOE History Challenge
+##### MOE History Challenge
 
 The MOE History Challenge aims to engage History students in the disciplinary aspects of History where students can demonstrate their knowledge of the subject and apply conceptual understanding across different periods through a quiz.
   
@@ -107,3 +107,13 @@ Students who performed well in the History challenge will be given the opportuni
 
 
 Due to the COVID-19 situation and to safeguard the well-being of our students, the MOE History Challenge is held online on the Singapore Student Learning Space.
+
+<img src="/images/hu12.png" 
+     style="width:60%"> _Student participants at the MOE History Challenge 2020_
+		 
+#### Historical Scene Investigation Challenge  
+
+The Historical Scene Investigation (H.S.I.) Challenge is an annual contest organised by the National Library, Singapore which promises an exciting experience for students to put their historical inquiry and information literacy skills to the test. This year's fully digital contest has enabled our students to investigate a relevant historical topic whilst exploring the range of online resources at the National Library, Singapore and National Archives of Singapore. Kranji Secondary School clinched the Silver Award in 2020.
+
+<img src="/images/hu13.png" 
+     style="width:60%">
