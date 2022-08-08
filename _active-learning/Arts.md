@@ -46,3 +46,10 @@ Secondary 3 students experimented with a variety of materials, techniques and t
      style="width:60%">
 
 To provide students with a professional art studio practice, Kranji partnered with Nanyang Academy of Fine Arts (NAFA) for students to reflect what they learned in the classroom. This experience was to allow students to identify their strengths and inclinations. The Art unit aims to provide learning opportunities beyond the classroom walls.
+
+<img src="/images/arts5.gif" 
+     style="width:60%">
+
+#### Learning Journey to the Museum
+
+To enable students to connect and respond to artworks, students will experience museum-based learning as part of their learning journey. This is to cultivate visual literacy skills and appreciation of the Art world.
