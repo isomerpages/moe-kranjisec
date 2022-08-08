@@ -94,3 +94,13 @@ In 2021, a group of students worked under the guidance of a scientist from the I
 ##### Research Mentorship by Centre for Research & Applied Learning in Science (CRADLΣ)
 
 In conjunction with Hwa Chong Institution’s (HCI) Annual Project’s Day, students who demonstrate an aptitude for Science are recruited to work on a Science research project. Guided by teacher mentors and an external research trainer from Science Centre Singapore, they embark on a research project with industrial or environmental applications. This programme aims to encourage the spirit of innovation through design of experiment and the development of scientific attitudes and ethos in students. The project for 2021 is “Investigation of Sound Absorption Capabilities of Different Types of Food Waste”. Students carried out the experiment and applied their critical thinking skills and scientific knowledge to analyse the results that they obtained. The project culminated in a final evaluation where students presented their findings to a panel of judges through an oral presentation. For their immense effort, the team was awarded “High Distinction in Project Work”.
+
+<img src="/images/sci5.gif" 
+     style="width:60%">
+
+
+#### Science Innovation Challenge
+
+##### Unity Scientific Innovation Challenge with SP & ERI@N (USPE)
+
+The USPE is a national science competition jointly organized by ERI@N NTU, Singapore Polytechnic and Unity Secondary School. This competition focuses on participants’ intellectual curiosity and creativity in applying scientific principles to develop solutions for various challenges. In 2020, our school achieved the Outstanding Project Gold and Challenge Trophy. The theme for 2022’s challenge is Smart Solutions for a Better Future.
