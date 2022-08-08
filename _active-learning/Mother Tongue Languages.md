@@ -44,3 +44,25 @@ In the category of ‘**Enrichment**’, the MTL department organised MTL fortni
 		 
 The department also organized several events, such as Pongal Festival, Chinese New Year Celebrations, Hari Raya Celebrations, Deepavali Celebrations, co-organized Mid-autumn Festival with Yew Tee CCC. These activities has enabled students to learn beyond classroom context and strengthen their sense of cultural heritage and identity.
 
+<img src="/images/mtl2.gif" 
+     style="width:60%">
+		 
+In the category of '**Support**', Talent development is planned and carried out with the department taking varied approaches in providing opportunities to develop students to their fullest potential. For example, the department offers opportunities to students who show interest in stretching their potential in the subject by involving them in roles such as writing, editing, emceeing and performing for creative CL essay compilation- Kspiration publications and launching. We also provides selected students the exposure through numerous competition and workshop platforms to stretch students beyond meeting syllabus requirements.
+
+  
+
+Some of the competitions and workshops are
+
+  
+
+**CL:**<br>
+National Creative Story Writing Competition, Author-In-Residence Programme, World Book Day and Literature under the April Sky
+
+  
+
+**ML:**  <br>
+ML National Creative Writing Competition and National Translation English Language to Malay Language Competition
+
+
+**TL:**<br>
+Confident Speaker Workshop, ‘Periyar’ Reading Competition, Top spinning workshop, Drama Enrichment
