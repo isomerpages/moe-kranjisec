@@ -47,3 +47,28 @@ The drama programme is rigorous yet enjoyable for students. Its varied and engag
 
 <img src="/images/el2.gif" 
      style="width:60%">
+		 
+##### 3. Literature Learning Journey
+
+‘_Home: Our Neighbourhood_ ’ – A Literature Learning Journey (LJ) back to the Heartlands is designed to bring learning to life through a student-centric, multisensory learning experience. It involves students exploring their own neighbourhood – a place they call Home – where they discover historical facts and other interesting information relevant to a set of poems in the poetry curriculum. The LJ enables students to better appreciate local poetry and its ties with our uniquely Singaporean culture through authentic learning activities.
+
+
+The poetry resource package is carefully curated to include poems that are relatable to, and tasks that can be carried out in any neighbourhood in Singapore. They explore issues that centre on the preservation of our cultural roots and heritage amidst the rapid modernisation of Singapore.
+ 
+
+During the LJ, students are engaged in multimodal tasks that break away from the monotony of the usual pen-and-paper tasks. They explore their own neighbourhoods, visiting places like traditional coffee shops and children’s playgrounds etc. As they immerse in the multisensory experience offered by the surroundings, they take note of pertinent information, collect relevant artefacts and complete authentic tasks related to the poems in the poetry resource package.
+
+With the implementation of Blended Learning (BL), students can embark on their own learning asynchronously, checking in with their teachers via timely online submissions using their Personal Learning Devices (PLD). As students organise their own learning and create products to reflect their personalised learning experiences, the LJ is a platform which supports independent learning and enhances students’ ownership of their own learning.
+
+##### 4. Kranji Voices
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3_lAgNsMdpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Kranji Voices is a platform for Kranjians’ to share their personal experiences or views on any matter and have their voices heard by fellow Kranjians. It involves a 3-8 minute sharing, which could be in the form of storytelling, speech or oral presentation. This programme serves to raise awareness of personal experiences of Kranjians so as to highlight and reinforce the Kranjian Identity. The key objectives of Kranji Voices are: 
+
+*   To reach out to students through the spoken language by highlighting common experiences and/or sharing of reflections, views and thoughts
+*   To inspire students and/or to create a positive impact on students, thereby changing their mindset as well as behaviour positively
+*   To develop students’ confidence in public speaking
+
+Here is a video clip of a Kranjian giving a presentation to the school. Enjoy!
+
