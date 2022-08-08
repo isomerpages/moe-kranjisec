@@ -54,3 +54,18 @@ In continuing to provide our students with the rich learning experience from Geo
 
 <img src="/images/hu7.png" 
      style="width:60%">
+		 
+##### Humanities Overseas Learning Trip to Ho Chi Minh, Vietnam
+
+The Humanities department conducted an overseas learning trip for a group of Secondary 3 students to Ho Chi Minh City in November 2019. The aims of this trip allow student to have
+
+*   authentic, practical first hand experiences of the physical and human environment
+*   apply humanities inquiry skills in authentic learning environments in Vietnam; and
+*   learn more about Vietnamese culture and lifestyle
+
+<img src="/images/hu8.png" 
+     style="width:60%"> _Students learning about the military campaigns during at the Vietnam War at the tunnels of Cu Chi_
+
+<img src="/images/hu9.png" 
+     style="width:60%"> _Students immersing in an experiential learning about Geography of Food_
+		 
