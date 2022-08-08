@@ -41,4 +41,6 @@ In the category of ‘**Enrichment**’, the MTL department organised MTL fortni
 
 <img src="/images/mtl1.gif" 
      style="width:60%">
+		 
+The department also organized several events, such as Pongal Festival, Chinese New Year Celebrations, Hari Raya Celebrations, Deepavali Celebrations, co-organized Mid-autumn Festival with Yew Tee CCC. These activities has enabled students to learn beyond classroom context and strengthen their sense of cultural heritage and identity.
 
