@@ -54,7 +54,7 @@ Students and schools who are interested to access our resources in the Singapore
 		 
 ##### 2.    Science Research Programmes
 
-*   International Elementz Science Research Conference & Exhibition
+#####  International Elementz Science Research Conference & Exhibition
 
 The International Elementz Science Research Conference & Exhibition is a prestigious Science conference organised by ASRJC. It is an annual competition held for Upper Secondary and Junior College students to showcase their scientific research and prototypes which can contribute to the betterment of society by communicating their findings to industry experts. This competition allows students to deepen their research skills and also to gain a global perspective by learning from International Science projects.
 
@@ -68,7 +68,7 @@ In 2021, despite the conference being held online via Zoom, our school achieved 
 <img src="/images/sci2.gif" 
      style="width:60%">
 		 
-*   NJC Enrichment Science Training and Research (ESTaR) Programme
+##### NJC Enrichment Science Training and Research (ESTaR) Programme
 
 To extend learning beyond the core curriculum and to further students’ research interest, students are given the opportunity to participate in the National Junior College (NJC) Enrichment Science Training and Research (ESTaR) Programme. Through this Joint Scientific Research collaboration with NJC, our students work together with students from NJC. They are mentored by teachers from both schools. At the end of the programme, students then share their research projects at the National Junior College’s Science Training and Research (STaR) Symposium. The science projects are also submitted for judging at the Singapore Science and Engineering Fair (SSEF) organised by the Ministry of Education, the Agency for Science, Technology and Research and the Singapore Science Centre.
 
@@ -76,3 +76,21 @@ In 2021, one of our teams’ project ‘Investigation of the Removal of Heavy Me
 
 <img src="/images/sci3.gif" 
      style="width:60%">
+		 
+##### *STAR-MOE Scientists-in-School (SiS) Programme
+
+The programme provides an avenue for students to engage a professional researcher to learn more about application of science, and cultivate their interest in Science, Technology, Engineering and Mathematics (STEM).
+
+In 2021, a group of students worked under the guidance of a scientist from the Institute of Chemical Engineering & Sciences, A\*STAR, to explore the harvesting of hydrogen fuel from food waste. Through the programme, the students fostered the attitudes and skills needed for scientific inquiry and research.
+
+<img src="/images/sci4.gif" 
+     style="width:60%">
+		 
+
+##### Science Centre Singapore’s Research & Development Experience Programme (RDEP)
+
+2 groups of Secondary 2 and 3 students will be participating in RDEP 2021. RDEP is a specially curated 8-day programme held at Science Centre Singapore. The aim of the programme is to enable students to gain hands-on experience in experimentation, design, prototyping, and data analysis. Students will work in small groups of 2 to 3 students to complete a small-scale Science or Engineering project and showcase their projects in the youth project showcase to be held.
+
+##### Research Mentorship by Centre for Research & Applied Learning in Science (CRADLΣ)
+
+In conjunction with Hwa Chong Institution’s (HCI) Annual Project’s Day, students who demonstrate an aptitude for Science are recruited to work on a Science research project. Guided by teacher mentors and an external research trainer from Science Centre Singapore, they embark on a research project with industrial or environmental applications. This programme aims to encourage the spirit of innovation through design of experiment and the development of scientific attitudes and ethos in students. The project for 2021 is “Investigation of Sound Absorption Capabilities of Different Types of Food Waste”. Students carried out the experiment and applied their critical thinking skills and scientific knowledge to analyse the results that they obtained. The project culminated in a final evaluation where students presented their findings to a panel of judges through an oral presentation. For their immense effort, the team was awarded “High Distinction in Project Work”.
