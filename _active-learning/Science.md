@@ -49,4 +49,30 @@ s part of our school’s biodiversity education and outreach efforts, our Second
 
 Students and schools who are interested to access our resources in the Singapore Student Learning Space or participate in our virtual learning trail can email your request to [kranji\_ss@moe.edu.sg](mailto:kranji_ss@moe.edu.sg).
 
+<img src="/images/sci1.gif" 
+     style="width:60%">
+		 
+##### 2.    Science Research Programmes
 
+*   International Elementz Science Research Conference & Exhibition
+
+The International Elementz Science Research Conference & Exhibition is a prestigious Science conference organised by ASRJC. It is an annual competition held for Upper Secondary and Junior College students to showcase their scientific research and prototypes which can contribute to the betterment of society by communicating their findings to industry experts. This competition allows students to deepen their research skills and also to gain a global perspective by learning from International Science projects.
+
+  
+In 2019, our school achieved the Bronze Award. In 2020, two teams of students participated and both teams achieved the Silver Award.
+
+  
+
+In 2021, despite the conference being held online via Zoom, our school achieved the Bronze Award for their work on _Enhancing Performance of Soil-based Microbial Fuel Cell using Soil enriched with Vermicompost_.
+
+<img src="/images/sci2.gif" 
+     style="width:60%">
+		 
+*   NJC Enrichment Science Training and Research (ESTaR) Programme
+
+To extend learning beyond the core curriculum and to further students’ research interest, students are given the opportunity to participate in the National Junior College (NJC) Enrichment Science Training and Research (ESTaR) Programme. Through this Joint Scientific Research collaboration with NJC, our students work together with students from NJC. They are mentored by teachers from both schools. At the end of the programme, students then share their research projects at the National Junior College’s Science Training and Research (STaR) Symposium. The science projects are also submitted for judging at the Singapore Science and Engineering Fair (SSEF) organised by the Ministry of Education, the Agency for Science, Technology and Research and the Singapore Science Centre.
+
+In 2021, one of our teams’ project ‘Investigation of the Removal of Heavy Metal Ions Using Food Waste’ was shortlisted for the Final Judging at the SSEF.
+
+<img src="/images/sci3.gif" 
+     style="width:60%">
