@@ -19,3 +19,5 @@ These ideas serve to meaningfully contextualise the components of Art learning. 
 
 <img src="/images/arts1.gif" 
      style="width:60%">
+		 
+https://kranjisec.moe.edu.sg/active-learning/arts
