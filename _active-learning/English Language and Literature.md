@@ -72,3 +72,17 @@ Kranji Voices is a platform for Kranjians’ to share their personal experiences
 
 Here is a video clip of a Kranjian giving a presentation to the school. Enjoy!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-TMtyJULuCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### 5. Speaking Task for Secondary 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Fzvvl0f_yQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+To develop students in their speaking skills, all Secondary 1 students embark on a Speaking Task as part of their weighted assessment for English Language. Please refer to the above video for more details regarding the programme.  
+
+#### Students' Work
+
+As part of Home-Based Learning Day, students were exposed to various types of poetry (Haiku, Acrostic, Free Verse) and challenged to create their own poems about their Kranji Experience. This alternative assessment task stretched students and gave them the opportunity to exercise creativity in poetry. The following are some samples of work created by our budding poets!
+
+<img src="/images/el3.gif" 
+     style="width:60%">
