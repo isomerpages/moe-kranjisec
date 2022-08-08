@@ -3,7 +3,7 @@ title: Arts
 permalink: /active-learning/arts/
 description: ""
 ---
-### Arts NOT DONE WITH gif
+### Arts 
 
 The Art unit aims to develop Kranjians’ passion for art; thinkers who are capable to communicate visually through various means of Art making. Through these efforts of perceiving, communicating and appreciating Art, students develop the confidence to discuss, respond and connect their lived experiences with society and culture.
 
@@ -20,4 +20,19 @@ These ideas serve to meaningfully contextualise the components of Art learning. 
 <img src="/images/arts1.gif" 
      style="width:60%">
 		 
-https://kranjisec.moe.edu.sg/active-learning/arts
+Secondary 1 student will learn to analyse, gather, organise and record visual stimuli in nature and the man-made environment through visual journaling. They will also learn to use the information collected to generate artworks to present their identity using traditional and digital means.  
+
+  
+
+They will also experience learning photography. They will transfer the photography skills that they have acquired during lessons by manipulating the images of the self- portraits of themselves with public sculptures. The Art unit aims to provide experiential learning for students to be active learners and foster a high degree of engagement and appreciation for art.
+
+<img src="/images/arts2.gif" 
+     style="width:60%">
+		 
+To extend the learning of sculptures, the Secondary 1 students will be given an inquiry based task to create sculptures using recycled materials. The Art unit aims to widen the exposure of different art forms for students to express their thoughts, experiences and feelings in different ways.
+
+  
+
+Secondary 2 students will experience Game-Based Learning (GBL) that has a specific learning outcome. GBL is incorporated for students to discover creative ways to retain Art content knowledge such as Principles of Design and Compositional Strategies. This pedagogical approach is to develop students’ cognitive and social skills. The Art unit aims to conduct further investigation on the benefits of GBL to retain knowledge longer from other learning methods.
+
+
