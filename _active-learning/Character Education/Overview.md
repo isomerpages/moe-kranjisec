@@ -73,8 +73,30 @@ National Education Annual Events:
 		 
 We commemorate National Day through an Observance Ceremony as well as House booths which depict a National Education Key Message.
 
-
-
 ##### *   Educational and Career Month
 
 In order for graduating students to be able to make responsible decisions in achieving their goals and aspirations in life, the school organises Educational and Career Month. Through this, graduating students gain insights from professionals from different industries and learn more about the tertiary education courses of their choice.
+
+ <img src="/images/cce6.png" 
+     style="width:60%"> Students learn how to project a professional image and interview skills through workshops and lessons organised by the school.
+
+ <img src="/images/cce7.png" 
+     style="width:60%"> Teachers and PSG members conducted mock interviews with students to prepare them for interviews.
+
+#### *   Work Shadowing
+
+Through a partnership with the Ministry of Health, the school provides selected Secondary Three students with opportunities to participate in a Work Shadowing Programme. These students are given the opportunity to familiarise themselves with a variety of actual work situations through attachment to Allied Health Professionals. Through shadowing a work mentor, students learnt about the world of work through direct participation and observation, assisting in making informed decisions in their transition from school to work.
+
+<img src="/images/cce8.png" 
+     style="width:60%"> Students shadowed health professionals from Ng Teng Fong Hospital during a 2 work shadowing experience.
+
+#### *   Values-In-Action
+
+The VIA Programme in Kranji is a 4/5 year programme based on the developmental needs of the students while aiming to positively benefit the community around the school. To raise students’ awareness of the broader issues which Singapore faces, the school focuses its VIA efforts on two broad themes: elderly and environmental sustainability. Based on these themes, students participate in a range of activities to raise awareness and take action to make a positive difference to the school and the larger community.
+
+The Coronavirus Disease 2019 (COVID-19) pandemic in Singapore has presented opportunities for our students to to band together as a community and do our part to fight the virus as one people. We make intentional efforts to ensure that our students continue to understand that as an individual, they can still serve the community during this pandemic through practicing active citizenry. Our students led and contributed in different school and community initiatives such as:
+
+ *   COVID-19 Frontliners Project
+ *   Kranji Cares – Love (Un)covered
+ *   Kranji Cares – Lunar New Year Celebrations
+ *   Composting – Life after Food
