@@ -13,4 +13,11 @@ The Humanities Department believes in the transformative power of a humanities e
 
 #### Humanities Curriculum
 
-
+<img src="/images/hu1.png" 
+     style="width:60%">
+		 
+<img src="/images/hu2.png" 
+     style="width:60%">
+		 
+<img src="/images/hu3.png" 
+     style="width:60%">
