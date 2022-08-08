@@ -44,3 +44,6 @@ The programme consists of a series of drama sessions conducted by qualified dram
 
 
 The drama programme is rigorous yet enjoyable for students. Its varied and engaging activities enrich students’ experiences in the learning of Literature.
+
+<img src="/images/el2.gif" 
+     style="width:60%">
