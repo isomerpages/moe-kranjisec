@@ -50,3 +50,6 @@ In 2021, our students participated in the following competitions:
 *   Australian Mathematics Competition (AMC): Sec 3s
 *   Singapore Math Kangaroo Contest (SMKC): Sec 1 – 5s
 *   All Singapore Mathematics Competition (ASMC) for Normal Course Students : Sec 2 & 4s
+
+<img src="/images/math5.gif" 
+     style="width:60%">
