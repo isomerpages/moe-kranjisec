@@ -35,4 +35,14 @@ To extend the learning of sculptures, the Secondary 1 students will be given an�
 
 Secondary 2 students will experience Game-Based Learning (GBL) that has a specific learning outcome. GBL is incorporated for students to discover creative ways to retain Art content knowledge such as Principles of Design and Compositional Strategies. This pedagogical approach is to develop students’ cognitive and social skills. The Art unit aims to conduct further investigation on the benefits of GBL to retain knowledge longer from other learning methods.
 
+<img src="/images/arts3.gif" 
+     style="width:60%">
+		 
+##### Learning beyond school@NAFA
 
+Secondary 3 students experimented with a variety of materials, techniques and technologies to translate their ideas into visual forms and expressions.
+
+<img src="/images/arts4.gif" 
+     style="width:60%">
+
+To provide students with a professional art studio practice, Kranji partnered with Nanyang Academy of Fine Arts (NAFA) for students to reflect what they learned in the classroom. This experience was to allow students to identify their strengths and inclinations. The Art unit aims to provide learning opportunities beyond the classroom walls.
