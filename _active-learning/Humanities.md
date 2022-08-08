@@ -69,3 +69,41 @@ The Humanities department conducted an overseas learning trip for a group of Sec
 <img src="/images/hu9.png" 
      style="width:60%"> _Students immersing in an experiential learning about Geography of Food_
 		 
+#### Humanities Amazing Race during KSS Humanities Week
+
+The Humanities Amazing Race is a signature programme organised by the Humanities Department to enhance Kranjians’ Humanities learning experiences beyond the classroom. Students participate in interactive games at locations in and outside of school. These games are designed to showcase how humanities subjects are integral in their everyday lives.
+
+<img src="/images/hu10.png" 
+     style="width:60%">
+		 
+#### Humanities-related Conferences and Competitions
+
+##### National Youth Environment Conference 2021
+
+Organised by Nan Hua High School, this Conference aims to bring about greater awareness about the different environmental issues the world faces currently. Student participants work in groups to discuss and solve a variety of issues in topics ranging from sustainable usage and management of natural resources to creating car-lite societies.
+
+_Achievements: Nur Aqilah Umairah Binte Ashnol and Syairrah Binte Mohamad Rozali (4K3) won the most outstanding delegate in their UN-WATER Group 2 committee session. Chai Bo Yuan (3K4) was awarded the best delegate in the UNDESA (UN Department of Economic and Social Affairs) Group 1 committee session_
+
+
+##### The Model United Nations Conferences
+
+The Model United Nations is an academic simulation of the United Nations Conference that aims to educate upper secondary student participants about current and international affairs. Students from different local and international schools will play the roles of delegates representing their assigned countries in councils of their choice, engage in simulated UN debates regarding global issues. They have the opportunity to hone their public speaking, reasoning, research and interpersonal skills, enabling them to come up with plausible and creative solutions to their assigned issue. The Model United Nations is a good platform for Kranjians to deepen their understanding of the complexities of international relations in our highly globalised world.
+
+<img src="/images/hu11.png" 
+     style="width:60%"> _Our school won the “Best Newcomer Delegation” award, and Emylia Audreyna Binte Shaiful Anuar (3K3, 2019) was awarded the “Best Position Paper” award_.
+		 
+#### National University of Singapore Geography Challenge  
+
+The National University of Singapore (NUS) Geography Challenge is a competition that aims to engage, empower and educate Geography students on local and global issues. Through exploring the relevance of Geography in our daily lives, students have the opportunity to deepen their knowledge and hone their skills in geographical fieldwork and techniques.
+
+The NUS Geography Challenge has encouraged Kranjians to embark on independent learning and apply disciplinary knowledge to better understand the intricacies of our globalised world.
+
+#### MOE History Challenge
+
+The MOE History Challenge aims to engage History students in the disciplinary aspects of History where students can demonstrate their knowledge of the subject and apply conceptual understanding across different periods through a quiz.
+  
+
+Students who performed well in the History challenge will be given the opportunity to participate in the History Talent Development Programme (HTDP). The HTDP aims to develop students’ interest in History and deepen their understanding of the discipline. The HTDP will provide platforms for these students to engage with historians and experts in related fields on a range of historical issues and will run over the course of Secondary 3 to JC1-2 if students continue to read History at the Junior Colleges. Jolene Png Yi Hwee (3K3) had performed well in the MOE History Challenge 2020 and has been selected for the HTDP.
+
+
+Due to the COVID-19 situation and to safeguard the well-being of our students, the MOE History Challenge is held online on the Singapore Student Learning Space.
