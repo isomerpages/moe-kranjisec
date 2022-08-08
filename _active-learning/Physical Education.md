@@ -50,4 +50,4 @@ The Secondary 3 MOE-OBS Multi-School Cohort Camp seeks to develop ruggedness, re
 The National Physical Fitness Assessment (NAPFA) is conducted annually and is compulsory for all Sec 2, 4 & 5 students. The tests are usually conducted from April onwards. Students will be awarded certificates and medals appropriate to their attainment.
 
 <img src="/images/pe.gif" 
-     style="width:80%">
+     style="width:60%">
