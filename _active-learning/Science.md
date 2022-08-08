@@ -104,3 +104,58 @@ In conjunction with Hwa Chong Institution’s (HCI) Annual Project’s Day, stud
 ##### Unity Scientific Innovation Challenge with SP & ERI@N (USPE)
 
 The USPE is a national science competition jointly organized by ERI@N NTU, Singapore Polytechnic and Unity Secondary School. This competition focuses on participants’ intellectual curiosity and creativity in applying scientific principles to develop solutions for various challenges. In 2020, our school achieved the Outstanding Project Gold and Challenge Trophy. The theme for 2022’s challenge is Smart Solutions for a Better Future.
+
+<img src="/images/sci6.gif" 
+     style="width:60%">
+		 
+##### Youth Science Ambassador Programme @ Science Centre
+
+The Think Big, Youth Science Ambassador Programme (YSAP) is a programme organised by Science Centre Singapore. Under the YSAP, students were mentored through a series of programme that includes project research skills, oral presentation and science communication skills, and thereafter they apply their learning to create a product that will benefit members of the society.   Two groups of students from the Science & Technology Club participated in YSAP 2021 and one of our students has been awarded the Amazon Future Engineer Bursary Award for his outstanding performance.
+
+<img src="/images/sci7.gif" 
+     style="width:60%">
+		 
+#### Achievements of Students
+
+| Year 	| Events / Competitions 	| Achievements 	|
+|:---:	|:---:	|:---:	|
+| 2021 	| Research Mentorship by Centre for Research and Applied Learning in Science (CRADLΣ)<br><br>Project Title: Investigation of Sound Absorption Capabilities of Different Types of Food Waste 	| High Distinction Award  	|
+| 2021  	| NJC Enrichment Science Training and Research (ESTaR) Programme<br><br>Project Titles:<br>Investigation of the Removal of Heavy Metal Ions Using Food Waste<br>A Study on the Effects of Hydrogel Extracted from Diapers on Antioxidant Levels in Plants 	| Shortlisted for Final Judging at the Singapore Science and Engineering Fair (SSEF)  	|
+| 2021 	| Youth Science Ambassador Programme @ Science Centre (YSAP) 	| <br>Amazon Future Engineer Bursary Award 	|
+| 2021 	| Singapore Junior Chemistry Olympiad 	| Silver Award (x2)<br>Merit Award (x1)  	|
+| 2021 	| Singapore Junior Biology Olympiad 	| Honourable Mention Award (x1) 	|
+|  2021  	| International C.B Paul Quiz 	| <br><br>Gold Award (x2)<br>Silver Award (x1)<br>Bronze Award (x6)  	|
+| 2020 	| Unity Scientific Innovation Challenge with SP & ERI@N’ (USPE) 2020<br><br>Project Title: Improving Home Cooling Systems using Venturi Effect to Reduce Carbon Footprint 	| USPE Outstanding Project Gold<br>Challenge trophy<br>“Young Engineer Award” by Singapore Polytechnic 	|
+| 2020 	| <br>Research Mentorship by Centre for Research and Applied Learning in Science (CRADLΣ)<br><br>Project Title: Use of Vermicomposting to ENHANCE the Performance of Soil-based Microbial Fuel Cell 	| High Distinction Award 	|
+| 2020 	| 21st International Elementz Fair @ ASRJC 	| Silver Awards<br><br> 	|
+| 2020 	| 13th Singapore Junior Physics Olympiad 	| Honourable Mention Awards 	|
+| 2019 	| 15th Singapore International Science Challenge -<br>7th International Student Science Fair 2019 (SISC-ISSF 2019 @NJC) 	| The Ideator Award<br>Most Creative Design Award<br>Best Ergonomic Design Award 	|
+| 2019 	| <br>Research Mentorship by Centre for Research and Applied Learning in Science (CRADLΣ)<br><br>Project title: Optimizing Piezoelectricity as a Source of Energy 	| High Distinction Award 	|
+| 2019 	| 20th International Elementz Science Research Conference & Exhibition @ ASRJC 	| Bronze Award 	|
+| 2019 	| Science and Technology Challenge @ NYP 	| Overall Champion<br>Best Team Award for Design & Build-a-Bridge<br>Walk Your Pet – 1st<br>Amazon Treasure Hunt – 2nd 	|
+| 2019 	| W6 Cluster Science Enrichment Workshop for Sec 1NT students 	| Volcanic Eruptions - 1st <br>PET Bottle Water Rocket - 2nd<br>Air Cannon Shoot-out - 2nd<br>Let's Build a Marble Machine - 2nd and 3rd 	|
+| 2019 	| International C. B. Paul Quiz 	| Category 1 (lower sec):<br>Honorary Mention Award<br>Silver Award<br>Category 2 (upper sec):<br>Gold Award 	|
+| 2019 	| Singapore Junior Chemistry Olympiad 	| Bronze Award<br>Merit Award 	|
+| 2019 	| Singapore Junior Physics Olympiad 	| Honourable Mention Awards 	|
+| 2019 	| JPJC Math and Science Challenge- Great Escape 	| Richard Feynman Award 	|
+
+#### Presentation / Sharing by Science Teachers
+
+In Kranji Secondary School, our teachers are passionate and dedicated in nurturing our students holistically. Our Science teachers have been invited to speak at local conferences and international conferences.  
+
+Here are some of the accomplishments of our teachers:
+
+| Year 	| Presentation / Sharing Platforms 	|
+|:---:	|---	|
+| 2021 	| W6 Open Classroom and Sharing on Stations 	|
+|  2021  	| W6 Cluster Sharing (Poster Presentations)<br><br>“CLAPS” for Perfect Cell Drawings<br>Alternative Assessments in the Biology Classroom<br>Nearpod in the Science Classroom<br>Differentiated Instructions in Physics Stations<br>Microscale Experiments used in Teaching in the Chemistry Classroom 	|
+| 2021 	| West Zone Sharing (West Zone Centre of Excellence for Secondary School Sciences Workshop)<br><br>Encouraging the Ways of Thinking and Doing through mini project and design challenges 	|
+| 2021 	| Scientific Argumentation Through Critical Debate Using a Blended Learning Approach 	|
+| 2021 	| Teacher Led Network (TLW)<br><br>Use of Scientific Explanation Model to Support Science Enquiry for Knowledge Construction 	|
+| 2021 	| AST Assessment Literacy Workshop<br><br>Incorporating AFL with elements of e-Pedagogy and Blended Learning  	|
+| 2021 	| 8th Redesigning Pedagogy International Conference (RPIC)<br><br>Developing 21CC & Self-Directedness through Authentic Learning Experience  	|
+| 2020 	| Redesign Pedagogy International Conference 2020<br>Both Biology and Physics teams were selected for Presentation. Event was postponed to Year 2021 due to COVID-19 situation.<br>Driving Self-Directed Learning through a Flipped Classroom Approach with Students’ Learning Space (Biology Team)<br>Enhancing Learning Experience Through Video-infused Materials (Physics Team) 	|
+| 2019 	| Biology Learning Day<br>Use of a scientific explanation model to support scientific inquiry for knowledge construction in Biology 	|
+| 2019 	| Teachers' Conference 2019<br>Evidence-based Scientific Reasoning and Communication in Lower Secondary Science 	|
+| 2017 	| Redesign Pedagogy International Conference 2017<br>Development of a Self-Directed Learning Package for the Teaching of Electromagnetism (Physics) 	|
+| 2017 	| MOE Excel Fest 2017<br>Use of Game-based Learning in the Learning of the Digestive System in Biology 	|
