@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Arts.md
-      - Character Education.md
       - Computing.md
       - Design and Technology.md
       - English Language and Literature.md
