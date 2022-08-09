@@ -74,7 +74,7 @@ The Humanities department conducted an overseas learning trip for a group of Sec
 The Humanities Amazing Race is a signature programme organised by the Humanities Department to enhance Kranjians’ Humanities learning experiences beyond the classroom. Students participate in interactive games at locations in and outside of school. These games are designed to showcase how humanities subjects are integral in their everyday lives.
 
 <img src="/images/hu10.png" 
-     style="width:60%">
+     style="width:80%">
 		 
 #### Humanities-related Conferences and Competitions
 
