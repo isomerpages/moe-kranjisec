@@ -13,4 +13,4 @@ Formed in 2020, the **Kranji Chinese Dance Society (KCDS)** aims to cultivate 
 
   
 
-#### Read the special interview we did with Tiara, the Vice-President of Chinese Dance Society [here](https://kranjisec.moe.edu.sg/kss/highlights/our-stories/5-questions-for-nur-tiara-from-chinese-dance-club)
+#### Read the special interview we did with Tiara, the Vice-President of Chinese Dance Society [here](https://staging.d28t49xsr05e29.amplifyapp.com/highlights/our-stories/)
