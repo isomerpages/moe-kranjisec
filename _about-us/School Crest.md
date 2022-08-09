@@ -6,7 +6,7 @@ description: ""
 ### School Crest
 
 <img src="/images/crest1.png" 
-     style="width:60%">
+     style="width:40%">
 
 The school logo portrays a complete circle with pillars within it. Two of the pillars break through at the top right edge of the circumference.
 
