@@ -13,7 +13,7 @@ The Sec 1 students will go through instrumental modules where they will attain b
 
 For the Sec 2 students, besides advanced instrumental modules, they will also deepen the musical concepts learnt thus far, by going through the Song Arrangement module where they experience and gain knowledge on the basics of song arrangement such as music genres, instrumentation and music technology.
 
-<img src="/images/music1.png" style="width:200px;height:150px;margin-right:15px;" align = "left">  Students are also encouraged and mentored to participate in various platforms (such as the annual SYF Song Writing – Youth Station Project on Original Songs organised by MOE) where they are given opportunities to showcase their original works to a wider audience.
+<img src="/images/music1.png" style="width:300px;height:250px;margin-right:15px;" align = "left">  Students are also encouraged and mentored to participate in various platforms (such as the annual SYF Song Writing – Youth Station Project on Original Songs organised by MOE) where they are given opportunities to showcase their original works to a wider audience.
 
 Additionally, they also go through a module of Jam Band where they will work closely in small groups to perform their chosen song to a live audience.
 
