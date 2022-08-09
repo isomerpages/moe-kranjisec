@@ -22,6 +22,8 @@ links:
   - title: Active Learning
     url: /active-learning/arts/
     sublinks:
+      - title: Arts
+        url: /active-learning/arts/
       - title: Character Education
         url: /active-learning/character-education
       - title: Computing (New!)
