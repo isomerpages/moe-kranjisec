@@ -16,8 +16,33 @@ Ms Mah Rui Jing Felicia (Overall)
 
 ##### Club Schedule
 
-|  	| Face-to Face 	| e-CCA 	|
+|  	| Face-to Face** 	| e-CCA** 	|
 |---	|---	|---	|
 | **Every Wednesdays** 	| 3.45 – 6.00 pm 	| 4.30 – 6.00 pm 	|
 | **Every Friday** 	| 2.30 – 5.00 pm 	| 3.30 – 5.00 pm 	|
 | **Venue** 	| Computer Lab 2 	| Zoom 	|
+
+_\*May vary when there are external competitions and workshops that fall on non-CCA days._
+
+_\*\*Mode of CCA will depend on MOE guidelines._
+
+  
+
+##### Past Programmes:
+
+*   Singapore Science Engineering Festival (SSEF)
+*   Youth Science Ambassador Programme (YSAP)
+*   Unity Scientific Innovation Challenge with SP & ERI@N (USPE)
+*   Tech 4 Good (T4G)
+*   Singapore Science Buskers Competition
+*   Nanyang Polytechnic e-Science & Technology Competition
+*   Young Sustainability Champion
+
+  
+
+##### Achievements:
+
+| Programme 	| Position 	| Members 	|
+|---	|---	|---	|
+| F1@HCI 3D Car Design Challenge 	| 3rd Overall 	| Lee Huan Yu<br>Jarel Chng Zhi Rong<br>Lai Yan Yee, Isabelle 	|
+| Youth Science Ambassador Programme 	| Amazon Future Engineer Bursary Award 	| Loh Shao Qi 	|
