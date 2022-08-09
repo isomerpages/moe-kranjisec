@@ -17,7 +17,7 @@ sections:
           url: /admissions/direct-school-admissions/
         - title: Highlights
           description: Events . Community . Stories
-          url: /privacy/
+          url: /highlights/key-events/
   - infobar:
       title: The Kranji Experience
       description: Thinker . Leader . Champion
