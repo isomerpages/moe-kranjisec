@@ -23,6 +23,6 @@ Full SBB is part of MOE's ongoing efforts to nurture the joy of learning and dev
 <img src="/images/fsbb2.png" 
      style="width:60%">
 		 
-**What will your child’s secondary school experience look like?**](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html)    
+[**What will your child’s secondary school experience look like?**](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html)    
 
 You may refer to MOE website for more details.
