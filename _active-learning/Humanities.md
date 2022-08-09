@@ -24,7 +24,7 @@ The Humanities Department believes in the transformative power of a humanities e
 		 
 **Notable Mention**
 
-<img src="/images/hu4.png" style="width:120px;height:140px;margin-right:15px;" align = "left"> Tricia Loh Qiuxuan (Class of 2020, 4K4) is awarded the MOE Humanities Scholarship to pursue the Humanities Programme at Eunioa Junior College. The Humanities Programme is an interdisciplinary programme that aims to develop the humanities scholars into values-driven and thought leaders at the local, regional and global levels. Recipients of this scholarship will be exposed to exciting opportunities such as overseas enrichment programme and attending local and overseas conferences.
+<img src="/images/hu4.png" style="width:170px;height:190px;margin-right:15px;" align = "left"> Tricia Loh Qiuxuan (Class of 2020, 4K4) is awarded the MOE Humanities Scholarship to pursue the Humanities Programme at Eunioa Junior College. The Humanities Programme is an interdisciplinary programme that aims to develop the humanities scholars into values-driven and thought leaders at the local, regional and global levels. Recipients of this scholarship will be exposed to exciting opportunities such as overseas enrichment programme and attending local and overseas conferences.
 
 #### Key Humanities Programmes
 
