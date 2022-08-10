@@ -36,3 +36,12 @@ Qualifications: BSc Life Sciences with Honours (NUS), PGDE Secondary (NIE/NTU), 
 		 
 **CEO and Chief Instructor of Kapap Academy** <br> 2020 Recipient of the Kindness Leadership Award (Southeast Asia)<br> 2019 Brand Ambassador of Converse in their campaign 'All Her Stories are True'<br>2018 Honorary member of the Forbes 30 under 30 Asia<br>2018 Finalist of the Singaporean of the Year Award<br>2018 Gen.T List (recognition for leaders who are shaping Asia’s future)<br>First and only self-defence professional in the world to be awarded a medal by the Queen of England as the Queen’s Young Leader in 2017
 
+##### Edmund Wong Jing Yi (Class of 2011)
+
+<img src="/images/alum16.png" 
+     style="width:80%">
+		 
+**Pilot trainee, Republic of Singapore Air Force**<br>Graduated from the US Airforce Academy 2019
+
+Derrick Lim Jun Hao (Class of 2011)
+-----------------------------------
