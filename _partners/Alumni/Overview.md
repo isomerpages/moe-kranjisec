@@ -55,3 +55,20 @@ Teachers plant the seeds of knowledge and dedicate their time and energy to nurt
  *   Sponsorship for Kranji’s Graduation Dinner
  *   Engagement and sharings for students (e.g. Sports events, career talks) 
  *   Consolidation of the Kranji Alumni database for connect purpose
+
+#### Contact Kranji Alumni:
+
+<p><a href="[kranji.alumni@gmail.com](kranji.alumni@gmail.com)">  
+<img style="width:10%" src="/images/alum5.png">  
+</a></p> 
+<p><a href="[https://www.facebook.com/groups/kranjialumni/](https://www.facebook.com/groups/kranjialumni/)">  
+<img style="width:10%" src="/images/alum6.png">  
+</a></p>
+
+<p><a href="[https://twitter.com/Kranjialumni](https://twitter.com/Kranjialumni)">  
+<img style="width:10%" src="/images/alum7.png">  
+</a></p>
+
+<p><a href="[https://www.instagram.com/kranjialumni/](https://www.instagram.com/kranjialumni/)">  
+<img style="width:10%" src="/images/alum8.png">  
+</a></p>
