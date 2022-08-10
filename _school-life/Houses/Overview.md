@@ -40,3 +40,23 @@ To find out more about each individual House, click the House logo below!
 <p><a href="[https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/ibex](https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/ibex)">  
 <img style="width:45%" src="/images/ibex.png">  
 </a></p>
+
+#### House Events
+
+There are various events that allow Houses to accumulate points so as to clinch the Overall Champion House of the year.
+
+<img src="/images/houses12.png" 
+     style="width:80%">
+		 
+One of the most keenly anticipated event is the Cheering Competition, held at the end of the School Annual Sports Day. Check out the video of the Cheering Competition in 2019!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K9VkYckJwpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Join Kranji, and be part of our unique Kranji Experience!
+
+#### Try this!
+
+Find out what House you should belong to, by taking this fun quiz!
+
+<img src="/images/houses13.png" 
+     style="width:50%">
