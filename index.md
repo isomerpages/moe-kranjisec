@@ -22,5 +22,5 @@ sections:
       title: The Kranji Experience
       description: Thinker . Leader . Champion
       button: Learn more here
-      url: /secondary-1/drama-in-literature-curriculum/
+      url: /the-kranji-experience/Secondary-1/drama-in-literature-programme/
 ---
