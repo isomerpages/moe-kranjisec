@@ -10,7 +10,7 @@ description: ""
 ##### 5 Questions for Nur Tiara from Chinese Dance Club
 
 <img src="/images/stories1.png" 
-     style="width:60%">
+     style="width:30%">
 		 
 The Chinese Dance Club clinched the Certificate of Distinction at Singapore Youth Festival this year despite the challenges that the COVID-19 pandemic posed. We spoke to Nur Tiara from the club and asked about her experience.  
   
