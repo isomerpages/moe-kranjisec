@@ -4,3 +4,27 @@ permalink: /partners/Alumni/notable-alumni/
 description: ""
 third_nav_title: Alumni
 ---
+### Notable Alumni
+
+##### Mark Wong Wei Qiang (Class of 1999)
+
+<img src="/images/alum12.png" 
+     style="width:80%">
+**Chief Engineer (Tuas Water Reclamation Plant), PUB Singapore’s National Water Agency**  
+Recipient of PUB Overseas Undergraduate Scholarship
+
+##### Dr. Vincent Lim (Class of 2002)
+
+<img src="/images/alum13.png" 
+     style="width:80%">
+
+**Research fellow at A*STAR's Skin Research Institute of Singapore (SRIS)** Graduated with first class honours in Nanyang Technological University. Featured in many news collaterals on his story ‘From EM3 to PhD, scoring 124 for his PSLE’
+
+##### Dr Yow Ying Ming Ivan (Class of 2001)
+
+<img src="/images/alum14.png" 
+     style="width:80%">
+
+**Postdoctoral Research Fellow at Mechanobiology Institute, National University of Singapore, Technopreneur-in-Residence for NUS Graduate Research Innovation Programme (GRIP)**
+
+Qualifications: BSc Life Sciences with Honours (NUS), PGDE Secondary (NIE/NTU), MSc in Applied Physics (NIE/NTU), MA in Education Leadership and Management (Open, UK), PhD in Mechanobiology (NUS), EMBA (Quantic)<br><br> Awards: Quantic School of Business and Technology Zenith Scholarship Award (2022), MBI-NGS PhD Fellowship (2015-2020), MOE Undergraduate Scholarship (2007-2011)<br><br>Professional affiliations: Member of Royal Society of Biology (UK), Member of Institute of Physics Singapore,Member of Singapore Institute of Biology, Member of Biophysical Society (US)
