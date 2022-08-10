@@ -12,3 +12,9 @@ Since the start of the school in 1995, the Kranji House system was created to fo
      style="width:60%">
 		 
 The 6 Houses are based on the letters of the school name: K R A N J I. Each House is represented by an animal mascot and its House colour.
+
+<img src="/images/house1.png" 
+     style="width:60%">
+		 
+To find out more about each individual House, click the House logo below!
+
