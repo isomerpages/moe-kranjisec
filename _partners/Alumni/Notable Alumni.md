@@ -43,5 +43,9 @@ Qualifications: BSc Life Sciences with Honours (NUS), PGDE Secondary (NIE/NTU), 
 		 
 **Pilot trainee, Republic of Singapore Air Force**<br>Graduated from the US Airforce Academy 2019
 
-Derrick Lim Jun Hao (Class of 2011)
------------------------------------
+##### Derrick Lim Jun Hao (Class of 2011)
+
+<img src="/images/alum17.png" 
+     style="width:80%">
+
+**Diploma in Supply Chain Management with Merit in Republic Polytechnic**<br>Awarded Tay Eng Soon Gold Medal<br>Recipient of ST Logistics Gold Medal<br>Recipient of Lee Foundation Scholarship 2018<br>Recipient of Yang Kee Logistics Scholarship 2017
