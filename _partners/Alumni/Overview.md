@@ -4,7 +4,6 @@ permalink: /partners/alumni/overview/
 description: ""
 third_nav_title: Alumni
 ---
-
 ### Alumni
 
 <img src="/images/alum1.png" 
@@ -51,7 +50,7 @@ Teachers plant the seeds of knowledge and dedicate their time and energy to nurt
 <img src="/images/alum3.png" 
      style="width:80%">
 		 
-<img src="/images/alum4.png" style="width:260px;height:200px;margin-right:15px;" align = "left"> Rendering support through various areas:  
+<img src="/images/alum4.png" style="width:240px;height:180px;margin-right:30px;" align = "left"> Rendering support through various areas:  
 
  *   Sponsorship for Kranji’s Graduation Dinner
  *   Engagement and sharings for students (e.g. Sports events, career talks) 
