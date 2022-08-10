@@ -18,25 +18,25 @@ The 6 Houses are based on the letters of the school name: K R A N J I. Each Hous
 		 
 To find out more about each individual House, click the House logo below!
 
-<p><a href="[https://scmobile.moe.edu.sg/login](https://scmobile.moe.edu.sg/login)">  
+<p><a href="[https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/kestrel/](https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/kestrel/)">  
 <img style="width:45%" src="/images/kestrel.png">  
 </a></p>
 
-<p><a href="[https://scmobile.moe.edu.sg/login](https://scmobile.moe.edu.sg/login)">  
+<p><a href="[https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/rhino/](https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/rhino/)">  
 <img style="width:45%" src="/images/rhino.png">  
 </a></p>
 		 
-<p><a href="[https://scmobile.moe.edu.sg/login](https://scmobile.moe.edu.sg/login)">  
+<p><a href="[https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/albatross/](https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/albatross/)">  
 <img style="width:45%" src="/images/albatross.png">  
 </a></p>
 
-<p><a href="[https://scmobile.moe.edu.sg/login](https://scmobile.moe.edu.sg/login)">  
+<p><a href="[https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/nighthawk/](https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/nighthawk/)">  
 <img style="width:45%" src="/images/nighthawk.png">  
 </a></p>
 
-<p><a href="[https://scmobile.moe.edu.sg/login](https://scmobile.moe.edu.sg/login)">  
+<p><a href="[https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/jaguar/](https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/jaguar/)">  
 <img style="width:45%" src="/images/jaguar.png">  
 </a></p>
-<p><a href="[https://scmobile.moe.edu.sg/login](https://scmobile.moe.edu.sg/login)">  
+<p><a href="[https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/ibex](https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/ibex)">  
 <img style="width:45%" src="/images/ibex.png">  
 </a></p>
