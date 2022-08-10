@@ -60,3 +60,7 @@ Find out what House you should belong to, by taking this fun quiz!
 
 <img src="/images/houses13.png" 
      style="width:50%">
+		 
+#### Quiz
+
+Insert quiz here.
