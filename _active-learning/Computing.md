@@ -3,7 +3,7 @@ title: Computing
 permalink: /active-learning/computing/
 description: ""
 ---
-### Computing (New!) LINK SCIENCE AND TECH CCA here!
+### Computing (New!) 
 
 #### O-Level Computing (2023 Secondary 3)
 
@@ -43,7 +43,7 @@ For more information on the subject, please refer to the syllabus available at 
 #### Eco-system to cultivate students' interest in computing
 
 
-<img src="/images/comp4.png" style="width:300px;height:240px;margin-left:15px;" align = "right"> Currently, the school has an eco-system to build and cultivate students’ interest in computing. The school has a CCA in [Science & Technology Club](https://kranjisec.moe.edu.sg/school-life/co-curricular-activities-cca/clubs-and-societies/science-and-technology-club) with diverse selection of STEM workshops and challenges are provided for students to extend their scientific capabilities and interest and to develop coding and programming skills.
+<img src="/images/comp4.png" style="width:300px;height:240px;margin-left:15px;" align = "right"> Currently, the school has an eco-system to build and cultivate students’ interest in computing. The school has a CCA in [Science & Technology Club](https://staging.d28t49xsr05e29.amplifyapp.com/co-curricular-activities/Clubs-and-Societies/permalink) with diverse selection of STEM workshops and challenges are provided for students to extend their scientific capabilities and interest and to develop coding and programming skills.
 
 In addition, the Code for Fun Programme is offered as a post examination enrichment to **all Sec 1** students to increase their **exposure to coding and computational thinking**. This is part of a set of mathematical enrichment activities designed to nurture students’ interest in STEM and to develop their disposition in STEM. Students will use microcontrollers, basic drag and drop coding and cardboard Lego Blocks known as Blokies to build different physical structures based on their understanding of mathematical/STEM skills such as spatial visualisation, geometry and measurement. For example, they will write a program to create a house intruder system for their ‘house’ made from Blokies.
 
