@@ -68,3 +68,32 @@ In conjunction with NParks Biodiversity Week for Schools 2021, the Green Ambassa
      style="width:60%">
 		 
 The Green Ambassadors had also developed biodiversity trail packages in three different parks (Bukit Timah Nature Reserve, Labrador Nature Reserve and Coney Island Park) for the Secondary 1 Express and NA students as part of an informal learning experience.
+
+<img src="/images/alp3.gif" 
+     style="width:60%">
+
+#### Greening School for Biodiversity Programme
+
+Kranjians’ efforts to raise awareness about the richness of Singapore’s biodiversity is brought close to home through the creation of the Biodiversity Learning Hub in Kranji. The Biodiversity Learning Hub provides tactile, hands-on learning experiences for Kranjians. First, the Biodiversity Learning Wall serves as an educational corner providing a detailed overview of Kranji’s ALP outcomes, highlighting and explaining the core Thinking Routines, as well as our biodiversity conservation and awareness efforts.
+
+<img src="/images/alp4.gif" 
+     style="width:60%">
+		 
+Secondly, a bee-friendly habitat has been established in the Garden by our teachers and students, in partnership with National Parks Board (under the Greening School for Biodiversity Programme). Pollinator-attracting plants and bee hotels are introduced into the garden. The bee hotels, designed for solitary bee to make their nests, are constructed by our students and they help in attracting more bee pollinators into our garden to ensure the flourishing our plants in the garden. This garden will be used as an outdoor classroom to raise awareness of the importance of sustainability and as a ground for ecological studies to deepen students’ understanding of the complex interactions in nature.
+
+<img src="/images/alp5.gif" 
+     style="width:60%">
+		 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8sFSSOA8KfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Sustainability-related Research Programme
+
+In 2021, under the guidance of a research mentor from Science Centre Singapore and teacher mentors from our school, a group of secondary 2 students embarked on a research project to investigate the sound absorption capabilities of different types of food waste. Students carried out the experiment and applied their critical thinking skills and scientific knowledge to analyse the results that they obtained. The students present their findings to a panel of judges at the Hwa Chong Institution’s (HCI) annual Project’s Day and was awarded “High Distinction in Project Work” for their immense effort.
+
+<img src="/images/alp24.png" 
+     style="width:60%">
+		 
+Another group of secondary 3 students worked under the guidance of a scientist from the Institute of Chemical Engineering & Sciences, A\*STAR, to explore the harvesting of hydrogen fuel from food waste.
+
+<img src="/images/alp25.png" 
+     style="width:60%">
