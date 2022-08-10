@@ -49,3 +49,10 @@ Qualifications: BSc Life Sciences with Honours (NUS), PGDE Secondary (NIE/NTU), 
      style="width:80%">
 
 **Diploma in Supply Chain Management with Merit in Republic Polytechnic**<br>Awarded Tay Eng Soon Gold Medal<br>Recipient of ST Logistics Gold Medal<br>Recipient of Lee Foundation Scholarship 2018<br>Recipient of Yang Kee Logistics Scholarship 2017
+
+##### Xu Jing Feng (Class of 2019)
+
+<img src="/images/alum18.png" 
+     style="width:80%">
+		 
+**Currently pursuing Diploma in Business at Republic Polytechnic (Sport Management Specialisation)**<br><br>**Achievement:**<br>Gold Medal - 2019 SEA Games, Philippines, Manila<br><br>**Scholarship:**<br>2020 Singapore Olympic Foundation - Peter Lim Scholarship<br>(High Performance Under-18 Category)<br>2020 ISU Junior Scholarship<br>2020 Singapore Sports School Post Secondary (Polytechnic) Scholarship<br>2019 Capital Group Talent Award<br>2017/2018/2019 Singapore Olympic Foundation - Peter Lim Scholarship<br>(Secondary Category)
