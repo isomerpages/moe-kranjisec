@@ -68,4 +68,29 @@ As part of our Student Leadership and National Education programme, our students
 
 <img src="/images/llp7.png" 
      style="width:60%"> Kranjian Facilitators together with Special Guests, Mr Lawrence Wong (Former Minister for National Development and Second Minister for Finance), Mr Ong Teng Koon and Mr Alex Yam (MPs for Marsiling-Yew Tee GRC).
+		 
+#### Mid-Autumn Festival @ Limbang
 
+The Mid-Autumn Festival @ Limbang is an annual community event jointly organised by the Limbang Grassroots Organisations and Kranji Secondary School. Students from the Student Council and various CCAs come together with the Limbang residents and Mr Lawrence Wong (Minister for Finance) to celebrate Mid-Autumn Festival through fun games and cultural performances.
+
+Our student leaders from the Student Council formed part of the Organising Team, planning and implementing game booths to promote community bonding and engagement. They brainstormed for game ideas based on Mid-Autumn traditions and presented them to representatives from the Limbang Grassroots Organisations. Students from NPCC set up a scam prevention game booth which was extremely popular with residents.
+
+<img src="/images/llp8.png" 
+     style="width:60%"> Student Councillors attending meetings with representatives from Limbang Grassroots Organisations and presenting their booth ideas to them.
+		 
+<img src="/images/llp2.gif" 
+     style="width:60%">  Our students manning the Mother Tongue Cultural booths and the NPCC Scam Prevention booth.
+		 
+In 2021, Mid-Autumn Festival was held virtually as a Facebook live session. Our Student Council prepared a video to provide fun facts and information regarding the festival. Our Kranji Choir and Kranji Chinese Dance Society pre-recorded performances to engage the audience, in adherence to SMM, and students from NPCC prepared a short skit to educate residents on keeping a lookout for suspicious bags and articles in public places.
+
+ 
+#### Cluster Primary School Leadership Workshop
+
+This is an annual leadership training programme by Kranji Secondary for our Cluster Primary School student leaders which first started in 2015. Our student leaders take on the roles of mentors to nurture the potential of our young student leaders, empowering them to lead as leaders, equipping them with the Five Exemplary Leadership Practices of the Leadership Challenge Model® by Kouzes and Posner.
+
+<img src="/images/llp3.gif" 
+     style="width:60%"> Student Councillors plan and execute a 2 day Leadership Challenge Camp for our W6 Cluster Primary Schools / student leaders.
+		 
+<img src="/images/llp14.png" 
+     style="width:60%">
+		 
