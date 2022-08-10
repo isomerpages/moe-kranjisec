@@ -16,14 +16,14 @@ Recipient of PUB Overseas Undergraduate Scholarship
 ##### Dr. Vincent Lim (Class of 2002)
 
 <img src="/images/alum13.png" 
-     style="width:80%">
+     style="width:70%">
 
 **Research fellow at A*STAR's Skin Research Institute of Singapore (SRIS)** Graduated with first class honours in Nanyang Technological University. Featured in many news collaterals on his story ‘From EM3 to PhD, scoring 124 for his PSLE’
 
 ##### Dr Yow Ying Ming Ivan (Class of 2001)
 
 <img src="/images/alum14.png" 
-     style="width:80%">
+     style="width:50%">
 
 **Postdoctoral Research Fellow at Mechanobiology Institute, National University of Singapore, Technopreneur-in-Residence for NUS Graduate Research Innovation Programme (GRIP)**
 
