@@ -94,3 +94,12 @@ This is an annual leadership training programme by Kranji Secondary for our Clus
 <img src="/images/llp14.png" 
      style="width:60%">
 		 
+#### Secondary One Orientation Programme  
+
+Student Councillors plan and implement the Orientation Programme for all Seocondary One students. Through this programme, Secondary One students are welcomed into our big Kranji Family and are introduced to school practices and traditions. Group facilitators who are also Student Councillors and Peer Support Leaders guide and mentor the Secondary One students throughout this Programme which culminates in the Secondary One Inauguration Ceremony.
+
+<img src="/images/llp15.png" 
+     style="width:60%"> Secondary One students participate in an exciting lineup of programmes planned by the Student Councillors.
+
+<img src="/images/llp16.png" 
+     style="width:60%"> Secondary One Inauguration Ceremony where the Secondary One students are formally welcomed into the school.
