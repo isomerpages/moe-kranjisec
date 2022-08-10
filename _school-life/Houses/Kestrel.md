@@ -15,7 +15,7 @@ As we rise above the rest, we leave a trail. A trail that you tail. Follow our t
 Motto: **RISE ABOVE THE REST**
 
 <img src="/images/kestrel.gif" 
-     style="width:80%">
+     style="width:60%">
 
 
 Our rings, you will hear.  
