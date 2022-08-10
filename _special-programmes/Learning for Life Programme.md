@@ -52,3 +52,20 @@ Students are given opportunities to serve their community by planning and facili
 <img src="/images/llp4.png" 
      style="width:60%">
 		 
+#### Student Leadership Distinctive Programmes
+
+###### Voices for Youth: National Day Rally Youth Dialogue  
+
+Voices of Youth 2019 is an annual post-National Day Rally Dialogue organised by the Marsiling-Yew Tee GRC. This dialogue aims to provide a platform for youths from the community to offer their views and opinions on initiatives shared by the Prime Minister during the National Day Rally. It also hopes to deepen youths’ interest, knowledge and insight on current affairs, as well as understand the trade-off in policy-making. 
+
+As part of our Student Leadership and National Education programme, our students serve as Facilitators to engage the participating youths, guiding them in sharing and consolidating their views and opinions on the various National Day Rally topics. Our students interacted with participants from other schools, drawing out multiple perspectives and viewpoints, raising awareness and helping them to gain a deeper understanding of the issues raised.
+
+<img src="/images/llp5.png" 
+     style="width:60%"> Kranjian Facilitators leading in youths from other secondary schools, Centralised Institute, ITEs and Polytechnics in a discussion of issues and perspectices surrounding the National Day Rally.
+
+<img src="/images/llp6.png" 
+     style="width:60%"> Kranjian Facilitators presenting a consolidation of ideas, views and perspectives to the audience after the facilitation of small group discussions.
+
+<img src="/images/llp7.png" 
+     style="width:60%"> Kranjian Facilitators together with Special Guests, Mr Lawrence Wong (Former Minister for National Development and Second Minister for Finance), Mr Ong Teng Koon and Mr Alex Yam (MPs for Marsiling-Yew Tee GRC).
+
