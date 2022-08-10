@@ -2,10 +2,10 @@ collections:
   active-learning:
     output: true
     order:
+      - Arts.md
+      - Character Education/.keep
       - Character Education/Overview.md
       - Character Education/Sexuality Education.md
-      - Character Education/.keep
-      - Arts.md
       - Computing.md
       - Design and Technology.md
       - English Language and Literature.md
