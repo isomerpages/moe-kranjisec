@@ -18,7 +18,7 @@ The 6 Houses are based on the letters of the school name: K R A N J I. Each Hous
 		 
 To find out more about each individual House, click the House logo below!
 
-<p><a href="[https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/kestrel/](https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/kestrel/)">  
+<p><a href="[https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/kestrel/]">  
 <img style="width:45%" src="/images/kestrel.png">  
 </a></p>
 
