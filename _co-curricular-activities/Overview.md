@@ -30,4 +30,4 @@ description: ""
 |  	|  	|  	|
 |---	|---	|---	|
 | <img src="/images/cca14.png" style="width:50%"> [Badminton](web)	| <img src="/images/cca15.png" style="width:70%"> [Basketball](web) 	| <img src="/images/cca16.png" style="width:70%"> [Floorball](web) 	|
-| <img src="/images/cca17.png" style="width:70%">  [Football](web) 	| <img src="/images/cca18.png" style="width:50%"> [Table Tennis](web)	|  	|
+| <img src="/images/cca17.png" style="width:70%">  [Football](web) 	| <img src="/images/cca18.png" style="width:70%"> [Table Tennis](web)	|  	|
