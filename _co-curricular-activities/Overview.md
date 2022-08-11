@@ -22,7 +22,7 @@ description: ""
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <img src="/images/cca9.png" style="width:60%"> [Art and Crafts](https://staging.d28t49xsr05e29.amplifyapp.com/co-curricular-activities/Visual-and-Performing-Arts/art-and-crafts)	| <img src="/images/cca10.png" style="width:60%"> [Kranji Choir](https://staging.d28t49xsr05e29.amplifyapp.com/co-curricular-activities/Visual-and-Performing-Arts/kranji-choir) 	| <img src="/images/cca11.png" style="width:90%"> [Kranji Chinese Dance Society](https://staging.d28t49xsr05e29.amplifyapp.com/co-curricular-activities/Visual-and-Performing-Arts/kranji-chinese-dance-society) 	|
+| <img src="/images/cca9.png" style="width:48%"> [Art and Crafts](https://staging.d28t49xsr05e29.amplifyapp.com/co-curricular-activities/Visual-and-Performing-Arts/art-and-crafts)	| <img src="/images/cca10.png" style="width:50%"> [Kranji Choir](https://staging.d28t49xsr05e29.amplifyapp.com/co-curricular-activities/Visual-and-Performing-Arts/kranji-choir) 	| <img src="/images/cca11.png" style="width:90%"> [Kranji Chinese Dance Society](https://staging.d28t49xsr05e29.amplifyapp.com/co-curricular-activities/Visual-and-Performing-Arts/kranji-chinese-dance-society) 	|
 | <img src="/images/cca12.png" style="width:60%">  [Kranji Modern Dance Club](https://staging.d28t49xsr05e29.amplifyapp.com/co-curricular-activities/Visual-and-Performing-Arts/kranji-modern-dance-club) 	| <img src="/images/cca13.png" style="width:70%"> [Kranji Concert Band](https://staging.d28t49xsr05e29.amplifyapp.com/co-curricular-activities/Visual-and-Performing-Arts/kranji-concert-band)	|  	|
 
 #### Sports and Games
