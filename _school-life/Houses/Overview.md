@@ -56,8 +56,7 @@ Join Kranji, and be part of our unique Kranji Experience!
 
 #### Try this!
 
-Find out what House you should belong to, by taking this fun quiz!
+Find out what House you should belong to, by taking this [fun quiz](https://quiz.tryinteract.com/#/5dbedb3e6ff8b9001444123a)!
 
 <img src="/images/houses13.png" 
      style="width:50%">
-		 
