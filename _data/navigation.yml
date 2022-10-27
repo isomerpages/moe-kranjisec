@@ -1,25 +1,8 @@
 logo: /images/kranjilogo.png
 links:
-  - title: About Us
-    url: /about-us/principals-message/
-    sublinks:
-      - title: Principal's Message
-        url: /about-us/principals-message/
-      - title: School History
-        url: /about-us/school-history/
-      - title: Vision, Mission, Values, Motto
-        url: /about-us/vision-mission-values-motto/
-      - title: School Crest
-        url: /about-us/school-crest/
-      - title: School Rules and Policies
-        url: /about-us/school-rules-and-policies/
-      - title: "School Management Committee "
-        url: /about-us/school-management-committee/
-      - title: Staff Email Address
-        url: /about-us/staff-email-address/
-      - title: Achievements
-        url: /about-us/achievements/
-  - title: Active Learning
+  - title: Our Kranji
+    collection: about-us
+  - title: Future Ready Learning
     url: /active-learning/arts/
     sublinks:
       - title: Arts
@@ -46,7 +29,7 @@ links:
         url: /active-learning/physical-education/
       - title: Science
         url: /active-learning/science/
-  - title: School Life
+  - title: Experience
     url: /school-life/full-subject-based-banding/
     sublinks:
       - title: Full Subject-Based Banding
@@ -57,7 +40,7 @@ links:
         url: /school-life/CCA/overview/
       - title: Houses
         url: /school-life/houses/overview/
-  - title: Special Programmes
+  - title: Join Us!
     url: /special-programmes/applied-learning-programme/
     sublinks:
       - title: Applied Learning Programme
@@ -83,12 +66,14 @@ links:
         url: /partners/alumni/overview/
       - title: Fei Yue Community Services
         url: /partners/fei-yue-community-services/
-  - title: Links
+  - title: Quick Links
     url: /links/for-students/
     sublinks:
-      - title: For Students
-        url: /links/for-students/
-      - title: For Staff
+      - title: Parents
+        url: /permalink
+      - title: Staff
         url: https://sites.google.com/moe.edu.sg/ksslinksforstaff/home?pli=1#h.kjcvndohbm9g
+      - title: Students
+        url: /links/for-students/
   - title: Contact Us
     url: /contact/
