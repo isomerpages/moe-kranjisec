@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Students.md
-      - For Staff.md
+      - Staff.md
