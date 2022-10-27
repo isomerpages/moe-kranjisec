@@ -1,7 +1,7 @@
 logo: /images/kranjilogo.png
 links:
   - title: Our Kranji
-    collection: about-us
+    collection: our-kranji
   - title: Future Ready Learning
     url: /active-learning/arts/
     sublinks:
