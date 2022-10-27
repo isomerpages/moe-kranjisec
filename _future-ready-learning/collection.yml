@@ -1,5 +1,5 @@
 collections:
-  special-programmes:
+  future-ready-learning:
     output: true
     order:
       - Applied Learning Programme.md
