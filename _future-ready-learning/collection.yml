@@ -2,6 +2,15 @@ collections:
   future-ready-learning:
     output: true
     order:
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - Internationalisation Programme/.keep
+      - Internationalisation Programme/Overview.md
+      - Internationalisation Programme/First Prize Winner of the Education for
+        Sustainable Development Award.md
+      - Kepler/.keep
+      - Student Initiated Learning/.keep
+      - Academic Studies/.keep
       - Academic Studies/Music.md
       - Academic Studies/Design and Technology.md
       - Academic Studies/Nutrition and Food Science.md
@@ -12,15 +21,6 @@ collections:
       - Academic Studies/Humanities.md
       - Academic Studies/English Language and Literature.md
       - Academic Studies/Arts.md
-      - Academic Studies/.keep
-      - Student Initiated Learning/.keep
-      - Kepler/.keep
-      - Applied Learning Programme.md
-      - Learning for Life Programme.md
-      - Internationalisation Programme/Overview.md
-      - Internationalisation Programme/First Prize Winner of the Education for
-        Sustainable Development Award.md
-      - Internationalisation Programme/.keep
       - Sports Education Programme.md
       - Aesthetics Department Education.md
       - Talent Development Programme.md
