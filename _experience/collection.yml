@@ -2,6 +2,7 @@ collections:
   experience:
     output: true
     order:
+      - School Rules and Policies.md
       - Full Subject Based Banding.md
       - Student Leadership/Overview.md
       - Student Leadership/Student Councillors.md
