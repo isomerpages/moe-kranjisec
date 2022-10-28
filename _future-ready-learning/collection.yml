@@ -2,6 +2,7 @@ collections:
   future-ready-learning:
     output: true
     order:
+      - Academic Studies/Mother Tongue Languages.md
       - Academic Studies/Mathematics.md
       - Academic Studies/Humanities.md
       - Academic Studies/English Language and Literature.md
