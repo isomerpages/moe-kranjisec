@@ -2,7 +2,7 @@ collections:
   our-kranji:
     output: true
     order:
-      - Our Partners/Overview.md
+      - Our Partners/Alumni.md
       - Our Partners/Parents Support Group.md
       - Our Partners/.keep
       - Our People/Staff Email Address.md
