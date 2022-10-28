@@ -2,6 +2,7 @@ collections:
   future-ready-learning:
     output: true
     order:
+      - Academic Studies/.keep
       - Student Initiated Learning/.keep
       - Kepler/.keep
       - Applied Learning Programme.md
