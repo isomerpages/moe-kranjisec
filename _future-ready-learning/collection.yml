@@ -2,6 +2,7 @@ collections:
   future-ready-learning:
     output: true
     order:
+      - Student Initiated Learning/.keep
       - Kepler/.keep
       - Applied Learning Programme.md
       - Learning for Life Programme.md
