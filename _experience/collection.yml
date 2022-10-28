@@ -1,5 +1,5 @@
 collections:
-  school-life:
+  experience:
     output: true
     order:
       - Full Subject Based Banding.md
