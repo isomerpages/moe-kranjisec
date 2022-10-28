@@ -1,5 +1,5 @@
 collections:
-  admissions:
+  join-us:
     output: true
     order:
       - Direct School Admissions.md
