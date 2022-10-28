@@ -3,32 +3,7 @@ links:
   - title: Our Kranji
     collection: our-kranji
   - title: Future Ready Learning
-    url: /active-learning/arts/
-    sublinks:
-      - title: Arts
-        url: /active-learning/arts/
-      - title: Character Education
-        url: /active-learning/character-education/overview/
-      - title: Computing (New!)
-        url: /active-learning/computing
-      - title: Design and Technology
-        url: /active-learning/design-and-technology/
-      - title: English Language & Literature
-        url: /active-learning/english-language-and-literature/
-      - title: Humanities
-        url: /active-learning/humanities/
-      - title: Mathematics
-        url: /active-learning/mathematics/
-      - title: Mother Tongue Languages
-        url: /active-learning/mother-tongue-languages/
-      - title: Music
-        url: /active-learning/music/
-      - title: Nutrition and Food Science
-        url: /active-learning/nutrition-and-food-science/
-      - title: Physical Education
-        url: /active-learning/physical-education/
-      - title: Science
-        url: /active-learning/science/
+    collection: future-ready-learning
   - title: Experience
     url: /school-life/full-subject-based-banding/
     sublinks:
@@ -41,31 +16,7 @@ links:
       - title: Houses
         url: /school-life/houses/overview/
   - title: Join Us!
-    url: /special-programmes/applied-learning-programme/
-    sublinks:
-      - title: Applied Learning Programme
-        url: /special-programmes/applied-learning-programme/
-      - title: Learning for Life Programme
-        url: /special-programmes/learning-for-life-programme/
-      - title: Internationalisation Programme
-        url: /special-programmes/internationalisation-programme/overview/
-      - title: Sports Education Programme
-        url: /special-programmes/sports-education-programme/
-      - title: Aesthetics Education Programme
-        url: /special-programmes/aesthetics-education-programme/
-      - title: Talent Development Programme
-        url: /special-programmes/talent-development-programme/
-  - title: Partners
-    url: /partners/school-advisory-committee/
-    sublinks:
-      - title: School Advisory Committee
-        url: /partners/school-advisory-committee/
-      - title: Parents Support Group
-        url: /partners/parents-support-group/
-      - title: Alumni
-        url: /partners/alumni/overview/
-      - title: Fei Yue Community Services
-        url: /partners/fei-yue-community-services/
+    collection: join-us
   - title: Quick Links
     url: /links/for-students/
     sublinks:
