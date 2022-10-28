@@ -2,6 +2,7 @@ collections:
   future-ready-learning:
     output: true
     order:
+      - Academic Studies/Music.md
       - Academic Studies/Design and Technology.md
       - Academic Studies/Nutrition and Food Science.md
       - Academic Studies/Science.md
