@@ -30,8 +30,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: Sec 2 Distinctive Experiences
-      subtitle: Infopic Subtitle
-      description: Infopic description
       button: Read more
       url: \secondary 2
       alt: Image alt text
