@@ -9,14 +9,14 @@ sections:
   - hero:
       background: /images/kssbanner.gif
       key_highlights:
-        - title: Announcements
-          description: Newsletters and Updates
+        - title: Parents
+          description: Quick Links
           url: /announcements/overview/
-        - title: Admissions
-          description: For Local and International Students
+        - title: Staff
+          description: Quick Links
           url: /admissions/direct-school-admissions/
-        - title: Highlights
-          description: Events . Community . Stories
+        - title: Student
+          description: Quick Links
           url: /highlights/key-events/
   - infobar:
       title: The Kranji Experience
