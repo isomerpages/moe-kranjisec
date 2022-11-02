@@ -17,7 +17,7 @@ sections:
           url: /admissions/direct-school-admissions/
         - title: Student
           description: Quick Links
-          url: /highlights/key-events/
+          url: /quick-link-students
   - infobar:
       title: The Kranji Experience
       description: Thinker . Leader . Champion
