@@ -4,8 +4,7 @@ permalink: /active-learning/computing/
 description: ""
 third_nav_title: Academic Studies
 ---
-
-### Computing (New!) 
+### ICT and Computing
 
 #### O-Level Computing (2023 Secondary 3)
 
