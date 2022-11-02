@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs and Societies/Science and Technology Club.md
       - Clubs and Societies/.keep
       - Uniformed Groups/National Cadet Corps Land.md
       - Uniformed Groups/National Police Cadet Corps.md
