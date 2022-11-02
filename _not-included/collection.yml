@@ -2,5 +2,6 @@ collections:
   not-included:
     output: true
     order:
+      - Talent Development Programme.md
       - Aesthetics Department Education.md
       - Sports Education Programme.md
