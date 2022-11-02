@@ -3,8 +3,7 @@ title: School Rules and Policies
 permalink: /about-us/school-rules-and-policies/
 description: ""
 ---
-
-### School Rules and Policies
+### School Rules and Regulations
 
 #### Flag Raising Ceremony and Late-Coming
 
