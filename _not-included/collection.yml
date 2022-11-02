@@ -1,4 +1,5 @@
 collections:
   not-included:
     output: true
-    order: []
+    order:
+      - Sports Education Programme.md
