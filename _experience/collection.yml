@@ -2,13 +2,13 @@ collections:
   experience:
     output: true
     order:
-      - CCA/.keep
       - Overview.md
       - CCE/.keep
       - CCE/Educational Career Guidance.md
       - CCE/National Education.md
       - CCE/Sexuality Education.md
       - CCE/Values In Action.md
+      - CCA/.keep
       - Houses/.keep
       - Houses/Overview.md
       - Houses/Kestrel.md
