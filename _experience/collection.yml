@@ -2,11 +2,11 @@ collections:
   experience:
     output: true
     order:
-      - CCE/Values In Action.md
-      - CCE/National Education.md
-      - CCE/Educational Career Guidance.md
-      - CCE/Sexuality Education.md
       - CCE/.keep
+      - CCE/Educational Career Guidance.md
+      - CCE/National Education.md
+      - CCE/Sexuality Education.md
+      - CCE/Values In Action.md
       - Overview.md
       - School Rules and Policies.md
       - Student Leadership/Overview.md
