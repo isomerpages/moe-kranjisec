@@ -8,14 +8,5 @@ links:
     collection: experience
   - title: Join Us!
     collection: join-us
-  - title: Quick Links
-    url: /links/for-students/
-    sublinks:
-      - title: Parents
-        url: /permalink
-      - title: Staff
-        url: https://sites.google.com/moe.edu.sg/ksslinksforstaff/home?pli=1#h.kjcvndohbm9g
-      - title: Students
-        url: /links/for-students/
   - title: Contact Us
     url: /contact/
