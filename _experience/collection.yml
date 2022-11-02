@@ -2,19 +2,13 @@ collections:
   experience:
     output: true
     order:
+      - Overview.md
       - CCE/.keep
       - CCE/Educational Career Guidance.md
       - CCE/National Education.md
       - CCE/Sexuality Education.md
       - CCE/Values In Action.md
-      - Overview.md
-      - School Rules and Policies.md
-      - Student Leadership/Overview.md
-      - Student Leadership/Student Councillors.md
-      - Student Leadership/CCA Leaders.md
-      - Student Leadership/Class Leaders.md
-      - Student Leadership/Peer Support Leaders.md
-      - Student Leadership/.keep
+      - Houses/.keep
       - Houses/Overview.md
       - Houses/Kestrel.md
       - Houses/Rhino.md
@@ -22,4 +16,10 @@ collections:
       - Houses/Nighthawk.md
       - Houses/Jaguar.md
       - Houses/Ibex.md
-      - Houses/.keep
+      - Student Leadership/.keep
+      - Student Leadership/Overview.md
+      - Student Leadership/Student Councillors.md
+      - Student Leadership/CCA Leaders.md
+      - Student Leadership/Class Leaders.md
+      - Student Leadership/Peer Support Leaders.md
+      - School Rules and Policies.md
