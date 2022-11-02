@@ -5,16 +5,7 @@ links:
   - title: Future Ready Learning
     collection: future-ready-learning
   - title: Experience
-    url: /school-life/full-subject-based-banding/
-    sublinks:
-      - title: Full Subject-Based Banding
-        url: /school-life/full-subject-based-banding/
-      - title: Student Leadership
-        url: /school-life/Student-Leadership/overview/
-      - title: Co-Curricular Activities (CCA)
-        url: /school-life/CCA/overview/
-      - title: Houses
-        url: /school-life/houses/overview/
+    collection: experience
   - title: Join Us!
     collection: join-us
   - title: Quick Links
