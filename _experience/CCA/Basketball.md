@@ -25,3 +25,5 @@ Kranji Basketball aims to inculcate integrity, resilience and responsibility in 
 <img src="/images/Badminton%202.jpg" 
      style="width:60%">
 <center>B Division boys at the 2022 NSG competitions</center>
+
+Players encourage one another towards the collective goal of giving their best effort during training and in competition. They train diligently and with passion as they hone their craft, and in the process build camaraderie and team spirit. We also organise friendly matches with other schools to learn from one other and develop skills as one basketball community.
