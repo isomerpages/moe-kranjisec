@@ -17,7 +17,7 @@ Drama members are provided with a well-rounded experience of theatre. Students a
      style="width:70%">
 <center>Drama members performing for Teachers’ Day</center>
 
-<img src="/images/ELDDS%203.jpeg" 
+<img src="/images/ELDDS%203.jpg" 
      style="width:70%">
 <center>Script reading in preparation for the Singapore Youth Festival Arts Presentation</center>
 
