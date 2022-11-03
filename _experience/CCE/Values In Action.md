@@ -17,3 +17,11 @@ Through these VIA initiatives, students learn and exhibit leadership, organisati
 <img src="/images/VIA%202.jpg" 
      style="width:70%">
 <center>Students organising a charity donation drive with Its Raining Raincoats (IRR) to collect CNY goodies for migrant workers.</center>
+
+**CCA VIA**
+
+Co-Curricular Activities (CCAs) are also strongly encouraged to take on VIA experiences as well. They can contribute back to the community and use their specific strengths to impact the beneficiaries. In the process, students will also develop a greater sense of empathy and care as they grow together as a CCA unit.
+
+<img src="/images/VIA%203.jpg" 
+     style="width:70%">
+<center>VIA Roadmap</center>
