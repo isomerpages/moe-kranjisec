@@ -4,24 +4,34 @@ permalink: /co-curricular-activities/Clubs-and-Societies/malay-culture-and-langu
 description: ""
 third_nav_title: CCA
 ---
+### Malay Culture and Language Society (MCLS)
 
-### Malay Culture and Language
+The **Malay Cultural And Language Society (MCLS)** aims to develop students’ potential and abilities through Malay cultural activities as well as to provide a platform for them to cultivate a deep appreciation and strong passion for the Malay culture and to showcase their talents. MCLS also aims to develop students’ talents in various niche areas such as Dikir Barat (sing-a-long and hand-movements’ dance) and Kompang (Malay Drums ensemble) and poetry recitation. 
 
-The **Malay Cultural and Language Society** aims to develop students’ potential and abilities through Malay cultural activities as well as to provide a platform for them to cultivate a deep appreciation and strong passion for the Malay culture and to show case their talents. MCLS also aims to develop students’ talents in various niche areas such as Dikir Barat (sing-a-long and hand-movements’ dance) and Kompang (Malay Drums ensemble) and poetry recitation. Members are provided with opportunities to work with a well-known external instructor to improve their vocal abilities, play Malay percussions well and write song lyrics of high quality.  
-  
-MCLS has added a new dimension to Kranji Secondary School programme. As such, all interested students of any background or skill level are welcome to join MCLS. There are multiple platforms for members to perform on stage, such as the annual Hari Raya Concert, school and community events and the combined public concert for all Performing Arts CCAs. MCLS will create an environment for all members to learn the importance of teamwork by providing platforms for strong rapport to be formed among the members. Throughout the course of their participation, members will explore the various facets of Malay culture through activities involving music, dance, and the visual arts.
+MCLS has added a new dimension to Kranji Secondary School programme. As such, all interested students of any background or skill level are welcome to join MCLS. There are multiple platforms for members to perform on stage, such as the annual Hari Raya Concert, school and community events and the combined public concert for all Performing Arts CCAs. In 2023, MCLS will widen the learning repertoire for all members by focusing the learning of Angklung and Kulintang in their training programme.
 
-<img src="/images/mcls1.png" 
+<iframe width="441" height="784" src="https://www.youtube.com/embed/XBUmxtL_Lxc" title="2022 MCLS Hari Raya Concert Rehearsal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img src="/images/MCLS%20training%20session.jpeg" 
      style="width:60%">
 		 
-<img src="/images/mcls2.png" 
+<img src="/images/MCLS%20training%20session(1).jpeg" 
      style="width:60%">
 		 
-<img src="/images/mcls3.png" 
+<img src="/images/MCLS%20Hari%20Raya%20Concert%20Group%20Photo.jpeg" 
      style="width:60%">
 		 
-*Insert videos here*
+<img src="/images/MCLS%20Hari%20Raya%20Concert.jpeg" 
+     style="width:60%">
+		 
+**
 
-"I joined the Malay Cultural Society (MCS) CCA in 2020. At first, I did not enjoy participating activities as there are many things to remember such as the hand movements, the songs and the various beat of the Kompang. Later, I learned how to overcome those difficulties with the help of the instructor and start to enjoy the activities it even more. I am always excited for our next training session. The CCA also taught us some fun facts about Dikir Barat. I am glad that school decided to make MCS as a CCA in this school."  <br>**Mohamed Indra Wira Bin Mohamed Rashid 2R2 (Vice-president)**
+> "I was the first batch that joined Malay Cultural and Language Society in 2020. I was keen to join MCLS as I enjoyed playing the Dikir Barat instruments and Kompang and the CCA lessons will be conducted in English. I remembered being awkward as it was silent when I first step into the classroom for the first MCLS practice session. At first, I thought that only Malay students can join this CCA, however, I was wrong. Initially, there were some difficulties as I had to learn how to pronounce Malay words for some of the songs, but the instructor was patient. Later, I managed to overcome the difficulties.  Then I discovered there were Dikir Barat songs in English that I learnt too. I am happy to have decided to join this CCA as I have opportunities to learn something new that I would have never had."
 
-"I am honoured to be appointed as the President of the Malay Cultural Society (MCS) CCA this year. During the Dikir Barat training sessions, the instructor taught us how to sing the songs and how to do the hand movements. We also learned to play the Kompang. I am always looking forward to attend the trainings as I am able to interact with my CCA members well. We put up the Hari Raya Celebrations, National Day Celebrations, Teachers’ Day Celebrations and the Limbang Constituency Festival Day performances, this year. We always had a fun time preparing for these performances. This CCA teaches me the importance of being respectful and working together as a group."  <br>**Nur Syaza Natasya Binte Azman 3A1 (President)**
+**Darryl Toh Kin Jie (3R2), Vice President MCLS**
+
+**
+
+> "In 2021 when I joined Malay Cultural and Language CCA, I did not like it. To me, it was a boring and lack lustre CCA. I felt that the other CCAs are more exciting. But after attending a few training sessions and spending time with other members in the CCA, I understand more about the CCA. The Dikir Barat and Kompang training sessions were fun and interesting. The instructor taught us how to sing in Dikir Barat tune and how to play the kompang as a group. I also managed to learn more about the Malay culture and its music during the training sessions. I am thankful that I joined this CCA and this CCA exists in Kranji Secondary School."
+
+**Muhammad Syahrizad Bin Yousaini (2K1)**
