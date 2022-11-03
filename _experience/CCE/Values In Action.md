@@ -34,7 +34,6 @@ On top of the VIA opportunities provided by the school, students are encouraged 
      style="width:70%">
 <center>Student Councilors organised various activities from arts and crafts to performances for elderly from the Orange Valley Senior Activity Center.</center>
 
-
 <img src="/images/VIA%205.jpg" 
      style="width:70%">
 <center>Student Councilors initiated a food donation drive, collecting essential foodstuff for low-income families in collaboration with Food From the Heart.</center>
