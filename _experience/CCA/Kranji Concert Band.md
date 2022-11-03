@@ -33,5 +33,5 @@ With abundant performance and leadership opportunities within Kranji Concert Ban
      style="width:60%">
 <center>Kranji Concert Band very own concert “Wind De Brassion VI”</center>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HRncEM4h5BU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <center>Lunar New Year Band Performance</center>
