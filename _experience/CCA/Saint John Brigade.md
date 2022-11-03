@@ -30,6 +30,6 @@ The NFAC is an annual competition organised by SJB Headquarters, where students 
 
 The ATC is an annual camp conducted at the end of each year where cadets have the opportunity to learn new skills such as marksmanship. They also develop important 21CC and dispositions such as resilience, teamwork and communication skills, through activities such as hiking and team-building activities.
 
-<img src="/images/KSJB%20NFAC.jpg" 
+<img src="/images/KSJB%20Uniform.jpg" 
      style="width:70%">
-<center>Cadets evacuating a “casualty” using a stretcher</center>
+<center>Very bonded KSJB cadets!</center>
