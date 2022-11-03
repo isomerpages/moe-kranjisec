@@ -23,9 +23,9 @@ Drama members are provided with a well-rounded experience of theatre. Students a
 
 Members in debate have the opportunity to receive training, to teach them how to develop persuasive arguments. Members take part in the Singapore Secondary Schools Debating Championships as well as informal sparring sessions with debaters from other schools. Debaters develop their cognitive and persuasive skills through these sessions, which also teach them how to present ideas convincingly.
 
-<img src="/images/ELDDS%205.png" 
+<img src="/images/ELDDS%204.png" 
      style="width:70%">
-<center>Debaters preparing their arguments</center>
+<center>Debaters having an informal spar during CCA</center>
 
 <img src="/images/ELDDS%205.png" 
      style="width:70%">
