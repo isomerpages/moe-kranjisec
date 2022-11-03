@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Academic Studies
 ---
 
-### Mathematics
-
 #### Objective
 
 To develop a dynamic team of teachers and students with a passion for mathematics.
