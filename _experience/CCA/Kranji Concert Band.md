@@ -18,8 +18,20 @@ Since its first public concert on 17th June 2006 at ACS (Barker Road), the Kranj
 
 With abundant performance and leadership opportunities within Kranji Concert Band, students are able to develop themselves holistically apart from music reading and instrumental skills acquisition. There is great emphasis on discipline and character development, as well as an understanding of the role and impact of each player on the whole team in music playing. The alumni players return frequently to help out and show support for the Band, and the dedicated team of teachers continually seeks out platforms for the Band to further improve and excel in their performance quality.
 
-<img src="/images/kcb1.png" 
+<img src="/images/Band%201.jpg" 
      style="width:60%">
 		 
-<img src="/images/kcb2.png" 
+<img src="/images/Band%202.jpg" 
      style="width:60%">
+<center>Singapore Youth Festival Arts Presentation 2021</center>
+
+<img src="/images/Band%203.jpg" 
+     style="width:60%">
+<center>Secondary One members perform their first recital “The Junior Band Recital” for their parents</center>
+
+<img src="/images/Band%204.jpg" 
+     style="width:60%">
+<center>Kranji Concert Band very own concert “Wind De Brassion VI”</center>
+
+
+<center>Lunar New Year Band Performance</center>
