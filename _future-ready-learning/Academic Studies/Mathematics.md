@@ -4,52 +4,70 @@ permalink: /active-learning/mathematics/
 description: ""
 third_nav_title: Academic Studies
 ---
-
 #### Objective
 
 To develop a dynamic team of teachers and students with a passion for mathematics.
 
 #### Key Programmes
 
-#### ICT – Infused Learning
+The Mathematics department engages students in the learning of mathematics using real-world applications of mathematics in lessons. We enrich students’ learning experiences by providing various enrichment activities such as Mathematics Trail and **STEM** (**S**cience, **T**echnology, **E**ngineering, **M**athematics) Week. In addition, we provide opportunities for students to hone their mathematical problem-solving skills in various competitions such as the Singapore Mathematics Olympiad and Australian Mathematics Competition.
 
-Students make use of ICT resources for their learning. All students have their own Personal Learning Devices (PLDs) and they can use it to access various digital resources. This allows for greater facilitation of activities and discussions so that students have a greater sense of ownership in their learning.
-
-<img src="/images/math1.gif" 
+<img src="/images/Maths%201.jpg" 
      style="width:60%">
-		 
-##### Real-World Applications of Mathematics
+<center>STEM Lesson</center>
 
-Incorporation of real-world learning experiences into lessons enables students to acquire and understand mathematics while seeing the relevance of the subject in the world around them.
+Through **STEM** infused lessons, students develop the **3C**s (Be **C**urious, Be **C**reative, Be the **C**hange)
 
-<img src="/images/math2.gif" 
+<img src="/images/Maths%202.jpg" 
      style="width:60%">
-		 
-##### Enrichment Activities
+<center>Real-world Applications of Mathematics</center>
 
-The Mathematics Department provides varied learning experiences for our students.
+Incorporation of real-world learning experiences into lessons enables students to acquire and understand mathematics while seeing the relevance of the subject in the world around them.
 
-In the inaugural Mathematics Week, students learnt about the Golden Ratio and mathematics symbols and played games such as the KenKen puzzle. Through the performance of a magic trick during one of the mathematics lessons, students were exposed to the binary number system. Pi Day (14 March, or 3.14) was celebrated during one of the assembly lessons. Students were challenged to make the longest possible Pi chains and through this activity, they discovered more about the number Pi.
-
-The Secondary 1 students participated in a Mathematics Trail. The various stations organised by the teachers provided opportunities for students to improve their mathematical thinking outside the classroom. For example, one station tasked the students to estimate the perimeter of the hall without the use of measuring instruments while another station required the students to find out the height of the flag pole with the use of clinometer. Students also developed their creativity and collaborative skills as they work in teams to solve real world problems. 
-
-The Code for Fun Programme is a joint initiative by IMDA and MOE to increase students’ exposure to coding and computational thinking. The programme includes learning of computational thinking concepts using visual-based programming language, combining it with robotic kits and/or microcontrollers, to create an engaging coding experience for the students.
-
-<img src="/images/math3.gif" 
+<img src="/images/Maths%203.jpeg" 
      style="width:60%">
-		 
-##### Mathematics Competitions
+<center>Code for Fun Programme</center>
 
-Students are given the opportunity to participate in various competitions held locally and internationally to expose them to the rigours of competitive mathematics.
+The Code for Fun Programme is a joint initiative by IMDA and MOE to increase students’ exposure to coding and computational thinking. The programme provides opportunities for students to be engaged in learning mathematical skills such as Spatial Visualization, Data Handling and Analysis, Geometry and Measurement. Students will use microcontrollers, basic drag and drop coding and cardboard Lego Blocks known as Blokies to build different physical structures based on their understanding of STEM to solve real world problems.
 
-  
-In 2021, our students participated in the following competitions:  
-
-*   2021 International Mathematical Modelling Challenge (IMMC) Singapore: Sec 4s
-*   Singapore Mathematics Olympiad (SMO): Sec 2 and 4s
-*   Australian Mathematics Competition (AMC): Sec 3s
-*   Singapore Math Kangaroo Contest (SMKC): Sec 1 – 5s
-*   All Singapore Mathematics Competition (ASMC) for Normal Course Students : Sec 2 & 4s
-
-<img src="/images/math5.gif" 
+<img src="/images/Maths%204.jpg" 
      style="width:60%">
+<center>Math Trail</center>
+
+The Secondary One students participated in a Mathematics Trail during the Sec 1 orientation. The various stations organised by the teachers provided opportunities for students to improve their mathematical thinking outside the classroom. Students also developed their creativity and collaborative skills as they work in teams to solve real world problems.
+
+<img src="/images/Maths%205.jpg" 
+     style="width:60%">
+<center>All Singapore Mathematics Competition (ASMC)</center>
+
+Students are given the opportunity to participate in various competitions held locally and internationally to expose them to the rigours of competitive mathematics.
+
+**Achievements (2021-2022)**
+
+| 2022 |  | |  |
+| -------- | -------- | -------- | -------- |
+| **2022 Singapore Mathematics Olympiad (SMO)**
+
+*   Sec 2E: 1 Bronze, 3 Honourable Mention
+    
+*   Sec 4E: 1 Bronze, 4 Honourable Mention
+ 
+ **2022 Singapore Math Kangaroo Contest (SMKC)**
+
+*   13 Gold, 18 Silver, 19 Bronze, 9 Honourable Mention
+
+**2022 All Singapore Mathematics Competition (ASMC) for Normal Course Students**
+
+*   Sec 2NA: Rank 5 team award
+    
+*   Sec 2NT: Rank 13 individual award
+    
+*   Sec 2NA and 4NA: Rank 12 individual award
+
+**2022 Australian Mathematics Competition (AMC): Sec 1 to 3s**
+
+*   Sec 1E: 2 distinctions, 12 credit, 14 proficiency
+    
+*   Sec 2E: 1 distinction, 4 credit, 4 proficiency
+    
+*   Sec 3E: 3 distinction, 14 credit, 9 proficiency
