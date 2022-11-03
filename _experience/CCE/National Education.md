@@ -26,5 +26,10 @@ Annual Events under National Education:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RHVZ_NuRgOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <center>International students share their experiences in Singapore for International Friendship Day through a curated “Human Library”.</center>
 
-![NE 1](/images/NE%201.jpg)
+<img src="/images/NE%201.jpg" 
+     style="width:70%">
+<center>Students from the school’s three Uniformed Groups marching in during the National Day Observance Parade.</center>
+
+<img src="/images/NE%202.jpg" 
+     style="width:70%">
 <center>Students from the school’s three Uniformed Groups marching in during the National Day Observance Parade.</center>
