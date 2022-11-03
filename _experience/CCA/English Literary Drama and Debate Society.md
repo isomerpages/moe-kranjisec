@@ -6,6 +6,13 @@ third_nav_title: CCA
 ---
 ### English Literary Drama and Debate Society
 
+**Achivements (2021 - 2022)**
+
+
+| 2021 | | 2022 |
+| -------- | -------- | -------- |
+| Singapore Youth Festival Arts Presentation – Distinction     | Singapore Secondary Schools Debating Championships – Quarter Finalists    | Singapore Secondary Schools Debating Championships – Quarter Finalists     |
+
 The **ELDDS** is a vibrant and dynamic club with confident and fun-loving members who are articulate in expressing their emotions and feelings. The CCA has two main wings: Drama and Debate.
 
 <img src="/images/ELDDS%201.jpeg" 
