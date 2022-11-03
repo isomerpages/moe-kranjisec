@@ -32,4 +32,4 @@ Annual Events under National Education:
 
 <img src="/images/NE%202.jpg" 
      style="width:70%">
-<center>Students from the school’s three Uniformed Groups marching in during the National Day Observance Parade.</center>
+<center>Lower Secondary students participating in a classroom activity during Racial Harmony Day. They discussed the assumptions that might have led to stereotypes and how stereotypes can impact the community.</center>
