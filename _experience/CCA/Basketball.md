@@ -20,3 +20,4 @@ Kranji Basketball aims to inculcate integrity, resilience and responsibility in 
 
 <img src="/images/bb.gif" 
      style="width:60%">
+<center>B Division girls achieving 2nd runner up at the Zonal competitions</center>
