@@ -8,3 +8,12 @@ The **Values-In-Action (VIA)** Programme in Kranji Secondary School is a 4/5-yea
 
 To raise students’ awareness of the broader issues which Singapore faces, students will cover 6 different modules in Lower Secondary before embarking on a class-initiated VIA in Upper Secondary. Through these initiatives, students will participate in a range of activities to raise awareness and take action to make a positive difference to the school and the larger community.
 
+<img src="/images/VIA%201.jpg" 
+     style="width:70%">
+<center>VIA Roadmap</center>
+
+Through these VIA initiatives, students learn and exhibit leadership, organisational and communication skills, which are also transferable to other areas in the holistic education.
+
+<img src="/images/VIA%202.jpg" 
+     style="width:70%">
+<center>Students organising a charity donation drive with Its Raining Raincoats (IRR) to collect CNY goodies for migrant workers.</center>
