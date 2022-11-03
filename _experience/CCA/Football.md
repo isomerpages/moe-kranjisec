@@ -10,7 +10,7 @@ The **Kranji Football Team** strives to develop boys with discipline, resilience
 
 <img src="/images/Football%201.jpeg" 
      style="width:70%">
-<center>The Football boys training hard and working on their fundamentals on the pitch.![Football 3](/images/Football%203.jpeg)</center>
+<center>The Football boys training hard and working on their fundamentals on the pitch.</center>
 
 <img src="/images/Football%202.jpg" 
      style="width:70%">
@@ -18,12 +18,12 @@ The **Kranji Football Team** strives to develop boys with discipline, resilience
 
 <img src="/images/Football%203.jpeg"
      style="width:70%">
-<center>The Football boys training hard and working on their fundamentals on the pitch</center>
+<center>United as a team, the Football boys develop close bonds and friendship on and off the pitch.</center>
 
 <img src="/images/Football%204.jpeg" 
      style="width:70%">
-<center>The Football boys training hard and working on their fundamentals on the pitch</center>
+<center>Giving it their all and fighting hard for every ball during their National Schools Games (NSG) tournament.</center>
 
 <img src="/images/Football%205.jpeg" 
      style="width:70%">
-<center>The Football boys training hard and working on their fundamentals on the pitch</center>
+<center>The B Division Boys emerged 3rd place in the 2022 West Zone B Div NSG Championship.</center>
