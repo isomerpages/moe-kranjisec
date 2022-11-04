@@ -3,11 +3,9 @@ title: Learning for Life Programme
 permalink: /special-programmes/learning-for-life-programme/
 description: ""
 ---
-### Learning for Life Programme
-  
 #### Learning for Life Programme - Community and Youth Leadership
 
-Kranji Secondary School’s Learning For Life Programme aspires to Nurture a Leader in every Kranjian through Community and Youth Leadership programmes.
+Kranji Secondary School’s Learning For Life Programme aspires to nurture a leader in every Kranjian through Community and Youth Leadership programmes. 
 
 The school’s LLP programme provides Kranjians with leadership and learning experiences that support their development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. These learning experiences aim to increase the awareness and opportunities for a Kranjian to be of service to others, fulfilling the vision of developing Kranjian with a Heart to Serve.
 
