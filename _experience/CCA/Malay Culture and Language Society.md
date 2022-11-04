@@ -10,7 +10,7 @@ The **Malay Cultural And Language Society (MCLS)** aims to develop students’ p
 
 MCLS has added a new dimension to Kranji Secondary School programme. As such, all interested students of any background or skill level are welcome to join MCLS. There are multiple platforms for members to perform on stage, such as the annual Hari Raya Concert, school and community events and the combined public concert for all Performing Arts CCAs. In 2023, MCLS will widen the learning repertoire for all members by focusing the learning of Angklung and Kulintang in their training programme.
 
-<iframe width="441" height="784" src="https://www.youtube.com/embed/XBUmxtL_Lxc" title="2022 MCLS Hari Raya Concert Rehearsal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align: center;"><iframe width="441" height="784" src="https://www.youtube.com/embed/XBUmxtL_Lxc" title="2022 MCLS Hari Raya Concert Rehearsal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <img src="/images/MCLS%20training%20session.jpeg" 
      style="width:60%">
