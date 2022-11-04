@@ -7,12 +7,15 @@ third_nav_title: Secondary 1
 ### Secondary One Orientation Programme
 
   
-Student Councillors plan and implement the Orientation Programme for all Seocondary One students. Through this programme, Secondary One students are welcomed into our big Kranji Family and are introduced to school practices and traditions. Group facilitators who are also Student Councillors and Peer Support Leaders guide and mentor the Secondary One students throughout this Programme which culminates in the Secondary One Inauguration Ceremony.
+Student leaders, which comprises the Student Council, CCA Leaders, House Leaders and Peer Support Leaders plan and implement the Orientation Programme for all Seocondary One students. Through this programme, Secondary One students are welcomed into the Kranji Family and are introduced to school practices and traditions, like the school song and the Kranji mass dance.
 
-<img src="/images/s1op1.png" 
+Orientation Group Leaders guide and mentor the Secondary One students throughout this programme, allowing them to forge new friendships and bonds with each other and know the school better.
+
+<img src="/images/SOOP%201.jpeg" 
      style="width:60%">
 		 
-Secondary One students participate in an exciting lineup of programmes planned by the Student Councillors.
+<img src="/images/SOOP%202.jpeg" 
+     style="width:60%">
 
-<img src="/images/s1op2.png" 
+<img src="/images/SOOP%203.jpg" 
      style="width:60%">
