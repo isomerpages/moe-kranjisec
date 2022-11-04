@@ -3,13 +3,9 @@ title: Talent Development Programme
 permalink: /special-programmes/talent-development-programme/
 description: ""
 ---
+### Objective
 
-
-### Talent Development Programme
-
-A diamond needs to be polished before it shines. Like diamonds, students with potential need to be appropriately nurtured and developed before they can realize and achieve their potential. The goal of talent development in Kranji Secondary is to help students discover their own interests, strengths, and potentials and to nurture and develop these interests, strengths, and potentials, so that they may become future-ready leaders with a heart to serve.  
-
-Our Talent Development Programme is a flagship programme that aims to help our students discover their own interests, strengths, and potential and to nurture and develop these interests, strengths, and potential, so that they may become **future-ready leaders with a heart to serve**.
+The objective of talent development is to help students nurture and develop interests, strengths, and potential, so that they may become future-ready leaders with a heart to serve.
 
 #### **Members of the programme are developed through:**
 
