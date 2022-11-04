@@ -2,6 +2,7 @@ collections:
   future-ready-learning:
     output: true
     order:
+      - Internalisation.md
       - Overview/.keep
       - Overview/Full Subject Based Banding.md
       - Applied Learning Programme.md
