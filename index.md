@@ -26,23 +26,23 @@ sections:
   - infopic:
       title: Sec 1 Distinctive Experiences
       button: Read More
-      url: \secondary-1
+      url: /front-page/Sec-1-Distinctive-Experiences
       alt: Image alt text
       image: /images/SOOP 3.jpg
   - infopic:
       title: Sec 2 Distinctive Experiences
       button: Read more
-      url: \secondary 2
+      url: /front-page/Sec-2-Distinctive-Experiences
       alt: Image alt text
       image: /images/Aes Dev 8.jpeg
   - infopic:
       title: Sec 3 Distinctive Experiences
       button: Read more
-      url: \secondary 3
+      url: /front-page/Sec-3-Distinctive-Experiences
       alt: Image alt text
   - infopic:
       title: Sec 4/5 Distinctive Experiences
       button: Read more
-      url: \secondary-4
+      url: /front-page/Sec-45-Distinctive-Experiences
       alt: Image alt text
 ---
