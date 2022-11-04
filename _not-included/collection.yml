@@ -2,6 +2,7 @@ collections:
   not-included:
     output: true
     order:
+      - eOpen House.md
       - Class Leaders.md
       - FAQs.md
       - Local Transfer.md
