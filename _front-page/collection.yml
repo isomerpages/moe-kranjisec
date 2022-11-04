@@ -2,11 +2,11 @@ collections:
   front-page:
     output: true
     order:
-      - Sec 2 Distinctive Experiences/Sec 2 Distinctive Experiences.md
-      - Sec 2 Distinctive Experiences/.keep
       - Sec 1 Distinctive Experiences/.keep
       - Sec 1 Distinctive Experiences/Drama in Literature Programme.md
       - Sec 1 Distinctive Experiences/Orientation Programme.md
+      - Sec 2 Distinctive Experiences/.keep
+      - Sec 2 Distinctive Experiences/Sec 2 Distinctive Experiences.md
       - Sec 3 Distinctive Experiences/.keep
       - Sec 3 Distinctive Experiences/Internationalisation Programme @ Kranji
         Secondary School.md
