@@ -2,6 +2,7 @@ collections:
   future-ready-learning:
     output: true
     order:
+      - Kepler.md
       - Overview/Full Subject Based Banding.md
       - Overview/.keep
       - Applied Learning Programme.md
