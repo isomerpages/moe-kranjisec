@@ -40,9 +40,11 @@ sections:
       button: Read more
       url: /front-page/Sec-3-Distinctive-Experiences
       alt: Image alt text
+      image: /images/IVJS 1.jpg
   - infopic:
       title: Sec 4/5 Distinctive Experiences
       button: Read more
       url: /front-page/Sec-45-Distinctive-Experiences
       alt: Image alt text
+      image: /images/CF 2.jpg
 ---
