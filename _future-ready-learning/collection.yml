@@ -2,12 +2,12 @@ collections:
   future-ready-learning:
     output: true
     order:
-      - Internalisation.md
       - Overview/.keep
       - Overview/Full Subject Based Banding.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
       - Kepler.md
+      - Internalisation.md
       - Internationalisation Programme/.keep
       - Internationalisation Programme/Internationalisation.md
       - Internationalisation Programme/First Prize Winner of the Education for
