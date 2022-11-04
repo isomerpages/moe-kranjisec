@@ -28,11 +28,13 @@ sections:
       button: Read More
       url: \secondary-1
       alt: Image alt text
+      image: /images/SOOP 3.jpg
   - infopic:
       title: Sec 2 Distinctive Experiences
       button: Read more
       url: \secondary 2
       alt: Image alt text
+      image: /images/Aes Dev 8.jpeg
   - infopic:
       title: Sec 3 Distinctive Experiences
       button: Read more
