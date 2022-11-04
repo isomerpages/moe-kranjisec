@@ -21,3 +21,11 @@ Students practicing their dance movement.
 To allow our students to be exposed to other Art forms, a slew of good quality Art performances were staged. For this year, we have a Hari Raya celebration concert by Sri Warisan Performing Arts Ltd which was integrated with our school’s Malay Culture and Language CCA student performers.
 
 We also had a A Capella singing performance by the A Capella Society Ltd. We aim to strengthen the arts appreciation and to provide quality Arts Education experience for all.
+
+<img src="/images/Aes%20Dev%207.jpg" 
+     style="width:60%">
+<center>Our students on stage learning the Malay dance movement</center>
+
+<img src="/images/Aes%20Dev%208.jpeg" 
+     style="width:60%">
+<center>Group photo with the A Capella Society Ltd performers</center>
