@@ -2,13 +2,13 @@ collections:
   future-ready-learning:
     output: true
     order:
-      - Talent Development Programme.md
       - Overview/.keep
       - Overview/Full Subject Based Banding.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
       - Kepler.md
       - Internalisation.md
+      - Talent Development Programme.md
       - Internationalisation Programme/.keep
       - Internationalisation Programme/Internationalisation.md
       - Internationalisation Programme/First Prize Winner of the Education for
