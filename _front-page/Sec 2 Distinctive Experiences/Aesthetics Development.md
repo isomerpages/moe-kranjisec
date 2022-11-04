@@ -12,9 +12,28 @@ During the May post examination programme, as part of our school holistic educat
 
 There was a friendly dance competition at the end of the programme and it was a stiff competition as all 7 classes of Secondary 2 students put in their best. The 4th placing went to 2K2, 3rd placing went to 2K3 and 2K4, runner up went to 2K1 and the winner was 2R2. The atmosphere in the school hall was exhilarating during the performance and the dancers raised to the occasion and everyone enjoyed it.
 
-Students practicing their dance movement.
+<img src="/images/Aes%20Dev%201.jpg" 
+     style="width:60%">
 
-**
+<img src="/images/Aes%20Dev%202.jpg" 
+     style="width:60%">
+<center>Students practicing their dance movement.</center>
+
+<img src="/images/Aes%20Dev%203.jpg" 
+     style="width:60%">
+<center>Students preparing for the inter-class competition</center>
+
+<img src="/images/Aes%20Dev%204.jpg" 
+     style="width:60%">
+<center>Runner Up 2K1 class</center>
+
+<img src="/images/Aes%20Dev%205.jpg" 
+     style="width:60%">
+<center>Winner 2R2 class</center>
+
+<img src="/images/Aes%20Dev%206.jpg" 
+     style="width:60%">
+<center>Sec 2 cohort group photo</center>
 
 **School Assembly Programme**
 
