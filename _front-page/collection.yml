@@ -1,5 +1,5 @@
 collections:
-  the-kranji-experience:
+  front-page:
     output: true
     order:
       - Secondary 1/.keep
