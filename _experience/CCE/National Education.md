@@ -23,7 +23,8 @@ Annual Events under National Education:
 *   Racial Harmony Day Commemoration
 *   National Day Celebration
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RHVZ_NuRgOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RHVZ_NuRgOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 <center>International students share their experiences in Singapore for International Friendship Day through a curated “Human Library”.</center>
 
 <img src="/images/NE%201.jpg" 
