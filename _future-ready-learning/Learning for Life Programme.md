@@ -19,17 +19,17 @@ The following principles guide the Kranji Student Leadership Programme:
 
 Kranji Secondary School adopts the Kouzes and Posner’s Five Practices of Exemplary Leadership Model (Leadership Challenge Model). The Leadership Challenge Model advocates that these five leadership practices are within the capacity of everyone to learn:
 
-1.Model the way <br>
-2.  Inspire a shared vision <br>
-3.  Challenge the process <br> 
-4.  Enable others to act <br>
-5.  Encourage the heart <br>
+1. Model the way
+2. Inspire a shared vision
+3. Challenge the process
+4. Enable others to act
+5. Encourage the heart
 
 #### Student Leadership Tiers
 
 The School’s Leadership structure aims to allow every Kranjian an opportunity to develop their leadership capabilities.
 
-<img src="/images/llp1.png" 
+<img src="/images/LLP%20Tier.png" 
      style="width:60%">
 		 
 ##### Tier 1: Self Leadership
