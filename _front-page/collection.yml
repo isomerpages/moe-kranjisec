@@ -2,9 +2,9 @@ collections:
   front-page:
     output: true
     order:
-      - Secondary 1/.keep
-      - Secondary 1/Drama in Literature Programme.md
-      - Secondary 1/Orientation Programme.md
+      - Sec 1 Distinctive Experiences/.keep
+      - Sec 1 Distinctive Experiences/Drama in Literature Programme.md
+      - Sec 1 Distinctive Experiences/Orientation Programme.md
       - Secondary 2.md
       - Secondary 3/.keep
       - Secondary 3/Internationalisation Programme @ Kranji Secondary School.md
