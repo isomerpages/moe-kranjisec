@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: Parents
           description: Quick Links
-          url: /announcements/overview/
+          url: /quick-links/parents/
         - title: Staff
           description: Quick Links
-          url: /admissions/direct-school-admissions/
+          url: /quick-links/staff/
         - title: Student
           description: Quick Links
-          url: /quick-link-students
+          url: /quick-links/students/
   - infobar:
       title: The Kranji Experience
       description: Thinker . Leader . Champion
