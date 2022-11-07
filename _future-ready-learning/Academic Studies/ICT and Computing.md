@@ -78,7 +78,10 @@ Kranji Secondary will be offering O-Level Computing with effect from 2023 as an 
 
 The O-Level Computing subject is catered for students who display passion and/or talent in Computing. It focuses on developing problem-solving and Computational Thinking Skills in support of 21st Century Competencies as well as an appreciation of intellectual property and ethical issues arising from the use of technology.
 
-<img src="/images/comp1.png" 
+<img src="/images/Com%201.png" 
+     style="width:60%">
+
+<img src="/images/Com%202.png" 
      style="width:60%">
 
 The O-Level Computing subject is catered for students who display passion and/or talent in Computing. It focuses on developing problem-solving and Computational Thinking Skills in support of 21st Century Competencies as well as an appreciation of intellectual property and ethical issues arising from the use of technology. Students who offer the subject will also gain a head-start if they decide to take up computing-related studies or pursue computing-related careers in the future.
