@@ -24,13 +24,9 @@ MCLS has added a new dimension to Kranji Secondary School programme. As such, al
 <img src="/images/MCLS%20Hari%20Raya%20Concert.jpeg" 
      style="width:60%">
 		 
-**
-
 > "I was the first batch that joined Malay Cultural and Language Society in 2020. I was keen to join MCLS as I enjoyed playing the Dikir Barat instruments and Kompang and the CCA lessons will be conducted in English. I remembered being awkward as it was silent when I first step into the classroom for the first MCLS practice session. At first, I thought that only Malay students can join this CCA, however, I was wrong. Initially, there were some difficulties as I had to learn how to pronounce Malay words for some of the songs, but the instructor was patient. Later, I managed to overcome the difficulties.  Then I discovered there were Dikir Barat songs in English that I learnt too. I am happy to have decided to join this CCA as I have opportunities to learn something new that I would have never had."
 
 **Darryl Toh Kin Jie (3R2), Vice President MCLS**
-
-**
 
 > "In 2021 when I joined Malay Cultural and Language CCA, I did not like it. To me, it was a boring and lack lustre CCA. I felt that the other CCAs are more exciting. But after attending a few training sessions and spending time with other members in the CCA, I understand more about the CCA. The Dikir Barat and Kompang training sessions were fun and interesting. The instructor taught us how to sing in Dikir Barat tune and how to play the kompang as a group. I also managed to learn more about the Malay culture and its music during the training sessions. I am thankful that I joined this CCA and this CCA exists in Kranji Secondary School."
 
