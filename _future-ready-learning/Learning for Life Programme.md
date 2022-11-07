@@ -48,52 +48,16 @@ Students are given opportunities to serve their community, such as by planning a
 		 
 #### Student Leadership Distinctive Programmes
 
-###### Voices for Youth: National Day Rally Youth Dialogue  
+*Limbang Voices of Youth*
 
-Voices of Youth 2019 is an annual post-National Day Rally Dialogue organised by the Marsiling-Yew Tee GRC. This dialogue aims to provide a platform for youths from the community to offer their views and opinions on initiatives shared by the Prime Minister during the National Day Rally. It also hopes to deepen youths’ interest, knowledge and insight on current affairs, as well as understand the trade-off in policy-making. 
+Co-organised with the Limbang Youth Network, this dialogue brings youths from the community to discuss their views on initiatives shared by the Prime Minister during the National Day Rally. Our students from the Student Council and Talent Development programme were group facilitators, and led youths from Assumption English School, Regent Secondary and our school in discussing how they can contribute to the ForwardSG movement. They then engaged in a dialogue with the Deputy Prime Minister, Minister for Finance and Adviser to Marsiling-Yew Tee GRC (Limbang), Mr Lawrence Wong.
 
-As part of our Student Leadership and National Education programme, our students serve as Facilitators to engage the participating youths, guiding them in sharing and consolidating their views and opinions on the various National Day Rally topics. Our students interacted with participants from other schools, drawing out multiple perspectives and viewpoints, raising awareness and helping them to gain a deeper understanding of the issues raised.
+*West 6 Cluster Primary School Leadership Workshop*
 
-<img src="/images/llp5.png" 
-     style="width:60%"> Kranjian Facilitators leading in youths from other secondary schools, Centralised Institute, ITEs and Polytechnics in a discussion of issues and perspectices surrounding the National Day Rally.
+An annual leadership training programme that first started in 2015, our Student Councillors take on the roles of mentors to nurture the young student leaders from the primary schools in our cluster, as we equipped them with the Five Exemplary Leadership Practices of the Leadership Challenge Model® by Kouzes and Posner, as well as advocacy for social causes.
 
-<img src="/images/llp6.png" 
-     style="width:60%"> Kranjian Facilitators presenting a consolidation of ideas, views and perspectives to the audience after the facilitation of small group discussions.
+*Student Leadership Training and Opportunities*
 
-<img src="/images/llp7.png" 
-     style="width:60%"> Kranjian Facilitators together with Special Guests, Mr Lawrence Wong (Former Minister for National Development and Second Minister for Finance), Mr Ong Teng Koon and Mr Alex Yam (MPs for Marsiling-Yew Tee GRC).
-		 
-#### Mid-Autumn Festival @ Limbang
+Student Councillors, Peer Support Leaders and CCA Leaders and students under the Direct School Admission (Leadership) programme, are given extra training in the form of interactive workshops to deepen their learning in the Leadership Challenge Model®, Project Management, Facilitation, Conflict Mediation and Debriefing. 
 
-The Mid-Autumn Festival @ Limbang is an annual community event jointly organised by the Limbang Grassroots Organisations and Kranji Secondary School. Students from the Student Council and various CCAs come together with the Limbang residents and Mr Lawrence Wong (Minister for Finance) to celebrate Mid-Autumn Festival through fun games and cultural performances.
-
-Our student leaders from the Student Council formed part of the Organising Team, planning and implementing game booths to promote community bonding and engagement. They brainstormed for game ideas based on Mid-Autumn traditions and presented them to representatives from the Limbang Grassroots Organisations. Students from NPCC set up a scam prevention game booth which was extremely popular with residents.
-
-<img src="/images/llp8.png" 
-     style="width:60%"> Student Councillors attending meetings with representatives from Limbang Grassroots Organisations and presenting their booth ideas to them.
-		 
-<img src="/images/llp2.gif" 
-     style="width:60%">  Our students manning the Mother Tongue Cultural booths and the NPCC Scam Prevention booth.
-		 
-In 2021, Mid-Autumn Festival was held virtually as a Facebook live session. Our Student Council prepared a video to provide fun facts and information regarding the festival. Our Kranji Choir and Kranji Chinese Dance Society pre-recorded performances to engage the audience, in adherence to SMM, and students from NPCC prepared a short skit to educate residents on keeping a lookout for suspicious bags and articles in public places.
-
- 
-#### Cluster Primary School Leadership Workshop
-
-This is an annual leadership training programme by Kranji Secondary for our Cluster Primary School student leaders which first started in 2015. Our student leaders take on the roles of mentors to nurture the potential of our young student leaders, empowering them to lead as leaders, equipping them with the Five Exemplary Leadership Practices of the Leadership Challenge Model® by Kouzes and Posner.
-
-<img src="/images/llp3.gif" 
-     style="width:60%"> Student Councillors plan and execute a 2 day Leadership Challenge Camp for our W6 Cluster Primary Schools / student leaders.
-		 
-<img src="/images/llp14.png" 
-     style="width:60%">
-		 
-#### Secondary One Orientation Programme  
-
-Student Councillors plan and implement the Orientation Programme for all Seocondary One students. Through this programme, Secondary One students are welcomed into our big Kranji Family and are introduced to school practices and traditions. Group facilitators who are also Student Councillors and Peer Support Leaders guide and mentor the Secondary One students throughout this Programme which culminates in the Secondary One Inauguration Ceremony.
-
-<img src="/images/llp15.png" 
-     style="width:60%"> Secondary One students participate in an exciting lineup of programmes planned by the Student Councillors.
-
-<img src="/images/llp16.png" 
-     style="width:60%"> Secondary One Inauguration Ceremony where the Secondary One students are formally welcomed into the school.
+The LLP Space was set up as well to provide a platform for Student Leaders to reach out to other students. This includes Fabulous Friday collated by the Peer Support Leaders to acknowledge the good work by other students, as well Student Council outreach programmes.
