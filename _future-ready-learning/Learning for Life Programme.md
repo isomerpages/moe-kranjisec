@@ -58,6 +58,9 @@ An annual leadership training programme that first started in 2015, our Student 
 
 *Student Leadership Training and Opportunities*
 
+<img src="/images/LLP%20Sdt%20Ldr.jpg" 
+     style="width:60%">
+
 Student Councillors, Peer Support Leaders and CCA Leaders and students under the Direct School Admission (Leadership) programme, are given extra training in the form of interactive workshops to deepen their learning in the Leadership Challenge Model®, Project Management, Facilitation, Conflict Mediation and Debriefing. 
 
 The LLP Space was set up as well to provide a platform for Student Leaders to reach out to other students. This includes Fabulous Friday collated by the Peer Support Leaders to acknowledge the good work by other students, as well Student Council outreach programmes.
