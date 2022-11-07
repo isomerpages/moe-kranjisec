@@ -6,6 +6,10 @@ third_nav_title: Academic Studies
 ---
 ## Art
 
+| 2021 | 2022 | |
+| -------- | -------- | -------- |
+| Live On Festival (LOF) 2022 – Design Competition (Winner)   | Live On Festival (LOF) 2021 – Design Competition (Winner)     |    |
+
 <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/v_6O1U47ios" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 The Art unit aims to develop Kranjians’ passion for art; thinkers who are capable of communicating visually through various means of Art making. Through these efforts of perceiving, communicating and appreciating Art, students develop the confidence to discuss, respond and connect their lived experiences with society and culture.
