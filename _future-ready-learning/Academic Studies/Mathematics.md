@@ -4,11 +4,11 @@ permalink: /active-learning/mathematics/
 description: ""
 third_nav_title: Academic Studies
 ---
-#### Objective
+## Objective
 
 To develop a dynamic team of teachers and students with a passion for mathematics.
 
-#### Key Programmes
+### Key Programmes
 
 The Mathematics department engages students in the learning of mathematics using real-world applications of mathematics in lessons. We enrich students’ learning experiences by providing various enrichment activities such as Mathematics Trail and **STEM** (**S**cience, **T**echnology, **E**ngineering, **M**athematics) Week. In addition, we provide opportunities for students to hone their mathematical problem-solving skills in various competitions such as the Singapore Mathematics Olympiad and Australian Mathematics Competition.
 
