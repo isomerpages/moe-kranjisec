@@ -3,15 +3,15 @@ title: Talent Development Programme
 permalink: /special-programmes/talent-development-programme/
 description: ""
 ---
-### Objective
+## Objective
 
-The objective of talent development is to help students nurture and develop interests, strengths, and potential, so that they may become future-ready leaders with a heart to serve.
+The objective of talent development is to help students nurture and develop interests, strengths, and potential, so that they may become future-ready leaders with a heart to serve.  
 
-#### **Members of the programme are developed through:**
+### Programmes
 
-*   **Structured Mentoring**: each student will be assigned a teacher as his/her personal mentor whom they can approach for academic guidance and advice, insights into careers and developmental plans.
-*   **Skills-based Workshops:** students will enjoy public speaking courses and interview skills preparation
-*   **MP Attachment**: talents could be attached to a Member of Parliament during the Meet-the-People Sessions to gain insights of the real concerns of the community. (pending)
+*   Fireside Chats
+
+
 
 ##### **Head, Talent Development**
 
