@@ -45,6 +45,9 @@ Training at this tier aims to equip Student Leaders with the ability to influenc
 ##### Tier 3: Community Leadership
 
 Students are given opportunities to serve their community, such as by planning and facilitating in Cluster Leadership Workshop for Primary School student leaders, and at Post-National Day Rally Dialogues. They are also encouraged to identify needs and initiate projects which benefits the community.
+
+<img src="/images/LLP%20Plan%20Faci.jpg" 
+     style="width:60%">
 		 
 #### Student Leadership Distinctive Programmes
 
