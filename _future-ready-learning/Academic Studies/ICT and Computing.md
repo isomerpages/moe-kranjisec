@@ -4,14 +4,23 @@ permalink: /active-learning/ict-and-computing/
 description: ""
 third_nav_title: Academic Studies
 ---
+## ICT
 
-### ICT and Computing
 
-#### O-Level Computing (2023 Secondary 3)
 
-Kranji Secondary will be offering **O-Level Computing** with effect from **2023 as an option in our Secondary 3 Subject Combination**. This offers an added choice for 2022 Secondary 1 and 2 students!
+*   Self-Directed Learners who take responsibility for their own learning, who question, reflect and persevere in the pursuit of learning, and are intrinsically motivated to monitor and manage their own learning using digital tools.
+*   Collaborative Learners who are able to work with others and build on one another’s knowledge to achieve a common learning goal, adopt different viewpoints to explain their reasoning and decisions.
+*   Responsible Citizens who contribute actively and value-add to the information pool in an online community, while observing proper etiquette and are able to verify the accuracy, credibility and currency of information across multiple sources.
 
-  
+
+## O-Level Computing
+
+Kranji Secondary will be offering O-Level Computing with effect from 2023 as an option in our Secondary 3 Subject Combination. 
+
+The O-Level Computing subject is catered for students who display passion and/or talent in Computing. It focuses on developing problem-solving and Computational Thinking Skills in support of 21st Century Competencies as well as an appreciation of intellectual property and ethical issues arising from the use of technology.
+
+<img src="/images/comp1.png" 
+     style="width:60%">
 
 The O-Level Computing subject is catered for students who display passion and/or talent in Computing. It focuses on developing problem-solving and Computational Thinking Skills in support of 21st Century Competencies as well as an appreciation of intellectual property and ethical issues arising from the use of technology. Students who offer the subject will also gain a head-start if they decide to take up computing-related studies or pursue computing-related careers in the future.
 
