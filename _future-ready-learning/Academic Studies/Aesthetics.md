@@ -62,6 +62,45 @@ Valeria 1J
 
 <img src="/images/Art%204.jpg" 
      style="width:60%">
+		 
+## Nutrition and Food Science
+
+The Nutrition and Food Science (NFS) unit aims to educate students with knowledge in Nutrition & Health, Food Literacy & Consumer Literacy and Food Science.  We aim to provide our graduating students with a foundation that can be useful if they would like to pursue food sciences or other food related courses during their tertiary education.
+
+### Food Photography
+
+In 2022, we received our 1st batch of FSBB Secondary 1 students, with a mixture of G1, G2 and G3 in the same class. We approach the students’ learning in FCE common curriculum using Differentiated Instructions (DI), based on their readiness and pace of learning. The students worked on a coursework project which required them to plan and prepare an attractive and nutritious pancake dish for teenagers in school. Students applied their knowledge of plating and garnishing during the practical exam and served their pancakes in a creative manner.
+
+<img src="/images/NFS%201.png" 
+     style="width:60%">
+<center>Pancake dish done by Lower secondary FCE students</center>
+
+### Food Sustainability
+
+As part of the Food Literacy lesson, students learnt to be a sustainable consumer by making purchasing decisions that are friendly for the environment. In both Upper and Lower Secondary practical lessons, students have a chance to harvest food produced directly from the Kranji’s Edible Garden and use it as part of the main ingredients in cooking and for garnishing.
+
+<img src="/images/NFS%202.jpg" 
+     style="width:60%">
+<center>NFS students harvesting parsley from the school’s garden and used it as garnishing for Mushroom Soup</center>
+
+### Maker Programme 
+
+The Maker Programme was conducted for our Secondary 1 to 5 students at the beginning of the year in Term 1. The objective of the activity is for our students to appreciate Singapore food cultures through recipe modification. Different ethnic ingredients such as blue pea flower, pandan paste, coconut milk and rose syrup were infused into a simple agar recipe. Utilizing a variety of natural colourings, students prepared multi-coloured agar cubes and assembled them to create their own Mirror Magic Agar.
+
+<img src="/images/NFS%203.jpg" 
+     style="width:60%">
+<center>Group photo of students’ participation</center>
+
+### NFS baking and culinary competition
+
+Every year, students are given the opportunity to participate in various cooking and baking competitions. The competition provides a platform for students to apply their nutritional knowledge through developing suitable recipes to meet the nutritional needs of the different age groups. Students will then have the opportunity to demonstrate their culinary skills and oral presentation when displaying the final products before a judging panel. These enriching experiences enable students to apply what they have learnt in FCE/ F&N lessons and encourage them to see the relevance of the subject in their daily lives.
+
+<img src="/images/NFS%204.jpg" 
+     style="width:60%">
+		 
+<img src="/images/NFS%205.png" 
+     style="width:60%">
+<center>2021 Keat Hong CC sandwich making competition (Nasi Le Mickey and Pandan Frogs)</center>
 
 ## Music
 
