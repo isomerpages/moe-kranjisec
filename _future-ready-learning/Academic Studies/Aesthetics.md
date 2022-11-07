@@ -56,7 +56,7 @@ The National Gallery Singapore takes art education on the road with its new Rovi
 
 Valeria 1J
 
-<img src="/images/Art%204.jpg![](/images/Art%204.jpg)" 
+<img src="/images/Art%204.jpg" 
      style="width:60%">
 
 ## Music
