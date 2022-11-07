@@ -6,7 +6,7 @@ third_nav_title: Sec 2 Distinctive Experiences
 ---
 The Aesthetics Development programme aims to provide an avenue for our students to develop their interests and display their talents in the arts. Through a structured yet versatile programme, the students gain exposure to diverse art forms and are provided with platforms to stretch their talents.
 
-**Sec 2 Dance Enrichment**
+### Sec 2 Dance Enrichment
 
 During the May post examination programme, as part of our school holistic education in Aesthetics and appreciation for the Arts, our secondary 2 cohort had a 10 hours dance enrichment programme. They were taught and learnt about dance techniques and routines unique on fusion dance of Malay, Chinese, India and Hip Hop/K Pop, making this a truly exceptional experience for our students.
 
@@ -35,7 +35,7 @@ There was a friendly dance competition at the end of the programme and it was a 
      style="width:60%">
 <center>Sec 2 cohort group photo</center>
 
-**School Assembly Programme**
+### School Assembly Programme
 
 To allow our students to be exposed to other Art forms, a slew of good quality Art performances were staged. For this year, we have a Hari Raya celebration concert by Sri Warisan Performing Arts Ltd which was integrated with our school’s Malay Culture and Language CCA student performers.
 
