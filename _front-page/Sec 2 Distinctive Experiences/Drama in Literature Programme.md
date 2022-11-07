@@ -4,20 +4,24 @@ permalink: /the-kranji-experience/Secondary-1/drama-in-literature-programme/
 description: ""
 third_nav_title: Sec 2 Distinctive Experiences
 ---
+The Literature Learning Journey has always been a key part of Kranji Secondary School’s Literature programme. After a 2-year hiatus due to Covid-19 restrictions, the Secondary Two cohort, armed with their mobile devices and the Literature Learning Journey package, ventured out into the Tiong Bahru neighbourhood and experienced poetry coming to life through a multi-sensory experience. 
 
-
-### Drama in Literature Programme
-  
-The drama programme is offered to Secondary 1 students as part of the lower secondary Literature curriculum. It serves as an alternative platform for the expression of personal response through drama instead of the traditional pen-and-paper mode of assessment. In particular, the programme aims to achieve the following objectives: 
-
-  
-
- *   To provide an authentic context for students to engage in deep learning through critical reading and analyses of the themes and characters in the Literature text 
- *   To provide opportunities for collaborative learning in the form of play-building so as to develop teamwork in students and improve their communication skills 
-
-The programme consists of a series of drama sessions conducted by qualified drama instructors and closely monitored by the school’s Literature teachers. Working in groups, students are actively involved in all the stages of play-building, from script writing, improvisation of props and costumes to the production of the play. The programme culminates in the final performance assessment of the play. 
-
-The drama programme is rigorous yet enjoyable for students. Its varied and engaging activities enrich students’ experiences in the learning of Literature.
+During the Learning Journey, students are engaged in multimodal tasks that break away from the monotony of the usual pen-and-paper tasks. They explore their own neighbourhoods, visiting places like traditional coffee shops and children’s playgrounds etc. As they immerse in the multisensory experience offered by the surroundings, they take note of pertinent information, collect relevant artefacts and complete authentic tasks related to the poems in the poetry resource package.
 
 <img src="/images/englit.gif" 
      style="width:60%">
+<center>Students filled with excitement and joy on the way to Tiong Bahru, ready to begin their Learning Journey with their classmates.</center>
+
+<img src="/images/englit.gif" 
+     style="width:60%">
+<center>Students filled with excitement and joy on the way to Tiong Bahru, ready to begin their Learning Journey with their classmates.</center>
+
+<img src="/images/englit.gif" 
+     style="width:60%">
+<center>Students filled with excitement and joy on the way to Tiong Bahru, ready to begin their Learning Journey with their classmates.</center>
+
+<img src="/images/englit.gif" 
+     style="width:60%">
+<center>Students filled with excitement and joy on the way to Tiong Bahru, ready to begin their Learning Journey with their classmates.</center>
+
+![](/images/LLJ%201.jpeg)
