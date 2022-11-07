@@ -50,6 +50,9 @@ Students are given opportunities to serve their community, such as by planning a
 
 *Limbang Voices of Youth*
 
+<img src="/images/LLP%20VOY.jpg" 
+     style="width:60%">
+
 Co-organised with the Limbang Youth Network, this dialogue brings youths from the community to discuss their views on initiatives shared by the Prime Minister during the National Day Rally. Our students from the Student Council and Talent Development programme were group facilitators, and led youths from Assumption English School, Regent Secondary and our school in discussing how they can contribute to the ForwardSG movement. They then engaged in a dialogue with the Deputy Prime Minister, Minister for Finance and Adviser to Marsiling-Yew Tee GRC (Limbang), Mr Lawrence Wong.
 
 *West 6 Cluster Primary School Leadership Workshop*
@@ -62,5 +65,8 @@ An annual leadership training programme that first started in 2015, our Student 
      style="width:60%">
 
 Student Councillors, Peer Support Leaders and CCA Leaders and students under the Direct School Admission (Leadership) programme, are given extra training in the form of interactive workshops to deepen their learning in the Leadership Challenge Model®, Project Management, Facilitation, Conflict Mediation and Debriefing. 
+
+<img src="/images/LLP%20wall.jpg" 
+     style="width:60%">
 
 The LLP Space was set up as well to provide a platform for Student Leaders to reach out to other students. This includes Fabulous Friday collated by the Peer Support Leaders to acknowledge the good work by other students, as well Student Council outreach programmes.
