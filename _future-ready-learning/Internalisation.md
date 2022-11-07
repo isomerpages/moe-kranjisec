@@ -13,6 +13,7 @@ The Education for Sustainable Development Award recognises education and learnin
      style="width:60%">
 <center>First Prize winner of the Education for Sustainable Development Award</center>
 
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/SJWYZjnbco4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <center>Video submitted for the Education for Sustainable Development Award</center>
 
 The Ministry of Education has featured our e-internationalisation programmes on schoolbag, a news website that provides parents, educators and the general public with education news, school features and tips. The article “The World is my Classroom” narrates our school’s approach in continuing to provide our students with an international experience despite the COVID-19 situation and the rich learning that student participants had obtained from this programme. Read the article [here](https://www.schoolbag.edu.sg/story/the-world-in-my-classroom)!
