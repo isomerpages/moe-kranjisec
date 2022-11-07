@@ -16,3 +16,6 @@ For Sec 2 students, besides advanced instrumental modules, they will also deepen
 
 Additionally, they also go through a module of Jam Band where they will work closely in small groups to perform their chosen song to a live audience. Opportunities are also provided for students to record their performances as part of their portfolio.
 
+<img src="/images/Music%201.jpeg" 
+     style="width:60%">
+<center>Students planning their Jam Band arrangement in small groups,</center>
