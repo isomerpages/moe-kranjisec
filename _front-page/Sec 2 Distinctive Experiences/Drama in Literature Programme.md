@@ -24,6 +24,5 @@ During the Learning Journey, students are engaged in multimodal tasks that break
      style="width:60%">
 <center>Students admiring a wall mural in an alley in Tiong Bahru after locating it as part of their bonus task in the Learning Journey package.</center>
 
-<img src="/images/LLJ%204.jpeg" 
-     style="width:60%">
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/ipr-zz7Y888" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <center>Destinee and Phoebe (2K1) doing a dramatic reading of the poem ‘2 mothers in a HDB playground’ at the playground in Tiong Bahru.</center>
