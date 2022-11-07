@@ -6,12 +6,47 @@ third_nav_title: Academic Studies
 ---
 ## ICT
 
-
-
 *   Self-Directed Learners who take responsibility for their own learning, who question, reflect and persevere in the pursuit of learning, and are intrinsically motivated to monitor and manage their own learning using digital tools.
 *   Collaborative Learners who are able to work with others and build on one another’s knowledge to achieve a common learning goal, adopt different viewpoints to explain their reasoning and decisions.
 *   Responsible Citizens who contribute actively and value-add to the information pool in an online community, while observing proper etiquette and are able to verify the accuracy, credibility and currency of information across multiple sources.
 
+### Technology In Action Sessions
+
+In this day and age where information technology (ICT) has pervaded almost every area of our lives, teachers have to accept the reality that traditional methods of teaching are not as effective in engaging this generation of ICT-savvy students. Increasingly, the teacher’s role is to facilitate self-directed and collaborative learning, and technology has become a means to this end. To promote the use of ICT in school, Technology In Action sessions has been organised to promote the spirit of experimentation and innovation through effective and pervasive use of ICT in classroom teaching.
+
+### ICT Blasts by ICT Champions
+
+ICT Blasts are sent by ICT Champions fortnightly to promote the spirit of experimentation and innovation through effective and pervasive integration of ICT in classroom teaching. These serve as a supplementary resource for staff on technology related activities. They also serve as motivators to help encourage our teachers to incorporate the use of technology more meaningfully into their lessons.
+
+### ICT Masterclass
+
+ICT Masterclass is conducted by our ICT associate as part of customised PD on the use of technology in Teaching and Learning. These classes help teachers to stay current with emerging technologies. Recording of these sessions are made available for staff who are unable to attend on our PD google site.
+
+### ICT Programme for Secondary 1
+
+In line with the MOE National Digital Literacy Programme (NDLP) where the focus will be acquiring digital skills across four main components - Find, Think, Apply and Create, we planned for all Secondary One students in 2022 to undergo ‘Cardboard Sculpting, Upcycling and Design Thinking (using Tinkercad)’ training. The school is providing the following workshops in 2023 for students:
+
+**Compulsory courses**
+1. 3D modeling and Code for Fun - for all sec 1 students
+2. Python programming - for all Sec 2 students
+
+**Opt-in courses for Sec 1 & 2 students**
+1. Video editing
+2. App development
+3. AR
+4. Game development
+
+### ICT Programme for Secondary 2
+
+Kranji Secondary will be offering **O-Level Computing** from **2023 as an option in our Secondary 3 Subject Combination**. 
+
+To cultivate students’ interest in computing, ‘Coding With Python’ workshop was offered in 2022 for all Secondary 2 Express and 2 Normal Academic students. The workshop was conducted online and includes the following:
+
+• use of Python programming to design data analytics models; 
+• hands-on and experiential project-based learning; and 
+• application on mathematics computational thinking
+
+From 2023, all secondary 2 students will have the opportunity to be exposed in Python programming as part of a deeper appreciation for ICT.
 
 ## O-Level Computing
 
