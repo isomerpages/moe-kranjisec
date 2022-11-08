@@ -14,10 +14,10 @@ sections:
           url: /quick-links/parents/
         - title: Staff
           description: Quick Links
-          url: /quick-links/staff/
+          url: ""
         - title: Student
           description: Quick Links
-          url: /quick-links/students/
+          url: /quick-link-students/
   - infobar:
       title: The Kranji Experience
       description: Thinker . Leader . Champion
