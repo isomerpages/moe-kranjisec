@@ -3,25 +3,15 @@ title: Direct School Admissions
 permalink: /admissions/direct-school-admissions/
 description: ""
 ---
-### Direct School Admissions
-
 #### Admission to Secondary 1 In 2023
 
 ##### Introduction
 
 The Direct School Admission Exercise for Secondary School (DSA-Sec) allows students to seek admission to Kranji Secondary School on the basis of talents and achievements that may not be demonstrated at the Primary School Leaving Examination (PSLE).
 
-  
-
 We are accepting applications for DSA-Sec in the following categories:
 
-| Talent Area 	| Criteria 	|
-|---	|---	|
-| Sports and Games<br><br><br>Basketball (Girls Only)<br>Football (Boys Only) 	| Applicant must be able to demonstrate strong interest and talent in relevant areas (Basketball/Football) beyond the abilities of students in the same age group<br><br>Conduct: Good and above<br><br>Representation in sports related competitions will be preferred (but not compulsory)  	|
-| Performing Arts<br><br><br>Concert Band<br>Chinese Dance<br>Modern Dance 	| <br>Applicant must be able to demonstrate strong interest and talent in relevant areas (Music/Dance) beyond the abilities of students in the same age group<br><br>Conduct: Good and above<br><br>Representation in performing arts related competitions will be preferred (but not compulsory)<br>Qualification(s) in music or dance will be preferred (but not compulsory) 	|
-| Language and Humanities<br><br><br>Humanities 	| <br>Applicant must be able to demonstrate strong interest and talent in relevant areas (Humanities) beyond the abilities of students in the same age group.<br><br>Applicant must have consistent high academic achievements in relevant subject (English).<br><br>Conduct: Good and above<br>Representation in related competitions will be preferred (but not compulsory) <br> 	|
-| Science, Technology, Engineering and Mathematics<br><br><br>Science 	| <br>Applicant must be able to demonstrate strong interest and talent in relevant areas (Science) beyond the abilities of students in the same age group.<br><br>Applicant must have consistent high academic achievements in relevant subject (Science).<br><br>Conduct: Good and above<br>Representation in related competitions will be preferred (but not compulsory) 	|
-| Leadership and Uniformed Groups<br><br><br>Leadership 	| Applicant must be able to demonstrate strong interest and talent in relevant areas (Leadership) beyond the abilities of students in the same age group.<br><br>Applicant must have a conviction to make a positive difference to benefit others and/or show the ability to rally the support of others to strive towards a common goal.<br><br>Conduct: Very Good and above<br>Relevant achievement and experiences in the field of leadership will be considered. 	|
+
 
 For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
