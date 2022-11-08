@@ -11,7 +11,8 @@ The Direct School Admission Exercise for Secondary School (DSA-Sec) allows stude
 
 We are accepting applications for DSA-Sec in the following categories:
 
-
+<img src="/images/DSA%201.jpg"
+     style="width:60%">
 
 For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
@@ -20,12 +21,8 @@ Please also take note that meeting all the criteria does not guarantee the stude
 
 ##### Application Timeline
 
-| Date/Time 	| Events 	|
-|:---:	|:---:	|
-| 5th May 2022 to<br>1st June 2022 	| DSA-Sec Application Window 	|
-| 27th June 2022 to<br>12th September 2022 	| In Person DSA-Sec Selection, Trials and Interview 	|
-| 31st October 2022 to<br>4th November 2022 	| DSA-Sec School Preference Submission (SPS) 	|
-| Late November 2022 	| DSA-Sec Results Release 	|
+<img src="/images/DSA%202.jpg"
+     style="width:60%">
 
 **Additional Information:**
 
