@@ -28,9 +28,9 @@ Please refer to the student handbook for more details.
 ### Attire
 
 *   Students are expected to have at least two sets of full uniform (i.e. Buttoned Shirt/Blouse with School Green Shorts/ School Trousers/School Skirt) and at least two sets of PE/House T-shirt attire (i.e. PE/House T-shirt with PE shorts). 
-*   On Mondays, students are to report in full uniform even if there is PE lesson.
-*   On PE days (aside from Monday), students are to report in half uniform.
-*   On non-PE days and examination days, students are to report in full uniform or school polo T-shirt.
+*   On <u>Mondays</u>, students are to report in full uniform even if there is PE lesson.
+*   On <u>PE days (aside from Monday)</u>, students are to report in half uniform.
+*   On <u>non-PE days and examination days</u>, students are to report in full uniform or school polo T-shirt.
 *   During formal events, such as School Achievement Day, students will be required to be in full uniform with tie.
 *   Students are not permitted to be attired in PE attire during curriculum time (lesson time).
 *   Students are not permitted to be attired in their CCA or Class T-shirts at all times, unless permission is granted for special events only.
@@ -66,7 +66,7 @@ PLD should be locked in individual lockers when students are out of class, i.e. 
 
 ### Cyber-Bullying
 
-There is a ZERO tolerance toward cyber-bullying. Cyber-bullying infers to impersonation, use of vulgarities, use of undesirable graphics, name-calling, spreading rumours, damaging another person’s reputation, slander on social media, threats etc. Students should recognise that everyone deserves respect, be it online and in real life.
+There is a **ZERO** tolerance toward cyber-bullying. Cyber-bullying infers to impersonation, use of vulgarities, use of undesirable graphics, name-calling, spreading rumours, damaging another person’s reputation, slander on social media, threats etc. Students should recognise that everyone deserves respect, be it online and in real life.
 
 ### Device Management Application
 
