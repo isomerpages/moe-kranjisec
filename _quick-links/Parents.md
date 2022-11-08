@@ -52,31 +52,17 @@ The MOE Financial Assistance Scheme (FAS) is now open for application. The objec
 
 Student must be a Singapore citizen and meets either one of the following criteria:
 
-Gross Monthly Household Income
+![](/images/FAS%201.png)
 
-$3000 or below
+For your child who is a Comcare beneficiary, you need not submit the MOE FAS Application as MOE FAS will be auto-granted to Comcare beneficiaries.
 
-Per Capita Income
+You may choose to apply for MOE FAS by:
 
-(Per Capita Income \= Total Gross Monthly Household Income
+(a) e-FAS \- for those who wish to submit via e-FAS link at https://go.gov.sg/moe-efas, you are required to submit softcopy supporting documents; or
 
-divided by the number of Household Members)
+(b) [](/files/MOEFAS_Application%20Form.pdf) to be submitted to the General Office.
 
-$750 or below
-
-3. For your child who is a Comcare beneficiary, you need not submit the MOE FAS Application as MOE FAS will be
-
-auto-granted to Comcare beneficiaries.
-
-4. You may choose to apply for MOE FAS by:
-
-(a) e-FAS \- for those who wish to submit via e-FAS link at https://go.gov.sg/moe-efas, you are required to submit
-
-softcopy supporting documents; or
-
-(b) Hardcopy form to be submitted to the General Office.
-
-5. Please note that application via hardcopy form is required (i.e. e-FAS is not applicable) for:
+Please note that application via hardcopy form is required (i.e. e-FAS is not applicable) for:
 
 (a) families with other dependents (Great Grandparents, Aunties/Uncles, Cousins and others);
 
@@ -86,4 +72,4 @@ softcopy supporting documents; or
 
 (d) family with more than 3 grandparents in the household.
 
-6. Should you have further enquiries, please feel free to contact Sharon at Tel: 6766 2464.
+Should you have further enquiries, please feel free to contact Ms Yong at Tel: 67662464.
