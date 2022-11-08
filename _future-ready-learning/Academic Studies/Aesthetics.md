@@ -37,7 +37,7 @@ Our entire level of Secondary 2 students participated in the Live On Festival (L
 <center>Theme: Everyday Things</center>
 <center>Title: Hope has come</center>
 
-&gt; “My artwork depicts two kidneys- one healthy and the other dying. The healthy kidney is portrayed as a functioning and growing metropolis. The people in the city are strong, healthy and carefree, and going about their normal lives with friends and family. However, the dying kidney is portrayed as a war-torn city, reduced to a pile of rubble.To me, war is a terrible situation and it happens in many countries. Like a disease, it destroys and robs people of hope, love, and joy. The enemy soldier, pointing a gun at one of the civilians represents the threat and effect of diseases which is the reason why the kidney failed. The two civilians represent the last shred of hope and life left before the entire kidney shuts down. However, hope is not lost as help is sent from the thriving metropolis to the war-torn city to aid their woes and rebuild the city. The soldier and the paramedic on the bridge represent organ donation, which gives hope to the people in need of a new organ. I hope that through my artwork, I could bring forth this message: Do your part to give hope. Donate your organs now.”
+> “My artwork depicts two kidneys- one healthy and the other dying. The healthy kidney is portrayed as a functioning and growing metropolis. The people in the city are strong, healthy and carefree, and going about their normal lives with friends and family. However, the dying kidney is portrayed as a war-torn city, reduced to a pile of rubble.To me, war is a terrible situation and it happens in many countries. Like a disease, it destroys and robs people of hope, love, and joy. The enemy soldier, pointing a gun at one of the civilians represents the threat and effect of diseases which is the reason why the kidney failed. The two civilians represent the last shred of hope and life left before the entire kidney shuts down. However, hope is not lost as help is sent from the thriving metropolis to the war-torn city to aid their woes and rebuild the city. The soldier and the paramedic on the bridge represent organ donation, which gives hope to the people in need of a new organ. I hope that through my artwork, I could bring forth this message: Do your part to give hope. Donate your organs now.”
 
 Esther 2K2
 
@@ -51,9 +51,9 @@ To enable students to connect and respond to artworks, students will experience 
 		 
 The National Gallery Singapore takes art education on the road with its new Roving Art Truck launched in June 2022. This unique art programme aims to encourage our students to head down to explore our National Gallery Singapore. The truck houses 10 iconic paintings from the National Collection in Singapore. It was in Kranji Secondary School from 22 to 24 August 2022 for students to encounter Art outside the museum. The truck provided an unusual experience for the students to co-create and engage in various activities.
 
-&gt; “When I first saw the art truck, I was amazed by the truck’s interesting design as it was colourful, vibrant and had an attractive camouflaging pattern. When I went in the truck it almost felt like it was a museum due to the environment there! I had a chance to look at the 10 different artworks made by different artists in Southeast Asia but there are three pieces that will be further researched on. The three pieces are [Harmony in Green: The Two sisters by Lê Phõ](https://m.facebook.com/nationalgallerysg/photos/born-in-vietnam-le-pho-moved-to-paris-in-1937-and-stayed-on-in-the-city-until-hi/1355313587817694/) made in 1938 drawn on silk. The second piece is [Skyline of New York by Ahmad Sadali](https://artsandculture.google.com/exhibit/ahmad-sadali-skyline-of-new-york/MQJC52NKtpn7LQ?hl=en) in 1957. What I found compelling is that the artist could express the skyline buildings just by using different lines and shapes to achieve a sense of unity. Finally, the painting the [Portable Cinema by Chua Mia Tee](https://www.nationalgallery.sg/see-do/programme-detail/430762430/chua-mia-tee-directing-the-real) created in 1963 is the most interesting and hence will be doing further research on it. The way the artist used the different colours made it really vibrant and realistic!
-&gt; 
-&gt; I also decided to do this drawing as I am interested to discover how Singapore was like in the olden days. Overall, it was a brilliant and immersive experience as if the museum came to school! I definitely had fun and learnt more about the elements of art and the design principles! I hope there’ll be more interesting events like this in the future!”
+> “When I first saw the art truck, I was amazed by the truck’s interesting design as it was colourful, vibrant and had an attractive camouflaging pattern. When I went in the truck it almost felt like it was a museum due to the environment there! I had a chance to look at the 10 different artworks made by different artists in Southeast Asia but there are three pieces that will be further researched on. The three pieces are [Harmony in Green: The Two sisters by Lê Phõ](https://m.facebook.com/nationalgallerysg/photos/born-in-vietnam-le-pho-moved-to-paris-in-1937-and-stayed-on-in-the-city-until-hi/1355313587817694/) made in 1938 drawn on silk. The second piece is [Skyline of New York by Ahmad Sadali](https://artsandculture.google.com/exhibit/ahmad-sadali-skyline-of-new-york/MQJC52NKtpn7LQ?hl=en) in 1957. What I found compelling is that the artist could express the skyline buildings just by using different lines and shapes to achieve a sense of unity. Finally, the painting the [Portable Cinema by Chua Mia Tee](https://www.nationalgallery.sg/see-do/programme-detail/430762430/chua-mia-tee-directing-the-real) created in 1963 is the most interesting and hence will be doing further research on it. The way the artist used the different colours made it really vibrant and realistic!
+> 
+> I also decided to do this drawing as I am interested to discover how Singapore was like in the olden days. Overall, it was a brilliant and immersive experience as if the museum came to school! I definitely had fun and learnt more about the elements of art and the design principles! I hope there’ll be more interesting events like this in the future!”
 
 Valeria 1J
 
@@ -63,11 +63,11 @@ Valeria 1J
 
 <div style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qQkTu\_OoD8M" height="315" width="560"></iframe></div>
 
-For the Design and Technology (D&amp;T) unit, our aim is to develop a cohesive team of D&amp;T staff and bring out the best in all learners by igniting their passion for learning.
+For the Design and Technology (D&T) unit, our aim is to develop a cohesive team of D&T staff and bring out the best in all learners by igniting their passion for learning.
 
-To build up the interest of our Lower Secondary students in D&amp;T, they will learn about research work on existing products, pencil holder and hand phone holder. They will also learn and work on sketching, ideation (Shape Borrowing and SCAMPER) and developing their own designs. To realise their designs, the students will make mock-ups using cardboards/perforated boards. Finally, the students will make their own prototypes with acrylic or wood using the various machines and hand tools in the D&amp;T workshop.
+To build up the interest of our Lower Secondary students in D&T, they will learn about research work on existing products, pencil holder and hand phone holder. They will also learn and work on sketching, ideation (Shape Borrowing and SCAMPER) and developing their own designs. To realise their designs, the students will make mock-ups using cardboards/perforated boards. Finally, the students will make their own prototypes with acrylic or wood using the various machines and hand tools in the D&T workshop.
 
-In 2022, we received our 1st batch of FSBB Secondary 1 students, with a mixture of G1, G2 and G3 in the same class. We approach the students’ learning in D&amp;T common curriculum using Differentiated Instructions (DI), based on their readiness and pace of learning. The students work well with one another as they shared their knowledge and learning in D&amp;T.
+In 2022, we received our 1st batch of FSBB Secondary 1 students, with a mixture of G1, G2 and G3 in the same class. We approach the students’ learning in D&T common curriculum using Differentiated Instructions (DI), based on their readiness and pace of learning. The students work well with one another as they shared their knowledge and learning in D&T.
 
 We also embark on using digital sketching app such as Paint 3D and Canvas for our Lower Secondary to work on their assignment. This allows our students to ideate and develop using digital sketching app, besides the traditional pencil and paper.
 
@@ -89,7 +89,7 @@ With the new normal, our graduating cohort were able to work on their D&amp;T co
 
 <img style="width:60%" src="/images/DNT%204.jpg">
 
-<center>Sec 2 D&amp;T students working on their mock-up design and using the scroll saw machines to cut the acrylic material.</center>
+<center>Sec 2 D&T students working on their mock-up design and using the scroll saw machines to cut the acrylic material.</center>
 
 <img style="width:60%" src="/images/DNT%205.jpg">
 		 
@@ -97,9 +97,9 @@ With the new normal, our graduating cohort were able to work on their D&amp;T co
 
 ### Maker Programme
 
-For this year, the D&amp;T unit continues to have its in-house Maker Programme to allow students tinkering their area of interest through hands-on activity outside classroom learning. There is a Makerspace where students have an opportunity to explore their own interests, learn to use hand tools and machines and work with materials to develop creative projects.
+For this year, the D&T unit continues to have its in-house Maker Programme to allow students tinkering their area of interest through hands-on activity outside classroom learning. There is a Makerspace where students have an opportunity to explore their own interests, learn to use hand tools and machines and work with materials to develop creative projects.
 
-The students gotten to design and make a coin box out of wood. In the process, the students were guided by D&amp;T teachers and Technical Support Officers (TSO) and the activity took place in term 2.
+The students gotten to design and make a coin box out of wood. In the process, the students were guided by D&T teachers and Technical Support Officers (TSO) and the activity took place in term 2.
 
 Students work collaboratively to design and make the prototype and through this activity, these students discussed, make decision and solve any challenges arose in the process. Not only they built confidence in the process, the students really enjoyed themselves and took pride in their work upon completion. Do keep a look out for the next Maker activities.
 
@@ -117,7 +117,7 @@ Students work collaboratively to design and make the prototype and through this 
 
 ### Student Initiated-Learning, SLS (3D Printer)
 
-For this year, as part of Student-Initiated Learning (SIL), the D&amp;T unit embarked on the designing and fabricating using the 3D printer. The students were taught 3D digital app using the Paint 3D, converting the final digitalised idea into the 3D printer for making. It was an exciting journey for students who used the 3D for the first time in school.
+For this year, as part of Student-Initiated Learning (SIL), the D&T unit embarked on the designing and fabricating using the 3D printer. The students were taught 3D digital app using the Paint 3D, converting the final digitalised idea into the 3D printer for making. It was an exciting journey for students who used the 3D for the first time in school.
 
 <img style="width:60%" src="/images/DNT%2011.jpg">
 <center>Students learning to use the Paint 3D</center>
@@ -133,7 +133,7 @@ For this year, as part of Student-Initiated Learning (SIL), the D&amp;T unit emb
 		 
 ## Nutrition and Food Science
 
-The Nutrition and Food Science (NFS) unit aims to educate students with knowledge in Nutrition &amp; Health, Food Literacy &amp; Consumer Literacy and Food Science.&nbsp; We aim to provide our graduating students with a foundation that can be useful if they would like to pursue food sciences or other food related courses during their tertiary education.
+The Nutrition and Food Science (NFS) unit aims to educate students with knowledge in Nutrition & Health, Food Literacy, Consumer Literacy and Food Science. We aim to provide our graduating students with a foundation that can be useful if they would like to pursue food sciences or other food related courses during their tertiary education.
 
 ### Food Photography
 
@@ -173,7 +173,7 @@ The Music unit aims to develop students’ abilities for creative expression thr
 
 Sec 1 students will go through instrumental modules where they will attain basic skills of playing the keyboard and ukulele. Through the modules, elements of Music are also introduced to ensure a holistic learning for students. Students’ musical competencies will be expanded through the use of ensemble playing and opportunities are provided for students to showcase their learning and final performances.
 
-For Sec 2 students, besides advanced instrumental modules, they will also deepen the musical concepts learnt thus far, by going through the Song Arrangement module where they experience and gain knowledge on the basics of song arrangement such as music genres, instrumentation and music technology.&nbsp;
+For Sec 2 students, besides advanced instrumental modules, they will also deepen the musical concepts learnt thus far, by going through the Song Arrangement module where they experience and gain knowledge on the basics of song arrangement such as music genres, instrumentation and music technology.
 
 Additionally, they also go through a module of Jam Band where they will work closely in small groups to perform their chosen song to a live audience. Opportunities are also provided for students to record their performances as part of their portfolio.
 
