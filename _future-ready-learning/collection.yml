@@ -2,6 +2,7 @@ collections:
   future-ready-learning:
     output: true
     order:
+      - Student Initiated Learning.md
       - Overview/.keep
       - Overview/Full Subject Based Banding.md
       - Applied Learning Programme.md
