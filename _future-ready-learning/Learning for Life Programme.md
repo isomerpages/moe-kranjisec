@@ -51,18 +51,18 @@ Students are given opportunities to serve their community, such as by planning a
 		 
 #### Student Leadership Distinctive Programmes
 
-*Limbang Voices of Youth*
+<center>Limbang Voices of Youth</center>
 
 <img src="/images/LLP%20VOY.jpg" 
      style="width:60%">
 
 Co-organised with the Limbang Youth Network, this dialogue brings youths from the community to discuss their views on initiatives shared by the Prime Minister during the National Day Rally. Our students from the Student Council and Talent Development programme were group facilitators, and led youths from Assumption English School, Regent Secondary and our school in discussing how they can contribute to the ForwardSG movement. They then engaged in a dialogue with the Deputy Prime Minister, Minister for Finance and Adviser to Marsiling-Yew Tee GRC (Limbang), Mr Lawrence Wong.
 
-*West 6 Cluster Primary School Leadership Workshop*
+<center>West 6 Cluster Primary School Leadership Workshop</center>
 
 An annual leadership training programme that first started in 2015, our Student Councillors take on the roles of mentors to nurture the young student leaders from the primary schools in our cluster, as we equipped them with the Five Exemplary Leadership Practices of the Leadership Challenge Model® by Kouzes and Posner, as well as advocacy for social causes.
 
-*Student Leadership Training and Opportunities*
+<center>Student Leadership Training and Opportunities</center>
 
 <img src="/images/LLP%20Sdt%20Ldr.jpg" 
      style="width:60%">
