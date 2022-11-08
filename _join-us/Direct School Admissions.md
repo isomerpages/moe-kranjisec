@@ -14,8 +14,7 @@ We are accepting applications for DSA-Sec in the following categories:
 <img src="/images/DSA%201.jpg"
      style="width:60%">
 
-For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
-
+For more information on DSA-Sec, please refer to the MOE website [here](https://www.moe.gov.sg/dsa-sec).
   
 Please also take note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
