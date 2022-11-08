@@ -17,14 +17,15 @@ Students engage in interactive conversations with guest speakers from a wide var
 
 *   Mentoring
 
-	Students are mentored by teachers, who provide academic counselling, portfolio creation and education and career guidance.
+Students are mentored by teachers, who provide academic counselling, portfolio creation and education and career guidance.
 <img src="/images/TD%202.png" 
      style="width:60%">
 <center>Students guided by their teacher-mentor to carry out a student-initiated art exhibition</center>
 
 *   Kranjian Dialogues
 
-	The Kranjian Dialogues aims to give Kranjians time and space to consider thought-provoking questions. These include considering moral dilemmas, current affairs and broaden world-views. Students serve as facilitators to hold and moderate these conversations.
+The Kranjian Dialogues aims to give Kranjians time and space to consider thought-provoking questions. These include considering moral dilemmas, current affairs and broaden world-views. Students serve as facilitators to hold and moderate these conversations.
+
 <img src="/images/TD%203.png" 
      style="width:60%">
 <center>Kranjian Dialogues (held via zoom), facilitated by our Talent Development students</center>
