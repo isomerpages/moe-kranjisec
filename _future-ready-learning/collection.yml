@@ -2,7 +2,6 @@ collections:
   future-ready-learning:
     output: true
     order:
-      - Student Initiated Learning.md
       - Overview/.keep
       - Overview/Full Subject Based Banding.md
       - Applied Learning Programme.md
@@ -10,6 +9,7 @@ collections:
       - Kepler.md
       - Internalisation.md
       - Talent Development Programme.md
+      - Student Initiated Learning.md
       - Student Initiated Learning/.keep
       - Academic Studies/.keep
       - Academic Studies/Aesthetics.md
