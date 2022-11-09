@@ -2,6 +2,7 @@ collections:
   not-included:
     output: true
     order:
+      - Resilience Walk.md
       - Staff.md
       - International Students.md
       - Music.md
