@@ -47,4 +47,8 @@ sections:
       url: /front-page/Sec-45-Distinctive-Experiences/career-fair/
       alt: Image alt text
       image: /images/CF 2.jpg
+  - resources:
+      title: Test
+      subtitle: Test
+      button: Test resource
 ---
