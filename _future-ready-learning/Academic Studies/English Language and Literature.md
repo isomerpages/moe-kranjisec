@@ -4,14 +4,24 @@ permalink: /active-learning/english-language-and-literature/
 description: ""
 third_nav_title: Academic Studies
 ---
+Welcome to the webpage of Kranji Secondary School English Language and Literature Department. As a department, we aim to equip Kranjians with skills and knowledge to be confident in the use of English Language for effective communication, as well as to develop in Kranjians an appreciation and a passion for the English Language and Literature.
 
-### English Language and Literature
+<img src="/images/EL%201.jpg" 
+     style="width:60%">
+		 
+<img src="/images/EL%202.jpg" 
+     style="width:60%">
 
-#### Department Objectives
+Here are the videos that you will get to watch in this webpage:
 
-*   To equip Kranjians with skills and knowledge to be confident in the use of English Language for effective communication
-*   To develop in Kranjians an appreciation and a passion for the English Language and Literature
+*   Overview of EL & Lit Department – EL Syllabus 2020, Key Department Programmes, Key Pedagogies
+*   Speaking Task for Secondary 1
+*   Kranji Voices
 
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/2-6ecNUPt0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/1Fzvvl0f_yQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/3_lAgNsMdpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    
 #### Key Programmes
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2-6ecNUPt0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
