@@ -26,7 +26,7 @@ sections:
   - infopic:
       title: Sec 1 Distinctive Experiences
       button: Read More
-      url: /front-page/Sec-1-Distinctive-Experiences
+      url: /the-kranji-experience/Secondary-1/orientation-programme/
       alt: Image alt text
       image: /images/SOOP 3.jpg
   - infopic:
