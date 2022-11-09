@@ -31,7 +31,7 @@ Through the programme, students will:
 *   Students who complete the KEPLER Learning Modules will be prioritised for participation in the higher tier KEPLER Challenges. 
 *   At this tier, structured mentoring is provided by teachers and/or scientist partners to support students through more intellectually stimulating and challenging tasks.
 
- (Please refer to the Science and Mathematics pages for more information on these programmes.)
+ (Please refer to the [Science](/active-learning/science/) and [Mathematics](/active-learning/science/) pages for more information on these programmes.)
  
  <img src="/images/KEPLER%201.jpg" 
      style="width:60%">
