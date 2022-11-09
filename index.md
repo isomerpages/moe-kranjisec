@@ -44,7 +44,7 @@ sections:
   - infopic:
       title: Sec 4/5 Distinctive Experiences
       button: Read more
-      url: /front-page/Sec-45-Distinctive-Experiences
+      url: /front-page/Sec-45-Distinctive-Experiences/career-fair/
       alt: Image alt text
       image: /images/CF 2.jpg
 ---
