@@ -38,7 +38,7 @@ sections:
   - infopic:
       title: Sec 3 Distinctive Experiences
       button: Read more
-      url: /front-page/Sec-3-Distinctive-Experiences
+      url: /front-page/Sec-3-Distinctive-Experiences/industry-visits/
       alt: Image alt text
       image: /images/IVJS 1.jpg
   - infopic:
