@@ -19,9 +19,9 @@ sections:
           description: Quick Links
           url: /quick-link-students/
   - infobar:
-      title: The Kranji Experience
+      title: Announcements
       description: Thinker . Leader . Champion
-      button: Learn more here
+      button: Read it here
       url: /the-kranji-experience/Secondary-1/drama-in-literature-programme/
   - infopic:
       title: Sec 1 Distinctive Experiences
