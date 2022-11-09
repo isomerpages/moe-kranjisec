@@ -2,6 +2,7 @@ collections:
   not-included:
     output: true
     order:
+      - Staff.md
       - International Students.md
       - Music.md
       - First Prize Winner of the Education for Sustainable Development Award.md
