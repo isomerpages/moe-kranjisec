@@ -14,7 +14,7 @@ sections:
           url: /quick-links/parents/
         - title: Staff
           description: Quick Links
-          url: /links/staff/
+          url: https://sites.google.com/moe.edu.sg/ksslinksforstaff/home?pli=1#h.kjcvndohbm9g
         - title: Student
           description: Quick Links
           url: /quick-link-students/
