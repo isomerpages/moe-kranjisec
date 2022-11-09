@@ -32,7 +32,7 @@ sections:
   - infopic:
       title: Sec 2 Distinctive Experiences
       button: Read more
-      url: /front-page/Sec-2-Distinctive-Experiences/
+      url: /front-page/Sec-2-Distinctive-Experiences/THINK-programme/
       alt: Image alt text
       image: /images/Aes Dev 8.jpeg
   - infopic:
