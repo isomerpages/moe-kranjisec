@@ -65,7 +65,7 @@ For your child who is a Comcare beneficiary, you need not submit the MOE FAS App
 
 You may choose to apply for MOE FAS by:
 
-(a) e-FAS \- for those who wish to submit via e-FAS link at https://go.gov.sg/moe-efas, you are required to submit softcopy supporting documents; or
+(a) e-FAS \- for those who wish to submit via [e-FAS link](https://go.gov.sg/moe-efas), you are required to submit softcopy supporting documents; or
 
 (b) [Hardcopy form](/files/MOEFAS_Application%20Form.pdf) to be submitted to the General Office.
 
