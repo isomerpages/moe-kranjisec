@@ -18,7 +18,6 @@ Historical Scene Investigation (organised by NLB) – **Bronze Award** |
 NUS Geography Challenge – Law Jun Qi (3K3) was awarded the **Bronze medal** in the preliminary round
 MOE History Challenge - ADENA HO SHU-MIN **shortlisted** for the MOE History Talent Development Programme (HTDP) 2022/2023
 Historical Scene Investigation, organized by National Library Board - **a Silver and Bronze**
-| 
 
 The Humanities Department believes in the transformative power of a humanities education to develop our students into analytical, critical and creative thinkers. We prepare our students for the challenges of the changing world by nurturing students into active global citizens, and lifelong learners and leaders.
 
