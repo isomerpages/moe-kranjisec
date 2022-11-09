@@ -4,6 +4,22 @@ permalink: /active-learning/science/
 description: ""
 third_nav_title: Academic Studies
 ---
+**Achievements (2021-2022)**
+
+| 2021 |  |  |
+| -------- | -------- | -------- |
+| 
+*   Research Mentorship by Centre for Research and Applied Learning in Science (CRADLΣ)  
+    Project Title: Investigation of Sound Absorption Capabilities of Different Types of Food Waste<br> **High Distinction Award**
+*   NJC Enrichment Science Training and Research (ESTaR) Programme  
+    Project Titles: Investigation of the Removal of Heavy Metal Ions Using Food Waste  
+    A Study on the Effects of Hydrogel Extracted from Diapers on Antioxidant Levels in Plants<br>**Shortlisted for Final Judging at the Singapore Science and Engineering Fair (SSEF)** <br>
+*   Youth Science Ambassador Programme @ Science Centre (YSAP)<br> **Amazon Future Engineer Bursary Award**
+*   Singapore Junior Chemistry Olympiad<br> **Silver Award (x2), Merit Award (x1)** 
+*   Singapore Junior Biology Olympiad  <br>**Honourable Mention Award (x1**)
+*   International C.B Paul Quiz<br>**Gold Award (x2), Silver Award (x1), Bronze Award (x6)**
+
+
 ## Objectives 
 
 Science@Kranji aims to develop students who are Inspired by Science, Inquire like Scientists and Innovate using Science. With a renewed focus on **S**cience, **T**echnology, **E**ngineering and **M**athematics (STEM), we envisage students who are passionate about STEM and equipped with the necessary competencies to solve complex real-world problems in future. 
