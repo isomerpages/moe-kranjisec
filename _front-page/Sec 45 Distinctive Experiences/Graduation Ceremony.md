@@ -6,7 +6,7 @@ third_nav_title: Sec 45 Distinctive Experiences
 ---
 Graduation Day signifies the last official day of school for our Secondary 4 and 5 Kranjians, before they have a short study break as they gear up towards the start of their N-Levels and O-Levels examinations.
 
-<img src="/images/grad.gif" 
+<img src="images/Grad%201.jpg" 
      style="width:60%">
 <center>Class of 2022 all gathered for a cohort photo during Graduation Day.</center>
 
