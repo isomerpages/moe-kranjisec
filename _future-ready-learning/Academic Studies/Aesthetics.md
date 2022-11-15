@@ -130,6 +130,12 @@ For this year, as part of Student-Initiated Learning (SIL), the D&T unit embarke
 
 <img style="width:60%" src="/images/DNT%2014.jpg">
 <center>Group photo</center>
+
+### Design Camp@Temasek Polytechnic
+
+Our Sec 3 D&T students attended the 2 days camp at Temasek Polytechnic organised by the School of Design. The programme consists of talk on the various courses in School of Design, hands-on activities such as sustainable product development, risograph printing, silk screening of tote bags and product development using Rhino software. There were also Ice breaking games, station games and mass dance for the students from different schools to bond and work together. It was an enriching experience for our students to get insights on the possible design courses, school life at the Polytechnic and to inspire them to work hard for their graduating year.
+
+
 		 
 ## Nutrition and Food Science
 
