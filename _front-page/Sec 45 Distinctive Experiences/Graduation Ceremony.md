@@ -20,11 +20,11 @@ As a rite of passage, our Principal, Vice-Principals and teachers would pin the 
 
 <img src="/images/grad.gif" 
      style="width:60%">
-<center>Graduating students taking photos with their beloved teachers.</center>
+<center>Collar pin ceremony.</center>
 
 <img src="/images/grad.gif" 
      style="width:60%">
-<center>Graduating students taking photos with their beloved teachers.</center>
+<center>Performances by students and teachers to our graduating cohort.</center>
 
 Quote from Darryl Ng Yuhui of class 4K3:
 
