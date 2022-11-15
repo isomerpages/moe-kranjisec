@@ -12,17 +12,20 @@ Graduation Day signifies the last official day of school for our Secondary 4 and
 
 During the event, heartfelt messages from all their teachers are shared, reflecting their well-wishes and aspirations to our graduating cohort.
 
-<img src="/images/grad.gif" 
+<img src="/images/Grad%202.jpg"
+     style="width:60%">
+		 
+<img src="/images/Grad%205.jpg"
      style="width:60%">
 <center>Graduating students taking photos with their beloved teachers.</center>
 
 As a rite of passage, our Principal, Vice-Principals and teachers would pin the school collar pin onto the collar of the students’ shirts, signifying their graduation from the school; this is in contrast to their first day in the school 4-5 years ago as Sec 1 newbies, when their form teachers clip on the tie-pins to welcome them as Kranjians.
 
-<img src="/images/grad.gif" 
+<img src="/images/Grad%203.jpg" 
      style="width:60%">
 <center>Collar pin ceremony.</center>
 
-<img src="/images/grad.gif" 
+<img src="/images/Grad%204.jpg" 
      style="width:60%">
 <center>Performances by students and teachers to our graduating cohort.</center>
 
