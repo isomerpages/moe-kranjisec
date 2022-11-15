@@ -4,10 +4,28 @@ permalink: /the-kranji-experience/Secondary-4-and-5/graduation-ceremony/
 description: ""
 third_nav_title: Sec 45 Distinctive Experiences
 ---
-
-### Graduation Ceremony
-
-The Graduation Ceremony for the Secondary 4 and 5 cohorts was conducted on 4 October this year. Not only was it a significant event to mark the completion of the secondary school journey of our graduating students, it was also a wonderful platform for them to show their appreciation to their teachers and school for the years of nurturing and care. Furthermore, it also gave the students an opportunity to bond with one another and celebrate this important milestone together before the national examinations. During the ceremony, a video montage specially prepared by the Media & Productions Team for the graduating classes was played. A few teachers put together a marvellous performance of music and songs, much to the amazement and delight of the students. Then, the classes were presented with their graduation certificates as well as token gifts hand-made by the Parents Support Group. In return, the class representatives presented their class mentors with a memento as a token of appreciation. It was a simple yet meaningful and heart-warming ceremony indeed!
+Graduation Day signifies the last official day of school for our Secondary 4 and 5 Kranjians, before they have a short study break as they gear up towards the start of their N-Levels and O-Levels examinations.
 
 <img src="/images/grad.gif" 
      style="width:60%">
+<center>Class of 2022 all gathered for a cohort photo during Graduation Day.</center>
+
+During the event, heartfelt messages from all their teachers are shared, reflecting their well-wishes and aspirations to our graduating cohort.
+
+<img src="/images/grad.gif" 
+     style="width:60%">
+<center>Graduating students taking photos with their beloved teachers.</center>
+
+As a rite of passage, our Principal, Vice-Principals and teachers would pin the school collar pin onto the collar of the students’ shirts, signifying their graduation from the school; this is in contrast to their first day in the school 4-5 years ago as Sec 1 newbies, when their form teachers clip on the tie-pins to welcome them as Kranjians.
+
+<img src="/images/grad.gif" 
+     style="width:60%">
+<center>Graduating students taking photos with their beloved teachers.</center>
+
+<img src="/images/grad.gif" 
+     style="width:60%">
+<center>Graduating students taking photos with their beloved teachers.</center>
+
+Quote from Darryl Ng Yuhui of class 4K3:
+
+> Graduation Day was celebrated magnificently with a video montage to reminisce our journey in Kranji. The collar pin ceremony (a contrast to our tie clip ceremony during Sec 1 Inauguration), marked the end of our time in Kranji and gave us something to remember Kranji in the future. We got to give gifts to our friends and take many pictures to immortalise our friendship. It was a very fun day filled with cries and laughter and I’m glad to have graduated from Kranji and be a part of the Kranji Alumni!
