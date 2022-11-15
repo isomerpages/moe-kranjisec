@@ -1,0 +1,20 @@
+collections:
+  future-ready-learning:
+    output: true
+    order:
+      - Overview/.keep
+      - Overview/Full Subject Based Banding.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - Kepler.md
+      - Internalisation.md
+      - Talent Development Programme.md
+      - Student Initiated Learning.md
+      - Academic Studies/.keep
+      - Academic Studies/Aesthetics.md
+      - Academic Studies/English Language and Literature.md
+      - Academic Studies/Humanities.md
+      - Academic Studies/Mathematics.md
+      - Academic Studies/Mother Tongue Languages.md
+      - Academic Studies/Science.md
+      - Academic Studies/ICT and Computing.md

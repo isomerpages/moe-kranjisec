@@ -1,0 +1,20 @@
+collections:
+  front-page:
+    output: true
+    order:
+      - Sec 1 Distinctive Experiences/.keep
+      - Sec 1 Distinctive Experiences/Orientation Programme.md
+      - Sec 1 Distinctive Experiences/LLP Student Leadership Challenge Module.md
+      - Sec 1 Distinctive Experiences/Lower Sec VIA Modules.md
+      - Sec 2 Distinctive Experiences/.keep
+      - Sec 2 Distinctive Experiences/THink INquire in Kranji (THINK).md
+      - Sec 2 Distinctive Experiences/Aesthetics Development.md
+      - Sec 2 Distinctive Experiences/Literature Learning Journey.md
+      - Sec 2 Distinctive Experiences/Career Exploration Workshops.md
+      - Sec 3 Distinctive Experiences/.keep
+      - Sec 3 Distinctive Experiences/Outward Bound School (OBS) Level Camp.md
+      - Sec 3 Distinctive Experiences/Industry Visits and Job Shadowing.md
+      - Sec 3 Distinctive Experiences/Upper Sec VIA.md
+      - Sec 45 Distinctive Experiences/Career Fair.md
+      - Sec 45 Distinctive Experiences/.keep
+      - Sec 45 Distinctive Experiences/Graduation Ceremony.md

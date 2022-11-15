@@ -1,0 +1,44 @@
+collections:
+  experience:
+    output: true
+    order:
+      - Overview.md
+      - CCE/.keep
+      - CCE/Educational Career Guidance.md
+      - CCE/National Education.md
+      - CCE/Sexuality Education.md
+      - CCE/Values In Action.md
+      - CCA/.keep
+      - CCA/Overview.md
+      - CCA/English Literary Drama and Debate Society.md
+      - CCA/Infocomm Technology.md
+      - CCA/International and Global Studies.md
+      - CCA/Malay Culture and Language Society.md
+      - CCA/Science and Technology Club.md
+      - CCA/National Cadet Corps Land.md
+      - CCA/National Police Cadet Corps.md
+      - CCA/Saint John Brigade.md
+      - CCA/Art and Crafts.md
+      - CCA/Kranji Choir.md
+      - CCA/Kranji Chinese Dance Society.md
+      - CCA/Kranji Modern Dance Club.md
+      - CCA/Kranji Concert Band.md
+      - CCA/Badminton.md
+      - CCA/Basketball.md
+      - CCA/Floorball.md
+      - CCA/Football.md
+      - CCA/Table Tennis.md
+      - Houses/.keep
+      - Houses/Overview.md
+      - Houses/Kestrel.md
+      - Houses/Rhino.md
+      - Houses/Albatross.md
+      - Houses/Nighthawk.md
+      - Houses/Jaguar.md
+      - Houses/Ibex.md
+      - Student Leadership/.keep
+      - Student Leadership/Overview.md
+      - Student Leadership/Student Councillors.md
+      - Student Leadership/CCA Leaders.md
+      - Student Leadership/Peer Support Leaders.md
+      - School Rules and Regulations.md

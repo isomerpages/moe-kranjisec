@@ -1,0 +1,17 @@
+collections:
+  our-kranji:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our Mission/.keep
+      - Our Mission/School Crest.md
+      - Our Mission/Vision, Mission, Values, Motto.md
+      - Our History.md
+      - Our People/.keep
+      - Our People/School Advisory Committee.md
+      - Our People/School Management Committee.md
+      - Our People/Staff Email Address.md
+      - Our Partners/.keep
+      - Our Partners/Parents Support Group.md
+      - Our Partners/Alumni.md
+      - Our Achievements.md

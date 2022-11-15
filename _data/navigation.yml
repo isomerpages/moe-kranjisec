@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/kranjilogo.png
 links:
+  - title: Our Kranji
+    collection: our-kranji
+  - title: Future Ready Learning
+    collection: future-ready-learning
+  - title: Experience
+    collection: experience
+  - title: Join Us!
+    collection: join-us
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /contact/
