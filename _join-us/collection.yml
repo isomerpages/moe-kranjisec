@@ -2,6 +2,6 @@ collections:
   join-us:
     output: true
     order:
-      - Sec 1 Posting.md
       - Direct School Admissions.md
+      - Sec 1 Posting.md
       - Returning SC and IS.md
