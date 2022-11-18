@@ -2,7 +2,6 @@ collections:
   experience:
     output: true
     order:
-      - House System.md
       - Overview.md
       - CCE/.keep
       - CCE/Educational Career Guidance.md
@@ -29,6 +28,7 @@ collections:
       - CCA/Floorball.md
       - CCA/Football.md
       - CCA/Table Tennis.md
+      - House System.md
       - Student Leadership/.keep
       - Student Leadership/Overview.md
       - Student Leadership/Student Councillors.md
