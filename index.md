@@ -20,9 +20,8 @@ sections:
           url: /quick-link-students/
   - infobar:
       title: Announcements
-      description: Thinker . Leader . Champion
       button: Read it here
-      url: /the-kranji-experience/Secondary-1/drama-in-literature-programme/
+      url: /announcements/e-open-house/
   - infopic:
       title: Sec 1 Distinctive Experiences
       button: Read More

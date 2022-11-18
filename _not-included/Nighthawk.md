@@ -2,8 +2,9 @@
 title: Nighthawk
 permalink: /school-life/Houses/nighthawk/
 description: ""
-third_nav_title: Houses
 ---
+
+
 ### Nighthawk
 
 <img src="/images/nighthawk1.png" 

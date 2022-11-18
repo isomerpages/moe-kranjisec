@@ -1,9 +1,9 @@
 ---
 title: Appeal for School Transfer for Sec 1
-permalink: /admissions/Secondary-One-Posting/appeal-for-school-transfer-sec-1
+permalink: /admissions/Secondary-One-Posting/appeal-for-school-transfer-sec-1/
 description: ""
-third_nav_title: Secondary One Posting
 ---
+
 ### Appeal for School Transfer for Sec 1
 
 Students who wish to appeal for transfer to Kranji Secondary School have to meet the school's cut-off points (COP) and subject to available vacancy.

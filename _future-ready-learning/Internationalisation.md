@@ -1,5 +1,5 @@
 ---
-title: Internalisation
+title: Internationalisation
 permalink: /future-ready-learning/Internationalisation/
 description: ""
 ---

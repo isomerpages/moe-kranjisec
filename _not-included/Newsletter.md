@@ -3,6 +3,7 @@ title: Newsletter
 permalink: /announcements/newsletter/
 description: ""
 ---
+
 ### Newsletter
 
 [Kranji Sec Newsletter 2021 Issue 2] (Upload pdf here)

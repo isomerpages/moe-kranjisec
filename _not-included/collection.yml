@@ -2,6 +2,15 @@ collections:
   not-included:
     output: true
     order:
+      - Appeal for School Transfer for Sec 1.md
+      - Ibex.md
+      - Jaguar.md
+      - Nighthawk.md
+      - Albatross.md
+      - Rhino.md
+      - Kestrel.md
+      - Overview.md
+      - Newsletter.md
       - Resilience Walk.md
       - Staff.md
       - International Students.md

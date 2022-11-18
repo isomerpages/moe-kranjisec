@@ -2,8 +2,9 @@
 title: Kestrel
 permalink: /school-life/Houses/kestrel/
 description: ""
-third_nav_title: Houses
 ---
+
+
 ### Kestrel
 
 <img src="/images/kestrel1.png" 
