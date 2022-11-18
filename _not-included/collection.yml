@@ -2,6 +2,7 @@ collections:
   not-included:
     output: true
     order:
+      - Kestrel.md
       - Overview.md
       - Newsletter.md
       - Resilience Walk.md
