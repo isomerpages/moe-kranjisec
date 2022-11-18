@@ -8,7 +8,7 @@ notification: "Sign up for Zoom Meeting with our Principal on 19 Nov 2022, 1 pm:
   http://cutt.ly/ANKEhl3"
 sections:
   - hero:
-      background: /images/kssbanner.gif
+      background: /images/Open House 2022.png
       key_highlights:
         - title: For Parents
           description: ""
