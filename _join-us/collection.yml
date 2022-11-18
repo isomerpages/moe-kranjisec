@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Direct School Admissions.md
-      - Secondary One Posting/Overview.md
+      - Secondary One Posting/Sec 1 Posting.md
       - Secondary One Posting/Appeal for School Transfer for Sec 1.md
       - Secondary One Posting/.keep
       - Returning SC and IS.md
