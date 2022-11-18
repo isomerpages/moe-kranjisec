@@ -3,7 +3,6 @@ title: Internationalisation
 permalink: /future-ready-learning/Internationalisation/
 description: ""
 ---
-
 Internationalisation is an important thrust under MOE’s Learn for Life Agenda. The Internationalisation Programme is our school’s vehicle to provide our students with different opportunities to understand the histories, cultures, and economies of countries around the world, particularly those in Asia, and these countries’ interconnections with Singapore. Despite travel restrictions due to the COVID-19 pandemic, virtual platforms have provided us with the means to create global classrooms and replicate internationalisation experiences without stepping beyond our shores.
 
 ### The Education for Sustainable Development Award – First Prize winner
