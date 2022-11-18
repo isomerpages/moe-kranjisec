@@ -85,43 +85,50 @@ Young Albatrosses may fly within three to ten months after they are hatched, thi
 
 The Albatross impresses not just by sheer size but by its unsurpassed gliding power. We are known for our stamina and endurance in long distance travelling. We soar high to catch and ride the wind. The Albatross is ever ready to go beyond the limits.
   
-**
+### NIGHTHAWK
 
-<p><a href="https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/rhino/">  
-<img style="width:45%" src="/images/rhino.png">  
-</a></p>
-		 
-<p><a href="https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/albatross/">  
-<img style="width:45%" src="/images/albatross.png">  
-</a></p>
+Smaller than the hawk but no less majestic and daring with its characteristic wide wingspread, the nighthawk is more enduring in energy and stamina and stays in flight longer at greater heights. The motto "**WITH WINGS WE FLY, WITH GUTS WE TRY**" has thus been inspired by the courage and perseverance of this creature.
 
-<p><a href="https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/nighthawk/">  
-<img style="width:45%" src="/images/nighthawk.png">  
-</a></p>
+<img src="/images/Nighthawk%20flag.png" 
+     style="width:60%">
 
-<p><a href="https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/jaguar/">  
-<img style="width:45%" src="/images/jaguar.png">  
-</a></p>
-<p><a href="https://staging.d28t49xsr05e29.amplifyapp.com/school-life/Houses/ibex">  
-<img style="width:45%" src="/images/ibex.png">  
-</a></p>
+Like the nighthawk, Kranjians who belong to the Nighthawk house are always encouraged to go beyond their limits and not be afraid of failures. No matter the outcome, Nighthawk members are always willing to try and participate in various house-based activities. Achieving victory is never a primary goal; learning from failures and enjoying the process are always emphasised instead!
 
-#### House Events
+In Nighthawk, bonding and camaraderie are emphasised as well. Games and initiation ceremonies are planned during the Secondary One Orientation to welcome them into the Nighthawk family. Besides the various planned house events and activities, bonding games are regularly held during house meetings to encourage interaction across classes and levels among house members.
 
-There are various events that allow Houses to accumulate points so as to clinch the Overall Champion House of the year.
+Nighthawk members thus go through their journey in the house together as one family, with an open mind and a ‘never-say-die’ attitude!
 
-<img src="/images/houses12.png" 
-     style="width:80%">
-		 
-One of the most keenly anticipated event is the Cheering Competition, held at the end of the School Annual Sports Day. Check out the video of the Cheering Competition in 2019!
+### JAGUAR
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K9VkYckJwpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The jaguar epitomises excellence in speed and was particularly chosen for its excellent ability to run and even swim, proving it to be an extremely powerful animal. It possesses a strong survival instinct. It is fearless and is feared and revered by all. 
 
-Join Kranji, and be part of our unique Kranji Experience!
+Motto:  "**FEARSOME AND FEARLESS – READY TO STRIKE!**"
 
-#### Try this!
+<img src="/images/Jaguar%20flag.png" 
+     style="width:60%">
 
-Find out what House you should belong to, by taking this [fun quiz](https://quiz.tryinteract.com/#/5dbedb3e6ff8b9001444123a)!
+True to our motto, members of Jaguar house are fearsome and fearless, and are ready to take on any challenge that comes our way. Not only do we have athletes who give their all in sporting events like Sports Day and Inter-house Games, we also excel in events requiring mass participation such as the National Day Fiesta, Total Defence Day Carnival and Cheering competition during Sports Day. 
 
-<img src="/images/houses13.png" 
-     style="width:50%">
+Being the overall house champion for five consecutive years from 2016 to 2022 is no mean feat! Jaguar house prides itself for our high level of teamwork. We work together towards our common goal, with every single member earning as many points as they can to contribute to the overall house scores.
+
+Wherever your strength lies, there will be a place for you in Jaguar house, as long as you are ever ready to strike!
+
+### JAGUAR
+
+When it comes to nimbleness and surefootedness, others pale into insignificance. Steadfast and determined, the ibex is known for its agility in leaping about ledges and rugged terrain. Ibex will go where lesser creatures fear to tread.
+
+Motto: "**Stronger together, better than ever**"
+
+<img src="/images/Ibex%20flag.png" 
+     style="width:60%">
+
+ike the sure-footed and agile Ibex that inhabit the rugged mountains and cliffs, Kranjians who belong to Ibex remain undaunted in the face of difficulties and are able to find their way out of challenging situations. Ibex live in herds and depend on each other for survival. Similarly, Ibex house members exhibit camaraderie and work closely together during school events.
+
+New Ibex house members will meet their fellow housemates during Secondary One Orientation. The Ibex House Committee usually plans some fun ice-breakers so the juniors get to know their Ibex seniors. During the annual Sports Day, all Ibex members have a chance to participate in the events by signing up either in teams or individually. Even if one is not inclined towards sports, one can contribute by helping to make props for the cheerleading competition, or even volunteer as a cheerleader! There is a myriad of other school events, such as the Humanities Amazing Race, the annual Inter-House Games and the Sports Fiesta, where Ibex members can proudly represent their house and earn points to bring Ibex closer to clinching the House Championship.
+
+Through all these exciting events, an Ibex member will truly understand that we are stronger together, and when we come together as one house and work with each other, we will be better than ever.
+
+Find out what House you should belong to, by taking this fun [quiz](http://gg.gg/whatsmyhouse)!
+
+<img src="/images/House%20Sys%203.jpg" 
+     style="width:60%">
