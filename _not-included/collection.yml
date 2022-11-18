@@ -2,6 +2,7 @@ collections:
   not-included:
     output: true
     order:
+      - Appeal for School Transfer for Sec 1.md
       - Ibex.md
       - Jaguar.md
       - Nighthawk.md
