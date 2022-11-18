@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - eOpen House.md
       - Overview.md
