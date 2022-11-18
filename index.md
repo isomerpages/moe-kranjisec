@@ -22,9 +22,11 @@ sections:
       title: Kranji Secondary School
       subtitle: Thinker. Leader. Champion.
   - infobar:
-      title: Announcements
+      title: e-Open House 2022
       button: Read it here
       url: /announcements/e-open-house/
+      subtitle: Announcements
+      description: Register for a virtual chat with our Principal on 19 Nov 2022, 1 pm.
   - infopic:
       title: Sec 1 Distinctive Experiences
       button: Read More
