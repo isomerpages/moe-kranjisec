@@ -4,11 +4,17 @@ permalink: /school-life/houses/house-system/
 description: ""
 third_nav_title: House System
 ---
+Since the start of the school in 1995, the **Kranji House system** was created to foster team spirit, a sense of loyalty and belonging in students and teachers in the house and to the school at large. This is done via friendly competition and numerous House-related activities. Students and teachers contribute points to their own Houses. At the end of the year, the House with the most number of points will be crowned the Overall Champion House!
 
+<img src="/images/House%20Sys%201.jpg" 
+     style="width:60%">
+<center>The six Houses of Kranji Secondary School. The first letter of each House spells the name K.R.A.N.J.I !</center>
 
-### Houses
-  
-Since the start of the school in 1995, the Kranji House system was created to foster team spirit, a sense of loyalty and belonging in students and teachers in the house and to the school at large. This is done via friendly competition and numerous House-related activities. Students and teachers contributes points to their own Houses. At the end of the year, the House with the most number of points will be crowned the Overall Champion House!
+With the implementation of Full Subject Based-Banding (FSBB) in 2022, the school leveraged on the existing House system to class the Secondary 1 into their classes. Hence from 2022 onwards, all new Sec 1 students will be allocated to their House which would also be their class. For example in Class 1K, all the students in that class will be in Kestrel House and would don their signature yellow t-shirt; Class 1R will all be in Rhino House and would don their bright red t-shirt!
+
+<img src="/images/House%20Sys%202.jpg" 
+     style="width:60%">
+<center>Sec 1s of 2022 in their new House t-shirts.</center>
 
 <img src="/images/houses1.gif" 
      style="width:60%">
