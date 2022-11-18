@@ -8,7 +8,7 @@ notification: "Sign up for Zoom Meeting with our Principal on 19 Nov 2022, 1 pm:
   http://cutt.ly/ANKEhl3"
 sections:
   - hero:
-      background: /images/Kranji Experience 1.png
+      background: /images/Kranji Experience 2.png
       key_highlights:
         - title: For Parents
           description: ""
