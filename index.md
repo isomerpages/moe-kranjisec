@@ -19,6 +19,8 @@ sections:
         - title: Students
           description: ""
           url: /quick-link-students/
+      title: Kranji Secondary School
+      subtitle: Thinker. Leader. Champion.
   - infobar:
       title: Announcements
       button: Read it here
