@@ -10,13 +10,13 @@ sections:
   - hero:
       background: /images/Kranji Experience 2.png
       key_highlights:
-        - title: For Parents
+        - title: Parents
           description: ""
           url: /quick-links/parents/
-        - title: For Staff
+        - title: Staff
           description: ""
           url: https://sites.google.com/moe.edu.sg/ksslinksforstaff/home?pli=1#h.kjcvndohbm9g
-        - title: For Students
+        - title: Students
           description: ""
           url: /quick-link-students/
   - infobar:
