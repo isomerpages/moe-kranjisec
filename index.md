@@ -4,24 +4,29 @@ title: Kranji Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/kranjilogo.png
 permalink: /
-notification: ""
+notification: "Sign up for Zoom Meeting with our Principal on 19 Nov 2022, 1 pm:
+  http://cutt.ly/ANKEhl3"
 sections:
   - hero:
-      background: /images/kssbanner.gif
+      background: /images/Kranji Experience 2.png
       key_highlights:
         - title: Parents
-          description: Quick Links
+          description: ""
           url: /quick-links/parents/
         - title: Staff
-          description: Quick Links
+          description: ""
           url: https://sites.google.com/moe.edu.sg/ksslinksforstaff/home?pli=1#h.kjcvndohbm9g
-        - title: Student
-          description: Quick Links
+        - title: Students
+          description: ""
           url: /quick-link-students/
+      title: Kranji Secondary School
+      subtitle: Thinker. Leader. Champion.
   - infobar:
-      title: Announcements
+      title: e-Open House 2022
       button: Read it here
       url: /announcements/e-open-house/
+      subtitle: Announcements
+      description: Register for a virtual chat with our Principal on 19 Nov 2022, 1 pm.
   - infopic:
       title: Sec 1 Distinctive Experiences
       button: Read More

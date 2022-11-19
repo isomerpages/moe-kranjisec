@@ -1,8 +1,9 @@
 ---
-title: Returning SC and IS
+title: Returning Singapore Citizens and International Students
 permalink: /admissions/returning-sc-is/
 description: ""
 ---
+
 ### Returning Singaporeans And International Students
 
 Admission for International Students
