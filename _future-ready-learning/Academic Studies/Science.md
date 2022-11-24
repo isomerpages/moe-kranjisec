@@ -34,7 +34,7 @@ We believe that Science is more than the acquisition of knowledge; it is also a 
 
 As enrichment, Secondary 1 students learnt how to make plastic from milk during their Orientation programme and Secondary 2 students participated in different STEM enrichment workshops during post-examination programme based on their interests to learn about cloud chambers, jam-making, aviation and flight science, forensic science etc. In addition, selected Secondary 4 students embarked on an industrial e-visit to GlaxoSmithKline (GSK) Singapore. All students also participated in STEM Week challenges. Through these experiences, students learnt about useful real-world applications of science to extend their knowledge from the classroom.
 
-### KEPLER Programme (See KEPLER webpage for more details) 
+### KEPLER Programme (See [KEPLER webpage](https://www.kranjisec.moe.edu.sg/future-ready-learning/Kepler/) for more details) 
 
 * **Academic Competitions, Research Programmes, Fairs and Conferences**
 
