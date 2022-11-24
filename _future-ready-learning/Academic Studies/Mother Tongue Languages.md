@@ -17,7 +17,7 @@ To help them to stay rooted in traditions and values;
 
 To prepare them for a changing world.
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/XwhnMRFa7bw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/XwhnMRFa7bw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
  
 ####  Key Programmes
 
@@ -49,11 +49,11 @@ The department also organised several events, such as Pongal Festival, Lunar New
 		 
 In Tier 2, ‘**Enrichment**’, the MTL department developed an e-book that extensively encapsulates a detailed explanation of 6 different ethnic festivals, highlighting the significance of symbols and practices in order to address students’ misconceptions of festivals celebrated by the different ethnic groups in Singapore. For this innovation, our team aims to adopt Blended Learning using Student Learning Space (SLS) as a platform in order to optimise students’ learning. Sec 1 students accessed the e-book on their own and attempted the quizzes provided at the end to self-assess their understanding of the content provided in the e-book. They are also required to complete the SLS Oral package encompassing reading assessment, video submission, peer evaluation and post-survey as part of the alternative assessment. The following are some video presentations of our Sec 1 students in the role of a book promoter!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gp4b2DjvV8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/gp4b2DjvV8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/piifaYeHXG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/piifaYeHXG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/evl1No-kFPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/evl1No-kFPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 		 
 In Tier 3, '**Aspire**', Talent development is planned and carried out with the department taking varied approaches in providing opportunities to develop students to their fullest potential. For example, the department offers opportunities to students who show interest in stretching their potential in the subject by involving them in roles such as writing, editing, emceeing and performing for creative CL essay compilation - Kspiration publications and launch. We also provide selected students the exposure through numerous competition and workshop platforms to stretch students beyond meeting syllabus requirements.
 
