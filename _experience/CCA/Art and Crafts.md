@@ -4,8 +4,11 @@ permalink: /co-curricular-activities/Visual-and-Performing-Arts/art-and-crafts/
 description: ""
 third_nav_title: CCA
 ---
-
 ### Art and Crafts
+
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/41IqOKEUgEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div style="text-align: center;"><iframe width="441" height="784" src="https://www.youtube.com/embed/WNXfEaCwYI8" title="KSS Art & Craft 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Established in 2016, **Art and Crafts** provides both breadth and depth to facilitate Kranjians’ Arts appreciation. Kranjians engage in the Arts through visits to museums, take part in competitions and participate in various workshops to gain knowledge, skills and dispositions. They take ownership to be advocates of Art. With the knowledge gained, Art Club members take the initiative to lead Art programmes to impact the community. With that, we celebrate their achievements through exhibitions and static displays to showcase their talent.
 
