@@ -10,8 +10,7 @@ Since its official inception in 2000, Kranji Choir has grown in strength and a
 
 The choir seeks to develop its members as singers, individuals and performers through a holistic learning experience, with a focus on musical development, character building and a Kranjian identity. Members of Kranji Choir will have the opportunity to develop and showcase their performance and leadership skills. With a group of dedicated teachers and instructors looking into high quality training, and a strong following of alumni who return regularly to support the CCA, Kranji Choir has grown from strength to strength, and continues striving for all-round development and excellence in all its undertakings.
 
-<img src="/images/choir1.png" 
-     style="width:70%">
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/wdlEg6uA1DU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <center>An introduction to Kranji Choir – a day in the life of a Kranji chorister</center>
 
 <img src="/images/Choir%201.jpg"
