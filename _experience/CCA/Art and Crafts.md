@@ -15,6 +15,7 @@ third_nav_title: CCA
 <img src="/images/Art%20&%20Craft%201.jpg"
      style="width:80%">
 		 
+
 <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/y7hku4y0038" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <center>Fig 1: Art and Craft Club members participated in Art Competitions such as SYF Artist and Sustainability</center>
 
