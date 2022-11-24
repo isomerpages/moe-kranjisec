@@ -47,6 +47,12 @@ As enrichment, Secondary 1 students learnt how to make plastic from milk during 
 
 Interested students are provided with opportunities to take part in Science Research and participate in numerous competitions and science fairs, such as the C.B. Paul Quiz, Singapore Junior Biology, Chemistry, Physics Olympiads, Illustratum Physics Competitions, National Crystal Growing Challenge, Elementz International Fair and the Singapore Science and Engineering Fair. Under the mentorship of teachers or scientist-mentors from the Science Centre and A\*STAR, students are guided to learn about scientific knowledge beyond the curriculum, apply their knowledge to solving problems, plan and carry out scientific investigations as well as showcase and communicate about Science.
 
+<img style="width:60%" src="/images/Science%204.jpg">
+<center>Students who participated in the Youth STEM Empowerment Programme sharing about their project with visitors at the Singapore Science Centre.</center>
+
+<img style="width:60%" src="/images/Science%205.jpg">
+<center>Large crystals grown by our students for the National Crystal Growing Challenge</center>
+
 * **Tucheng-Kranji e-Internationalisation**
 
 A group of Secondary 3 students participated in the virtual exchange programme with Tu Cheng High School in Taiwan, working on cross-school collaborative projects to identify problems and ideate solutions relating to UN Sustainable Development Goals. This programme develops students’ awareness of global sustainability issues, promotes cross-cultural understanding and allows students to develop creative solutions using design thinking.
