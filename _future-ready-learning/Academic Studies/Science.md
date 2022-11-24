@@ -38,6 +38,9 @@ As enrichment, Secondary 1 students learnt how to make plastic from milk during 
 <img style="width:60%" src="/images/Science%202.jpg">
 <center>Students racing their balloon-powered cars in a STEM Week challenge.</center>
 
+<img style="width:60%" src="/images/Science%203.jpg">
+<center>Students participating in a DNA forensics workshop.</center>
+
 ### KEPLER Programme (See [KEPLER webpage](https://www.kranjisec.moe.edu.sg/future-ready-learning/Kepler/) for more details) 
 
 * **Academic Competitions, Research Programmes, Fairs and Conferences**
