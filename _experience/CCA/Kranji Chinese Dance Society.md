@@ -6,7 +6,7 @@ third_nav_title: CCA
 ---
 ### Kranji Chinese Dance Society
 
-Kranji Chinese Dance Society (KCDS) aims to cultivate an appreciation for Chinese culture through the learning of Chinese dance. Through our training sessions, we focus on developing and strengthening our dancers’ skills and techniques, and nurturing them into skilful and graceful Chinese dancers who exude confidence and exhibit good showmanship when dancing. 
+**Kranji Chinese Dance Society (KCDS)** aims to cultivate an appreciation for Chinese culture through the learning of Chinese dance. Through our training sessions, we focus on developing and strengthening our dancers’ skills and techniques, and nurturing them into skilful and graceful Chinese dancers who exude confidence and exhibit good showmanship when dancing. 
 
 <img src="/images/Chinese%20Dance%201.jpg" 
      style="width:80%">
