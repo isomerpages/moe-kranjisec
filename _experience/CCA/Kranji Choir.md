@@ -4,20 +4,28 @@ permalink: /co-curricular-activities/Visual-and-Performing-Arts/kranji-choir/
 description: ""
 third_nav_title: CCA
 ---
-
 ### Kranji Choir
 
-Since its official inception in 2000, **Kranji Choir** has grown in strength and ability, with consistently good performance at the Singapore Youth Festival over the years. With its vision ‘Lift Every Voice, Sing and Rejoice’, Kranji Choir has performed on multiple platforms, both internally at school events and externally at various public events, such as at Limbang Mid-Autumn Festival celebration, Limbang National Day Dinner and _A Little Singing Festival_ at School of the Arts (SOTA).
+Since its official inception in 2000, Kranji Choir has grown in strength and ability, with consistently good performance at the Singapore Youth Festival over the years. With its vision ‘Lift Every Voice, Sing and Rejoice’, Kranji Choir has performed on multiple platforms, both internally at school events and externally at various public events, and was most recently invited to perform at the Limbang National Day Dinner and A Little Singing Festival at School of the Arts (SOTA).
+
+The choir seeks to develop its members as singers, individuals and performers through a holistic learning experience, with a focus on musical development, character building and a Kranjian identity. Members of Kranji Choir will have the opportunity to develop and showcase their performance and leadership skills. With a group of dedicated teachers and instructors looking into high quality training, and a strong following of alumni who return regularly to support the CCA, Kranji Choir has grown from strength to strength, and continues striving for all-round development and excellence in all its undertakings.
 
 <img src="/images/choir1.png" 
      style="width:70%">
-		 
-In the recent years, Kranji Choir has also participated in the annual _President’s Challenge Charity Choral Festival_ as part of its VIA programme, with some of the senior singers performing as members of The Grand Choir. In pursuit of excellence and exposure for all choir members, Kranji Choir will continue to explore opportunities to develop and showcase the talents of their members.
+<center>An introduction to Kranji Choir – a day in the life of a Kranji chorister</center>
 
-<img src="/images/choir2.png" 
-     style="width:60%">
-		 
-The past year has been challenging for all, but the Choir focused on the opportunities provided to sing together in e-performances, blending in individual voices and videos into one harmonious piece for key events such as the Mid-Autumn Festival and National Day. The Choir also took part in the 2021 Singapore Youth Festival, where audio recordings were professionally captured, with praise by the adjudicators.
-
-<img src="/images/choir3.png" 
+<img src="/images/Choir%201.jpg"
      style="width:70%">
+<center>Singapore Arts Festival Arts Presentation 2019</center>
+
+<img src="/images/Choir%202.jpg" 
+     style="width:70%">
+<center>Having a wefie moment with DPM Mr Lawrence Wong before our performance at Limbang National Day Dinner</center>
+
+<img src="/images/Choir%203.jpg" 
+     style="width:70%">
+<center>Singing our hearts out with our rendition of National Day songs at the Kranji National Day concert</center>
+
+<img src="/images/Choir%204.jpg" 
+     style="width:70%">
+<center>Choir members working on their breathing and singing techniques</center>
