@@ -4,8 +4,7 @@ title: Kranji Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/kranjilogo.png
 permalink: /
-notification: "Sign up for Zoom Meeting with our Principal on 19 Nov 2022, 1 pm:
-  http://cutt.ly/ANKEhl3"
+notification: ""
 sections:
   - hero:
       background: /images/Kranji Experience 2.png
@@ -22,33 +21,43 @@ sections:
       title: Kranji Secondary School
       subtitle: Thinker. Leader. Champion.
   - infobar:
-      title: e-Open House 2022
+      title: Got a question about Kranji Sec?
       button: Read it here
       url: /announcements/e-open-house/
       subtitle: Announcements
-      description: Register for a virtual chat with our Principal on 19 Nov 2022, 1 pm.
+      description: Good job, 2022 P6 students! Here are the responses to Frequently
+        Asked Questions about Kranji Sec.
   - infopic:
-      title: Sec 1 Distinctive Experiences
+      title: "Secondary 1 "
       button: Read More
       url: /the-kranji-experience/Secondary-1/orientation-programme/
       alt: Image alt text
       image: /images/SOOP 3.jpg
+      subtitle: Distinctive Experiences
+      description: Discover your strengths and interests, as you make new friends and
+        forge close bonds.
   - infopic:
-      title: Sec 2 Distinctive Experiences
+      title: Secondary 2
       button: Read more
       url: /front-page/Sec-2-Distinctive-Experiences/THINK-programme/
       alt: Image alt text
       image: /images/Aes Dev 8.jpeg
+      subtitle: Distinctive Experiences
+      description: Be a reflective thinker with the drive to excel.
   - infopic:
-      title: Sec 3 Distinctive Experiences
+      title: Secondary 3
       button: Read more
       url: /front-page/Sec-3-Distinctive-Experiences/industry-visits/
       alt: Image alt text
       image: /images/IVJS 1.jpg
+      subtitle: Distinctive Experiences
+      description: Grow to be a confident leader with a heart to serve.
   - infopic:
-      title: Sec 4/5 Distinctive Experiences
+      title: Secondary 4 and 5
       button: Read more
       url: /front-page/Sec-45-Distinctive-Experiences/career-fair/
       alt: Image alt text
       image: /images/CF 2.jpg
+      subtitle: Distinctive Experiences
+      description: Ready for the future to meet challenges and opportunities.
 ---
