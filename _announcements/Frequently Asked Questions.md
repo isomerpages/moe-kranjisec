@@ -3,8 +3,6 @@ title: Frequently Asked Questions
 permalink: /announcements/faq/
 description: ""
 ---
-
-
 ##### What is the school’s PSLE score range?
 ------------------------------------------
 
