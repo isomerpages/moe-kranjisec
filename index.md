@@ -23,13 +23,6 @@ sections:
   - resources:
       title: Announcements
       button: Click here for all posts
-  - infobar:
-      title: Got a question about Kranji Sec?
-      button: Read it here
-      url: /announcements/faq
-      subtitle: Announcements
-      description: Good job, 2022 P6 students! Here are the responses to Frequently
-        Asked Questions about Kranji Sec.
   - infopic:
       title: "Secondary 1 "
       button: Read More
