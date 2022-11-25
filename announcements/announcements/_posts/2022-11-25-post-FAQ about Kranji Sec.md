@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-##### What is the school’s PSLE score range?
+##### **What is the school’s PSLE score range?**
 ------------------------------------------
 
 Students posted to Sec 1 in 2022 had the following PSLE score range.
@@ -19,7 +19,7 @@ Students posted to Sec 1 in 2022 had the following PSLE score range.
 
 Please note that the score range for 2023 Sec 1 cohort may vary as it depends on the number of applicants and the cohort size for the year. 
 
-##### What time does school start? When do students have (Co-Curricular Activities) CCA? ##### 
+##### **What time does school start? When do students have (Co-Curricular Activities) CCA?** 
 ------------------------------------------
 School starts at 8 am, when morning flag-raising and assembly take place.
 
