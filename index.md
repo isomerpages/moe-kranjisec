@@ -21,7 +21,7 @@ sections:
       title: Kranji Secondary School
       subtitle: Thinker. Leader. Champion.
   - infobar:
-      title: e-Open House 2022
+      title: Got a question about Kranji Sec?
       button: Read it here
       url: /announcements/e-open-house/
       subtitle: Announcements
