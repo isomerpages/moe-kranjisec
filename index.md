@@ -20,6 +20,9 @@ sections:
           url: /quick-link-students/
       title: Kranji Secondary School
       subtitle: Thinker. Leader. Champion.
+  - resources:
+      title: Announcements
+      button: Click here for all posts
   - infobar:
       title: Got a question about Kranji Sec?
       button: Read it here
