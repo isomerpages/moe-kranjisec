@@ -2,4 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - eOpen House.md
+      - Frequently Asked Questions.md
