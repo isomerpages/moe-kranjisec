@@ -4,8 +4,7 @@ title: Kranji Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/kranjilogo.png
 permalink: /
-notification: "Sign up for Zoom Meeting with our Principal on 19 Nov 2022, 1 pm:
-  http://cutt.ly/ANKEhl3"
+notification: ""
 sections:
   - hero:
       background: /images/Kranji Experience 2.png
@@ -26,7 +25,8 @@ sections:
       button: Read it here
       url: /announcements/e-open-house/
       subtitle: Announcements
-      description: Register for a virtual chat with our Principal on 19 Nov 2022, 1 pm.
+      description: Good job, 2022 P6 students! Welcome to Kranji Sec. You can find out
+        more about the school in this website.
   - infopic:
       title: Sec 1 Distinctive Experiences
       button: Read More
