@@ -8,7 +8,7 @@ third_nav_title: Academic Studies
 
 | 2021 |  |  |
 | -------- | -------- | -------- |
-| 
+
 *   Research Mentorship by Centre for Research and Applied Learning in Science (CRADLΣ)  
     Project Title: Investigation of Sound Absorption Capabilities of Different Types of Food Waste<br> **High Distinction Award**
 *   NJC Enrichment Science Training and Research (ESTaR) Programme  
