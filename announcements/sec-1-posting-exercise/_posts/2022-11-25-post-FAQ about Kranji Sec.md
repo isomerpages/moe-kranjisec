@@ -16,7 +16,7 @@ Students posted to Sec 1 in 2022 had the following PSLE score range.
 
 Please note that the score range for 2023 Sec 1 cohort may vary as it depends on the number of applicants and the cohort size for the year. 
 
-You can also find out more about the school here: https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=kranji-secondary-school
+You can also find out more about the school [here.](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=kranji-secondary-school)
 
 ##### **What time does school start? When do students have (Co-Curricular Activities) CCA?** 
 
@@ -33,7 +33,7 @@ Sec 1 students will be grouped into mixed form classes, with each form class com
 For PSLE subjects (English Language, Mother Tongue Languages, Mathematics, Science) and Humanities (History, Geography, Literature), Sec 1 students will be grouped and attend lessons according to their course (i.e. Express, N(A), or N(T) level).
 
 For more information on 
-Full Subject-based Banding, you may refer to this link: https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html 
+Full Subject-based Banding, you may refer to this [link.](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html )
 
 ##### **Does Kranji Sec offer Higher Mother Tongue (HMTL)?**
 
@@ -41,9 +41,8 @@ For Lower Sec students, Kranji Sec will offer HMTL (Higher Chinese, Higher Malay
 
 Sec 1 students are eligible to take HMTL if they obtained:
 
-\-        PSLE score of 8 or better, or
-
-\-        PSLE score of 9-14 and attain AL1 or AL2 in MTL or Distinction/Merit in HMTL.
+* PSLE score of 8 or better, or
+* PSLE score of 9-14 and attain AL1 or AL2 in MTL or Distinction/Merit in HMTL.
 
 ##### **What are the criteria for my child/ward to take a subject at a more demanding level from the start of Sec 1?**
 
