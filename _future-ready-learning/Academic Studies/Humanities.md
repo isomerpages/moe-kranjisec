@@ -13,7 +13,7 @@ Historical Scene Investigation (organised by NLB) – **Bronze Award** |
 
 
 | 2022 |  |  |
-| -------- | - | - | 
+| -------- | -------- | --
 | National Youth Environment Conference (organised by Nan Hua High School) - Charlene Ng (4K3) and Grace Chia (3K1) won the **Best Delegate** in the United Nations Framework Convention on Climate Change, Group 2
 NUS Geography Challenge – Law Jun Qi (3K3) was awarded the **Bronze medal** in the preliminary round
 MOE History Challenge - ADENA HO SHU-MIN **shortlisted** for the MOE History Talent Development Programme (HTDP) 2022/2023

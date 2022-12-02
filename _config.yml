@@ -1,16 +1,16 @@
-title: Kranji Secondary School
-url: ""
+title: Kranji Secondary School - Thinker. Leader. Champion.
+url: https://www.kranjisec.moe.edu.sg
 favicon: /images/kssfavlogo.png
 colors:
-  primary-color: "#007842"
-  secondary-color: "#d91b2d"
+  primary-color: "#046a36"
+  secondary-color: "#d7242e"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#88af9a"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#4c5232"
     - title: media-color-three
-      color: "#00838f"
+      color: "#d6dce4"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five

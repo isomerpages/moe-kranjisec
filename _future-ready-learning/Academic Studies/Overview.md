@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Studies
 ---
 ### Lower Secondary
-### 
+
 We are one of the secondary schools implementing Full Subject-based Banding.
 
 Students will be placed in form classes with a mix of students from different courses (e.g. Express, N(A), or N(T)), so that they can interact with students of different strengths and interests.
