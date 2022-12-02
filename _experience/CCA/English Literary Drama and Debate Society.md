@@ -28,6 +28,10 @@ Drama members are provided with a well-rounded experience of theatre. Students a
      style="width:70%">
 <center>Script reading in preparation for the Singapore Youth Festival Arts Presentation</center>
 
+Watch the following video to hear from the Drama students directly!
+
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/s_scFrZRw1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 Members in debate have the opportunity to receive training, to teach them how to develop persuasive arguments. Members take part in the Singapore Secondary Schools Debating Championships as well as informal sparring sessions with debaters from other schools. Debaters develop their cognitive and persuasive skills through these sessions, which also teach them how to present ideas convincingly.
 
 <img src="/images/ELDDS%204.png" 
