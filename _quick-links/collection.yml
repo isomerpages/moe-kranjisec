@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Parents/School Terms and Holidays for 2023.md
-      - Parents/Parents.md
+      - Parents/Useful Info.md
       - Parents/.keep
       - Students.md
