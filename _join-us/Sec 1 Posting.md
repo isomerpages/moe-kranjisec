@@ -22,8 +22,8 @@ Below are some important deadlines, of which you will find more information in t
 
 | S/N | Deadline | Action required by parent/guardian |
 | -------- | -------- | -------- |
-| 1    | By 28 Dec 2022, 11am    |  **Sec 1 Orientation Programme 2023** <br></br>To register your attendance for Sec 1 Inauguration (physical event) and indicate your child/ward’s dietary requirements by 28 Dec 2022, 11am: https://go.gov.sg/2023sec1inaugreg <br></br>**MTL-related & Subject-Based Banding Acceptance Forms** <br></br> To indicate acceptance (if applicable)    |
-| 2   | Before 4 Jan 2023   | Purchase of school uniform, Kranji Polo T-shirt, and House T-shirt <br></br> *Note: As the House T-shirt to purchase is dependent on class allocation, please do not purchase the House T-shirt yet. Class allocation will be made known by 30 December 2022 via Parent’s Gateway.* |
+| 1    | By 28 Dec 2022, 11am    |  **Sec 1 Orientation Programme 2023** <br><br>To register your attendance for Sec 1 Inauguration (physical event) and indicate your child/ward’s dietary requirements by 28 Dec 2022, 11am: https://go.gov.sg/2023sec1inaugreg <br><br>**MTL-related & Subject-Based Banding Acceptance Forms** <br><br> To indicate acceptance (if applicable)    |
+| 2   | Before 4 Jan 2023   | Purchase of school uniform, Kranji Polo T-shirt, and House T-shirt <br><br> *Note: As the House T-shirt to purchase is dependent on class allocation, please do not purchase the House T-shirt yet. Class allocation will be made known by 30 December 2022 via Parent’s Gateway.* |
 | 3  | Before 9 Jan 2023   | Purchase of Books  |
 
 
