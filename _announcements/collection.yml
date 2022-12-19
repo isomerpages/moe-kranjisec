@@ -2,5 +2,6 @@ collections:
   announcements:
     output: true
     order:
+      - 2022 Secondary 1 Registration.md
       - Kranji Annual 2022.md
       - Frequently Asked Questions.md
