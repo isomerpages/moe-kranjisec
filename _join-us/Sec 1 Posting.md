@@ -30,7 +30,7 @@ Below are some important deadlines, of which you will find more information in t
 ### School Contact
 If you are unable to login to the online portal, or should you require any other assistance, please contact the school at: 
 * Telephone (during office hours): 67662464
-* Email: kranji_ss@moe.edu.sg
+* Email: [kranji_ss@moe.edu.sg](kranji_ss@moe.edu.sg)
 
 Parents who have not acknowledged receipt of PG notification or have not login to our Secondary One Registration Portal will receive a courtesy call from the school.
 
