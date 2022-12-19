@@ -8,7 +8,6 @@ The school terms for 2023 will be as follows:-
 
 ### School Terms
 
-
 | Semester I |  |   |
 | -------- | -------- | -------- |
 | Term I     | Tue 3 Jan to Fri 10 Mar  |    |
