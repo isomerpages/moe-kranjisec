@@ -35,6 +35,25 @@ The 4 vacation periods will be as follows:
 | Between Term III & IV | Sat 2 Sep to Fri 10 Sep |  |
 | At End of School Year | Sat 18 Nov to Sun 31 Dec | |
 
+### Public Holiday
+
+|  |  |   |
+| -------- | -------- | -------- |
+| Term I     | New Year's Day <br>Chinese New Year | *Sun 1 Jan <br>**Sun 22 Jan <br>Mon 23 Jan   |
+| Term II    | Good Friday <br> Hari Raya Puasa <br> Labour Day <br> Vesak Day  |   Fri 7 Apr <br> ***Sat 22 Apr <br> Mon 1 May <br> ****Sat 3 Jun   |
+| Term III | Hari Raya Haji <br> National Day | Thu 29 Jan <br> Wed 9 Aug |
+| Term IV | Deepavali <br> Christmas Day | *****Sun 12 Nov <br> Mon 25 Dec|
+
+*Monday, 2 Jan will be a public holiday.
+
+**Tuesday, 24 Jan will be a public holiday.
+
+***Monday, 24 Apr will be a school holiday and a designated day off-in- lieu (DOIL), schools are closed including the General Office, Student Care Centre/KCare Centres.
+
+****Monday, 5 Jun is within the school holiday period and a designated day off-in-lieu (DOIL), schools are closed including the General Office, Student Care Centre/KCare Centres.
+
+*****Monday, 13 Nov will be a public holiday.
+
 ### Scheduled School Holidays
 
 |  |  |   |
