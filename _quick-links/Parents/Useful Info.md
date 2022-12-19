@@ -1,7 +1,8 @@
 ---
-title: Parents
+title: Useful Info
 permalink: /quick-links/parents/
 description: ""
+third_nav_title: Parents
 ---
 ### Useful Numbers & Operating Hours
 #### General Office
@@ -10,7 +11,7 @@ School Address: 61 Choa Chu Kang Street 51 Singapore 689333
 
 School Website: http://kranjisec.moe.edu.sg
 
-School Email Address: kranji\_ss@moe.edu.sg
+School Email Address: kranji_ss@moe.edu.sg
 
 Contact Number: (65) 67662464
 
@@ -22,7 +23,7 @@ Vendor: Casco Educational Supply Pte Ltd
 
 Address: 10 Ubi Crescent #01-02 Ubi Techpark Singapore 408564
 
-Website: www.cascoedusupply.com.sg
+Website: [www.cascoedusupply.com.sg](www.cascoedusupply.com.sg)
 
 Contact Number: (65) 65474203
 
@@ -45,7 +46,7 @@ Vendor: Finest Fashion Centre
 
 Address: 144 Upper Bukit Timah Road #B1-03 Beauty World Centre Singapore 588177
 
-Website: www.finestfashioncentre.com
+Website: [www.finestfashioncentre.com](www.finestfashioncentre.com)
 
 Contact Number: (65) 90295135
 

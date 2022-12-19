@@ -2,5 +2,7 @@ collections:
   quick-links:
     output: true
     order:
-      - Parents.md
+      - Parents/.keep
+      - Parents/Useful Info.md
+      - Parents/School Terms and Holidays for 2023.md
       - Students.md
