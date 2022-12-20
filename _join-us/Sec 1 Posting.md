@@ -35,4 +35,4 @@ If you are unable to login to the online portal, or should you require any other
 Parents who have not acknowledged receipt of PG notification or have not login to our Secondary One Registration Portal will receive a courtesy call from the school.
 
 ### Waiting List
-If you would like to put your child/ward down on the waiting list, please fill in the form here: https://go.gov.sg/2022s1appealkss
+If you would like to put your child/ward down on the waiting list, please fill in the form here: [https://go.gov.sg/2022s1appealkss](https://go.gov.sg/2022s1appealkss)
