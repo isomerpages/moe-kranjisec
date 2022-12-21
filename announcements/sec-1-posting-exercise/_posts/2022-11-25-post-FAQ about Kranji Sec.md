@@ -8,13 +8,11 @@ image: ""
 ---
 ##### **What is the school’s PSLE score range?**
 
-Students posted to Sec 1 in 2022 had the following PSLE score range.
+Students posted to Sec 1 in 2023 had the following PSLE score range.
 
-* Express: 10-14
+* Express: 10-15
 * Normal (Academic): 21-23
 * Normal (Technical): 25-27
-
-Please note that the score range for 2023 Sec 1 cohort may vary as it depends on the number of applicants and the cohort size for the year. 
 
 You can also find out more about the school [here.](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=kranji-secondary-school)
 

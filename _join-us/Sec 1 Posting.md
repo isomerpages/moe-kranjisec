@@ -36,3 +36,9 @@ Parents who have not acknowledged receipt of PG notification or have not login t
 
 ### Waiting List
 If you would like to put your child/ward down on the waiting list, please fill in the form here: [https://go.gov.sg/2022s1appealkss](https://go.gov.sg/2022s1appealkss)
+
+Students posted to Sec 1 in 2023 had the following PSLE score range.
+
+*   Express: 10-15
+*   Normal (Academic): 21-23
+*   Normal (Technical): 25-27
