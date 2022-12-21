@@ -8,9 +8,9 @@ image: ""
 ---
 ##### **What is the school’s PSLE score range?**
 
-Students posted to Sec 1 in 2022 had the following PSLE score range.
+Students posted to Sec 1 in 2023 had the following PSLE score range.
 
-* Express: 10-14
+* Express: 10-15
 * Normal (Academic): 21-23
 * Normal (Technical): 25-27
 
