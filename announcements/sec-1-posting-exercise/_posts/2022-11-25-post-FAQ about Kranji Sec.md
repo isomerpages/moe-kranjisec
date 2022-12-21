@@ -14,8 +14,6 @@ Students posted to Sec 1 in 2023 had the following PSLE score range.
 * Normal (Academic): 21-23
 * Normal (Technical): 25-27
 
-Please note that the score range for 2023 Sec 1 cohort may vary as it depends on the number of applicants and the cohort size for the year. 
-
 You can also find out more about the school [here.](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=kranji-secondary-school)
 
 ##### **What time does school start? When do students have (Co-Curricular Activities) CCA?** 
