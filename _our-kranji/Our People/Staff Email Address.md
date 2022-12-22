@@ -6,4 +6,4 @@ third_nav_title: Our People
 ---
 ### Staff Email Address
 
-If you are unable to view the document below, please download the document [here](/files/List%20of%20email%20address%20of%20teachers%20in%20Kranji%20Secondary%20School%202023%20(221222).pdf)
+You may view the document [here](/files/List%20of%20email%20address%20of%20teachers%20in%20Kranji%20Secondary%20School%202023%20(221222).pdf)
