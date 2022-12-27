@@ -4,8 +4,6 @@ permalink: /partners/parents-support-group/
 description: ""
 third_nav_title: Our Partners
 ---
-
-
 ### Parents Support Group
 
 <img src="/images/psg1.png" 
@@ -48,7 +46,7 @@ _First row:_ **Ho Wee Kian, Ng Ai Lin, Jonathan Lai, Kelvin Yeo**
 
 ##### Join our parents’ WhatsApp group for communication on school’s events and communication with other parents.
 
- *   Secondary 4/5 (2020) - [https://tinyurl.com/KSS-psgsec45](https://tinyurl.com/KSS-psgsec45)
- *   Secondary 3 (2020) - [https://tinyurl.com/KSS-psgsec3](https://tinyurl.com/KSS-psgsec3)
- *   Secondary 2 (2020) - [https://tinyurl.com/KSS-psgsec2](https://tinyurl.com/KSS-psgsec2)
- *   Secondary 1 (2020) - [https://tinyurl.com/KSS-psgsec1](https://tinyurl.com/KSS-psgsec1)
+ *   Secondary 4/5 (2023) - [http://tiny.cc/KSS-psgsec452023](http://tiny.cc/KSS-psgsec452023)
+ *   Secondary 3 (2023) - [http://tiny.cc/KSS-psgsec32023](http://tiny.cc/KSS-psgsec32023)
+ *   Secondary 2 (2023) - [http://tiny.cc/KSS-psgsec22023](http://tiny.cc/KSS-psgsec22023)
+ *   Secondary 1 (2023) - [http://tiny.cc/KSS-psgsec12023](http://tiny.cc/KSS-psgsec12023)
