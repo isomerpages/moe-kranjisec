@@ -61,7 +61,6 @@ Valeria 1J
 
 ## Design and Technology
 
-<div style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qQkTu\_OoD8M" height="315" width="560"></iframe></div>
 
 For the Design and Technology (D&T) unit, our aim is to develop a cohesive team of D&T staff and bring out the best in all learners by igniting their passion for learning.
 

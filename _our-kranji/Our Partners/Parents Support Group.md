@@ -4,8 +4,6 @@ permalink: /partners/parents-support-group/
 description: ""
 third_nav_title: Our Partners
 ---
-
-
 ### Parents Support Group
 
 <img src="/images/psg1.png" 
@@ -19,36 +17,34 @@ Kranji Secondary School Parents Support Group (PSG) was formally formed on 1st S
 <img src="/images/psg2.gif" 
      style="width:60%"> Participating in the MTL Cultural Gallery on 31 January 2020
 
-##### PSG EXCO (April 2020 to April 2021)
-
-<img src="/images/psg6.png" 
-     style="width:60%"> 
-		 
-_Left to right:_
-
-_First row:_ **Ho Wee Kian, Ng Ai Lin, Jonathan Lai, Kelvin Yeo**
-<br>_Second row:_ **Yeap Ling, Vijihendran S/O Krishnan, Freda Lim, Anna Lee**
-<br>_Third row:_ **Nicholas Dass, Teh Mooi Yan, Hoh Sook Lan, Maslina Binte Ahmad**
+##### PSG EXCO 2022 - 2023
 
 
 | Appointment 	| PSG EXCO 	|
 |---	|---	|
-| Chairman 	| Mdm Ng Ai Lin 	|
-| Vice Chairman 1 	| Mdm Teh Mooi Yan 	|
-| Vice Chairman 2 	| Dr Freda Lim Chiang Huay 	|
-| Secretary 	| Mr Nicholas Martian Dass 	|
-| Treasurer 	| Mdm Yeap Ling 	|
-| Member 	| Mdm Hoh Sook Lan 	|
-| Member 	| Mr Kelvin Yeo Siew Juay 	|
-| Member 	| Mr Ho Wee Kian 	|
-| Member 	| Mdm Anna Lee Swee Ngi 	|
-| Member 	| Mdm Maslina Binte Ahmad 	|
-| Member 	| Mr Lai Sow Yuen, Jonathan Lloyd 	|
-| Member 	| Mr Vijihendran S/O Krishnan 	|
+| Advisor 	| Ng Ai Lin 	|
+| Chairman 	| Ganesan Maniam 	|
+| Vice Chairman 1 	| Freda Lim 	|
+| Vice Chairman 2 	| Huang Yuqin 	|
+| Secretary 	| Nicholas Dass 	|
+| Assistant Secretary 	| Becky Lim	|
+| Treasurer 	| Esther Lim	|
+| Member 	| Teh Mooi Yan 	|
+| Member 	| Yeap Ling Ling 	|
+| Member 	| Cindy Chua 	|
+| Member 	| Michele Lee 	|
+| Member 	| Maggie Goh	|
+| Member 	| Vijihendran Krishnan 	|
+| Member 	| Srikanth Gudigandla 	|
+| Member 	| Tejal Bhao 	|
+| Member 	| Noel Tay 	|
+| Member 	| Jonathan Lai 	|
+| Member 	| Josephine Mendoza 	|
+| Member 	| Subramanian Krishnan  	|
 
-##### Join our parents’ WhatsApp group for communication on school’s events and communication with other parents.
+##### Join our parents’ WhatsApp group for communication on school’s events and communication with other parents!
 
- *   Secondary 4/5 (2020) - [https://tinyurl.com/KSS-psgsec45](https://tinyurl.com/KSS-psgsec45)
- *   Secondary 3 (2020) - [https://tinyurl.com/KSS-psgsec3](https://tinyurl.com/KSS-psgsec3)
- *   Secondary 2 (2020) - [https://tinyurl.com/KSS-psgsec2](https://tinyurl.com/KSS-psgsec2)
- *   Secondary 1 (2020) - [https://tinyurl.com/KSS-psgsec1](https://tinyurl.com/KSS-psgsec1)
+ *   Secondary 4/5 (2023) - [http://tiny.cc/KSS-psgsec452023](http://tiny.cc/KSS-psgsec452023)
+ *   Secondary 3 (2023) - [http://tiny.cc/KSS-psgsec32023](http://tiny.cc/KSS-psgsec32023)
+ *   Secondary 2 (2023) - [http://tiny.cc/KSS-psgsec22023](http://tiny.cc/KSS-psgsec22023)
+ *   Secondary 1 (2023) - [http://tiny.cc/KSS-psgsec12023](http://tiny.cc/KSS-psgsec12023)
