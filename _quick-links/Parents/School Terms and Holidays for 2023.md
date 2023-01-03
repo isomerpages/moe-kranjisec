@@ -32,7 +32,7 @@ The 4 vacation periods will be as follows:
 | -------- | -------- | -------- |
 | Between Term I & II    | Sat 11 Mar to Sun 19 Mar  |  |
 | Between Semesters I and II  | Sat 27 May to Sun 25 Jun  |   |
-| Between Term III & IV | Sat 2 Sep to Fri 10 Sep |  |
+| Between Term III & IV | Sat 2 Sep to Sun 10 Sep |  |
 | At End of School Year | Sat 18 Nov to Sun 31 Dec | |
 
 ### Public Holiday
