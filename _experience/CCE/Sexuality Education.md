@@ -77,16 +77,12 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 		 
 #### INFORMATION FOR PARENTS
 
-10.  Parents may opt their children out of Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.  
-      
+10.  Parents may opt their children out of Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
     
-11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents via Parents Gateway at the start of the year and is also accessible [here](https://form.gov.sg/61dd48cd8062380013aa2fac). The completed form is to be submitted by **28/01/2022**.  
+11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also accessible [here](https://go.gov.sg/kss-sed-opt-out). The completed form is to be submitted by **27/01/2023**.  
       
-    
-12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents via Parents Gateway at the start of the year and is also accessible [here](https://form.gov.sg/61dd52b99c794b0012fb0027).  The completed form is to be submitted by **28/01/2022**.  
+12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also accessible [here](https://go.gov.sg/kss-eteens-opt-out).  The completed form is to be submitted by **27/01/2023**.  
       
-    
-13.  Parents can contact the school at 6766 2464 (email: kranji\_ss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.  
+13.  Parents can contact the school at 6766 2464 (email: kranji_ss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.  
       
-    
 14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
