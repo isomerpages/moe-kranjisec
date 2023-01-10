@@ -72,8 +72,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 ##### **At Kranji Secondary School, the eTeens programme will be implemented as follows in 2023:**
 
-<img src="/images/se6.png" 
-     style="width:60%">
+![](/images/2023%20eTeens.png)
 		 
 #### INFORMATION FOR PARENTS
 
