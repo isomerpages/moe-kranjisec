@@ -43,18 +43,23 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 ##### **At Kranji Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
 
-<img src="/images/se1.png" 
+<center>Secondary 1</center>
+<img src="/images/2023%20Sec%201%20SEd.png" 
      style="width:60%">
 
-<img src="/images/se2.png" 
+<center>Secondary 2</center>
+<img src="/images/2023%20Sec%202%20SEd.png" 
      style="width:60%">
 
+<center>Secondary 3</center>
 <img src="/images/se3.png" 
      style="width:60%">
 
+<center>Secondary 4</center>
 <img src="/images/se4.png" 
      style="width:60%">
 
+<center>Secondary 5</center>
 <img src="/images/se5.png" 
      style="width:60%">
 
