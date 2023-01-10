@@ -52,15 +52,15 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
      style="width:60%">
 
 <center>Secondary 3</center>
-<img src="/images/se3.png" 
+<img src="/images/2023%20Sec%203%20SEd.png" 
      style="width:60%">
 
 <center>Secondary 4</center>
-<img src="/images/se4.png" 
+<img src="/images/2023%20Sec%204%20SEd.png" 
      style="width:60%">
 
 <center>Secondary 5</center>
-<img src="/images/se5.png" 
+<img src="/images/2023%20Sec%205%20SEd.png" 
      style="width:60%">
 
 ##### **eTeens Programme**:
