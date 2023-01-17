@@ -73,4 +73,4 @@ Service Centre Number: 6895 6278
 
 Service Centre Email: [acercare.sg@acer.com](mailto:acercare.sg@acer.com)
 
-If you have any further queries, please contact the school at **6766 2464**
+##### If you have any further queries, please contact the school at **6766 2464**
