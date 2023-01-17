@@ -10,39 +10,23 @@ Under the NDLP, every secondary school student will own a school-prescribed pers
 
 ### Personal Learning Device (PLD)
 
-The students will be using the PLD for...
-1. in class and out-of-class learning. This is to promote active learning and greater personalisation. In class, the devices will be used to support learning of the curriculum subjects independently or collaboratively. Beyond the classroom, students will be able to use the device for home-based learning. 
-2. alternative assessments/ authentic learning tasks that require research, digital creation, and collaborative learning
-3. ICT training courses
-4. Interdisciplinary project based learning
-
 <img src="/images/NDLP1.jpg" 
      style="width:80%">
 
 <img src="/images/NDLP2.jpg" 
      style="width:80%">
-		 
-The school chose the device because of: 
-* Portability 
-* Durability
-* T&L Affordances:
-	* touch screen 
-	* use of stylus pen to write (Inking function) 
-	* typing using keyboard
-	* video recording
-	* multimedia editing
 
 ### Important Actions for Parents
 
-Please submit the following consent forms in order for the school to begin processing the purchase of a PLD for your child/ward.
+To proceed with the purchase of the PLD, please fill in the online form at this link: 
+[https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin) 
 
-* Intent to Purchase PLD
-* Edusave Withdrawal (for SC only)
-* Authorisation to collect PLD
+If you are unable to submit the form online, please access the school website at 
+[http://www.kranjisec.moe.edu.sg](http://www.kranjisec.moe.edu.sg) (under announcements) for a hardcopy version.
 
-Parents with Singpass can access the Letter to Parents for Procurement to indicate your consent via the link :[https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin)
+Please submit the online or hardcopy form by **27 January 2023**.
 
-If Parents/Guardians without Singpass are unable to submit the form online, please access the hardcopy forms under Announcements in the [school website](https://www.kranjisec.moe.edu.sg/).
+More details will be provided at a later date on your child/ward’s PLD collection date.
 
 ### PLD Information for Parents
 
