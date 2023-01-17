@@ -18,7 +18,7 @@ Kranji Secondary School Parents Support Group (PSG) was formally formed on 1st S
 		 
 <img src="/images/psg2_2023.png" 
      style="width:80%"> 
-<center> Handover ceremony to PSG 2022/3  </center>
+<center> Handover ceremony to PSG 2022/3 in April  </center>
 	
 
 ##### PSG EXCO 2022 - 2023
