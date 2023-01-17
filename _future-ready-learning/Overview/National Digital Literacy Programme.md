@@ -53,3 +53,16 @@ Please click here to view the slides.
 Subsidies are available to students who require financial assistance. Singapore Citizens who are already on MOE FAS will automatically qualify for these subsidies and do not need to take any action.
 
 Permanent Residents (PR) and International Students (IS) who need support can apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4400 or Per Capita Income (PCI) is below $1100. Please approach the school for more details.
+
+### Cyberwellness Resources for Parents
+
+*   [Parent Handbook (I) on Learning with a PLD](https://drive.google.com/file/d/1L5SpJIQo_ZWZrxjJK1vMtL9in7KXtqxm/view?usp=share_link)
+*   [Parent Handbook (II) on Learning with a PLD](https://drive.google.com/file/d/13C3U3ySji5W9-j9fSsKggEqEkQuG6wbQ/view?usp=share_link)
+*   [go.gov.sg/moe-cyber-wellness](https://go.gov.sg/moe-cyber-wellness)
+*   [https://beta.moe.gov.sg/programmes/cyber-wellness/](https://beta.moe.gov.sg/programmes/cyber-wellness/)
+*   [go.gov.sg/better-internet-sg](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents)
+*   [sure.nlb.gov.sg](https://sure.nlb.gov.sg/)
+*   [help123.sg](https://www.help123.sg/)
+
+### Acer Service Center Information
+
