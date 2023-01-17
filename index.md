@@ -28,7 +28,7 @@ sections:
       button: Read More
       url: /the-kranji-experience/Secondary-1/orientation-programme/
       alt: Image alt text
-      image: /images/SOOP 3.jpg
+      image: /images/2023sec1_2.jpg
       subtitle: Distinctive Experiences
       description: Discover your strengths and interests, as you make new friends and
         forge close bonds.
@@ -57,4 +57,3 @@ sections:
       subtitle: Distinctive Experiences
       description: Ready for the future to meet challenges and opportunities.
 ---
-
