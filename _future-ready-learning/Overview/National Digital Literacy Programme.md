@@ -42,7 +42,7 @@ Please submit the following consent forms in order for the school to begin proce
 
 Parents with Singpass can access the Letter to Parents for Procurement to indicate your consent via the link :[https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin)
 
-If Parents/Guardians without Singpass are unable to submit the form online, please access the school website at [http://www.kranjisec.moe.edu.sg](http://www.kranjisec.moe.edu.sg/) (under announcements) for a hardcopy version.
+If Parents/Guardians without Singpass are unable to submit the form online, please access the hardcopy forms under Announcements in the [school website](https://www.kranjisec.moe.edu.sg/).
 
 ### PLD Information for Parents
 
