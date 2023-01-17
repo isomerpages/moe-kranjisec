@@ -59,7 +59,7 @@ Permanent Residents (PR) and International Students (IS) who need support can ap
 *   [Parent Kit on Cyber Wellness for Your Child](https://go.gov.sg/moe-cyber-wellness)
 *   [Schoolbag article ‘Keeping our teens safe online'](https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online)
 *   [MOE Cyber Wellness Programme](https://www.moe.gov.sg/programmes/cyber-wellness/](https://www.moe.gov.sg/programmes/cyber-wellness/))
-*   [Media Literacy Council](https://go.gov.sg/better-internet-sg](https://go.gov.sg/better-internet-sg)
+*   [Media Literacy Council](https://go.gov.sg/better-internet-sg)
 *   [National Library’s Learning & Information Literacy Resources](https://sure.nlb.gov.sg/)
 *   [TOUCH Community Services](https://www.help123.sg/)
 
