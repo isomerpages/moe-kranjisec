@@ -11,6 +11,8 @@ Student leaders, which comprises the Student Council, CCA Leaders, House Leaders
 
 Orientation Group Leaders guide and mentor the Secondary One students throughout this programme, allowing them to forge new friendships and bonds with each other and know the school better.
 
+This culminates in the Inauguration Ceremony, where the students receive their tie pins from their seniors, Class Mentors and School Leaders, which marks the start of their Kranjian Experience.
+
 <img src="/images/2023sec1_1.jpg" 
      style="width:80%">
 		 
@@ -18,4 +20,7 @@ Orientation Group Leaders guide and mentor the Secondary One students throughout
      style="width:80%">
 
 <img src="/images/2023sec1_3.jpg" 
+     style="width:80%">
+
+<img src="/images/2023sec1_4.jpg" 
      style="width:80%">
