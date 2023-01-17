@@ -66,5 +66,11 @@ Permanent Residents (PR) and International Students (IS) who need support can ap
 
 ### Acer Service Center Information
 
-<img src="/images/NDLP3.jpg" 
+<img src="/images/NDLP4.jpg" 
      style="width:80%">
+
+Service Centre Number: 6895 6278
+
+Service Centre Email: [acercare.sg@acer.com](mailto:acercare.sg@acer.com)
+
+If you have any further queries, please contact the school at **6766 2464**
