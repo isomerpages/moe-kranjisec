@@ -56,13 +56,12 @@ Permanent Residents (PR) and International Students (IS) who need support can ap
 
 ### Cyberwellness Resources for Parents
 
-*   [Parent Handbook (I) on Learning with a PLD](https://drive.google.com/file/d/1L5SpJIQo_ZWZrxjJK1vMtL9in7KXtqxm/view?usp=share_link)
-*   [Parent Handbook (II) on Learning with a PLD](https://drive.google.com/file/d/13C3U3ySji5W9-j9fSsKggEqEkQuG6wbQ/view?usp=share_link)
-*   [go.gov.sg/moe-cyber-wellness](https://go.gov.sg/moe-cyber-wellness)
-*   [https://beta.moe.gov.sg/programmes/cyber-wellness/](https://beta.moe.gov.sg/programmes/cyber-wellness/)
-*   [go.gov.sg/better-internet-sg](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents)
-*   [sure.nlb.gov.sg](https://sure.nlb.gov.sg/)
-*   [help123.sg](https://www.help123.sg/)
+*   [Parent Kit on Cyber Wellness for Your Child](https://go.gov.sg/moe-cyber-wellness)
+*   [Schoolbag article ‘Keeping our teens safe online'](https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online)
+*   [MOE Cyber Wellness Programme](https://www.moe.gov.sg/programmes/cyber-wellness/](https://www.moe.gov.sg/programmes/cyber-wellness/))
+*   [Media Literacy Council](https://go.gov.sg/better-internet-sg](https://go.gov.sg/better-internet-sg)
+*   [National Library’s Learning & Information Literacy Resources](https://sure.nlb.gov.sg/)
+*   [TOUCH Community Services](https://www.help123.sg/)
 
 ### Acer Service Center Information
 
