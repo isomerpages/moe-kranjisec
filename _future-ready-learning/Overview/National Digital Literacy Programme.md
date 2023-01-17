@@ -12,7 +12,7 @@ Under the NDLP, every secondary school student will own a school-prescribed pers
 
 Please click [here](/files/KSS%20NDLP%20Parent%20Engagement%20Slides%202023.pdf) to view the slides.
 
-Please click here for
+Please click [here](/files/KSS%20Infographic%20on%20the%20PLD%20Initiative_2023.pdf) for PLD Initiative Infographic.
 
 To proceed with the purchase of the PLD, please fill in the online form at this link: 
 [https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin) 
@@ -23,36 +23,12 @@ Please submit the online or hardcopy form by **27 January 2023**.
 
 More details will be provided at a later date on your child/ward’s PLD collection date.
 
-### Cyberwellness Resources for Parents
+### Resources for Parents
 
+*   [Media Literacy Council](https://go.gov.sg/better-internet-sg)
+*   [TOUCH Community Services](https://www.help123.sg/)
 *   [Parent Handbooks (I) on Learning with a Personal Learning Device ](/files/Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD_2023.pdf)
 *   [Parent Handbooks (II) on Learning with a Personal Learning Device ](/files/Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD_2023.pdf)
-*   [Media Literacy Council](https://go.gov.sg/better-internet-sg)
-*   [National Library’s Learning & Information Literacy Resources](https://sure.nlb.gov.sg/)
-*   [TOUCH Community Services](https://www.help123.sg/)
-
-
-To proceed with the purchase of the PLD, please fill in the online form at this link: 
-[https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin) 
-
-If you are unable to submit the form online, please access the school website at 
-[http://www.kranjisec.moe.edu.sg](http://www.kranjisec.moe.edu.sg) (under announcements) for a hardcopy version.
-
-Please submit the online or hardcopy form by **27 January 2023**.
-
-More details will be provided at a later date on your child/ward’s PLD collection date.
-
-### PLD Information for Parents
-
-Please click here to view the slides.
-
-### Cyberwellness Resources for Parents
-
-*   [Parent Handbooks (I) on Learning with a Personal Learning Device ](/files/Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD_2023.pdf)
-*   [Parent Handbooks (II) on Learning with a Personal Learning Device ](/files/Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD_2023.pdf)
-*   [Media Literacy Council](https://go.gov.sg/better-internet-sg)
-*   [National Library’s Learning & Information Literacy Resources](https://sure.nlb.gov.sg/)
-*   [TOUCH Community Services](https://www.help123.sg/)
 
 ### Acer Service Center Information
 
