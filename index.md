@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Kranji Experience 2.png
+      background: /images/Chinese Dance 1.jpg
       key_highlights:
         - title: Parents
           description: ""
