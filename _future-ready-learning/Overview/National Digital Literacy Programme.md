@@ -66,3 +66,5 @@ Permanent Residents (PR) and International Students (IS) who need support can ap
 
 ### Acer Service Center Information
 
+<img src="/images/NDLP3.jpg" 
+     style="width:80%">
