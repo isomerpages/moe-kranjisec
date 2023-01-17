@@ -32,17 +32,10 @@ More details will be provided at a later date on your child/ward’s PLD collect
 
 Please click here to view the slides.
 
-### Financial Assistance
-
-Subsidies are available to students who require financial assistance. Singapore Citizens who are already on MOE FAS will automatically qualify for these subsidies and do not need to take any action.
-
-Permanent Residents (PR) and International Students (IS) who need support can apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4400 or Per Capita Income (PCI) is below $1100. Please approach the school for more details.
-
 ### Cyberwellness Resources for Parents
 
-*   [Parent Kit on Cyber Wellness for Your Child](https://go.gov.sg/moe-cyber-wellness)
-*   [Schoolbag article ‘Keeping our teens safe online'](https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online)
-*   [MOE Cyber Wellness Programme](https://www.moe.gov.sg/programmes/cyber-wellness/](https://www.moe.gov.sg/programmes/cyber-wellness/))
+*   [Parent Handbooks (I) on Learning with a Personal Learning Device ](/files/Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD_2023.pdf)
+*   [Parent Handbooks (II) on Learning with a Personal Learning Device ](/files/Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD_2023.pdf)
 *   [Media Literacy Council](https://go.gov.sg/better-internet-sg)
 *   [National Library’s Learning & Information Literacy Resources](https://sure.nlb.gov.sg/)
 *   [TOUCH Community Services](https://www.help123.sg/)
