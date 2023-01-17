@@ -6,16 +6,20 @@ third_nav_title: Our Partners
 ---
 ### Parents Support Group
 
-<img src="/images/psg1.png" 
-     style="width:30%">
-
 Kranji Secondary School Parents Support Group (PSG) was formally formed on 1st September 2005. The PSG embraces the School’s vision, mission and values and works collectively, and in partnership, with the School to support the School’s endeavours, to enhance the stakeholders’ values, to enrich the students’ learning experience and to foster close ties with the School and Community.
 
-<img src="/images/psg1.gif" 
-     style="width:60%"> Celebrating Lunar New Year on 24 January 2020
+<img src="/images/psg1_2023.png" 
+     style="width:80%"> 
+<img src="/images/psg3_2023.png" 
+     style="width:80%">
+<img src="/images/psg4_2023.png" 
+     style="width:80%">
+<center> Parent-Child bonding through a Christmas-themed terrarium workshop on 29 October 2022 </center>
 		 
-<img src="/images/psg2.gif" 
-     style="width:60%"> Participating in the MTL Cultural Gallery on 31 January 2020
+<img src="/images/psg2_2023.png" 
+     style="width:80%"> 
+<center> Handover ceremony to PSG 2022/3  </center>
+	
 
 ##### PSG EXCO 2022 - 2023
 
