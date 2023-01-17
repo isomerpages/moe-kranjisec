@@ -4,7 +4,6 @@ permalink: /the-kranji-experience/Secondary-1/orientation-programme/
 description: ""
 third_nav_title: Sec 1 Distinctive Experiences
 ---
-
 ### Secondary One Orientation Programme
 
   
@@ -12,11 +11,11 @@ Student leaders, which comprises the Student Council, CCA Leaders, House Leaders
 
 Orientation Group Leaders guide and mentor the Secondary One students throughout this programme, allowing them to forge new friendships and bonds with each other and know the school better.
 
-<img src="/images/SOOP%201.jpeg" 
-     style="width:60%">
+<img src="/images/2023sec1_1.jpg" 
+     style="width:80%">
 		 
-<img src="/images/SOOP%202.jpeg" 
-     style="width:60%">
+<img src="/images/2023sec1_2.jpg" 
+     style="width:80%">
 
-<img src="/images/SOOP%203.jpg" 
-     style="width:60%">
+<img src="/images/2023sec1_3.jpg" 
+     style="width:80%">
