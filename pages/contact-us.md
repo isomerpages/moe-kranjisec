@@ -24,7 +24,13 @@ locations:
       - 61 Choa Chu Kang Street 51
       - Singapore 689333
       - ""
-    operating_hours: []
+    operating_hours:
+      - days: Monday to Friday
+        time: 0800 to 1730
+        description: (During School Term)
+      - days: Monday to Friday
+        time: 0800 to 1700
+        description: (During School Holidays)
     maps_link: ""
     title: Address
 ---
