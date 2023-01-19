@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: ""
+agency_name: Kranji Secondary
 contacts:
   - content:
       - phone: +65 6766 2464
@@ -24,7 +24,7 @@ locations:
       - 61 Choa Chu Kang Street 51
       - Singapore 689333
       - ""
-    title: Address
     operating_hours: []
     maps_link: ""
+    title: Address
 ---
