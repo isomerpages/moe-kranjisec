@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Kranji Secondary
+agency_name: Kranji Secondary School
 contacts:
   - content:
       - phone: +65 6766 2464
