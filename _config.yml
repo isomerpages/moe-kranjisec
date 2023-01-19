@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d28t49xsr05e29.amplifyapp.com
 prod: https://master.d28t49xsr05e29.amplifyapp.com
-shareicon: /images/Open House 2022.png
+shareicon: /images/2023sec1_2.jpg
 is_government: true
 facebook-pixel: ""
 google_analytics: G-BGZL36SJSC
