@@ -23,6 +23,7 @@ Kranji Secondary School Parents Support Group (PSG) was formally formed on 1st S
 
 ##### PSG EXCO 2022 - 2023
 
+![](/images/PSG/PSG%20EXCO%202023%20to%202024.jpg)
 
 | Appointment 	| PSG EXCO 	|
 |---	|---	|
