@@ -10,7 +10,6 @@ Internationalisation is an important thrust under MOE’s Learn for Life Agenda.
 ![](/images/Internationalisation/internationalisation%20header.png)
 
 In recent years, students from Kranji Secondary School and our international partner schools have developed global awareness and cross-cultural skills through the opportunity to interact with one another during virtual exchange programmes.
-  
 
 The **1st Kranji International Student Conference**, a biennial conference seeks to provide a virtual platform for students from our international partner schools to network and dialogue on the complexities and intricacies of emerging and current global affairs. By listening to and discussing opinions with students from other countries, delegates will learn more about their similarities and differences, developing a shared sense of solidarity with their global peers. The conference also provides delegates with the opportunity to hone their public speaking and critical thinking skills, as they consider issues from different perspectives.
 
