@@ -5,6 +5,17 @@ description: ""
 ---
 Internationalisation is an important thrust under MOE’s Learn for Life Agenda. The Internationalisation Programme is our school’s vehicle to provide our students with different opportunities to understand the histories, cultures, and economies of countries around the world, particularly those in Asia, and these countries’ interconnections with Singapore. Despite travel restrictions due to the COVID-19 pandemic, virtual platforms have provided us with the means to create global classrooms and replicate internationalisation experiences without stepping beyond our shores.
 
+### Upcoming Internationalisation Events
+
+![](/images/Internationalisation/internationalisation%20header.png)
+
+In recent years, students from Kranji Secondary School and our international partner schools have developed global awareness and cross-cultural skills through the opportunity to interact with one another during virtual exchange programmes.
+  
+
+The 1st Kranji International Student Conference, a biennial conference seeks to provide a virtual platform for students from our international partner schools to network and dialogue on the complexities and intricacies of emerging and current global affairs. By listening to and discussing opinions with students from other countries, delegates will learn more about their similarities and differences, developing a shared sense of solidarity with their global peers. The conference also provides delegates with the opportunity to hone their public speaking and critical thinking skills, as they consider issues from different perspectives.
+
+Watch this space for more details of the conference.
+
 ### The Education for Sustainable Development Award – First Prize winner
 
 The Education for Sustainable Development Award recognises education and learning that promotes sustainable development. In 2021, the theme was “Securing Educational Opportunities in COVID-19 Crisis” and we were one of the 282 schools from eight Southeast Asian countries which submitted entries for this award. Due to our strong internationalisation efforts, we were named the First Prize winner of the Education for Sustainable Development Award, which was presented by the Southeast Asian Ministers of Education Organization (SEAMEO) and the Ministry of Education, Culture, Sports, Science and Technology, Japan.
