@@ -16,7 +16,7 @@ The **1st Kranji International Student Conference**, a biennial conference seeks
 
 Watch this space for more details of the conference.
 
-
+![](/images/Internationalisation/internationalisation%20header%202.png)
 
 The biannual ASEAN Symposium for Secondary School Students is a platform for secondary school students in Singapore to discuss key issues concerning ASEAN with policy makers, academics, and youth leaders in the region. It provides opportunities for participants to research and gain insights into the complexities and intricacies of pertinent issues and challenges affecting the region in the societal, economic, cultural, environmental and political domains beyond the secondary school curriculum; as well as to explore new perspectives on ASEAN regionalism.
 
