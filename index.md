@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Chinese Dance 1.jpg
+      background: /images/Kranji Experience 2.png
       key_highlights:
         - title: Parents
           description: ""
@@ -57,5 +57,3 @@ sections:
       subtitle: Distinctive Experiences
       description: Ready for the future to meet challenges and opportunities.
 ---
-
-
