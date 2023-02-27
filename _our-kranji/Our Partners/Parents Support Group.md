@@ -25,28 +25,6 @@ Kranji Secondary School Parents Support Group (PSG) was formally formed on 1st S
 
 ![](/images/PSG/PSG%20EXCO%202023%20to%202024.jpg)
 
-| Appointment 	| PSG EXCO 	|
-|---	|---	|
-| Advisor 	| Ng Ai Lin 	|
-| Chairman 	| Ganesan Maniam 	|
-| Vice Chairman 1 	| Freda Lim 	|
-| Vice Chairman 2 	| Huang Yuqin 	|
-| Secretary 	| Nicholas Dass 	|
-| Assistant Secretary 	| Becky Lim	|
-| Treasurer 	| Esther Lim	|
-| Member 	| Teh Mooi Yan 	|
-| Member 	| Yeap Ling Ling 	|
-| Member 	| Cindy Chua 	|
-| Member 	| Michele Lee 	|
-| Member 	| Maggie Goh	|
-| Member 	| Vijihendran Krishnan 	|
-| Member 	| Srikanth Gudigandla 	|
-| Member 	| Tejal Bhao 	|
-| Member 	| Noel Tay 	|
-| Member 	| Jonathan Lai 	|
-| Member 	| Josephine Mendoza 	|
-| Member 	| Subramanian Krishnan  	|
-
 ##### Join our parents’ WhatsApp group for communication on school’s events and communication with other parents!
 
  *   Secondary 4/5 (2023) - [http://tiny.cc/KSS-psgsec452023](http://tiny.cc/KSS-psgsec452023)
