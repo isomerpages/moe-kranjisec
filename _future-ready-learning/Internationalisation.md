@@ -7,17 +7,17 @@ Internationalisation is an important thrust under MOE’s Learn for Life Agenda.
 
 ### Upcoming Internationalisation Events
 
-![](/images/Internationalisation/internationalisation%20header.png)
+![](/images/Internationalisation/global%20classroom%20-%20asia%20networking%20session.png)
 
-In recent years, students from Kranji Secondary School and our international partner schools have developed global awareness and cross-cultural skills through the opportunity to interact with one another during virtual exchange programmes.
+In recent years, students from Kranji Secondary School and our international partner schools have developed global awareness and cross-cultural skills through the opportunity to interact with one another during virtual exchange programmes. 
 
-The **1st Kranji International Student Conference**, a biennial conference seeks to provide a virtual platform for students from our international partner schools to network and dialogue on the complexities and intricacies of emerging and current global affairs. By listening to and discussing opinions with students from other countries, delegates will learn more about their similarities and differences, developing a shared sense of solidarity with their global peers. The conference also provides delegates with the opportunity to hone their public speaking and critical thinking skills, as they consider issues from different perspectives.
+The **Global Classroom – Asia Networking Session**, a biennial conference seeks to provide a virtual platform for students from our international partner schools to network and dialogue on the complexities and intricacies of emerging and current global affairs. By listening to and discussing opinions with students from other countries, delegates will learn more about their similarities and differences, developing a shared sense of solidarity with their global peers. The conference also provides delegates with the opportunity to hone their public speaking and critical thinking skills, as they consider issues from different perspectives.
 
-Watch this space for more details of the conference.
+Watch this space for more details of the session.
 
-![](/images/Internationalisation/internationalisation%20header%202.png)
+![](/images/Internationalisation/2nd%20ASEAN%20Symposium%20for%20Youths.png)
 
-The biannual ASEAN Symposium for Secondary School Students is a platform for secondary school students in Singapore to discuss key issues concerning ASEAN with policy makers, academics, and youth leaders in the region. It provides opportunities for participants to research and gain insights into the complexities and intricacies of pertinent issues and challenges affecting the region in the societal, economic, cultural, environmental and political domains beyond the secondary school curriculum; as well as to explore new perspectives on ASEAN regionalism.
+The biannual **ASEAN Symposium for Youth** is a platform for secondary school students in Singapore to discuss key issues concerning ASEAN with policy makers, academics, and youth leaders in the region. It provides opportunities for participants to research and gain insights into the complexities and intricacies of pertinent issues and challenges affecting the region in the societal, economic, cultural, environmental and political domains beyond the secondary school curriculum; as well as to explore new perspectives on ASEAN regionalism.
 
 The first edition of the Symposium in 2022 saw some 710 students from 70 secondary schools in Singapore participating, including students from our partner school in Thailand and the Philippines. Watch this space for the **2nd ASEAN Symposium for Secondary School Students** in 2024.
 
