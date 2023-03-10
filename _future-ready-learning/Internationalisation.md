@@ -17,9 +17,9 @@ Watch this space for more details of the session.
 
 ![](/images/Internationalisation/2nd%20ASEAN%20Symposium%20for%20Youths.png)
 
-The biannual **ASEAN Symposium for Youth** is a platform for secondary school students in Singapore to discuss key issues concerning ASEAN with policy makers, academics, and youth leaders in the region. It provides opportunities for participants to research and gain insights into the complexities and intricacies of pertinent issues and challenges affecting the region in the societal, economic, cultural, environmental and political domains beyond the secondary school curriculum; as well as to explore new perspectives on ASEAN regionalism.
+The biannual **ASEAN Symposium for Youths** is a platform for secondary school students in Singapore to discuss key issues concerning ASEAN with policy makers, academics, and youth leaders in the region. It provides opportunities for participants to research and gain insights into the complexities and intricacies of pertinent issues and challenges affecting the region in the societal, economic, cultural, environmental and political domains beyond the secondary school curriculum; as well as to explore new perspectives on ASEAN regionalism.
 
-The first edition of the Symposium in 2022 saw some 710 students from 70 secondary schools in Singapore participating, including students from our partner school in Thailand and the Philippines. Watch this space for the **2nd ASEAN Symposium for Secondary School Students** in 2024.
+The first edition of the Symposium in 2022 saw some 710 students from 70 secondary schools in Singapore participating, including students from our partner school in Thailand and the Philippines. Watch this space for updates in 2024.
 
 ### The Education for Sustainable Development Award – First Prize winner
 
