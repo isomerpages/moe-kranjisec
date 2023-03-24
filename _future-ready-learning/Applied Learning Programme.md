@@ -8,6 +8,8 @@ The Applied Learning Programme allows students to develop a user-centric lens in
 <img src="/images/ALP%201.jpg"
      style="width:60%">
 <center>Tiered approach to ALP Programme</center>
+
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/sXO78f5nC0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 		 
 ## Key Programmes
 
