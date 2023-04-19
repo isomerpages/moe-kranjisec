@@ -11,4 +11,6 @@ The Direct School Admission Exercise for Secondary School (DSA-Sec) allows stude
 
 We are accepting applications for DSA-Sec in the following categories:
 
-<img src="/images/DSA%201.jpg" style="width:60%">
+![](/images/DSA/2023/dsa%20categories.jpg)
+
+The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec.
