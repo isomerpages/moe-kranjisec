@@ -13,4 +13,4 @@ We are accepting applications for DSA-Sec in the following categories:
 
 ![](/images/DSA/2023/dsa%20categories.jpg)
 
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec.
+The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
