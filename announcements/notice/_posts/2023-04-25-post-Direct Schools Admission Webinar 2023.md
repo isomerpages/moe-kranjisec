@@ -6,3 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+Interested to find out more about Direct School Admissions (DSA) to Kranji Secondary and the #KranjiExperience?
+
+Join us on 5 May 2023 (Fri) as we share about the various DSA talent areas! Register here: [https://go.gov.sg/kssdsa2023](https://go.gov.sg/kssdsa2023).
+
+See you!
