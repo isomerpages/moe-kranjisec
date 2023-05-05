@@ -25,6 +25,14 @@ description: ""
 * Email: [kranji_ss@moe.edu.sg](mailto:kranji_ss@moe.edu.sg)
 * Contact Person: Mdm Sharon Yong
 
+##### How to get there?
+
+Nearest MRT: Chua Chu Kang MRT (NS4 line)
+
+Bus Number: 302 (after 4 bus stops)
+
+Alight at Limbang Shopping Mall - 5 minute walking distance to school
+
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 * Able to provide good service and quality food with prices determined in consultation with the school.
