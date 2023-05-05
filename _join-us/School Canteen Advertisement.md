@@ -5,13 +5,13 @@ description: ""
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food Stall | 1 June 2023 | Rice or noodle stalls are acceptable.|
+| Malay Food Stall | 1 June 2023 | Halal rice stall |
 
 #### Application Procedure
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-Application Form
+[Application Form](/files/canteen%20application%20form%20bf7%20(2018).pdf)
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
