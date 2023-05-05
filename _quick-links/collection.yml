@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - School Canteen Advertisement.md
       - Parents/.keep
       - Parents/Useful Info.md
       - Parents/School Terms and Holidays for 2023.md
