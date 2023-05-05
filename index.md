@@ -18,6 +18,9 @@ sections:
         - title: Students
           description: ""
           url: /quick-link-students/
+        - title: Partners
+          description: ""
+          url: /school-canteen-ad/
       title: Kranji Secondary School
       subtitle: Thinker. Leader. Champion.
   - resources:

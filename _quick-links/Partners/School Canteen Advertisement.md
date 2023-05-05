@@ -1,7 +1,8 @@
 ---
 title: School Canteen Advertisement
-permalink: /join-us/school-canteen-ad/
+permalink: /school-canteen-ad/
 description: ""
+third_nav_title: Partners
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
