@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Partners/School Canteen Advertisement.md
       - Partners/.keep
       - Parents/.keep
       - Parents/Useful Info.md
