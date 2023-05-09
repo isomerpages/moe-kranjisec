@@ -4,5 +4,5 @@ date: 2023-05-09
 layout: link
 description: ""
 image: ""
-external: https://https://www.kranjisec.moe.edu.sg/admissions/direct-school-admissions/
+external: https://www.kranjisec.moe.edu.sg/files/dsa%20slides%202023%20(parents%20engagement).pdf
 ---
