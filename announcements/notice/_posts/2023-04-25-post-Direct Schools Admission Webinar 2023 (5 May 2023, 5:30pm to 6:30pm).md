@@ -1,5 +1,5 @@
 ---
-title: Direct Schools Admission Webinar 2023 (5 May 2023, 5:30 to 6:30pm)
+title: Direct Schools Admission Webinar 2023 (5 May 2023, 5:30pm to 6:30pm)
 permalink: /announcements/notice/dsa2023/
 date: 2023-04-25
 layout: post
