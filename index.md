@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Kranji Experience 2.png
+      background: /images/banner2.png
       key_highlights:
         - title: Parents
           description: ""
@@ -27,7 +27,7 @@ sections:
       title: Announcements
       button: Click here for all posts
   - infopic:
-      title: "Secondary 1 "
+      title: Secondary 1
       button: Read More
       url: /the-kranji-experience/Secondary-1/orientation-programme/
       alt: Image alt text
