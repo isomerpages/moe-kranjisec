@@ -6,7 +6,7 @@ third_nav_title: Partners
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food Stall | 1 June 2023 | Halal rice stall |
+| Halal Noodle Stall | 14 July 2023 | Halal noodle stall |
 
 #### Application Procedure
 
