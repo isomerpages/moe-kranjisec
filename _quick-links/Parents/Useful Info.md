@@ -50,10 +50,6 @@ Website: [www.finestuniform.com](https://finestuniform.com/)
 
 Contact Number: (65) 90295135
 
-<u>During School Terms</u>
-
-Sale of uniforms is available via the School Bookshop.
-
 ### MOE Financial Assistance Scheme
 
 The MOE Financial Assistance Scheme (FAS) is now open for application. The objective of the MOE FAS is to provide financial assistance to Singaporean students in Government and Government-Aided Schools (GGAS) to meet the basic schooling expenses.
