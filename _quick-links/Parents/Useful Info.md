@@ -4,7 +4,7 @@ permalink: /quick-links/parents/
 description: ""
 third_nav_title: Parents
 ---
-### Useful Numbers & Operating Hours
+### Useful Numbers &amp; Operating Hours
 #### General Office
 
 School Address: 61 Choa Chu Kang Street 51 Singapore 689333
@@ -35,9 +35,9 @@ Monday to Friday: 7.00am to 3.00pm
 
 Please download the booklists below for 2023 Academic Year
 
-| Sec 2 | Sec 3 | Sec 4 & 5 |
+| Sec 2 | Sec 3 | Sec 4 &amp; 5 |
 | -------- | -------- | -------- |
-| [2023 Sec 2 Booklists](/files/Sec%202%20Booklists.pdf)     | [2023 Sec 3 Booklists](/files/Sec%203%20Booklists.pdf)     | [2023 Sec 4 & 5 Booklists](/files/Sec%204_5%20Booklists.pdf)     |
+| [2023 Sec 2 Booklists](/files/Sec%202%20Booklists.pdf)     | [2023 Sec 3 Booklists](/files/Sec%203%20Booklists.pdf)     | [2023 Sec 4 &amp; 5 Booklists](/files/Sec%204_5%20Booklists.pdf)     |
 
 
 #### School Uniform
@@ -46,7 +46,7 @@ Vendor: Finest Fashion Centre
 
 Address: 144 Upper Bukit Timah Road #B1-03 Beauty World Centre Singapore 588177
 
-Website: [www.finestfashioncentre.com](www.finestfashioncentre.com)
+Website: [www.finestuniform.com](https://finestuniform.com/)
 
 Contact Number: (65) 90295135
 
