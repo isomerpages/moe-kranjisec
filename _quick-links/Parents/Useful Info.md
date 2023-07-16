@@ -48,7 +48,7 @@ Address: 144 Upper Bukit Timah Road #B1-03 Beauty World Centre Singapore 588177
 
 Website: [www.finestuniform.com](https://finestuniform.com/)
 
-Contact Number: (65) 90295135
+Contact Number: (65) 90295135 / (65) 64665697 / (65) 82848586
 
 ### MOE Financial Assistance Scheme
 
