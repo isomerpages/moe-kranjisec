@@ -68,7 +68,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 1.  eTeens is a&nbsp;programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a&nbsp;mass talk segment and a classroom-based programme.  
       
     
-2.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+2![](/images/SEd/2023/2023%20eTeens.png).  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
 ##### **At Kranji Secondary School, the eTeens programme will be implemented as follows in 2023:**
 
@@ -82,4 +82,4 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
       
 3.  Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also accessible&nbsp;[here](https://go.gov.sg/kss-eteens-opt-out). &nbsp;The completed form is to be submitted by&nbsp;**27/01/2023**.  
       
-4.  Parents can contact the school at 6766 2464 (email: kranji_ss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.  
+4.  Parents can contact the school at 6766 2464 (email: kranji_ss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
