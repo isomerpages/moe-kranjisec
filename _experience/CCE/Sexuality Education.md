@@ -45,23 +45,23 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
 <center>Secondary 1</center>
 	 
-![](/images/2023%20Sec%201%20SEd.png)
+![](/images/SEd/2023/2023%20Sec%201%20SEd.png)
 
 <center>Secondary 2</center>
 
-![](/images/2023%20Sec%202%20SEd.png)
+![](/images/SEd/2023/2023%20Sec%202%20SEd.png)
 
 <center>Secondary 3</center>
 
-![](/images/2023%20Sec%203%20SEd.png)
+![](/images/SEd/2023/2023%20Sec%203%20SEd.png)
 
 <center>Secondary 4</center>
 
-![](/images/2023%20Sec%204%20SEd.png)
+![](/images/SEd/2023/2023%20Sec%204%20SEd.png)
 
 <center>Secondary 5</center>
 
-![](/images/2023%20Sec%205%20SEd.png)
+![](/images/SEd/2023/2023%20Sec%205%20SEd.png)
 
 ##### **eTeens Programme**:
 
