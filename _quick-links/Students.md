@@ -21,3 +21,10 @@ description: ""
 
 PLD Classroom Routines
 
+![](/images/PLD%20Classroom%20Routines/classroom%20routines%201.png)
+
+![](/images/PLD%20Classroom%20Routines/classroom%20routines%202.png)
+
+![](/images/PLD%20Classroom%20Routines/classroom%20routines%203.png)
+
+![](/images/PLD%20Classroom%20Routines/classroom%20routines%204.png)
