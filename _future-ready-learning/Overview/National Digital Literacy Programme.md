@@ -32,11 +32,20 @@ More details will be provided at a later date on your child/ward’s PLD collect
 
 ### Acer Service Center Information
 
-<img src="/images/NDLP4.jpg" 
-     style="width:80%">
+<img src="/images/NDLP4.jpg" style="width:80%">
 
 Service Centre Number: 6895 6278
 
 Service Centre Email: [acercare.sg@acer.com](mailto:acercare.sg@acer.com)
+
+### PLD Classroom Routines
+
+![](/images/PLD%20Classroom%20Routines/classroom%20routines%201.png)
+
+![](/images/PLD%20Classroom%20Routines/classroom%20routines%202.png)
+
+![](/images/PLD%20Classroom%20Routines/classroom%20routines%203.png)
+
+![](/images/PLD%20Classroom%20Routines/classroom%20routines%204.png)
 
 ##### If you have any further queries, please contact the school at **6766 2464**
