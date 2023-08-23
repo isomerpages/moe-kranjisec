@@ -18,3 +18,13 @@ description: ""
 | [Google Drive](https://drive.google.com/drive/my-drive) 	| Google Drive is a combo online-productivity software suite and cloud-based, file-syncing service. Basically, it seems to do everything, giving you a place to store all of your files and the ability to access them from any device. <br>_Students are to login using their Student iCON email address_ 	|
 | [Canva](canva.com) 	| Free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more. <br>_Students are to login using their Student iCON email address_ 	|
 | [Kahoot!](canva.com) 	| Kahoot! is a free game-based learning platform that makes it fun to learn – any subject, in any language, on any device	|
+
+### PLD Classroom Routines
+
+![](/images/PLD%20Classroom%20Routines/classroom%20routines%201.png)
+
+![](/images/PLD%20Classroom%20Routines/classroom%20routines%202.png)
+
+![](/images/PLD%20Classroom%20Routines/classroom%20routines%203.png)
+
+![](/images/PLD%20Classroom%20Routines/classroom%20routines%204.png)
