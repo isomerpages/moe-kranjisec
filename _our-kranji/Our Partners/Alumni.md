@@ -4,13 +4,9 @@ permalink: /partners/alumni/
 description: ""
 third_nav_title: Our Partners
 ---
-
-
-
 ### Alumni
 
-<img src="/images/alum1.png" 
-     style="width:60%">
+<img src="/images/alum1.png" style="width:60%">
 
 Formed in 2016, we are a team of passionate pioneer alumni who aimed to set up an alumni to serve as a key strategic partner in our alma mater. On 10 July 2019, the Kranji Alumni is formally registered as an association under the Registry of Societies to better support and contribute to Kranji Secondary School strategically.  
 
@@ -43,35 +39,24 @@ As a strategic partner to Kranji Secondary School, the Kranji Alumni has provide
 
 The Kranji Alumni sponsored the Kranjian Award since 2018 to recognise outstanding graduating students for their character, leadership and academic achievements during the school’s annual Achievement Day. Congratulations to all the winners and recipients at the Achievement Day!
 
-<img src="/images/alum2.png" 
-     style="width:90%">
+<img src="/images/alum2.png" style="width:90%">
 		 
 #### Teachers' Day Celebration
 
 Teachers plant the seeds of knowledge and dedicate their time and energy to nurture us during our 4-5 years journey. To all our past and current Kranji teachers, thank you for your encouragement and inspiration. Below are some gestures to show the alumni’s appreciation for all Kranji teachers and staff. Happy Teachers’ Day!
 
-<img src="/images/alum3.png" 
-     style="width:80%">
+<img src="/images/alum3.png" style="width:80%">
 		 
-<img src="/images/alum4.png" style="width:240px;height:180px;margin-right:30px;" align = "left"> Rendering support through various areas:  
+<img src="/images/alum4.png" style="width:240px;height:180px;margin-right:30px;" align="left"> Rendering support through various areas:  
 
  *   Sponsorship for Kranji’s Graduation Dinner
- *   Engagement and sharings for students (e.g. Sports events, career talks) 
+ *   Engagement and sharings for students (e.g. Sports events, career talks)&nbsp;
  *   Consolidation of the Kranji Alumni database for connect purpose
 
 #### Contact Kranji Alumni:
 
-<p><a href="[kranji.alumni@gmail.com](kranji.alumni@gmail.com)">  
-<img style="width:5%" src="/images/alum5.png">  
-</a></p> 
-<p><a href="[https://www.facebook.com/groups/kranjialumni/](https://www.facebook.com/groups/kranjialumni/)">  
-<img style="width:5%" src="/images/alum6.png">  
-</a></p>
 
-<p><a href="[https://twitter.com/Kranjialumni](https://twitter.com/Kranjialumni)">  
-<img style="width:5%" src="/images/alum7.png">  
-</a></p>
 
-<p><a href="[https://www.instagram.com/kranjialumni/](https://www.instagram.com/kranjialumni/)">  
-<img style="width:5%" src="/images/alum8.png">  
-</a></p>
+| Email | Facebook | X | Instagram |
+| -------- | -------- | -------- | -------- |
+| kranji.alumni@gmail.com    | [Link](https://www.facebook.com/groups/66114435283)     | [Link](https://twitter.com/kranjialumn)     | [Link](https://www.instagram.com/kranjialumni/)    |
