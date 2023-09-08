@@ -55,17 +55,8 @@ Teachers plant the seeds of knowledge and dedicate their time and energy to nurt
 
 #### Contact Kranji Alumni:
 
-<p><a href="[kranji.alumni@gmail.com](kranji.alumni@gmail.com)">  
-<img style="width:5%" src="/images/alum5.png">  
-</a></p> 
-<p><a href="[https://www.facebook.com/groups/kranjialumni/](https://www.facebook.com/groups/66114435283)">  
-<img style="width:5%" src="/images/alum6.png">  
-</a></p>
 
-<p><a href="[https://twitter.com/Kranjialumni](https://twitter.com/kranjialumni)">  
-<img style="width:5%" src="/images/alum7.png">  
-</a></p>
 
-<p><a href="[https://www.instagram.com/kranjialumni/](https://www.instagram.com/kranjialumni/)">  
-<img style="width:5%" src="/images/alum8.png">  
-</a></p>
+| Email | Facebook | X | Instagram |
+| -------- | -------- | -------- | -------- |
+| kranji.alumni@gmail.com    | [Link](https://www.facebook.com/groups/66114435283)     | [Link](https://twitter.com/kranjialumn)     | [Link](https://www.instagram.com/kranjialumni/)    |
