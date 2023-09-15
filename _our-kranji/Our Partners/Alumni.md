@@ -59,4 +59,4 @@ Teachers plant the seeds of knowledge and dedicate their time and energy to nurt
 
 | Email | Facebook | X | Instagram |
 | -------- | -------- | -------- | -------- |
-| kranji.alumni@gmail.com    | [Link](https://www.facebook.com/groups/66114435283)     | [Link](https://twitter.com/kranjialumn)     | [Link](https://www.instagram.com/kranjialumni/)    |
+| kranji.alumni@gmail.com    | [Link](https://www.facebook.com/groups/66114435283)     | [Link](https://twitter.com/kranjialumni)     | [Link](https://www.instagram.com/kranjialumni/)    |
