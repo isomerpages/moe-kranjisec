@@ -25,7 +25,7 @@ Address: 10 Ubi Crescent #01-02 Ubi Techpark Singapore 408564
 
 Website: [www.cascoedusupply.com.sg](www.cascoedusupply.com.sg)
 
-Contact Number: (65) 65474203
+Contact Number: (65) 63826789 ext 128
 
 Fax: (65) 65474305
 
