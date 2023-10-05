@@ -6,8 +6,6 @@ third_nav_title: Academic Studies
 ---
 ## ICT
 
-<img src="/images/ICT%201.jpg" style="width:60%">
-
 ### Our Goals
 * **Empowering Self-Directed Learners**: We aim to nurture students who take charge of their own learning journey. They will possess the ability to question, reflect, and persist in their pursuit of knowledge. Through the use of digital tools, they will be intrinsically motivated to monitor and manage their learning.
 * **Fostering Collaborative Learners**: Collaboration is a vital skill in today's world. Our students will learn to work harmoniously with others, building upon each other's knowledge to achieve common learning objectives. They will also embrace diverse perspectives, enhancing their ability to explain their reasoning and decisions.
