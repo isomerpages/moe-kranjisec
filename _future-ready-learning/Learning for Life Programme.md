@@ -7,7 +7,6 @@ description: ""
 
 Kranji Secondary School’s Learning For Life Programme aspires to nurture a leader in every Kranjian through Community and Youth Leadership programmes. 
 
-
 The school’s LLP programme provides Kranjians with leadership and learning experiences that support their development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. These learning experiences aim to increase the awareness and opportunities for a Kranjian to be of service to others, fulfilling the vision of developing Kranjian with a Heart to Serve.
 
 #### Principles of Leadership
@@ -69,4 +68,4 @@ Student Councillors, Peer Support Leaders and CCA Leaders and students under the
 
 <img src="/images/LLP%20wall.jpg" style="width:60%">
 
-The LLP Space was set up as well to provide a platform for Student Leaders to reach out to other students. This includes Fabulous Friday collated by the Peer Support Leaders to acknowledge the good work by other students, as well Student Council outreach programmes. 
+The LLP Space was set up as well to provide a platform for Student Leaders to reach out to other students. This includes Fabulous Friday collated by the Peer Support Leaders to acknowledge the good work by other students, as well Student Council outreach programmes.
