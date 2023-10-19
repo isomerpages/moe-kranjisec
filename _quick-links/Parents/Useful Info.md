@@ -19,15 +19,15 @@ Fax: (65) 67662095
 
 #### School Bookshop
 
-Vendor: Casco Educational Supply Pte Ltd
+Vendor: Overseas Associates Pte Ltd
 
-Address: 10 Ubi Crescent #01-02 Ubi Techpark Singapore 408564
+Address: 24 Lim Teck Boo Road #03-01 Nanyang Centre Singapore 537003
 
-Website: [www.cascoedusupply.com.sg](www.cascoedusupply.com.sg)
+Website: [https://www.oapl.sg/](https://www.oapl.sg/)
 
 Contact Number: (65) 63826789 ext 128
 
-Fax: (65) 65474305
+Fax: (65) 63829537
 
 <u>During School Terms</u>
 
