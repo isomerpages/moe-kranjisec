@@ -6,7 +6,7 @@ third_nav_title: Academic Studies
 ---
 **Achievements (2021-2023)**
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_xwtVfaFjgZhXwymcctA-PQTXd17pMPFoLl5U5LI0V3IzrsSc-cXiCQPhJk5BR1LTifzKi92OV5M0/pubhtml?widget=true&amp;headers=false" height="400" width="500"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_xwtVfaFjgZhXwymcctA-PQTXd17pMPFoLl5U5LI0V3IzrsSc-cXiCQPhJk5BR1LTifzKi92OV5M0/pubhtml?widget=true&amp;headers=false" height="400" width="700"></iframe>
 
 ## Objectives&nbsp;
 
