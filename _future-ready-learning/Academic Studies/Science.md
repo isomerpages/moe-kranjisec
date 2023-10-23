@@ -4,25 +4,13 @@ permalink: /active-learning/science/
 description: ""
 third_nav_title: Academic Studies
 ---
-**Achievements (2021-2022)**
+**Achievements (2021-2023)**
 
-| 2021 |  |  |
-| -------- | -------- | -------- |
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_xwtVfaFjgZhXwymcctA-PQTXd17pMPFoLl5U5LI0V3IzrsSc-cXiCQPhJk5BR1LTifzKi92OV5M0/pubhtml?widget=true&amp;headers=false" height="400" width="700"></iframe>
 
-*   Research Mentorship by Centre for Research and Applied Learning in Science (CRADLΣ)  
-    Project Title: Investigation of Sound Absorption Capabilities of Different Types of Food Waste<br> **High Distinction Award**
-*   NJC Enrichment Science Training and Research (ESTaR) Programme  
-    Project Titles: Investigation of the Removal of Heavy Metal Ions Using Food Waste  
-    A Study on the Effects of Hydrogel Extracted from Diapers on Antioxidant Levels in Plants<br>**Shortlisted for Final Judging at the Singapore Science and Engineering Fair (SSEF)** <br>
-*   Youth Science Ambassador Programme @ Science Centre (YSAP)<br> **Amazon Future Engineer Bursary Award**
-*   Singapore Junior Chemistry Olympiad<br> **Silver Award (x2), Merit Award (x1)** 
-*   Singapore Junior Biology Olympiad  <br>**Honourable Mention Award (x1**)
-*   International C.B Paul Quiz<br>**Gold Award (x2), Silver Award (x1), Bronze Award (x6)**
+## Objectives&nbsp;
 
-
-## Objectives 
-
-Science@Kranji aims to develop students who are Inspired by Science, Inquire like Scientists and Innovate using Science. With a renewed focus on **S**cience, **T**echnology, **E**ngineering and **M**athematics (STEM), we envisage students who are passionate about STEM and equipped with the necessary competencies to solve complex real-world problems in future. 
+Science@Kranji aims to develop students who are Inspired by Science, Inquire like Scientists and Innovate using Science. With a renewed focus on **S**cience, **T**echnology, **E**ngineering and **M**athematics (STEM), we envisage students who are passionate about STEM and equipped with the necessary competencies to solve complex real-world problems in future.&nbsp;
 
 Is it possible to build an effective water filtration device with a limited budget? Can you design a home gardening kit for edible vegetables to support Singapore’s food sustainability goals?
 
@@ -31,7 +19,7 @@ Is it possible to build an effective water filtration device with a limited budg
 
 We believe that Science is more than the acquisition of knowledge; it is also a way of thinking and doing. Hence, we adopt the inquiry-based learning approach and focus on teaching the Practices of Science. The questions above are some examples of the problems that our students work on as part of the Science@Kranji curriculum.
 
-### STEM Enrichment 
+### STEM Enrichment&nbsp;
 
 As enrichment, Secondary 1 students learnt how to make plastic from milk during their Orientation programme and Secondary 2 students participated in different STEM enrichment workshops during post-examination programme based on their interests to learn about cloud chambers, jam-making, aviation and flight science, forensic science etc. In addition, selected Secondary 4 students embarked on an industrial e-visit to GlaxoSmithKline (GSK) Singapore. All students also participated in STEM Week challenges. Through these experiences, students learnt about useful real-world applications of science to extend their knowledge from the classroom.
 
@@ -41,7 +29,7 @@ As enrichment, Secondary 1 students learnt how to make plastic from milk during 
 <img style="width:60%" src="/images/Science%203.jpg">
 <center>Students participating in a DNA forensics workshop.</center>
 
-### KEPLER Programme (See [KEPLER webpage](https://www.kranjisec.moe.edu.sg/future-ready-learning/Kepler/) for more details) 
+### KEPLER Programme (See [KEPLER webpage](https://www.kranjisec.moe.edu.sg/future-ready-learning/Kepler/) for more details)&nbsp;
 
 * **Academic Competitions, Research Programmes, Fairs and Conferences**
 
