@@ -6,4 +6,6 @@ layout: post
 description: ""
 image: /images/open house poster.png
 ---
+We will like to invite you to visit our Open House on 18 Nov 2023 (Sat), 8.30 am to 12.30 pm. Please sign up if you are interested: https://forms.moe.edu.sg/forms/eL0q8e
+
 ![Visit Kranji Sec Open House on 18 Nov, 8.30 am](/images/2023/open%20house%20poster.png)
