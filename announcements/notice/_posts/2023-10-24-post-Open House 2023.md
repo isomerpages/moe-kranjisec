@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: /images/open house poster.png
 ---
+![Visit Kranji Sec Open House on 18 Nov, 8.30 am](/images/2023/open%20house%20poster.png)
