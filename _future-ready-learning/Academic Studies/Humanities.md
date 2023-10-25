@@ -23,31 +23,37 @@ The Humanities Department believes in the transformative power of a humanities e
 
 ## Key Humanities Programmes
 
-**Social Studies Issues Investigation, Geographical Investigation &amp; Historical Inquiry**
+##### Social Studies Issues Investigation, Geographical Investigation &amp; Historical Inquiry
 
 The Social Studies Issues Investigation project is a collaborative and inquiry-based group project that allows students to delve into allocated social issues and propose viable solutions. Through this project, students are encouraged to gather evidence and case studies from other countries to support their proposed solutions. In additional, the skills acquired during this project are applied in a real-world context when students plan their class-based VIA projects in the from August 2023. Students choose from a diverse range of social service agencies that focus on similar social causes and apply what they have learnt in the project to craft appropriate engagement opportunities with the agencies' beneficiaries.
 
 Geographical Investigation and Historical Inquiry provide platforms for Kranjians to conduct authentic historical and geographical research beyond the classroom. Through such inquiry-based approach, all Geography and History students exercise and develop self and relationship management skills, which are important for life. 
 
-<img src="/images/Hum%201.png" style="width:60%">
-
+<img src="/images/2023/Humanities/investigation.png" style="width:60%">
 <center>Photo 1: Students engaging in Humanities investigation activities</center>
 
-**Geographical Investigation &amp; Historical Inquiry**
+##### Humanities-related Conferences and Competitions
 
-Geographical Investigation and Historical Inquiry provide platforms for Kranjians to conduct authentic historical and geographical research beyond the classroom. Through such inquiry-based approach, all Geography and History students exercise and develop self and relationship management skills, which are important for life.
+<img src="/images/2023/Humanities/competition.png" style="width:60%">
+<center>Photo 2: Kranji students achieving accolades in Humanities-related competitions</center>
 
-<img src="/images/Hum%202.png" style="width:60%">
-<center>Pure Geography students investigation beach profile during Coastal Geographical Investigation fieldwork activity</center>
+**The Model United Nations Conferences**
 
-<img src="/images/Hum%203.png" style="width:60%">
-<center>Experiential Learning for Secondary Two Historical Investigation activity - Students undergoing mass screening as part of Operation Sook Ching to eliminate potential threats to Japanese rule</center>
-		 
-**Humanities-related Conferences and Competitions**
+The Model United Nations is an academic simulation of the United Nations Conference that aims to educate upper secondary student participants about current and international affairs. Students from different local and international schools will play the roles of delegates representing their assigned countries in councils of their choice, engage in simulated UN debates regarding global issues. They have the opportunity to hone their public speaking, reasoning, research and interpersonal skills, enabling them to come up with plausible and creative solutions to their assigned issue. The Model United Nations is a good platform for Kranjians to deepen their understanding of the complexities of international relations in our highly globalised world. 
 
-These conferences and competitions are excellent platforms for Kranjians to deepen their understanding of the complexities of international relations in our highly globalised world add value to our student learning of the humanities. For instance, participation in the Model United Nations Conferences organised by various Institutes of Higher Education has allowed our students to play the roles of country delegates and engage in simulated UN debates regarding global issues. They have the opportunity to hone their public speaking, reasoning, research and interpersonal skills, enabling them to come up with plausible and creative solutions to their assigned issue. The Historical Scene Investigation competition, organised by the National Library Board, allowed our students to research deeply into key historical events such as the Japanese Occupation and Singapore’s pre-Independence period.
+**MOE History Challenge**
 
-The MOE History Challenge and NUS Geography Challenge engage humanities students in the disciplinary aspect of History and Geography. Students who performed well in the Challenge will be shortlisted to join the History Talent Development Programme (HTDP) or Geography Talent Development Programme (GTDP). The Talent Development Programme helps students to appreciate Singapore’s national identity and interests in relation to the region and the world. Students will get to engage in deep conversations and discussions about challenges and opportunities that Singapore faces as well as regional and international developments.
+The MOE History Challenge aims to engage History students in the disciplinary aspects of History where students can demonstrate their knowledge of the subject and apply conceptual understanding across different periods through a quiz.
+
+**National University of Singapore Geography Challenge**
+
+The National University of Singapore (NUS) Geography Challenge is a competition that aims to engage, empower and educate Geography students on local and global issues. Through exploring the relevance of Geography in our daily lives, students have the opportunity to deepen their knowledge and hone their skills in geographical fieldwork and techniques. Siak Jing Yuan (3K3) and Chloe Koh (3K3) are awarded the Silver medal in the preliminary round.
+
+Some of our notable achievements in 2023 are as follows:
+* Elysia Chai Hui Ting (3K2) is awarded the Best Position Paper at the Hwa Chong International Model United Nations Conference
+* The International and Global Studies (IGS) team of Destinee Joy Boey Kit Ann (3K1), Ang Jing Yuan Fiona (2I), Chia Joon Hee (2K2), Lim En Ning Clarissa (2K2), and Toh Xin Hui (2K2) is awarded the Best Research Award (Gold) for their project on The Influence of Geopolitics on the Rise of our *“Little Red Dot”* at the National Junior College International Humanities Symposium
+* Chloe Koh Wen Xin (3K3) and Siak Jing Yuan (3K3) are awarded the Silver medal in the preliminary round at the National University of Singapore (NUS) Geography Challenge
+
 
 <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/tf9hGnoU2mA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <center>Operation Sook Ching video submission for the Historical Scene Investigation competition. Awarded silver award in 2022.</center>
