@@ -6,15 +6,16 @@ third_nav_title: CCA
 ---
 ### Saint John Brigade
 
-The **Saint John Brigade (SJB)** strives to develop a strong sense of social awareness and participation, discipline and responsibility among all its cadets through activities which enhance their emergency preparedness and community involvement responsiveness. The different activities throughout the year, both in school, SJB Headquarters and the community allow cadets to be exposed to a diverse range of essential skills and knowledge such as the First Aid, Home Nursing, Accident Prevention, Foot Drills, Marksmanship, and Leadership skills
+The **Saint John Brigade (SJB)** strives to develop a strong sense of social awareness and participation, discipline and responsibility among all its cadets through activities which enhance their emergency preparedness and community involvement responsiveness. The different activities throughout the year, both in school, SJB Headquarters and the community allow cadets to be exposed to a diverse range of essential skills and knowledge such as First Aid, Home Nursing, Accident Prevention, Foot Drills and Leadership skills.
 
-<img src="/images/KSJB%20First%20Aid.jpg" 
-     style="width:70%">
+<img src="/images/KSJB%20First%20Aid.jpg" style="width:70%">
 <center>Cadets practising their first aid skills on a dummy manikin</center>
 
-<img src="/images/KSJB%20Foot%20Drills.jpg" 
-     style="width:70%">
+<img src="/images/KSJB%20Foot%20Drills.jpg" style="width:70%">
 <center>Cadets practising their foot drills</center>
+
+<img src="/images/2023/SJB/ksjb%20home%20nursing.jpg" style="width:70%">
+<center>Cadet practising their wound dressing skills</center>
 
 Some of our milestone activities that our cadets participate in yearly include:
 
@@ -22,14 +23,15 @@ Some of our milestone activities that our cadets participate in yearly include:
 
 The NFAC is an annual competition organised by SJB Headquarters, where students compete against other schools to demonstrate their mastery of their first aid, home nursing and foot drill skills.
 
-<img src="/images/KSJB%20NFAC.jpg" 
-     style="width:70%">
-<center>Cadets evacuating a “casualty” using a stretcher</center>
+<img src="/images/2023/SJB/ksjb%20nfac%201.jpg" style="width:70%">
+<img src="/images/2023/SJB/ksjb%20nfac%202.jpg" style="width:70%">
+<img src="/images/2023/SJB/ksjb%20nfac%203.jpg" style="width:70%">
+<center>Cadets demonstrating their skills in the first aid and home nursing cases at the competition</center>
 
 2.   **Annual Training Camp**
 
-The ATC is an annual camp conducted at the end of each year where cadets have the opportunity to learn new skills such as marksmanship. They also develop important 21CC and dispositions such as resilience, teamwork and communication skills, through activities such as hiking and team-building activities.
+The ATC is an annual camp where cadets have the opportunity to learn new skills such as marksmanship. They also develop important 21CC and dispositions such as resilience, teamwork and communication skills, through activities such as team-building activities and hiking.
 
-<img src="/images/KSJB%20Uniform.jpg" 
-     style="width:70%">
-<center>Very bonded KSJB cadets!</center>
+<img src="/images/2023/SJB/ksjb%20atc%201.jpg" style="width:70%">
+<img src="/images/2023/SJB/ksjb%20atc%202.jpg" style="width:70%">
+<center>Cadets at the Annual Training Camp</center>
