@@ -10,6 +10,8 @@ Welcome to the webpage of Kranji Secondary School English Language and Literatur
 		 
 <img src="/images/EL%202.jpg" style="width:60%">
 
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/1K13JsqgDTs?si=ZFFRao0ejik1slbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
 Here are the videos that you will get to watch in this webpage:
 
 *   Overview of EL &amp; Lit Department – EL Syllabus 2020, Key Department Programmes, Key Pedagogies
