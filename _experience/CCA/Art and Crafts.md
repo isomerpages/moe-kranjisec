@@ -29,14 +29,14 @@ Kranji Art Club is proud to be a part of a collaborative project with Limbang Gr
 
 The opening ceremony welcomed the general public, members of the RC and was graced by DPM Mr. Lawrence Wong. Our Art Club Kranjians took great pride in showcasing and presenting the murals and also set up a booth where they taught residents on crafting personalized keychains using recycled materials.
 
-&gt; “My experience painting and planning the Limbang murals was really fulfilling. I got to bond with my CCA members and the Limbang residents. I also picked up skills such as public speaking. These skills really helped me in my daily life. It was also a whole new experience for me as we were painting on a wall instead of a canvas, which was much bigger in scale.” - Lim Hui Ler, Esther 3K1
+“My experience painting and planning the Limbang murals was really fulfilling. I got to bond with my CCA members and the Limbang residents. I also picked up skills such as public speaking. These skills really helped me in my daily life. It was also a whole new experience for me as we were painting on a wall instead of a canvas, which was much bigger in scale.” - Lim Hui Ler, Esther 3K1
 
 <img src="/images/2023/Art%20Club/3d_art%20club.jpeg" style="width:80%">
 <img src="/images/2023/Art%20Club/3e_art%20club.jpeg" style="width:80%">
 
 These budding artists also conducted a two-day Art Jamming workshop with Limbang Green residents. They taught participants about basic colour mixing and painting techniques using acrylic paint. Residents completed their beautifully painted sunset scenery masterpieces on canvas.
 
-&gt; “I really enjoyed conducting the painting workshop and facilitating the residents. It was a very fruitful experience that allowed residents of Limbang neighborhood to try their hands on painting a sunset scenery. I also really liked interacting and guiding the residents through the process of painting. I hope to engage in more of these workshops in the future!” -Siak Jing Yuan 3K3
+“I really enjoyed conducting the painting workshop and facilitating the residents. It was a very fruitful experience that allowed residents of Limbang neighborhood to try their hands on painting a sunset scenery. I also really liked interacting and guiding the residents through the process of painting. I hope to engage in more of these workshops in the future!” -Siak Jing Yuan 3K3
 
 <img src="/images/2023/Art%20Club/4_art%20club.jpg" style="width:80%">
 <center>Learning journey to Van Gogh: The Immersive Experience</center>
