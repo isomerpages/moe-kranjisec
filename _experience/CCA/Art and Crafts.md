@@ -6,7 +6,7 @@ third_nav_title: CCA
 ---
 ### Art and Crafts Club
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/41IqOKEUgEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ws6sUTlGSmc?si=bW6Iue01mAJaRoMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 <div style="text-align: center;"><iframe width="441" height="784" src="https://www.youtube.com/embed/WNXfEaCwYI8" title="KSS Art &amp; Craft 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
