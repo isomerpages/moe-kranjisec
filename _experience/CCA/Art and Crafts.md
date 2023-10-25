@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Visual-and-Performing-Arts/art-and-crafts/
 description: ""
 third_nav_title: CCA
 ---
-### Art and Crafts
+### Art and Crafts Club
 
 <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/41IqOKEUgEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
@@ -38,6 +38,5 @@ These budding artists also conducted a two-day Art Jamming workshop with Limbang
 
 &gt; “I really enjoyed conducting the painting workshop and facilitating the residents. It was a very fruitful experience that allowed residents of Limbang neighborhood to try their hands on painting a sunset scenery. I also really liked interacting and guiding the residents through the process of painting. I hope to engage in more of these workshops in the future!” -Siak Jing Yuan 3K3
 
-
-<img src="/images/Art%20&amp;%20Craft%205.jpg" style="width:80%">
-<center>Learning journey to the Art Science Museum</center>
+<img src="/images/2023/Art%20Club/4_art%20club.jpg" style="width:80%">
+<center>Learning journey to Van Gogh: The Immersive Experience</center>
