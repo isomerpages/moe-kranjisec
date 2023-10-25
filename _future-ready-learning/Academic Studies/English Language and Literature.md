@@ -53,13 +53,13 @@ The programme is designed with the following student outcomes in mind:
 
 Here are a few photos showing our students in action during the Speech and Drama Enrichment Programme.
 
-<img src="/images/EL%203.jpg" style="width:60%">
+<img src="/images/2023/English%20Literature/speech%20_%20drama%202023%20photo%201.jpg" style="width:60%">
 
-<img src="/images/EL%204.jpg" style="width:60%">
+<img src="/images/2023/English%20Literature/speech%20_%20drama%202023%20photo%202.jpg" style="width:60%">
 
-<img src="/images/EL%205.jpg" style="width:60%">
+<img src="/images/2023/English%20Literature/speech%20_%20drama%202023%20photo%203.jpg" style="width:60%">
 
-<img src="/images/EL%206.jpg" style="width:60%">
+<img src="/images/2023/English%20Literature/speech%20_%20drama%202023%20photo%204.jpg" style="width:60%">
 
 ## 3.  Kranji Voices
     
