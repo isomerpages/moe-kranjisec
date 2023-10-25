@@ -6,34 +6,38 @@ third_nav_title: CCA
 ---
 ### Art and Crafts
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/41IqOKEUgEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/41IqOKEUgEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-<div style="text-align: center;"><iframe width="441" height="784" src="https://www.youtube.com/embed/WNXfEaCwYI8" title="KSS Art & Craft 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align: center;"><iframe width="441" height="784" src="https://www.youtube.com/embed/WNXfEaCwYI8" title="KSS Art &amp; Craft 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-**Art and Craft Club** provides both breadth and depth to facilitate Kranjians’ talents in the visual arts. The members engage in the Arts through visits to museums, taking part in competitions and workshops to gain knowledge, skills and dispositions. They take ownership advocating for the Arts. With the knowledge gained, Art and Craft Club members take the initiative to lead Art programmes to inculcate a sense of service towards the school and community through projects. To celebrate their achievements, platforms are craved to exhibit their artworks through exhibitions and static displays to showcase their talent.
+**Art Club** provides both breadth and depth to facilitate Kranjians’ talents in the visual arts. The members engage in the Arts through visits to museums, taking part in competitions and workshops to gain knowledge, skills and dispositions. They take ownership advocating for the Arts. With the knowledge gained, Art and Craft Club members take the initiative to lead Art programmes to inculcate a sense of service towards the school and community through projects. To celebrate their achievements, platforms are craved to exhibit their artworks through exhibitions and static displays to showcase their talent.
 
-<img src="/images/Art%20&%20Craft%201.jpg"
-     style="width:80%">
+<img src="/images/Art%20&amp;%20Craft%201.jpg" style="width:80%">
 		 
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/y7hku4y0038" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<center>Fig 1: Certificate of Recognition in Singapore Youth Festival Art Exhibition | Group submission: Aaris Neo Jin Xuan, 3K2 and Chantelle Lee, (Painting) 3K3 Individual: Lim Xin Yu, 3K3 (digital animation) </center>
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/y7hku4y0038" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<center>Fig 1: Art and Craft Club members participated in Art Competitions such as SYF Artist and Sustainability</center>
-
-<img src="/images/Art%20&%20Craft%202.jpg" 
-     style="width:80%">
+<img src="/images/Art%20&amp;%20Craft%202.jpg" style="width:80%">
 <center>Fig 2: Exhibition at Projector in conjunction with a fundraising effort by Singapore Wildcat Action Group to screen a documentary by Layar Liar titled Malaysia’s Last Tiger</center>
 		 
-<img src="/images/Art%20&%20Craft%203.jpg" 
-     style="width:80%">
-		 
-<img src="/images/Art%20&%20Craft%204.jpg" 
-     style="width:80%">
-<center>Fig 3: Learning new media such as airbrush painting</center>
-		 
-<img src="/images/Art%20&%20Craft%205.jpg" 
-     style="width:80%">
+<img src="/images/2023/Art%20Club/3a_art%20club.jpg" style="width:80%">
+<img src="/images/2023/Art%20Club/3b_art%20club.jpg" style="width:80%">
+<img src="/images/2023/Art%20Club/3c_art%20club.jpeg" style="width:80%">
+<center>Fig 3: heArt for our Community</center>
+
+Kranji Art Club is proud to be a part of a collaborative project with Limbang Green RC that combines artistic expression with sustainable practices! Our talented Art Club students have dedicated several weeks into designing and painting nostalgic Singapore themed wall murals in the Limbang neighbourhood.The purpose of the murals is to provide a colourful backdrop against the recycled MRT seats which were repurposed for residents to rest. The Limbang residents and our students have actively collaborated to co-create these beautiful murals.
+
+The opening ceremony welcomed the general public, members of the RC and was graced by DPM Mr. Lawrence Wong. Our Art Club Kranjians took great pride in showcasing and presenting the murals and also set up a booth where they taught residents on crafting personalized keychains using recycled materials.
+
+&gt; “My experience painting and planning the Limbang murals was really fulfilling. I got to bond with my CCA members and the Limbang residents. I also picked up skills such as public speaking. These skills really helped me in my daily life. It was also a whole new experience for me as we were painting on a wall instead of a canvas, which was much bigger in scale.” - Lim Hui Ler, Esther 3K1
+
+<img src="/images/2023/Art%20Club/3d_art%20club.jpeg" style="width:80%">
+<img src="/images/2023/Art%20Club/3e_art%20club.jpeg" style="width:80%">
+
+These budding artists also conducted a two-day Art Jamming workshop with Limbang Green residents. They taught participants about basic colour mixing and painting techniques using acrylic paint. Residents completed their beautifully painted sunset scenery masterpieces on canvas.
+
+&gt; “I really enjoyed conducting the painting workshop and facilitating the residents. It was a very fruitful experience that allowed residents of Limbang neighborhood to try their hands on painting a sunset scenery. I also really liked interacting and guiding the residents through the process of painting. I hope to engage in more of these workshops in the future!” -Siak Jing Yuan 3K3
+
+
+<img src="/images/Art%20&amp;%20Craft%205.jpg" style="width:80%">
 <center>Learning journey to the Art Science Museum</center>
-
-Reflection by Chantelle Lee, 3K3
-
-> This year, we have participated in competitions such as the Singapore Youth Festival (SYF) 2022, Live On Design Competition and Design Hackathon. The most impactful for me would be the SYF competition. The SYF theme this year is Artist and Sustainability. I collaborated with another member to visually present what it means to sustain our cultural identity as Singaporeans and what shapes it. We identified that harmonious living is key- understanding and respecting each other’s ethnic cultures. We did an oil painting of the different ethnicities to suggest the idea of piecing up different cultures and sustaining our cultural identity. Our artworks attained recognition and we were awarded Certificate of Achievement. The experience of having our artworks exhibited at the National Museum of Singapore left an indelible experience for us. Art and Craft Club was also invited by Singapore Wildcat Action Group to create artworks for an exhibition in conjunction with an event to screen a documentary by Layar Liar at the Projector. We did paintings, posters, prints of tigers and tiger protectors to reflect our thoughts on the dwindling numbers of tiger population and as means to pay tribute to those protecting them. After three years of hiatus due to COVID-19, we finally went on learning journeys to the Art Science Museum and National Museum Singapore to immerse ourselves with an artistic atmosphere. We also designed tote bags to show our appreciation to our teachers and EAS. These activities have allowed the members of our Art and Craft Club to explore the wonderful world of art and pick up several skills and values to further enrich our school lives.
