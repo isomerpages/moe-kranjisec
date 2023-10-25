@@ -14,6 +14,9 @@ The **Saint John Brigade (SJB)** strives to develop a strong sense of social awa
 <img src="/images/KSJB%20Foot%20Drills.jpg" style="width:70%">
 <center>Cadets practising their foot drills</center>
 
+<img src="/images/2023/SJB/ksjb%20home%20nursing.jpg" style="width:70%">
+<center>Cadet practising their wound dressing skills</center>
+
 Some of our milestone activities that our cadets participate in yearly include:
 
 1.   **National First Aid Competition (NFAC)**
