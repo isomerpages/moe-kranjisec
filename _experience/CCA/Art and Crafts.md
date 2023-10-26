@@ -29,7 +29,7 @@ Kranji Art Club is proud to be a part of a collaborative project with Limbang Gr
 
 The opening ceremony welcomed the general public, members of the RC and was graced by DPM Mr. Lawrence Wong. Our Art Club Kranjians took great pride in showcasing and presenting the murals and also set up a booth where they taught residents on crafting personalized keychains using recycled materials.
 
-&gt; "My experience painting and planning the Limbang murals was really fulfilling. I got to bond with my CCA members and the Limbang residents. I also picked up skills such as public speaking. These skills really helped me in my daily life. It was also a whole new experience for me as we were painting on a wall instead of a canvas, which was much bigger in scale.” - Lim Hui Ler, Esther 3K1"
+&gt; &gt; My experience painting and planning the Limbang murals was really fulfilling. I got to bond with my CCA members and the Limbang residents. I also picked up skills such as public speaking. These skills really helped me in my daily life. It was also a whole new experience for me as we were painting on a wall instead of a canvas, which was much bigger in scale.” - Lim Hui Ler, Esther 3K1
 
 <img src="/images/2023/Art%20Club/3d_art%20club.jpeg" style="width:80%">
 <img src="/images/2023/Art%20Club/3e_art%20club.jpeg" style="width:80%">
