@@ -64,7 +64,7 @@ You may choose to apply for MOE FAS by:
 
 (a) e-FAS \- for those who wish to submit via [e-FAS link](https://go.gov.sg/moe-efas), you are required to submit softcopy supporting documents; or
 
-(b) [Hardcopy form](/files/MOEFAS_Application%20Form.pdf) to be submitted to the General Office.
+(b) [Hardcopy form](/files/2023/2024%20moe%20fas%20application%20form.pdf) to be submitted to the General Office.
 
 Please note that application via hardcopy form is required (i.e. e-FAS is not applicable) for:
 
