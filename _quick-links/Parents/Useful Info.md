@@ -3,6 +3,7 @@ title: Useful Info
 permalink: /quick-links/parents/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 ### Useful Numbers &amp; Operating Hours
 #### General Office
@@ -33,11 +34,11 @@ Fax: (65) 63829537
 
 Monday to Friday: 7.00am to 3.00pm
 
-Please download the booklists below for 2023 Academic Year
+Please download the booklists below for 2024 Academic Year
 
 | Sec 2 | Sec 3 | Sec 4 &amp; 5 |
 | -------- | -------- | -------- |
-| [2023 Sec 2 Booklists](/files/Sec%202%20Booklists.pdf)     | [2023 Sec 3 Booklists](/files/Sec%203%20Booklists.pdf)     | [2023 Sec 4 &amp; 5 Booklists](/files/Sec%204_5%20Booklists.pdf)     |
+| [Sec 2 Booklist](/files/2023/2024%20Booklists/booklist%202024_sec%202.pdf)    | [Sec 3 Booklist](/files/2023/2024%20Booklists/booklist%202024_sec%203.pdf)     | [Sec 4 &amp; 5 Booklist](/files/2023/2024%20Booklists/booklist%202024_sec%204&amp;5.pdf)   |
 
 
 #### School Uniform
