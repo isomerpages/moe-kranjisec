@@ -2,6 +2,7 @@
 title: Overview
 permalink: /future-ready-learning/Academic-Studies/overview/
 description: ""
+variant: markdown
 ---
 ### Lower Secondary
 
@@ -34,10 +35,8 @@ Besides the core subjects of English Language, Mother Tongue Language and Mathem
 
 ##### Normal (Academic) Course:
 *   Art
-*   Computer Applications
-*   Design & Technology
-*   Food & Consumer Education
-*   Food & Nutrition
+*   Design & Technology 
+*   Nutrition and Food Science 
 *   Principles of Accounts
 *   Science (Chem, Bio)
 *   Science (Phy, Chem)
