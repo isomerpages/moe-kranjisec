@@ -34,5 +34,6 @@ There is no substitute for hands-on experience that enable students to deepen th
 
 All in all, The Student Leadership Challenge is about how leaders see, inspire and achieve. It is about how we can liberate the leader within every Kranjian.
 
-<div style="text-align: center;"><iframe width="441" height="784" src="https://www.youtube.com/embed/Wxucw5AYEcA" title="2022 Sec 1 LLP LCM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<img src="/images/LLP%20LCM%205.jpg" style="width:60%">
+
 <center>Posted notes for the various student leaders as part of Encourage The Heart during Camp Ignite 2023.</center>
