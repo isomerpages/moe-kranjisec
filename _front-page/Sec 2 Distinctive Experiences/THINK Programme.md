@@ -12,8 +12,8 @@ The THINK programme functions as an innovative and safe space for students to ex
 
 Tapping on students’ interests, students work collaboratively on their THINK project, with an added focus on sustainable living. It culminates in the THINK carnival where students pitch their innovative solutions to the school.
 
-<img src="/images/THINK%202.jpg" style="width:60%">
-<center>Students showcasing their user-centric and innovative solution -&nbsp; Recycle your trash or trash your Earth Game during the THINK Carnival</center>
+<img src="/images/2023/Sec%202%20THINK/THINK_Carnival_1.jpg" style="width:60%">
+<center>Students showcasing their user-centric and innovative solution -&nbsp; RECYCOBOT during the THINK Carnival</center>
 
 <img src="/images/THINK%203.jpg" style="width:60%">
 <center>Students showcasing their user-centric, innovative solution -&nbsp; Earthocity: Reducing online footprint through an application during the THINK Carnival</center>
