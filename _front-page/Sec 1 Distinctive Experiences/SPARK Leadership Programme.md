@@ -23,3 +23,13 @@ Students will be provided training to equip them with necessary skills. All stud
 
 ##### 3.  Leadership Portfolio Management
 Students under SPARK will also get a headstart in portfolio management. They will be taught how to create and manage their leadership portfolio. Teachers-in-charge will also guide them to reflect on their experiences after each training and job shadowing experiences.
+
+<img src="/images/2023/SPARK/CHN_2880.jpg" style="width:80%">
+
+<img src="/images/2023/SPARK/WhatsApp_Image_2023_10_24_at_4_30_20_PM.jpeg" style="width:80%">
+
+<img src="/images/2023/SPARK/WhatsApp_Image_2023_10_24_at_2_53_44_PM.jpeg" style="width:80%">
+
+<img src="/images/2023/SPARK/WhatsApp_Image_2023_10_12_at_2_07_49_PM.jpeg" style="width:80%">
+
+<img src="/images/2023/SPARK/CHN_2907.jpg" style="width:80%">
