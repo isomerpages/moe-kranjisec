@@ -2,6 +2,7 @@ collections:
   front-page:
     output: true
     order:
+      - Sec 1 Distinctive Experiences/SPARK Leadership Programme.md
       - Sec 1 Distinctive Experiences/Sec 1 Sustainable Journey.md
       - Sec 1 Distinctive Experiences/.keep
       - Sec 1 Distinctive Experiences/Orientation Programme.md
