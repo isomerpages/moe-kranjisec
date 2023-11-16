@@ -2,6 +2,7 @@ collections:
   learning:
     output: true
     order:
+      - Humanities.md
       - English Language and Literature.md
       - Aesthetics.md
       - Overview.md
