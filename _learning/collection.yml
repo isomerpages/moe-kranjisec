@@ -2,11 +2,11 @@ collections:
   learning:
     output: true
     order:
-      - ICT and Computing.md
-      - Science.md
-      - Mother Tongue Languages.md
-      - Mathematics.md
-      - Humanities.md
-      - English Language and Literature.md
-      - Aesthetics.md
       - Overview.md
+      - Aesthetics.md
+      - English Language and Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Science.md
+      - ICT and Computing.md
