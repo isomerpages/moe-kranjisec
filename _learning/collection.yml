@@ -2,5 +2,6 @@ collections:
   learning:
     output: true
     order:
+      - English Language and Literature.md
       - Aesthetics.md
       - Overview.md
