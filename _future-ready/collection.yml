@@ -1,5 +1,5 @@
 collections:
-  future-ready-learning:
+  future-ready:
     output: true
     order:
       - Overview/.keep
