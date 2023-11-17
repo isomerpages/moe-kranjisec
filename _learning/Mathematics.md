@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /active-learning/mathematics/
 description: ""
+variant: markdown
 ---
 ## Objective
 
@@ -9,7 +10,7 @@ To develop a dynamic team of teachers and students with a passion for mathematic
 
 ### Key Programmes
 
-The Mathematics department engages students in the learning of mathematics using real-world applications of mathematics in lessons. We enrich students’ learning experiences by providing various enrichment activities such as Mathematics Trail and **STEM** (**S**cience, **T**echnology, **E**ngineering, **M**athematics) Week. In addition, we provide opportunities for students to hone their mathematical problem-solving skills in various competitions such as the Singapore Mathematics Olympiad and Australian Mathematics Competition.
+The Mathematics department engages students in the learning of mathematics using real-world applications of mathematics in lessons. We enrich students’ learning experiences by providing various enrichment activities such as Mathematics Trail and **STEM** (**S**cience, **T**echnology, **E**ngineering, **M**athematics) Week. In addition, we provide opportunities for students to hone their mathematical problem-solving skills in various competitions such as the Singapore Mathematical Olympiad and Australian Mathematics Competition.
 
 <img src="/images/2023/Mathematics/2023%20photo%201%20ict%20lesson.jpeg" style="width:80%">
 <center>ICT - Infused Learning</center>
