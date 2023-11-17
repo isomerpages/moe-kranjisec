@@ -37,7 +37,15 @@ Under Tier 2, '**Enrich**', the MTL department organises MTL fortnight programme
 
 <img src="/images/2023/MTL/4__MTL_Fortnight_Programme.jpg" style="width:60%">
 
-<img src="/images/2023/MTL/3__MTL_Fortnight_Programme.jpg" style="width:60%">
+<img src="/images/2023/MTL/5__MTL_Fortnight_Programme.jpg" style="width:60%">
+
+<img src="/images/2023/MTL/6__MTL_Fortnight_Programme.jpg" style="width:60%">
+
+<img src="/images/2023/MTL/7__MTL_Fortnight_Programme.jpg" style="width:60%">
+
+<img src="/images/2023/MTL/8__MTL_Fortnight_Programme.jpg" style="width:60%">
+
+<img src="/images/2023/MTL/9__MTL_Fortnight_Programme.jpg" style="width:60%">
 		 
 The department also organised several events, such as Pongal Festival, Lunar New Year Celebrations, Hari Raya Celebrations and Deepavali Celebrations. These activities have enabled students to learn beyond classroom context and strengthen their sense of cultural heritage and identity.
 
