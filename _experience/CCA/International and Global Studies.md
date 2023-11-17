@@ -35,7 +35,7 @@ The other team, led by Arhan Chakraborty and comprising Beverly Low, Norman Tay,
 In 2023, the students honed their organisational and interpersonal skills and knowledge through various activities. For instance, they learnt about WWII and its impacts on Singapore through designing and implementing their own Heritage Trail at Upper Bukit Timah.
 
 <img src="/images/IGS%204.png" style="width:60%">
-
+<img src="/images/2023/IGS/Photo5.jpeg" style="width:60%">
 <center>Students participating in the Values-In-Action Community Service Project</center>
 
 In 2023, the students also reached out to the community by planning and implementing learning activities for migrant workers in a Values-In-Action Community Service Project “English Conversation Workshop for Migrant Workers” organised in collaboration with Keat Hong Community Club.
