@@ -11,7 +11,6 @@ variant: markdown
 | National Youth Environment Conference (organised by Nan Hua High School) - Nur Aqilah Umairah Binte Ashnol and Syairrah Binte Mohamad Rozali (4K3) won the **most outstanding delegate** in their UN-WATER Group 2 committee session |   | 
 Historical Scene Investigation (organised by NLB) – **Bronze Award** |  
 
-
 | 2022 |  |  |
 | -------- | -------- | --
 | National Youth Environment Conference (organised by Nan Hua High School) - Charlene Ng (4K3) and Grace Chia (3K1) won the **Best Delegate** in the United Nations Framework Convention on Climate Change, Group 2
