@@ -63,21 +63,17 @@ Kranji Secondary began offering O-Level Computing with effect from 2023 as an op
 
 The O-Level Computing subject is catered for students who display passion and/or talent in Computing. It focuses on developing problem-solving and Computational Thinking Skills in support of 21st Century Competencies as well as an appreciation of intellectual property and ethical issues arising from the use of technology. Students who offer the subject will also gain a head-start if they decide to take up computing-related studies or pursue computing-related careers in the future. 
 
-https://www.businesstimes.com.sg/government-economy/full-time-employment-rates-pay-for-fresh-grads-better-than-pre-covid-levels
-
-<img src="/images/Com%201.png" style="width:60%">
-
-<img src="/images/Com%202.png" style="width:60%">
-
-Students who offer the subject will also gain a head-start if they decide to take up computing-related studies or pursue computing-related careers in the future.&nbsp;
-
 [Full time employment rates pay for fresh grads better than pre covid levels](https://www.businesstimes.com.sg/government-economy/full-time-employment-rates-pay-for-fresh-grads-better-than-pre-covid-levels)
+
+<img src="/images/2023/Computing/Computing1.png" style="width:60%">
+
+<img src="/images/2023/Computing/Computing2.png" style="width:60%">
 
 ### Objectives of Programme
 
 The O Level Computing syllabus aims to provide students with the foundation to pursue further studies in computing at A-Levels and at tertiary institutions. The skills acquired in computational and algorithmic thinking is a way of getting to a solution through clear definition of the steps leading to solutions. These skills are needed to embrace a rapidly changing technological landscape.
 
-<img src="/images/Com%203.png" style="width:60%">
+<img src="/images/2023/Computing/Computing3.png" style="width:60%">
 
 The two-year course at upper secondary level will equip students to:
 
@@ -86,11 +82,17 @@ The two-year course at upper secondary level will equip students to:
 *   Understand how and where information communications technology (ICT) is used in daily life
 *   Understand and explain the ethical, social and economic issues associated with ICT
 
-<img src="/images/Com%204.png" style="width:60%">
-
 ICT refers broadly to technology involving computing devices, software and other hardware. The computer science concepts and skills will also be taught.
 
-For more information on the subject, please refer to the syllabus available at [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/7155_y23_sy.pdf).
+<img src="/images/Com%204.png" style="width:60%">
+
+For more information on the subject, please refer to the syllabus available at [here](https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2024).
+
+### Learning Journey
+
+Students visited Singapore Polytechnic in July 2023 to further enhance their passion in the subject through their hands-on experience at the laboratories and interaction with the students at the tertiary institution.
+
+<img src="/images/2023/Computing/Computing4.png" style="width:60%">
 
 **Cultivating Students’ interest in Computing**
 
