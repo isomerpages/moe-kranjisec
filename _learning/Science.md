@@ -20,24 +20,26 @@ We believe that Science is more than the acquisition of knowledge; it is also a 
 
 As enrichment, Secondary 1 students were all involved in the maintenance and growth of various greens in our very own hydroponics and aquaponics set ups. The resulting vegetable harvests were given fresh to the residents around Limbang.
 
-<img style="width:60%" src="/images/Science%202.jpg">
-<center>Students racing their balloon-powered cars in a STEM Week challenge.</center>
+<img style="width:60%" src="/images/2023/Science/Plants3.jpeg">
+<center>From farm...</center>
 
-<img style="width:60%" src="/images/Science%203.jpg">
-<center>Students participating in a DNA forensics workshop.</center>
+<img style="width:60%" src="/images/2023/Science/Plants2.jpeg">
+<center>...to community!</center>
 
-### KEPLER Programme (See [KEPLER webpage](https://www.kranjisec.moe.edu.sg/future-ready-learning/Kepler/) for more details)&nbsp;
+Secondary 2 students were given the chance to participate in different STEM enrichment workshops during the enrichment week programme based on their interests to learn about cloud chambers, chocolate making, soap making, forensic science, and environmental disaster etc.
 
-* **Academic Competitions, Research Programmes, Fairs and Conferences**
+<img style="width:60%" src="/images/2023/Science/Amazement.jpeg">
+<center>Enriching lives through science</center>
+
+All students also participated in STEM Week challenges. Through these experiences, students learnt about useful real-world applications of science to extend their knowledge from the classroom.
+
+### Research and Competitions&nbsp;
 
 Interested students are provided with opportunities to take part in Science Research and participate in numerous competitions and science fairs, such as the C.B. Paul Quiz, Singapore Junior Biology, Chemistry, Physics Olympiads, Illustratum Physics Competitions, National Crystal Growing Challenge, Elementz International Fair and the Singapore Science and Engineering Fair. Under the mentorship of teachers or scientist-mentors from the Science Centre and A\*STAR, students are guided to learn about scientific knowledge beyond the curriculum, apply their knowledge to solving problems, plan and carry out scientific investigations as well as showcase and communicate about Science.
 
-<img style="width:60%" src="/images/Science%204.jpg">
-<center>Students who participated in the Youth STEM Empowerment Programme sharing about their project with visitors at the Singapore Science Centre.</center>
+### Internationalisation
 
-<img style="width:60%" src="/images/Science%205.jpg">
-<center>Large crystals grown by our students for the National Crystal Growing Challenge</center>
+Two groups of Secondary 3 students participated in exchange programmes with Triam Udom Suksa Pattanakarn Suvarnabhumi (TUPP) in Thailand, and Tu Cheng High School in Taiwan, working on cross-school collaborative projects to identify problems and ideate solutions relating to UN Sustainable Development Goals. These programmes develop students’ awareness of global sustainability issues, promote cross-cultural understanding and allow students to develop creative solutions using design thinking.
 
-* **Tucheng-Kranji e-Internationalisation**
-
-A group of Secondary 3 students participated in the virtual exchange programme with Tu Cheng High School in Taiwan, working on cross-school collaborative projects to identify problems and ideate solutions relating to UN Sustainable Development Goals. This programme develops students’ awareness of global sustainability issues, promotes cross-cultural understanding and allows students to develop creative solutions using design thinking.
+<img style="width:60%" src="/images/2023/Science/TUPP_Trip.jpeg">
+<center>Setting off to Thailand!</center>
