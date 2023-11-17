@@ -26,3 +26,11 @@ The National Police Cadet Corps (NPCC) Unit aims to develop students in their ch
 <center>Secondary 1 Cadets carrying out field cooking during their unit camp.</center>
 
 4. Unit Camp allows students to learn basic survival skills.
+
+<img src="/images/2023/NPCC/4__Unit_Camp_tent_pitching.jpg" style="width:60%">
+<center>Cadets guiding their juniors to pitch a tent.</center>
+
+5. Students get to participate in events organised by National Police Cadet Corps (NPCC) Headquarters (HQ).
+
+<img src="/images/2023/NPCC/5__Visit_to_RSAF_55_Open_House.jpg" style="width:60%">
+<center>Cadets visited the Republic of Singapore Air Force (RSAF) 55 Open House organised tour at Paya Lebar Air Base.</center>
