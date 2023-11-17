@@ -2,12 +2,12 @@ collections:
   learning:
     output: true
     order:
-      - Physical Education.md
       - Overview.md
       - Aesthetics.md
       - English Language and Literature.md
       - Humanities.md
       - Mathematics.md
       - Mother Tongue Languages.md
+      - Physical Education.md
       - Science.md
       - ICT and Computing.md
