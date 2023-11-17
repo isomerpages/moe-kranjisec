@@ -1,4 +1,12 @@
 collections:
   learning:
     output: true
-    order: []
+    order:
+      - Overview.md
+      - Aesthetics.md
+      - English Language and Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Science.md
+      - ICT and Computing.md

@@ -3,10 +3,19 @@ title: Saint John Brigade
 permalink: /co-curricular-activities/Uniformed-Groups/saint-john-brigade/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 ### Saint John Brigade
 
-The **Saint John Brigade (SJB)** strives to develop a strong sense of social awareness and participation, discipline and responsibility among all its cadets through activities which enhance their emergency preparedness and community involvement responsiveness. The different activities throughout the year, both in school, SJB Headquarters and the community allow cadets to be exposed to a diverse range of essential skills and knowledge such as First Aid, Home Nursing, Accident Prevention, Foot Drills and Leadership skills.
+| 2023 | 
+| -------- |
+| Corps Achievement Award 2023 (Gold)
+Northwest District First Aid and Home Nursing Competition
+Nursing Cadet Team: First Runner Up
+Nursing Adult Team: Second Runner Up
+Ambulance Adult Team: First Runner Up|
+
+The Saint John Brigade (SJB) strives to develop a strong sense of social awareness and participation, discipline and responsibility among all its cadets through activities which enhance their emergency preparedness and community involvement responsiveness. The different activities throughout the year, both in school, SJB Headquarters and the community allow cadets to be exposed to a diverse range of essential skills and knowledge such as the First Aid, Home Nursing, Accident Prevention, Foot Drills and Leadership skills.
 
 <img src="/images/KSJB%20First%20Aid.jpg" style="width:70%">
 <center>Cadets practising their first aid skills on a dummy manikin</center>
