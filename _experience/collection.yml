@@ -2,7 +2,6 @@ collections:
   experience:
     output: true
     order:
-      - Overview.md
       - CCE/Overview.md
       - CCE/.keep
       - CCE/Educational Career Guidance.md
