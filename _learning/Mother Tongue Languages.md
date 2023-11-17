@@ -2,6 +2,7 @@
 title: Mother Tongue Languages
 permalink: /active-learning/mother-tongue-languages/
 description: ""
+variant: markdown
 ---
 #### Vision:
 
@@ -16,21 +17,27 @@ To help them to stay rooted in traditions and values;
 
 To prepare them for a changing world.
  
- <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/XwhnMRFa7bw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
- 
 ####  Key Programmes
 
-In line with Strategic Thrust 1 in Nurturing future-ready leaders with a heart to serve, the Mother Tongue Curriculum is customised to the different learning needs of all student segments. The programmes are categorised into the tiered programme - **Core**, **Enrichment** and **Aspire**.
+In alignment with Strategic Thrust 1 for nurturing future-ready learners, the Mother Tongue Curriculum is tailored to meet the diverse learning needs of all student groups. These programmes fall under a three-tier approach in our Teaching and Learning (T&amp;L) Framework: **Core**, **Enrich**, and **Aspire**.
 
-In Tier 1, ‘**Core**’, the MTL department uses the News Reading Programme to incorporate global and national issues into classroom lessons. Students read MTL newspapers, magazines and articles (via SLS Newslink) during morning assemblies. MTL teachers will then follow up with newspapers/articles discussions at least once a week to expose students to current affairs and create global awareness.
+Under Tier 1, '**Core**', the MTL department utilises the News Reading Programme to integrate global and national issues into classroom lessons. Students read MTL news articles assigned by their teachers through SLS Newslink or zbschool.sg (CL). Subsequently, MTL teachers conduct weekly discussions on these news articles to expose students to current affairs and promote global awareness.
 
-The MTL department organised MTL Fortnight Programmes which are aimed at creating an immersive environment for the learning of Mother Tongue languages. These activities provide authentic opportunities for students to learn about their cultures and also to use their Mother Tongue languages. Students participated in hands-on activities and workshops such jewellery making, basic yoga, traditional games, Rangoli, Wau Batik painting, coaster weaving, Malay-Arabic (Jawi) basic calligraphy workshops, seal carving, fan painting, blow painting, lantern making, opera mask painting as well as martial arts. Through these activities, we hope to enrich our students’ learning experiences and develop them into individuals who love their culture and language.
+We have designed self-paced Digital Literacy SLS lessons to encourage independent learning among students. These lessons cover New Media Literacies, which encompass competencies for curating, connecting, and creating information in the digital networked environment (e.g. oral assessment), as well as productivity skills for effective device and software operation (e.g. email response typing skills).
 
-<img src="/images/MTL%201.jpg" style="width:60%">
+The MTL department is also working on a Professional Learning Team to create an e-gamification lesson package on SLS, aiming to enhance the students' learning experience using game design principles to make learning more engaging.
+
+Under Tier 2, '**Enrich**', the MTL department organises MTL fortnight programmes to immerse students in Mother Tongue languages and cultures. These activities provide authentic opportunities for cultural learning, including tea appreciation workshops, traditional Chinese games, Wau Batik painting, Silat, Indian traditional musical instrument workshops, and pottery making. Through these activities, we aim to enrich our students' cultural and language learning experiences.**
+
+<img src="/images/2023/MTL/1__MTL_Fortnight_Programme.jpg" style="width:60%">
 		 
-<img src="/images/MTL%202.jpg" style="width:60%">
-		 
-<img src="/images/MTL%203.jpg" style="width:60%">
+<img src="/images/2023/MTL/2__MTL_Fortnight_Programme.jpg" style="width:60%">
+
+<img src="/images/2023/MTL/3__MTL_Fortnight_Programme.jpg" style="width:60%">
+
+<img src="/images/2023/MTL/4__MTL_Fortnight_Programme.jpg" style="width:60%">
+
+<img src="/images/2023/MTL/3__MTL_Fortnight_Programme.jpg" style="width:60%">
 		 
 The department also organised several events, such as Pongal Festival, Lunar New Year Celebrations, Hari Raya Celebrations and Deepavali Celebrations. These activities have enabled students to learn beyond classroom context and strengthen their sense of cultural heritage and identity.
 
