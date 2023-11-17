@@ -2,6 +2,7 @@
 title: ICT and Computing
 permalink: /active-learning/ict-and-computing/
 description: ""
+variant: markdown
 ---
 ## ICT
 
@@ -58,9 +59,11 @@ Students use the online version of Python to familiarise themselves with syntax-
 
 ## O-Level Computing
 
-Kranji Secondary will be offering O-Level Computing with effect from 2023 as an option in our Secondary 3 Subject Combination.&nbsp;
+Kranji Secondary began offering O-Level Computing with effect from 2023 as an option in our Secondary 3 Subject Combination.
 
-The O-Level Computing subject is catered for students who display passion and/or talent in Computing. It focuses on developing problem-solving and Computational Thinking Skills in support of 21st Century Competencies as well as an appreciation of intellectual property and ethical issues arising from the use of technology.
+The O-Level Computing subject is catered for students who display passion and/or talent in Computing. It focuses on developing problem-solving and Computational Thinking Skills in support of 21st Century Competencies as well as an appreciation of intellectual property and ethical issues arising from the use of technology. Students who offer the subject will also gain a head-start if they decide to take up computing-related studies or pursue computing-related careers in the future. 
+
+https://www.businesstimes.com.sg/government-economy/full-time-employment-rates-pay-for-fresh-grads-better-than-pre-covid-levels
 
 <img src="/images/Com%201.png" style="width:60%">
 
