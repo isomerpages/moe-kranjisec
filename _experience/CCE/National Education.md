@@ -19,11 +19,13 @@ Annual Events under National Education:
     
 *   National Day Celebration
 
-<img src="/images/NE%201.jpg" style="width:70%">
-<center>International students share their experiences in Singapore for International Friendship Day through a curated “Human Library”.</center>
+<img src="/images/2023/NE/IMG_0246.jpeg" style="width:70%">
+<center>Students from the school’s three Uniformed Groups marching in during the National Day Observance Parade.</center>
 
-<img src="/images/NE%201.jpg" style="width:70%">
+<img src="/images/2023/NE/Total_Defence_Sharing.jpeg" style="width:70%">
+<center>Total Defence Sharing</center>
 <center>Guests from National Police Force, Singapore Civil Defence Force and Singapore Armed Forces Volunteer Corps answering questions from students on their motivation to serve the nation.</center>
 
-<img src="/images/NE%202.jpg" style="width:70%">
-<center>Lower Secondary students participating in a classroom activity during Racial Harmony Day. They discussed the assumptions that might have led to stereotypes and how stereotypes can impact the community.</center>
+<img src="/images/2023/NE/TD_Booth.jpeg" style="width:70%">
+<center>TD Booth</center>
+<center>Students from NPCC sharing on scam awareness to promote Digital Defence at the Total Defence booth run by our Uniform Groups.</center>
