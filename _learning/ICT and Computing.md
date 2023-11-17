@@ -23,7 +23,13 @@ In this digital age, traditional teaching methods may not fully engage tech-savv
 
 Our ICT Champions send out ICT Blasts every two weeks to encourage experimentation and innovation in the integration of ICT into classroom teaching. These resources serve as supplements for staff, providing valuable insights and motivation for teachers to incorporate technology more meaningfully into their lessons.
 
-<img src="/images/ICT%204.jpg" style="width:60%">
+<img src="/images/2023/ICT%20&amp;%20Computing/photo%202.JPG" style="width:60%">
+
+<img src="/images/2023/ICT%20&amp;%20Computing/photo%203.JPG" style="width:60%">
+
+<img src="/images/2023/ICT%20&amp;%20Computing/photo%204.jpg" style="width:60%">
+
+<img src="/images/2023/ICT%20&amp;%20Computing/photo%205.JPG" style="width:60%">
 
 ### ICT Programme for Secondary 1
 
@@ -43,6 +49,14 @@ In line with the MOE National Digital Literacy Programme (NDLP) where the focus 
 1. Video editing
 2. App development
 3. Game Development
+
+<img src="/images/2023/ICT%20&amp;%20Computing/photo%206.JPG" style="width:60%">
+
+<img src="/images/2023/ICT%20&amp;%20Computing/photo%207.JPG" style="width:60%">
+
+<img src="/images/2023/ICT%20&amp;%20Computing/photo%208.jpg" style="width:60%">
+
+<img src="/images/2023/ICT%20&amp;%20Computing/photo%209.jpg" style="width:60%">
 
 ### ICT Programme for Secondary 2
 
@@ -94,16 +108,22 @@ Students visited Singapore Polytechnic in July 2023 to further enhance their pas
 
 <img src="/images/2023/Computing/Computing4.png" style="width:60%">
 
-**Cultivating Students’ interest in Computing**
+**Eco-system to cultivate students’ interest in computing**
 
-Currently, the school has an eco-system to build and cultivate students’ interest in computing. The school has a CCA in Science &amp; Technology Club with diverse selection of STEM workshops and challenges are provided for students to extend their scientific capabilities and interest and to develop coding and programming skills.
+Currently, the school has an **eco-system to build and cultivate students’ interest** in computing. The school has a CCA in **Science &amp; Technology Club** with diverse selection of STEM workshops and challenges are provided for students to extend their scientific capabilities and interest and to develop coding and programming skills.
 
 <img src="/images/Com%205.png" style="width:60%">
-
-<img src="/images/Com%206.png" style="width:60%">
 		 
-In addition, the Code for Fun Programme is offered as a post examination enrichment to all Sec 1 students to increase their exposure to coding and computational thinking. This is part of a set of mathematical enrichment activities designed to nurture students’ interest in STEM and to develop their disposition in STEM. Students will use microcontrollers, basic drag and drop coding and cardboard Lego Blocks known as Blokies to build different physical structures based on their understanding of mathematical/STEM skills such as spatial visualisation, geometry and measurement. For example, they will write a program to create a house intruder system for their ‘house’ made from Blokies.
+In addition, the **Code for Fun Programme** is offered as a post examination enrichment to all Sec 1 students to increase their **exposure to coding and computational thinking**. This is part of a set of mathematical enrichment activities designed to nurture students’ interest in STEM and to develop their disposition in STEM. Students will use microcontrollers, basic drag and drop coding and cardboard Lego Blocks known as Blokies to build different physical structures based on their understanding of mathematical/STEM skills such as spatial visualisation, geometry and measurement. For example, they will write a program to create a house intruder system for their ‘house’ made from Blokies.
 
 <img src="/images/Com%207.png" style="width:60%">
 
 <img src="/images/Com%208.png" style="width:60%">
+
+In 2023, ‘Coding With Python’ workshop was offered for all Secondary 2 students. The workshop was conducted online and includes the following:
+
+* use of Python programming to design data analytics models; 
+* hands-on and experiential project-based learning; and 
+* application on mathematics computational thinking
+
+Students used online Replit to familiarise themselves with syntax-based programming concepts, including understanding Python language syntax, developing basic capabilities to explore and learn about Python data analytics models, and understanding coding fundamentals such as loops, events, conditionals, variables, etc.
