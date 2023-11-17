@@ -1,6 +1,6 @@
 ---
 title: SPARK Leadership Programme
-permalink: /front-page/sec-1-distinctive-experiences/spark-leadership/
+permalink: /front-page/sec1/spark-leadership/
 variant: markdown
 description: ""
 third_nav_title: Sec 1 Distinctive Experiences

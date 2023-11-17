@@ -1,6 +1,6 @@
 ---
 title: Orientation Programme
-permalink: /the-kranji-experience/Secondary-1/orientation-programme/
+permalink: /front-page/sec1/orientation-programme/
 description: ""
 third_nav_title: Sec 1 Distinctive Experiences
 variant: markdown

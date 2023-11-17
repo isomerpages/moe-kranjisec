@@ -1,6 +1,6 @@
 ---
 title: LLP Student Leadership Challenge Module
-permalink: /front-page/Sec-1-Distinctive-Experiences/LLP/
+permalink: /front-page/sec1/llp/
 description: ""
 third_nav_title: Sec 1 Distinctive Experiences
 variant: markdown

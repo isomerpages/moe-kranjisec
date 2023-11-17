@@ -1,6 +1,6 @@
 ---
 title: Sec 1 Sustainable Journey
-permalink: /front-page/sec-1-distinctive-experiences/sustainable-journey/
+permalink: /front-page/sec1/sustainable-journey/
 variant: markdown
 description: ""
 third_nav_title: Sec 1 Distinctive Experiences
