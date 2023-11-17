@@ -4,19 +4,7 @@ permalink: /active-learning/humanities/
 description: ""
 variant: markdown
 ---
-**Achievements (2021-2022)**
 
-| 2021 |  |  |
-| -------- | -------- | --
-| National Youth Environment Conference (organised by Nan Hua High School) - Nur Aqilah Umairah Binte Ashnol and Syairrah Binte Mohamad Rozali (4K3) won the **most outstanding delegate** in their UN-WATER Group 2 committee session |   | 
-Historical Scene Investigation (organised by NLB) – **Bronze Award** |  
-
-| 2022 |  |  |
-| -------- | -------- | --
-| National Youth Environment Conference (organised by Nan Hua High School) - Charlene Ng (4K3) and Grace Chia (3K1) won the **Best Delegate** in the United Nations Framework Convention on Climate Change, Group 2
-NUS Geography Challenge – Law Jun Qi (3K3) was awarded the **Bronze medal** in the preliminary round
-MOE History Challenge - ADENA HO SHU-MIN **shortlisted** for the MOE History Talent Development Programme (HTDP) 2022/2023
-Historical Scene Investigation, organized by National Library Board - **a Silver and Bronze**
 
 The Humanities Department believes in the transformative power of a humanities education to develop our students into analytical, critical and creative thinkers. We prepare our students for the challenges of the changing world by nurturing students into active global citizens, and lifelong learners and leaders.
 
