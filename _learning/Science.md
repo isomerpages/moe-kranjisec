@@ -2,6 +2,7 @@
 title: Science
 permalink: /active-learning/science/
 description: ""
+variant: markdown
 ---
 **Achievements (2021-2023)**
 
@@ -11,16 +12,13 @@ description: ""
 
 Science@Kranji aims to develop students who are Inspired by Science, Inquire like Scientists and Innovate using Science. With a renewed focus on **S**cience, **T**echnology, **E**ngineering and **M**athematics (STEM), we envisage students who are passionate about STEM and equipped with the necessary competencies to solve complex real-world problems in future.&nbsp;
 
-Is it possible to build an effective water filtration device with a limited budget? Can you design a home gardening kit for edible vegetables to support Singapore’s food sustainability goals?
+### STEM Learning Experiences and Enrichment
 
-<img style="width:60%" src="/images/Science%201.jpg">
-<center>Students building a water filtration device in science lessons.</center>
+What are the principles for building a thermal box? What is the difference between hydroponics and aquaponics? Can I use my knowledge in Chemistry and create an effective fertiliser for Bok Choy?
 
 We believe that Science is more than the acquisition of knowledge; it is also a way of thinking and doing. Hence, we adopt the inquiry-based learning approach and focus on teaching the Practices of Science. The questions above are some examples of the problems that our students work on as part of the Science@Kranji curriculum.
 
-### STEM Enrichment&nbsp;
-
-As enrichment, Secondary 1 students learnt how to make plastic from milk during their Orientation programme and Secondary 2 students participated in different STEM enrichment workshops during post-examination programme based on their interests to learn about cloud chambers, jam-making, aviation and flight science, forensic science etc. In addition, selected Secondary 4 students embarked on an industrial e-visit to GlaxoSmithKline (GSK) Singapore. All students also participated in STEM Week challenges. Through these experiences, students learnt about useful real-world applications of science to extend their knowledge from the classroom.
+As enrichment, Secondary 1 students were all involved in the maintenance and growth of various greens in our very own hydroponics and aquaponics set ups. The resulting vegetable harvests were given fresh to the residents around Limbang.
 
 <img style="width:60%" src="/images/Science%202.jpg">
 <center>Students racing their balloon-powered cars in a STEM Week challenge.</center>
