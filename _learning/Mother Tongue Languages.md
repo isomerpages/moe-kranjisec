@@ -59,27 +59,22 @@ To stimulate students' curiosity in languages, we also promote the MTL &amp; EL 
 
 <img src="/images/2023/MTL/14__Readership_Programme.jpeg" style="width:60%">
 
-
+<img src="/images/2023/MTL/15__Readership_Programme.jpeg" style="width:60%">
 
 As part of our school's ongoing internationalisation efforts, we have established a partnership with Xingzhi Junior Middle School in Hangzhou, China since 2015. This year, Sec One and Two students have participated in synchronous conference sessions, fostering a deeper understanding of the global community through interdisciplinary approaches. The exchange sessions enable students from both schools to share insights on culture, customs, Asian Games, Co-Curricular Activities (CCA), environmental conservation issues, and more.
 
 Furthermore, we had the pleasure of hosting a school visit from Shifang Middle School from Sichuan, China. Our school has been engaged in the school exchange programme with Shifang Middle School since 2010, and it was truly heartwarming to welcome them back after the brief hiatus during the pandemic.
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/gp4b2DjvV8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<img src="/images/2023/MTL/16__Internationalisation_Programme.jpeg" style="width:60%">
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/piifaYeHXG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<img src="/images/2023/MTL/17__Internationalisation_Programme.jpg" style="width:60%">
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/evl1No-kFPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<img src="/images/2023/MTL/18__Internationalisation_Programme.jpeg" style="width:60%">
 		 
-In Tier 3, '**Aspire**', Talent development is planned and carried out with the department taking varied approaches in providing opportunities to develop students to their fullest potential. For example, the department offers opportunities to students who show interest in stretching their potential in the subject by involving them in roles such as writing, editing, emceeing and performing for creative CL essay compilation - Kspiration publications and launch. We also provide selected students the exposure through numerous competition and workshop platforms to stretch students beyond meeting syllabus requirements.
+Under Tier 3, '**Aspire**', the development of Kranjians; talent is approached in various ways, including involving students in writing, editing, emceeing, performing, or submitting for creative Chinese essay compilations such as the 'Kspiration' 《憧憬》 publications. We also organise an Author-in-Residence program, where we invite local writers to conduct workshops to hone our students' creative writing skills.
 
-Some of the competitions and workshops are as follows:
+Student-Initiated Learning (SIL) opportunities related to MTL subjects, such as contemporary issue debates in Chinese and Traditional Chinese Calligraphy, are provided to broaden horizons. Additionally, selected students are exposed to numerous competition and workshop platforms to go beyond syllabus requirements.
 
-**CL:**<br>
-National Creative Story Writing Competition, Author-In-Residence Programme, World Book Day and Literature under the April Sky
+<img src="/images/2023/MTL/19__Competitions.jpeg" style="width:60%">
 
-**ML:**  <br>
-ML National Creative Writing Competition&nbsp;and National Translation English Language to Malay Language&nbsp;Competition
-
-**TL:**<br>
-Confident Speaker Workshop, ‘Periyar’ Reading Competition, Top spinning workshop, Drama Enrichment
+<img src="/images/2023/MTL/20__Competitions.jpeg" style="width:60%">
