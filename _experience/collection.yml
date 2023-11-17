@@ -2,6 +2,7 @@ collections:
   experience:
     output: true
     order:
+      - Clubs & Societies/.keep
       - Overview.md
       - CCE/.keep
       - CCE/Educational Career Guidance.md
