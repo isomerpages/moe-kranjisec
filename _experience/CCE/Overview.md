@@ -24,3 +24,9 @@ These fundamentals are taught and applied in the Curriculum Content Areas, such 
 * National Education
 * Sexuality Education
 * Values in Action
+
+![](/images/2023/CCE/IMG_6499_v2.jpg)
+*In April, Sec 4 and 5 students attend the ECG Fair, where Post-Secondary Educational Institutes and Industry Speakers will be invited to our school.*
+
+![](/images/2023/CCE/DSCF9638.jpg)
+*All students attend the VIA Fair where selected students showcase their VIA efforts to increase awareness to the relevant social causes among their peers.* 
