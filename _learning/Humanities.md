@@ -55,5 +55,5 @@ Some of our notable achievements in 2023 are as follows:
 * Chloe Koh Wen Xin (3K3) and Siak Jing Yuan (3K3) are awarded the Silver medal in the preliminary round at the National University of Singapore (NUS) Geography Challenge
 
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/tf9hGnoU2mA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/ByixWELy8qs?si=S8RxEKqq4ExXpXeV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <center>Team A video submission for the Historical Scene Investigation competition</center>
