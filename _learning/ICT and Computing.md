@@ -2,6 +2,7 @@
 title: ICT and Computing
 permalink: /active-learning/ict-and-computing/
 description: ""
+variant: markdown
 ---
 ## ICT
 
@@ -22,7 +23,13 @@ In this digital age, traditional teaching methods may not fully engage tech-savv
 
 Our ICT Champions send out ICT Blasts every two weeks to encourage experimentation and innovation in the integration of ICT into classroom teaching. These resources serve as supplements for staff, providing valuable insights and motivation for teachers to incorporate technology more meaningfully into their lessons.
 
-<img src="/images/ICT%204.jpg" style="width:60%">
+<img src="/images/2023/ICT%20&amp;%20Computing/photo%202.JPG" style="width:60%">
+
+<img src="/images/2023/ICT%20&amp;%20Computing/photo%203.JPG" style="width:60%">
+
+<img src="/images/2023/ICT%20&amp;%20Computing/photo%204.jpg" style="width:60%">
+
+<img src="/images/2023/ICT%20&amp;%20Computing/photo%205.JPG" style="width:60%">
 
 ### ICT Programme for Secondary 1
 
@@ -43,6 +50,14 @@ In line with the MOE National Digital Literacy Programme (NDLP) where the focus 
 2. App development
 3. Game Development
 
+<img src="/images/2023/ICT%20&amp;%20Computing/photo%206.JPG" style="width:60%">
+
+<img src="/images/2023/ICT%20&amp;%20Computing/photo%207.JPG" style="width:60%">
+
+<img src="/images/2023/ICT%20&amp;%20Computing/photo%208.jpg" style="width:60%">
+
+<img src="/images/2023/ICT%20&amp;%20Computing/photo%209.jpg" style="width:60%">
+
 ### ICT Programme for Secondary 2
 
 Kranji Secondary commenced the offering of **O-Level Computing** from **2023 as an option in our Secondary 3 Subject Combination**.
@@ -58,23 +73,21 @@ Students use the online version of Python to familiarise themselves with syntax-
 
 ## O-Level Computing
 
-Kranji Secondary will be offering O-Level Computing with effect from 2023 as an option in our Secondary 3 Subject Combination.&nbsp;
+Kranji Secondary began offering O-Level Computing with effect from 2023 as an option in our Secondary 3 Subject Combination.
 
-The O-Level Computing subject is catered for students who display passion and/or talent in Computing. It focuses on developing problem-solving and Computational Thinking Skills in support of 21st Century Competencies as well as an appreciation of intellectual property and ethical issues arising from the use of technology.
-
-<img src="/images/Com%201.png" style="width:60%">
-
-<img src="/images/Com%202.png" style="width:60%">
-
-Students who offer the subject will also gain a head-start if they decide to take up computing-related studies or pursue computing-related careers in the future.&nbsp;
+The O-Level Computing subject is catered for students who display passion and/or talent in Computing. It focuses on developing problem-solving and Computational Thinking Skills in support of 21st Century Competencies as well as an appreciation of intellectual property and ethical issues arising from the use of technology. Students who offer the subject will also gain a head-start if they decide to take up computing-related studies or pursue computing-related careers in the future. 
 
 [Full time employment rates pay for fresh grads better than pre covid levels](https://www.businesstimes.com.sg/government-economy/full-time-employment-rates-pay-for-fresh-grads-better-than-pre-covid-levels)
+
+<img src="/images/2023/Computing/Computing1.png" style="width:60%">
+
+<img src="/images/2023/Computing/Computing2.png" style="width:60%">
 
 ### Objectives of Programme
 
 The O Level Computing syllabus aims to provide students with the foundation to pursue further studies in computing at A-Levels and at tertiary institutions. The skills acquired in computational and algorithmic thinking is a way of getting to a solution through clear definition of the steps leading to solutions. These skills are needed to embrace a rapidly changing technological landscape.
 
-<img src="/images/Com%203.png" style="width:60%">
+<img src="/images/2023/Computing/Computing3.png" style="width:60%">
 
 The two-year course at upper secondary level will equip students to:
 
@@ -83,22 +96,34 @@ The two-year course at upper secondary level will equip students to:
 *   Understand how and where information communications technology (ICT) is used in daily life
 *   Understand and explain the ethical, social and economic issues associated with ICT
 
-<img src="/images/Com%204.png" style="width:60%">
-
 ICT refers broadly to technology involving computing devices, software and other hardware. The computer science concepts and skills will also be taught.
 
-For more information on the subject, please refer to the syllabus available at [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/7155_y23_sy.pdf).
+<img src="/images/Com%204.png" style="width:60%">
 
-**Cultivating Students’ interest in Computing**
+For more information on the subject, please refer to the syllabus available at [here](https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2024).
 
-Currently, the school has an eco-system to build and cultivate students’ interest in computing. The school has a CCA in Science &amp; Technology Club with diverse selection of STEM workshops and challenges are provided for students to extend their scientific capabilities and interest and to develop coding and programming skills.
+### Learning Journey
+
+Students visited Singapore Polytechnic in July 2023 to further enhance their passion in the subject through their hands-on experience at the laboratories and interaction with the students at the tertiary institution.
+
+<img src="/images/2023/Computing/Computing4.png" style="width:60%">
+
+**Eco-system to cultivate students’ interest in computing**
+
+Currently, the school has an **eco-system to build and cultivate students’ interest** in computing. The school has a CCA in **Science &amp; Technology Club** with diverse selection of STEM workshops and challenges are provided for students to extend their scientific capabilities and interest and to develop coding and programming skills.
 
 <img src="/images/Com%205.png" style="width:60%">
-
-<img src="/images/Com%206.png" style="width:60%">
 		 
-In addition, the Code for Fun Programme is offered as a post examination enrichment to all Sec 1 students to increase their exposure to coding and computational thinking. This is part of a set of mathematical enrichment activities designed to nurture students’ interest in STEM and to develop their disposition in STEM. Students will use microcontrollers, basic drag and drop coding and cardboard Lego Blocks known as Blokies to build different physical structures based on their understanding of mathematical/STEM skills such as spatial visualisation, geometry and measurement. For example, they will write a program to create a house intruder system for their ‘house’ made from Blokies.
+In addition, the **Code for Fun Programme** is offered as a post examination enrichment to all Sec 1 students to increase their **exposure to coding and computational thinking**. This is part of a set of mathematical enrichment activities designed to nurture students’ interest in STEM and to develop their disposition in STEM. Students will use microcontrollers, basic drag and drop coding and cardboard Lego Blocks known as Blokies to build different physical structures based on their understanding of mathematical/STEM skills such as spatial visualisation, geometry and measurement. For example, they will write a program to create a house intruder system for their ‘house’ made from Blokies.
 
 <img src="/images/Com%207.png" style="width:60%">
 
 <img src="/images/Com%208.png" style="width:60%">
+
+In 2023, ‘Coding With Python’ workshop was offered for all Secondary 2 students. The workshop was conducted online and includes the following:
+
+* use of Python programming to design data analytics models; 
+* hands-on and experiential project-based learning; and 
+* application on mathematics computational thinking
+
+Students used online Replit to familiarise themselves with syntax-based programming concepts, including understanding Python language syntax, developing basic capabilities to explore and learn about Python data analytics models, and understanding coding fundamentals such as loops, events, conditionals, variables, etc.

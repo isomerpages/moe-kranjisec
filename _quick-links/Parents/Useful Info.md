@@ -71,9 +71,9 @@ Please note that application via hardcopy form is required (i.e. e-FAS is not ap
 
 (a) families with other dependents (Great Grandparents, Aunties/Uncles, Cousins and others);
 
-(b) family with more than 5 children in GGAS;
+(b) family with more than 6 children in GGAS;
 
-(c) family with more than 4 unmarried children not in GGAS;
+(c) family with more than 5 unmarried children not in GGAS;
 
 (d) family with more than 3 grandparents in the household.
 
