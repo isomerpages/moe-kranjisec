@@ -60,8 +60,10 @@ To stimulate students' curiosity in languages, we also promote the MTL &amp; EL 
 <img src="/images/2023/MTL/14__Readership_Programme.jpeg" style="width:60%">
 
 
-		 
-In Tier 2, ‘**Enrichment**’, the MTL department developed an e-book that extensively encapsulates a detailed explanation of 6 different ethnic festivals, highlighting the significance of symbols and practices in order to address students’ misconceptions of festivals celebrated by the different ethnic groups in Singapore. For this innovation, our team aims to adopt Blended Learning using Student Learning Space (SLS) as a platform in order to optimise students’ learning. Sec 1 students accessed the e-book on their own and attempted the quizzes provided at the end to self-assess their understanding of the content provided in the e-book. They are also required to complete the SLS Oral package encompassing reading assessment, video submission, peer evaluation and post-survey as part of the alternative assessment. The following are some video presentations of our Sec 1 students in the role of a book promoter!
+
+As part of our school's ongoing internationalisation efforts, we have established a partnership with Xingzhi Junior Middle School in Hangzhou, China since 2015. This year, Sec One and Two students have participated in synchronous conference sessions, fostering a deeper understanding of the global community through interdisciplinary approaches. The exchange sessions enable students from both schools to share insights on culture, customs, Asian Games, Co-Curricular Activities (CCA), environmental conservation issues, and more.
+
+Furthermore, we had the pleasure of hosting a school visit from Shifang Middle School from Sichuan, China. Our school has been engaged in the school exchange programme with Shifang Middle School since 2010, and it was truly heartwarming to welcome them back after the brief hiatus during the pandemic.
 
 <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/gp4b2DjvV8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
