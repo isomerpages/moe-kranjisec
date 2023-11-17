@@ -47,7 +47,7 @@ Under Tier 2, '**Enrich**', the MTL department organises MTL fortnight programme
 
 <img src="/images/2023/MTL/9__MTL_Fortnight_Programme.jpg" style="width:60%">
 		 
-The department also organised several events, such as Pongal Festival, Lunar New Year Celebrations, Hari Raya Celebrations and Deepavali Celebrations. These activities have enabled students to learn beyond classroom context and strengthen their sense of cultural heritage and identity.
+To stimulate students' curiosity in languages, we also promote the MTL &amp; EL Readership Programme to cultivate a reading culture in both their mother tongue languages and English within the Kranjian community. Additionally, the department organises various events, such as Lunar New Year Celebrations, Hari Raya Celebrations, and Deepavali Celebrations, to help students learn beyond the classroom and strengthen their cultural heritage and identity.
 
 <img src="/images/MTL%204.jpg" style="width:60%">
 		 
