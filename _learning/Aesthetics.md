@@ -14,7 +14,17 @@ The department aims to inspire and empower students to not only appreciate the b
 
 A yearly platform that celebrates the diverse and extraordinary artistic talents within our school. Students&nbsp; have the opportunity to showcase their unique talent through captivating performances. From singing and dancing to acting and other forms of artistic expression.
 
+<img style="width:60%" src="/images/2023/Aesthetic%20KGT/KGT_1.jpg">
 
+<img style="width:60%" src="/images/2023/Aesthetic%20KGT/KGT_2.jpg">
+
+<img style="width:60%" src="/images/2023/Aesthetic%20KGT/KGT_3.jpg">
+
+<img style="width:60%" src="/images/2023/Aesthetic%20KGT/KGT_4.jpg">
+
+<img style="width:60%" src="/images/2023/Aesthetic%20KGT/KGT_5.jpg">
+
+<img style="width:60%" src="/images/2023/Aesthetic%20KGT/KGT_6.jpg">
 
 ## Art
 
