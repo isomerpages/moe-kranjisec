@@ -33,7 +33,7 @@ variant: markdown
 **[Malay Culture and Language Society](/co-curricular-activities/Clubs-and-Societies/malay-culture-and-language-society/)** |
 <img src="/images/cca4.png" style="width:130px">   	 | 
 
-#### Sports and Games
+#### Sports 
 
 | [Badminton](/co-curricular-activities/Sports-and-Games/badminton/) | [Basketball](/co-curricular-activities/Sports-and-Games/basketball/) | [Floorball](/co-curricular-activities/Sports-and-Games/floorball/)  |
 | -------- | -------- | -------- |
