@@ -17,18 +17,25 @@ Through their 4 years&nbsp;of active participation in the CCA, students are able
 
 Students hone their skills and knowledge through various activities such as learning journeys, popular films critique, map making and participation in local and overseas competitions and conferences. As leaders of Humanities-related events, students have opportunities to lead in school-wide events such as the annual Humanities Amazing Race Programme (HARP), Humanities Week etc. which will enable them to apply and showcase their learning and leadership competencies.
 
-<img src="/images/IGS%201.jpg" style="width:60%">
+<img src="/images/2023/IGS/Photo1.jpeg" style="width:60%">
+<img src="/images/2023/IGS/Photo2.jpeg" style="width:60%">
 <center>Students participating in National Junior College (NJC) International Humanities Symposium 2023.</center>
 
-In 2021, students participated in in the Garbage Archaeology Online Programme organised by Temasek History Research Centre (THRC), where they learn about the importance of documenting and interpreting artefacts in archaeology. They also took part in the third edition of the Ginowan-Kranji Virtual School Exchange where they collaborated with Japanese students from Ginowan Senior High School in Okinawa, Japan to discuss and present their proposals on the various Sustainable Development Goals. Through these initiatives, students are exposed to current global issues and have broadened their perspective through their participation in these activities.
+Two teams from IGS club participated in the National Junior College (NJC) International Humanities Symposium 2023. The symposium is an annual event that provides a platform for local and international students to showcase their humanities research projects, share insights gleaned from their research with a like-minded community, and build friendships that seed opportunities for future collaborations.
 
-<img src="/images/IGS%202.jpg" style="width:60%">
+One of the KSS teams, led by Destinee Joy Boey Kit Ann and comprising Ang Jing Yuan Fiona, Chia Joon Hee, Lim En Ning Clarissa, and Toh Xin Hui, won the Best Research Award (Gold) for their project titled “The Influence of Geopolitics on the Rise of our ‘Little Red Dot’”.
+
+The team’s victory is a testament to their hard work and dedication. They spent months researching their topic, and they worked tirelessly to prepare for their presentation. Their project was well-received by the judges and other schools’ participants, who praised the team’s research and their presentation skills.
+
+The other team, led by Arhan Chakraborty and comprising Beverly Low, Norman Tay, Ni Lang, and Tan Ying Bei, also presented their project at the symposium. Their project, titled “Social Media is the New Weapon in Modern Warfare”, was well-received by the judging panel.
+
+<img src="/images/2023/IGS/Photo3.jpg" style="width:60%">
 <center>Students presenting during the Ginowan-Kranji Online Exchange</center>
 
-<img src="/images/IGS%203.png" style="width:60%">
-<center>Student’s reflection on the Ginowan-Kranji Online Exchange</center>
-
-In 2022, the students honed their organisational and interpersonal skills and knowledge through various activities. For instance, they learnt about WWII and its impacts on Singapore through designing and implementing their own War Heritage Trail at Singapore’s Civic District. They also reached out to the community by planning and implementing learning activities for migrant workers in a Values-In-Action Community Service Project “English Conversation Workshop for Migrant Workers” organised in collaboration with Keat Hong Community Club.
+In 2023, the students honed their organisational and interpersonal skills and knowledge through various activities. For instance, they learnt about WWII and its impacts on Singapore through designing and implementing their own Heritage Trail at Upper Bukit Timah.
 
 <img src="/images/IGS%204.png" style="width:60%">
-<center>Student’s reflection on the Values-In-Action Community Service Project</center>
+
+<center>Students participating in the Values-In-Action Community Service Project</center>
+
+In 2023, the students also reached out to the community by planning and implementing learning activities for migrant workers in a Values-In-Action Community Service Project “English Conversation Workshop for Migrant Workers” organised in collaboration with Keat Hong Community Club.
