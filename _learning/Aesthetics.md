@@ -2,7 +2,20 @@
 title: Aesthetics
 permalink: /future-ready-learning/Academic-Studies/Aesthetics/
 description: ""
+variant: markdown
 ---
+# The Aesthetics Department
+
+The Aesthetics Department encompasses four dynamic subjects: Visual Art, Music, Design &amp; Technology, and Nutrition &amp; Food Science. Within these subjects, students embark on a journey of self-expression, exploration, and practical application. From the visual realms of painting and sculpture to the harmonious melodies of music, and the functional elegance of design, to the science behind nutrition and food, our department offers a diverse array of avenues for both artistic and scientific expression. Students learn various skills such as prototyping, cooking, music and art making. They also learn project management skills, creativity and empathy, through learning journeys, workshops, community projects and competitions.  
+  
+The department aims to inspire and empower students to not only appreciate the beauty in the world around them but also to actively contribute to it through their own unique perspectives and talents.
+
+**Kranji Got Talent 2023**
+
+A yearly platform that celebrates the diverse and extraordinary artistic talents within our school. Students&nbsp; have the opportunity to showcase their unique talent through captivating performances. From singing and dancing to acting and other forms of artistic expression.
+
+
+
 ## Art
 
 | 2021 | 2022 | |
