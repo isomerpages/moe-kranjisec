@@ -39,21 +39,27 @@ Under Tier 2, '**Enrich**', the MTL department organises MTL fortnight programme
 
 <img src="/images/2023/MTL/5__MTL_Fortnight_Programme.jpg" style="width:60%">
 
-<img src="/images/2023/MTL/6__MTL_Fortnight_Programme.jpg" style="width:60%">
+<img src="/images/2023/MTL/6__MTL_Fortnight_Programme.jpeg" style="width:60%">
 
-<img src="/images/2023/MTL/7__MTL_Fortnight_Programme.jpg" style="width:60%">
+<img src="/images/2023/MTL/7__MTL_Fortnight_Programme.jpeg" style="width:60%">
 
-<img src="/images/2023/MTL/8__MTL_Fortnight_Programme.jpg" style="width:60%">
+<img src="/images/2023/MTL/8__MTL_Fortnight_Programme.jpeg" style="width:60%">
 
-<img src="/images/2023/MTL/9__MTL_Fortnight_Programme.jpg" style="width:60%">
+<img src="/images/2023/MTL/9__MTL_Fortnight_Programme.jpeg" style="width:60%">
 		 
 To stimulate students' curiosity in languages, we also promote the MTL &amp; EL Readership Programme to cultivate a reading culture in both their mother tongue languages and English within the Kranjian community. Additionally, the department organises various events, such as Lunar New Year Celebrations, Hari Raya Celebrations, and Deepavali Celebrations, to help students learn beyond the classroom and strengthen their cultural heritage and identity.
 
-<img src="/images/MTL%204.jpg" style="width:60%">
-		 
-<img src="/images/MTL%205.jpg" style="width:60%">
-		 
-<img src="/images/MTL%206.jpg" style="width:60%">
+<img src="/images/2023/MTL/10__LNY_Celebration.jpeg" style="width:60%">
+
+<img src="/images/2023/MTL/11__Hari_Raya_Celebration.jpg" style="width:60%">
+
+<img src="/images/2023/MTL/12__Deepavali_Concert.jpeg" style="width:60%">
+
+<img src="/images/2023/MTL/13__Readership_Programme.jpeg" style="width:60%">
+
+<img src="/images/2023/MTL/14__Readership_Programme.jpeg" style="width:60%">
+
+
 		 
 In Tier 2, ‘**Enrichment**’, the MTL department developed an e-book that extensively encapsulates a detailed explanation of 6 different ethnic festivals, highlighting the significance of symbols and practices in order to address students’ misconceptions of festivals celebrated by the different ethnic groups in Singapore. For this innovation, our team aims to adopt Blended Learning using Student Learning Space (SLS) as a platform in order to optimise students’ learning. Sec 1 students accessed the e-book on their own and attempted the quizzes provided at the end to self-assess their understanding of the content provided in the e-book. They are also required to complete the SLS Oral package encompassing reading assessment, video submission, peer evaluation and post-survey as part of the alternative assessment. The following are some video presentations of our Sec 1 students in the role of a book promoter!
 
