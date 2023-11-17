@@ -2,6 +2,7 @@
 title: Humanities
 permalink: /active-learning/humanities/
 description: ""
+variant: markdown
 ---
 **Achievements (2021-2022)**
 
@@ -55,4 +56,4 @@ Some of our notable achievements in 2023 are as follows:
 
 
 <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/tf9hGnoU2mA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<center>Operation Sook Ching video submission for the Historical Scene Investigation competition. Awarded silver award in 2022.</center>
+<center>Team A video submission for the Historical Scene Investigation competition</center>
