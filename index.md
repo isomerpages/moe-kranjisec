@@ -29,7 +29,7 @@ sections:
   - infopic:
       title: Secondary 1
       button: Read More
-      url: /the-kranji-experience/Secondary-1/orientation-programme/
+      url: /front-page/sec1/orientation-programme/
       alt: Image alt text
       image: /images/2023sec1_2.jpg
       subtitle: Distinctive Experiences
@@ -38,7 +38,7 @@ sections:
   - infopic:
       title: Secondary 2
       button: Read more
-      url: /front-page/Sec-2-Distinctive-Experiences/THINK-programme/
+      url: front-page/sec-2-distinctive-experiences/think-programme/
       alt: Image alt text
       image: /images/Aes Dev 8.jpeg
       subtitle: Distinctive Experiences
@@ -54,7 +54,7 @@ sections:
   - infopic:
       title: Secondary 4 and 5
       button: Read more
-      url: /front-page/Sec-45-Distinctive-Experiences/career-fair/
+      url: front-page/sec-45-distinctive-experiences/resilience-walk/
       alt: Image alt text
       image: /images/CF 2.jpg
       subtitle: Distinctive Experiences
