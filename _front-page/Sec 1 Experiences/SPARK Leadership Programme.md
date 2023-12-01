@@ -3,7 +3,7 @@ title: SPARK Leadership Programme
 permalink: /front-page/sec1/spark-leadership/
 variant: markdown
 description: ""
-third_nav_title: Sec 1 Distinctive Experiences
+third_nav_title: Sec 1 Experiences
 ---
 Started in 2023, SPARK (**S**tretching **P**otential, **A**spi**R**ing **K**ranjians) Leadership Programme is a leadership training programme for Secondary 1 students to expose them to the roles of Student Council (SC), Peer Support Leaders (PSL) and House Captains.
 

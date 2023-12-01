@@ -2,7 +2,7 @@
 title: Graduation Ceremony
 permalink: /the-kranji-experience/Secondary-4-and-5/graduation-ceremony/
 description: ""
-third_nav_title: Sec 45 Distinctive Experiences
+third_nav_title: Sec 4 and 5 Experiences
 variant: markdown
 ---
 Graduation Day signifies the last official day of school for our Secondary 4 and 5 Kranjians, before they have a short study break as they gear up towards the start of their N-Levels and O-Levels examinations.

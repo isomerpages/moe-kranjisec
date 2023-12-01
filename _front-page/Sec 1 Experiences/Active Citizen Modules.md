@@ -2,7 +2,7 @@
 title: Active Citizen Modules
 permalink: /front-page/sec1/acm/
 description: ""
-third_nav_title: Sec 1 Distinctive Experiences
+third_nav_title: Sec 1 Experiences
 variant: markdown
 ---
 The Active Citizens Modules, targeted at Lower Secondary students, aim to develop an awareness of social issues and to develop a sense of personal investment in a particular area of concern in the students. 5 different modules will be covered over the course of 2 years in Lower Secondary.

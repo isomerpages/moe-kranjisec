@@ -3,7 +3,7 @@ title: Sec 1 Sustainable Journey
 permalink: /front-page/sec1/sustainable-journey/
 variant: markdown
 description: ""
-third_nav_title: Sec 1 Distinctive Experiences
+third_nav_title: Sec 1 Experiences
 ---
 ### ‘Think, INquire in Kranji’ (THINK) for Sustainability Programme
 

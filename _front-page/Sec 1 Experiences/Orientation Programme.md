@@ -2,7 +2,7 @@
 title: Orientation Programme
 permalink: /front-page/sec1/orientation-programme/
 description: ""
-third_nav_title: Sec 1 Distinctive Experiences
+third_nav_title: Sec 1 Experiences
 variant: markdown
 ---
 ### Secondary One Orientation Programme

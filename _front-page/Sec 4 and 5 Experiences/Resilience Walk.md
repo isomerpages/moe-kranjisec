@@ -3,7 +3,7 @@ title: Resilience Walk
 permalink: /front-page/sec-45-distinctive-experiences/resilience-walk/
 variant: markdown
 description: ""
-third_nav_title: Sec 45 Distinctive Experiences
+third_nav_title: Sec 4 and 5 Experiences
 ---
 One of the ‘rites of passage’ for our graduating cohort of students, the Wellness and Resilience Walk is an approximately 10 km hike for the Secondary 4 and 5 students before they embark on their National Examinations.
 

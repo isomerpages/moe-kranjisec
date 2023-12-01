@@ -2,7 +2,7 @@
 title: Aesthetics Development
 permalink: /front-page/Sec-2-Distinctive-Experiences/Aesthetics-Development/
 description: ""
-third_nav_title: Sec 2 Distinctive Experiences
+third_nav_title: Sec 2 Experiences
 variant: markdown
 ---
 The Aesthetics Development programme aims to provide an avenue for our students to&nbsp;develop their interests and display their talents in the arts. Through a structured yet&nbsp;versatile programme, the students gain exposure to diverse art forms and are provided&nbsp;with platforms to stretch their talents.
