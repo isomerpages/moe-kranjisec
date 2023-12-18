@@ -58,5 +58,5 @@ sections:
       alt: Image alt text
       image: /images/CF 2.jpg
       subtitle: Distinctive Experiences
-      description: Ready for the future to meet challenges and opportunities.
+      description: Be ready for the future to meet challenges and opportunities.
 ---
