@@ -3,13 +3,14 @@ title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### School Management Committee
 
 
 |  | | |
 | -------- | -------- | -------- |
-| <img src="/images/SMC/SMC%202023/mr%20goh%20soon%20hoe.jpg" style="width:52%">Mr Goh Soon Hoe<br>Principal<br>kranji_ss@moe.edu.sg 	| <img src="/images/SMC/SMC%202023/mrs%20oh-ong%20lay%20ling%20(1).jpg" style="width:45%">Mrs Oh-Ong Lay Ling<br>Vice Principal 1 (Acad)<br>kranji_ss@moe.edu.sg 	| <img src="/images/SMC/SMC%202023/mr%20koo%20tiannuo%20(2).jpg" style="width:50%">Mr Koo Tiannuo<br>Vice Principal 2 (Acad)<br>kranji_ss@moe.edu.sg 	|
+| <img src="/images/SMC/SMC%202023/mr%20chua%20lek%20hong.jpeg" style="width:56%">Mr Chua Lek Hong<br>Principal<br>kranji_ss@moe.edu.sg 	| <img src="/images/SMC/SMC%202023/mrs%20oh-ong%20lay%20ling%20(1).jpg" style="width:45%">Mrs Oh-Ong Lay Ling<br>Vice Principal 1 (Acad)<br>kranji_ss@moe.edu.sg 	| <img src="/images/SMC/SMC%202023/mr%20koo%20tiannuo%20(2).jpg" style="width:50%">Mr Koo Tiannuo<br>Vice Principal 2 (Acad)<br>kranji_ss@moe.edu.sg 	|
 | <img src="/images/SMC/SMC%202023/ms%20m%20losiny.jpg" style="width:50%">Ms M Losiny<br>HOD/ICT<br>m_losiny@moe.edu.sg 	| <img src="/images/SMC/SMC%202023/ms%20yang%20ching-ching.jpg" style="width:42%">Ms Yang Ching-Ching<br>HOD/MTL<br>yang_ching_ching@moe.edu.sg 	| <img src="/images/SMC/SMC%202023/ms%20jenny%20yap.jpg" style="width:47%">Ms Yap Janny<br>HOD/Math<br>janny_yap@moe.edu.sg 	|
 | <img src="/images/SMC/SMC%202023/ms%20yap%20chin%20ping%20amy.jpg" style="width:53%">Ms Yap Chin Ping, Amy<br>HOD/EL<br>yap_chin_ping@moe.edu.sg 	| <img src="/images/SMC/SMC%202023/mr%20seet%20wee%20leong%20gerald.jpg" style="width:46%">Mr Gerald Seet<br>HOD/PE &amp; CCA<br>seet_wee_leong_gerald@moe.edu.sg 	| <img src="/images/SMC/SMC%202023/ms%20natasha%20bte%20supa'at.jpg" style="width:50%">Ms Natasha Bte Supa'at<br>School Staff Developer<br>natasha_supaat@moe.edu.sg 	|
 |  <img src="/images/SMC/SMC%202023/mr%20chan%20mun%20leong%20jeremy.jpg" style="width:52%"> Mr Jeremy Chan<br>HOD/Character Guidance<br>chan_mun_leong_jeremy<br>@moe.edu.sg 	| <img src="/images/SMC/SMC%202023/mr%20tan%20woon%20siong.jpg" style="width:45%">Mr Tan Woon Siong<br>HOD/Aesthetics<br>tan_woon_siang@moe.edu.sg 	| <img src="/images/SMC/SMC%202023/mr%20tan%20chee%20wee%20%20desmond.jpg" style="width:50%">Mr Desmond Tan<br>HOD/Humanities<br>tan_chee_wee_desmond<br>@moe.edu.sg 	| 
