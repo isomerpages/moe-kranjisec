@@ -26,13 +26,16 @@ sections:
   - resources:
       title: Announcements
       button: Click here for all posts
+  - infobar:
+      title: "#TheKranjiExperience"
+      subtitle: What to expect in our school
+      id: infobar
   - infopic:
       title: Secondary 1
       button: Read More
       url: /front-page/sec1/orientation-programme/
       alt: Image alt text
       image: /images/2023sec1_2.jpg
-      subtitle: Distinctive Experiences
       description: Discover your strengths and interests, as you make new friends and
         forge close bonds.
   - infopic:
@@ -41,7 +44,6 @@ sections:
       url: front-page/sec-2-distinctive-experiences/think-programme/
       alt: Image alt text
       image: /images/Aes Dev 8.jpeg
-      subtitle: Distinctive Experiences
       description: Be a reflective thinker with the drive to excel.
   - infopic:
       title: Secondary 3
@@ -49,14 +51,12 @@ sections:
       url: /front-page/Sec-3-Distinctive-Experiences/industry-visits/
       alt: Image alt text
       image: /images/IVJS 1.jpg
-      subtitle: Distinctive Experiences
       description: Grow to be a confident leader with a heart to serve.
   - infopic:
       title: Secondary 4 and 5
       button: Read more
       url: front-page/sec-45-distinctive-experiences/resilience-walk/
       alt: Image alt text
-      image: /images/CF 2.jpg
-      subtitle: Distinctive Experiences
+      image: /images/2023/CCE/IMG_6499_v2.jpg
       description: Be ready for the future to meet challenges and opportunities.
 ---
