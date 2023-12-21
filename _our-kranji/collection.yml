@@ -2,6 +2,7 @@ collections:
   our-kranji:
     output: true
     order:
+      - Principal's Message.md
       - Our Mission/.keep
       - Our Mission/School Crest.md
       - Our Mission/Vision, Mission, Values, Motto.md
