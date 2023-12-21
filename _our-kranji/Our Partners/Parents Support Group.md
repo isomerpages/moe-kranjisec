@@ -26,5 +26,5 @@ Kranji Secondary School Parents Support Group (PSG) was formally formed on 1st S
 
  *   Secondary 4/5 (2024) -&nbsp;[http://tiny.cc/KSS-psgsec452024](http://tiny.cc/KSS-psgsec452024)
  *   Secondary 3 (2024) -&nbsp;[http://tiny.cc/KSS-psgsec32024](http://tiny.cc/KSS-psgsec32024)
- *   Secondary 2 (2023) -&nbsp;[http://tiny.cc/KSS-psgsec22024](http://tiny.cc/KSS-psgsec22024)
- *   Secondary 1 (2023) -&nbsp;[http://tiny.cc/KSS-psgsec12024](http://tiny.cc/KSS-psgsec12024)
+ *   Secondary 2 (2024) -&nbsp;[http://tiny.cc/KSS-psgsec22024](http://tiny.cc/KSS-psgsec22024)
+ *   Secondary 1 (2024) -&nbsp;[http://tiny.cc/KSS-psgsec12024](http://tiny.cc/KSS-psgsec12024)
