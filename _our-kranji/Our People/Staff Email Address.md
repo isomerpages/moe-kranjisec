@@ -3,7 +3,6 @@ title: Staff Email Address
 permalink: /about-us/staff-email-address/
 description: ""
 third_nav_title: Our People
+variant: tiptap
 ---
-### Staff Email Address
-
-You may view the document [here](/files/list%20of%20email%20address%20of%20teachers%20in%20kranji%20secondary%20school%202023%20(201023).pdf)
+<h3>Staff Email Address</h3><p>You may view the document <a href="/files/List_of_email_address_of_teachers_in_Kranji_Secondary_School_2023__27_12_23_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></p>
