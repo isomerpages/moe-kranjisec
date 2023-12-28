@@ -106,7 +106,7 @@ Being the overall house champion for five consecutive years from 2016 to 2022 is
 
 Wherever your strength lies, there will be a place for you in Jaguar house, as long as you are ever ready to strike!
 
-### JAGUAR
+### Ibex
 
 When it comes to nimbleness and surefootedness, others pale into insignificance. Steadfast and determined, the ibex is known for its agility in leaping about ledges and rugged terrain. Ibex will go where lesser creatures fear to tread.
 
