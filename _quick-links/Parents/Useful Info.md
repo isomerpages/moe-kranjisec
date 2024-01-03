@@ -1,0 +1,80 @@
+---
+title: Useful Info
+permalink: /quick-links/parents/
+description: ""
+third_nav_title: Parents
+variant: markdown
+---
+### Useful Numbers &amp; Operating Hours
+#### General Office
+
+School Address: 61 Choa Chu Kang Street 51 Singapore 689333
+
+School Website: http://kranjisec.moe.edu.sg
+
+School Email Address: kranji_ss@moe.edu.sg
+
+Contact Number: (65) 67662464
+
+Fax: (65) 67662095
+
+#### School Bookshop
+
+Vendor: Overseas Associates Pte Ltd
+
+Address: 24 Lim Teck Boo Road #03-01 Nanyang Centre Singapore 537003
+
+Website: [https://www.oapl.sg/](https://www.oapl.sg/)
+
+Contact Number: (65) 63826789 ext 128
+
+Fax: (65) 63829537
+
+<u>During School Terms</u>
+
+Monday to Friday: 7.00am to 3.00pm
+
+Please download the booklists below for 2024 Academic Year
+
+| Sec 2 | Sec 3 | Sec 4 &amp; 5 |
+| -------- | -------- | -------- |
+| [Sec 2 Booklist](/files/2023/2024%20Booklists/booklist%202024_sec%202.pdf)    | [Sec 3 Booklist](/files/2023/2024%20Booklists/booklist%202024_sec%203.pdf)     | [Sec 4 &amp; 5 Booklist](/files/2023/2024%20Booklists/booklist%202024_sec%204&amp;5.pdf)   |
+
+
+#### School Uniform
+
+Vendor: Finest Fashion Centre
+
+Address: 144 Upper Bukit Timah Road #B1-03 Beauty World Centre Singapore 588177
+
+Website: [www.finestuniform.com](https://finestuniform.com/)
+
+Contact Number: (65) 90295135 / (65) 64665697 / (65) 82848586
+
+### MOE Financial Assistance Scheme
+
+The MOE Financial Assistance Scheme (FAS) is now open for application. The objective of the MOE FAS is to provide financial assistance to Singaporean students in Government and Government-Aided Schools (GGAS) to meet the basic schooling expenses.
+
+Student must be a Singapore citizen and meets either one of the following criteria:
+
+![](/images/FAS%201.png)
+
+For your child who is a Comcare beneficiary, you need not submit the MOE FAS Application as MOE FAS will be auto-granted to Comcare beneficiaries.
+
+You may choose to apply for MOE FAS by:
+
+(a) e-FAS \- for those who wish to submit via [e-FAS link](https://go.gov.sg/moe-efas), you are required to submit softcopy supporting documents; or
+
+(b) [Hardcopy form](/files/2023/2024%20moe%20fas%20application%20form.pdf) to be submitted to the General Office.
+
+Please note that application via hardcopy form is required (i.e. e-FAS is not applicable) for:
+
+(a) families with other dependents (Great Grandparents, Aunties/Uncles, Cousins and others);
+
+(b) family with more than 6 children in GGAS;
+
+(c) family with more than 5 unmarried children not in GGAS;
+
+(d) family with more than 3 grandparents in the household.
+
+Should you have further enquiries, please feel free to contact Ms Yong at Tel: 67662464.

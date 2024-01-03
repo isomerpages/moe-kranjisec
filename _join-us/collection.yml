@@ -1,0 +1,7 @@
+collections:
+  join-us:
+    output: true
+    order:
+      - Direct School Admissions.md
+      - Sec 1 Posting.md
+      - Returning Singapore Citizens and International Students.md

@@ -1,0 +1,14 @@
+logo: /images/kranjilogo.png
+links:
+  - title: Our Kranji
+    collection: our-kranji
+  - title: Future-Ready
+    collection: future-ready
+  - title: Learning
+    collection: learning
+  - title: Experience
+    collection: experience
+  - title: Join Us!
+    collection: join-us
+  - title: Contact us
+    url: /contact-us

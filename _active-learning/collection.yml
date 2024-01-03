@@ -1,0 +1,7 @@
+collections:
+  active-learning:
+    output: true
+    order:
+      - Character Education/.keep
+      - Character Education/Overview.md
+      - Physical Education.md
