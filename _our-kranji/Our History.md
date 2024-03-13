@@ -41,8 +41,7 @@ living which is also aligned with the Singapore Green Plan 2030.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/history2.png">
 </div>
-<p>The school will be celebrating its 25th anniversary in 2020.</p>
-<h6>Principals:</h6>
+<h4>Principals:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Steven Koh Yong Chiah (1996* – 1998)</p>
