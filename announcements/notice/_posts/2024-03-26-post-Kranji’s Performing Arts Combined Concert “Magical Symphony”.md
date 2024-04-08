@@ -25,6 +25,8 @@ film production.&nbsp;</p>
 occasion. Witness our students' dedication and passion for the Performing
 Arts as they take the stage after months of hard work and collaboration.</p>
 <p>If you are keen on attending the concert, please visit our general office
-after 8 April to collect your tickets. Tickets will be distributed while
-stocks last. Parents and Alumni are advised to call in the office to check
-on the availability of the tickets before coming down.&nbsp;Thank you.</p>
+after <strong>12 April</strong> to collect your tickets. Tickets will be
+distributed while stocks last. Parents and Alumni are advised to call in
+the office to check on the availability of the tickets before coming down.&nbsp;Thank
+you.</p>
+<p>The event is unsuitable for children under 5 years old</p>
