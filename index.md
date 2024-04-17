@@ -23,7 +23,7 @@ sections:
           url: /school-canteen-ad/
       title: Kranji Secondary School
       subtitle: Thinker. Leader. Champion.
-      variant: side
+      variant: center
       backgroundColor: black
   - resources:
       title: Announcements
