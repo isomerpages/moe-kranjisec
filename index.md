@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner2.png
+      background: /images/IMG_1198.jpg
       key_highlights:
         - title: Parents
           description: ""
@@ -23,6 +23,8 @@ sections:
           url: /school-canteen-ad/
       title: Kranji Secondary School
       subtitle: Thinker. Leader. Champion.
+      variant: side
+      backgroundColor: black
   - resources:
       title: Announcements
       button: Click here for all posts
