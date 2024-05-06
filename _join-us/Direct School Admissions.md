@@ -34,4 +34,4 @@ Students who are successfully admitted to the school via DSA are expected to
 
 **Please note that:**
 
-Students successfully allocated to their DSA-Sec schools will NOT be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and are expected to honour the commitment to the allocated DSA Sec school for the entire duration of the programme. 
+Students successfully allocated to their DSA-Sec schools will NOT be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and are expected to honour the commitment to the allocated DSA Sec school for the entire duration of the programme.
