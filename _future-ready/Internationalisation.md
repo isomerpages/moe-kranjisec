@@ -17,6 +17,7 @@ The Education for Sustainable Development Award recognises education and learnin
 ![](/images/2024/Internationalisation/2024_1.png)
 <center>First Prize winner of the Education for Sustainable Development Award</center>
 
+
 <center>Video submitted for the Education for Sustainable Development Award</center>
 
 As the First Prize winner, our four student ambassadors embarked on a study trip to Tokyo, Japan in September 2023, which is an excellent opportunity for them to network with peers in Japan and have a deeper understanding of cross-cultural literacy and global awareness.
