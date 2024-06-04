@@ -13,10 +13,10 @@ sections:
           description: ""
           url: /quick-links/parents/
         - title: Staff
-          description: Accessible via MIMs
+          description: Accessible via iCON
           url: https://sites.google.com/moe.edu.sg/kss-staff-portal/home
         - title: Students
-          description: Accessible via MIMs
+          description: Accessible via iCON
           url: https://sites.google.com/moe.edu.sg/kss-links-for-student?usp=sharing
         - title: Partners
           description: ""
