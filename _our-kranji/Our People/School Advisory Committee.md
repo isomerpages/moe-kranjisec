@@ -6,7 +6,12 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3>School Advisory Committee</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -33,7 +38,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SMC/SMC 2023/mr chua lek hong.jpeg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024/SMC/Mr_Chua_Lek_Hong_white_bg.jpg">
 </div>
 <p>Honorable Secretary:
 <br><strong>Mr Chua Lek Hong</strong>
