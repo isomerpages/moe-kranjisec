@@ -6,7 +6,12 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3>School Management Committee</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -22,7 +27,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" src="/images/SMC/SMC%202023/mr%20chua%20lek%20hong.jpeg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/2024/SMC/Mr_Chua_Lek_Hong_white_bg.jpg">
 </div>
 <p><a href="mailto:kranji_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Lek Hong</a> 
 <br>Principal</p>
