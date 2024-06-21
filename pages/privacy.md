@@ -3,7 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 variant: tiptap
 ---
-<h3>Kranji Secondary School Privacy Statement</h3>
+<h2>Kranji Secondary School Privacy Statement</h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>This is a Kranji Secondary School website. Thank you for examining our
