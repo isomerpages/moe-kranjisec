@@ -110,7 +110,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024/SMC/bala_kirishanan.jpeg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/2024/SMC/bala.png">
 </div>
 <p><a href="mailto:bala_kirishanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bala Kirishanan</a> 
 <br>HOD/Humanities</p>
@@ -133,7 +133,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024/SMC/chin_chii_tarng.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024/SMC/chii_tarng.png">
 </div>
 <p><a href="mailto:chin_chii_tarng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chin Chii Tarng</a> 
 <br>Year Head</p>
@@ -165,7 +165,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024/SMC/Amelia_Gan.jpeg">
+<img style="width: 57%;" height="auto" width="100%" alt="" src="/images/2024/SMC/Amelia.png">
 </div>
 <p><a href="amelia_gan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Amelia Gan</a> 
 <br>LH/EL</p>
