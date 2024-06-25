@@ -172,7 +172,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/SMC/20smcsmc.png">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/2024/SMC/yarong.png">
 </div>
 <p><a href="mailto:yang_yarong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Yarong</a> 
 <br>LH/Science</p>
