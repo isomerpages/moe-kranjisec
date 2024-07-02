@@ -211,7 +211,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 53%;" height="auto" width="100%" alt="" src="/images/2024/SMC/WhatsApp_Image_2024_03_27_at_2_03_36_PM.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/2024/SMC/Hisham.png">
 </div>
 <p><a href="mailto:muhamad_hisham_b_sairi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Hisham Sairi</a> 
 <br>Operations Manager</p>
