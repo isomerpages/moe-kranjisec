@@ -106,7 +106,7 @@ variant: tiptap
 <img style="width: 50%;" height="auto" width="100%" src="/images/SMC/SMC%202023/mr%20tan%20woon%20siong.jpg">
 </div>
 <p><a href="mailto:tan_woon_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Woon Siong</a> 
-<br>HOD/Aesthetics</p>
+<br>HOD/Craft &amp; Tech</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
