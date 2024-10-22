@@ -5,9 +5,9 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-### Malay Culture and Language Society (MCLS)
+### Angklung and Kulintang Ensemble
 
-Starting 2023, MCLS has widened its repertoire by focusing on the learning and playing two traditional instruments, namely angklung and kulintang. These instruments originated from Indonesia and are very well known in the Malay Archipelago (Nusantara). Interestingly, the instruments can be played for both traditional and modern popular songs. For the first time in Kranji, the MCLS is making a breakthrough by forming the Angklung and Kulintang Ensemble as a CCA group. With just around less than 20 members, it is important for the group to be cohesive and united to achieve great feats. Just like each angklung represents one note, each member in the CCA group is significantly essential and unique. Hence, they need to come together so that the songs can be beautifully played together. Through their recent debut Hari Raya performance, they have formed a greater bond with each other. Additionally, having teamwork is critical to enable them to achieve a common goal.
+Starting 2023, Kranji Angklung and Kulintang Ensemble (KAKE) has widened its repertoire by focusing on the learning and playing two traditional instruments, namely angklung and kulintang. These instruments originated from Indonesia and are very well known in the Malay Archipelago (Nusantara). Interestingly, the instruments can be played for both traditional and modern popular songs. With just around less than 20 members, it is important for the group to be cohesive and united to achieve great feats. Just like each angklung represents one note, each member in the CCA group is significantly essential and unique. Hence, they need to come together so that the songs can be beautifully played together. Through their recent debut Hari Raya performance, they have formed a greater bond with each other. Additionally, having teamwork is critical to enable them to achieve a common goal.
 
 #### Key Purpose/ Objectives 
 
@@ -19,7 +19,7 @@ Starting 2023, MCLS has widened its repertoire by focusing on the learning and p
    
 Students’ reflections
 
-> My experience in MCLS this year has been amazing. I get to learn how to play a new instrument which is the angklung. Not only that, but I also get to learn the music western notations which not many schools offer in their angklung ensemble. Thus, I am grateful for the lessons that I am given which I can use in the future. Lastly, I get to work with the juniors from Secondary One which was a blast because I get to meet new people and be able to spend time with them. Performing with them for Hari Raya was really something I am grateful for as it has helped me to overcome the fear of performing on the stage. For the past 2 years, I felt like I was alone when I was on stage as the lead singer but now, I am part of the whole ensemble. This is truly an experience that I will cherish.
+> My experience this year has been amazing. I get to learn how to play a new instrument which is the angklung. Not only that, but I also get to learn the music western notations which not many schools offer in their angklung ensemble. Thus, I am grateful for the lessons that I am given which I can use in the future. Lastly, I get to work with the juniors from Secondary One which was a blast because I get to meet new people and be able to spend time with them. Performing with them for Hari Raya was really something I am grateful for as it has helped me to overcome the fear of performing on the stage. For the past 2 years, I felt like I was alone when I was on stage as the lead singer but now, I am part of the whole ensemble. This is truly an experience that I will cherish.
 
 Muhammad Syahrizad Bin Yousaini (3K1) - President 2023/2024
 
