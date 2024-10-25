@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024/Web_banner_2024_V2.png
+      background: /images/2024/web_banner_v3.png
       key_highlights:
         - title: Parents
           description: ""
@@ -24,7 +24,9 @@ sections:
       title: Kranji Secondary School
       subtitle: Thinker. Leader. Champion.
       variant: image
-      backgroundColor: black
+      backgroundColor: white
+      size: md
+      alignment: left
   - resources:
       title: Announcements
       button: Click here for all posts
