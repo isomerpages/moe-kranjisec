@@ -1,6 +1,6 @@
 ---
-title: Kranji Modern Dance Club
-permalink: /co-curricular-activities/Visual-and-Performing-Arts/kranji-modern-dance-club/
+title: Modern Dance Club
+permalink: /co-curricular-activities/visual-and-performing-arts/kranji-modern-dance-club/
 description: ""
 third_nav_title: CCA
 variant: markdown

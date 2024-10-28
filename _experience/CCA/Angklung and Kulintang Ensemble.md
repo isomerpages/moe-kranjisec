@@ -1,9 +1,9 @@
 ---
-title: Malay Culture and Language Society
-permalink: /co-curricular-activities/Clubs-and-Societies/malay-culture-and-language-society/
+title: Angklung and Kulintang Ensemble
+permalink: /co-curricular-activities/clubs-and-societies/malay-culture-and-language-society/
 description: ""
 third_nav_title: CCA
-variant: markdown
+variant: tiptap
 ---
 ### Angklung and Kulintang Ensemble
 
