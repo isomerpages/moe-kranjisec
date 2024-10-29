@@ -79,7 +79,7 @@ FAS Application as MOE FAS will be auto-granted to Comcare beneficiaries.</p>
 <p>You may choose to apply for MOE FAS by:</p>
 <p>(a) e-FAS - for those who wish to submit via <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">e-FAS link</a>, you are required to submit
 softcopy supporting documents; or</p>
-<p>(b) <a href="/files/2023/2024%20moe%20fas%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Hardcopy form</a> to
+<p>(b) <a href="/files/2025/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">Hardcopy form</a> to
 be submitted to the General Office.</p>
 <p>Please note that application via hardcopy form is required (i.e. e-FAS
 is not applicable) for:</p>
