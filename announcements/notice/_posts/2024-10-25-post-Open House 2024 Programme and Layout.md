@@ -10,6 +10,9 @@ variant: tiptap
 <p>We will like to invite you to visit our Open House on 16 Nov 2024 (Sat),
 8.30 am to 12.00 pm. Please sign up if you are interested: <a href="https://forms.moe.edu.sg/forms/eL0q8e" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eL0q8e</a>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JEpiX1HgBNY?si=vtEtBbL_Nlm-ah0m"></iframe>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/MOTD_Poster_2024.png">
 </div>
