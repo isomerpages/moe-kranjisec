@@ -46,6 +46,7 @@ the Kranji Performing Arts Combined Concert Magical Symphony!</p>
 <p>Performing for the school’s Hari Raya Concert!</p>
 <p>Watch the following video to witness the Kranji Angklung and Kulintang
 Ensemble in action!</p>
-<p><strong>Video : KAKE Performance at the Limbang National Day Carnival</strong>
-</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/K_RsLB5TrDs?si=F0Mc-twv1_91qyNL"></iframe>
+</div>
 <p></p>
