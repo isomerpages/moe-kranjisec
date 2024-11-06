@@ -133,7 +133,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/co-curricular-activities/Visual-and-Performing-Arts/kranji-concert-band" rel="noopener noreferrer nofollow" target="_blank">Band</a></strong>
+<p><strong><a href="/co-curricular-activities/visual-and-performing-arts/symphonic-band/" rel="noopener noreferrer nofollow" target="_blank">Symphonic Band</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
