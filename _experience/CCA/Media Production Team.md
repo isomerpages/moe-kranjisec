@@ -10,27 +10,33 @@ variant: tiptap
 support at school events. Our members actively participated in various
 initiatives designed to enhance their digital media skills and foster a
 love for creativity.</p>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/it.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/MPT/MPT_collage_1.jpg">
 </div>
-<p>The second team is an innovative body that provides audio technical support
-in various school functions, such as event celebrations and music broadcast.
-It provides a platform to equip students who are interested in the technical
-aspect of stage production with skills to contribute to the school. Students
-are equipped with the skills of setting up and controlling the sound quality
-of the equipment and the managing of the event crew.</p>
-<p>Both teams also coordinate with other CCAs and lend their support in major
-school performances. Both teams have adapt and move on to learn more about
-Livestreaming services to better cater to the needs of the school.</p>
-<p>Usually the first to set up and the last to terminate its services and
-leave, MPT is the unsung hero of the many successes experienced by the
-school.</p>
-<p><strong>Trainings: Wednesdays and Fridays – 3.45 pm to 5.45 pm<br>Teachers-in-charge: Mr Tan Nian Kai, Ms Sim Yeng Suann, Mr Muhammad Firdaus</strong>
-</p>
-<h5>Reflections</h5>
-<p>"<em>Being in the Sound and Stage team of Media &amp; Productions Team, I had the opportunity to experience first-hand how to set up the various sound equipment, and gain a better insight on the technical aspect of what goes on behind the scenes during events like Lunar New Year Celebrations and National Day Celebrations, to name a few. My position as the Vice President for Sound and Stage team also helped hone my leadership and communication skills. I learn to work together with my executive committee team to create a friendly environment for the members to train in, and to plan for meaningful training sessions for them.</em>"</p>
-<p><strong>LEE YI JING, 3K1</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/MPT/MPT_collage_2.jpg">
+</div>
+<p>To showcase members’ talents on a national platform, the club participated
+in the Schools Digital Media Awards (SDMA) and Our Schools Our Stories.
+These competitions provided our members with invaluable opportunities to
+receive constructive feedback and gain a sense of accomplishment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/MPT/MPT_Cert_Presentation.jpg">
+</div>
+<p>Beyond competitions, we also focused on providing our students with enriching
+learning experiences. For example, the club went on learning journey to
+Singapore Polytechnic's Media, Arts, and Design School to expose our members
+to the exciting world of media, arts and design. This visit inspired our
+members to explore their creative potential and gain insights into the
+industry. To further hone our skills, the club worked with Canon Imaging
+Academy to conduct an Outdoor Levitation Photography Workshop held at Gardens
+by the Bay. This unique workshop allowed our students to experiment with
+innovative photographic techniques, enhance their technical abilities and
+express their creativity in new ways.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/MPT/MPT_Levitation_Workshop.jpg">
+</div>
+<p>Through these diverse experiences, our members not only developed their
+digital media skills but also gained confidence, expanded their horizons,
+and discovered a passion for creative expression.</p>
+<p></p>
