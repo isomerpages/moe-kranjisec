@@ -760,7 +760,7 @@ to major if students show no improvement.</p>
 <p>Verbal warning, reflection, circle time, counselling, caning or referral
 to the Police.</p>
 </td>
-<td rowspan="14" colspan="1">
+<td rowspan="19" colspan="1">
 <p>Student Development Team/Vice- Principal/Principal conference with parents/
 guardians.</p>
 <p>
@@ -790,6 +790,9 @@ guardians.</p>
 <p>
 <br>Referral to external counselling team/ programmes for further guidance
 and support on appropriate behaviours.</p>
+<p></p>
+<p>Referral to medical professionals for clinical assessments to support
+non appropriate behaviours.</p>
 </td>
 </tr>
 <tr>
@@ -869,43 +872,6 @@ referral to Police/Health Promotion Board (HPB)/Health Sciences Authority
 (HSA).</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p><em><sup>1</sup>Counselling will be provided by the School Counsellor.</em>
-</p>
-<p><em><sup>2</sup>Caning is administered only to boys.</em>
-</p>
-<p><em><sup>3</sup>External programmes refer to Enhanced Step-Up Programmes etc.</em>
-</p>
-<p><em><sup>4</sup>After internal investigations, affected students may have their marks penalised.</em>
-</p>
-<p><em><sup>5</sup>Cyberbullying includes impersonation, use of vulgarities or undesirable graphics, name-calling, spreading rumours, damaging another person’s reputation, slander on social media, and threats etc.</em>
-</p>
-<p><em><sup>6</sup>&nbsp;In consultation with SPF, students may be reported to the Police for sexual offences.</em>
-</p>
-<p><em><sup>7</sup>Students referred to HSA for vaping-related offences may receive a verbal warning and/or fine.</em>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Other Offences</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Consequences</strong>
-</p>
-</td>
-<th rowspan="6" colspan="1">
-<p>Referral to medical professionals for clinical assessments to support
-non appropriate behaviours.</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Disruptive behaviour (e.g. banging the table)</p>
@@ -913,7 +879,6 @@ non appropriate behaviours.</p>
 <td rowspan="4" colspan="1">
 <p>Verbal warning, reflection, circle time, counselling<sup>1</sup>, suspension
 and caning<sup>2</sup>.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -943,6 +908,20 @@ and external suspension.</p>
 </tr>
 </tbody>
 </table>
+<p><em><sup>1</sup>Counselling will be provided by the School Counsellor.</em>
+</p>
+<p><em><sup>2</sup>Caning is administered only to boys.</em>
+</p>
+<p><em><sup>3</sup>External programmes refer to Enhanced Step-Up Programmes etc.</em>
+</p>
+<p><em><sup>4</sup>After internal investigations, affected students may have their marks penalised.</em>
+</p>
+<p><em><sup>5</sup>Cyberbullying includes impersonation, use of vulgarities or undesirable graphics, name-calling, spreading rumours, damaging another person’s reputation, slander on social media, and threats etc.</em>
+</p>
+<p><em><sup>6</sup>&nbsp;In consultation with SPF, students may be reported to the Police for sexual offences.</em>
+</p>
+<p><em><sup>7</sup>Students referred to HSA for vaping-related offences may receive a verbal warning and/or fine.</em>
+</p>
 <ul>
 <li>
 <p>Offences committed outside school may also incur consequences as indicated
