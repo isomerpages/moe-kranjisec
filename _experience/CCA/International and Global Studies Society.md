@@ -1,9 +1,9 @@
 ---
-title: International and Global Studies
-permalink: /co-curricular-activities/Clubs-and-Societies/international-and-global-studies/
+title: International and Global Studies Society
+permalink: /co-curricular-activities/clubs-and-societies/international-and-global-studies-society/
 description: ""
 third_nav_title: CCA
-variant: markdown
+variant: tiptap
 ---
 ### International and Global Studies
 
