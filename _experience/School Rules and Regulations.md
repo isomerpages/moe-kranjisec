@@ -962,3 +962,71 @@ Module), affecting eligibility for MOE Edusave awards and bursaries.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/School_uniform_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/School_uniform_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/School_uniform_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/School_uniform_4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/School_uniform_5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/student_hairstyle.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>For Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>For Girls</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tinting or colouring of hair is not allowed.</p>
+<p>Hair must be short, neat, and the fringe should be above the eyebrows.</p>
+<p></p>
+<p>Hair should be cut above the ears and collar, with a slope at the back,
+in a style acceptable to the school.</p>
+<p></p>
+<p>Must be clean-shaven; beards, moustaches, and long sideburns are not allowed.</p>
+<p></p>
+<p>Spiky or fanciful hairstyles are prohibited.</p>
+<p></p>
+<p>Hair tattoos are not permitted.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hair must be kept neat. Tinting or colouring is not allowed.</p>
+<p></p>
+<p>Hair touching the collar should be tied up neatly using black hair accessories
+(ribbons or elastic bands).</p>
+<p></p>
+<p>Fanciful hairstyles are not permitted.</p>
+<p>Fringe should be clipped or tied up if it covers the eyebrows.</p>
+<p></p>
+<p>Hair tattoos are not allowed.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
