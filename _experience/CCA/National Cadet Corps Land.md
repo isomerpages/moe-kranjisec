@@ -13,7 +13,8 @@ and Committed Heart.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NCC Land/NCC_Day.jpg">
 </div>
-<p>NCC Day Commemoration Parade 2024</p>
+<p><strong>NCC Day Commemoration Parade 2024</strong>
+</p>
 <p>
 <br>To achieve this mission, our Secondary One to Three cadets undergo military-related
 knowledge training as well as a variety of enrichment activities that serve
@@ -67,29 +68,34 @@ Squad and the Precision Drill Squad.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NCC Land/freestyle.jpg">
 </div>
-<p>Freestyle Drill Competition 2024</p>
+<p><strong>Freestyle Drill Competition 2024</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NCC Land/pds.jpg">
 </div>
-<p>Our Precision Drill Squad performing during the school National Day Celebrations.</p>
+<p><strong>Our Precision Drill Squad performing during the school National Day Celebrations.</strong>
+</p>
 <p>We also pit our skills in captains ball, ultimate frisbee and football
 with other NCC units from other schools annually.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NCC Land/sports.jpg">
 </div>
-<p>Sports Championships with other schools’ NCC units.</p>
+<p><strong>Sports Championships with other schools’ NCC units.</strong>
+</p>
 <p>Last but not least, we do our part for the community with various VIA
 programs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NCC Land/beach_clean_up.jpg">
 </div>
-<p>Doing our part for the environment - Coney Island beach clean-up</p>
+<p><strong>Doing our part for the environment - Coney Island beach clean-up</strong>
+</p>
 <p>NCC is also proud to have attained Distinction in the annual Unit Recognition
 Award 2023, our 15th consecutive Distinction awards&nbsp;since 2009!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NCC Land/distinction.jpg">
 </div>
-<p>Distinction in the Unit Recognition Award 2023</p>
+<p><strong>Distinction in the Unit Recognition Award 2023</strong>
+</p>
 <p>To serve with pride and dedication, NCC!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NCC Land/whole_unit_resized.jpg">
