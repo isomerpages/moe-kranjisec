@@ -58,7 +58,7 @@ character and uphold the School Values.</p>
 <h3>Flag Raising Ceremony</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students must report to their respective assembly venues by 8:00 am each
+<p>Students must report to their respective assembly venues by 7:50 am each
 morning for the flag-raising ceremony.</p>
 </li>
 <li>
@@ -110,7 +110,7 @@ the assembly venue.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesdays (Odd)</p>
+<p>Tuesdays (Even)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Classroom</p>
@@ -961,29 +961,23 @@ guidance programmes.</p>
 Module), affecting eligibility for MOE Edusave awards and bursaries.</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/School_uniform_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Rules and Regulations/School_uniform_1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/School_uniform_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Rules and Regulations/School_uniform_2.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/School_uniform_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Rules and Regulations/School_uniform_3.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/School_uniform_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Rules and Regulations/School_uniform_4.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/School_uniform_5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Rules and Regulations/School_uniform_5.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/student_hairstyle.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Rules and Regulations/student_hairstyle.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>

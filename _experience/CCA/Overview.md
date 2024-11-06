@@ -16,15 +16,15 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/co-curricular-activities/Clubs-and-Societies/infocomm-technology" rel="noopener noreferrer nofollow" target="_blank">Media Production Team</a>
+<p><a href="/co-curricular-activities/Clubs-and-Societies/media-production-team" rel="noopener noreferrer nofollow" target="_blank">Media Production Team</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/co-curricular-activities/Clubs-and-Societies/international-and-global-studies" rel="noopener noreferrer nofollow" target="_blank">International and Global Studies</a>
+<p><a href="/co-curricular-activities/clubs-and-societies/international-and-global-studies-society/" rel="noopener noreferrer nofollow" target="_blank">International and Global Studies Society</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/co-curricular-activities/Clubs-and-Societies/permalink" rel="noopener noreferrer nofollow" target="_blank">Science and Technology Club</a>
+<p><a href="/co-curricular-activities/clubs-and-societies/science-and-technology-club/" rel="noopener noreferrer nofollow" target="_blank">Science and Technology Club</a>
 </p>
 </th>
 </tr>
