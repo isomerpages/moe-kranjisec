@@ -16,7 +16,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/co-curricular-activities/Clubs-and-Societies/infocomm-technology" rel="noopener noreferrer nofollow" target="_blank">Media Production Team</a>
+<p><a href="/co-curricular-activities/Clubs-and-Societies/media-production-team" rel="noopener noreferrer nofollow" target="_blank">Media Production Team</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
