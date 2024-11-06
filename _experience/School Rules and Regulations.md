@@ -732,4 +732,233 @@ EXCELLENT, VERY GOOD, GOOD, FAIR or POOR.</p>
 to major if students show no improvement.</p>
 </li>
 </ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Major Offences</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>Possible Consequences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Further Consequences</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Theft</p>
+</td>
+<td rowspan="12" colspan="1">
+<p>Verbal warning, reflection, circle time, counselling, caning or referral
+to the Police.</p>
+</td>
+<td rowspan="14" colspan="1">
+<p>Student Development Team/Vice- Principal/Principal conference with parents/
+guardians.</p>
+<p>
+<br>
+</p>
+<p>Support via self-management planning process.</p>
+<p>
+<br>
+</p>
+<p>Performing school services.</p>
+<p>
+<br>
+</p>
+<p>During or after-school-hours detention.</p>
+<p>
+<br>
+</p>
+<p>Internal suspension.</p>
+<p>
+<br>
+</p>
+<p>External suspension.</p>
+<p>
+<br>
+</p>
+<p>Gear-Up programme.</p>
+<p>
+<br>Referral to external counselling team/ programmes for further guidance
+and support on appropriate behaviours.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cheating&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gambling or playing cards/card games</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bullying or gangsterism (includes harassment/cyber-bullying)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Extortion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vandalism (school or public property)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fighting/Assault</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Open defiance to school authorities (e.g. repeatedly reporting late for
+class)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mischief by fire</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Forgery</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Possession of weapons or weapon-like items</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sexual Misconduct (e.g. possession of pornographic materials / voyeurism/sexual
+references/outrage of modesty etc.)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drug and inhalant abuse or its possession</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Verbal warning, reflection, circle time, counselling<sup>1</sup>, caning<sup>2</sup> and
+referral to Police/Central Narcotics Bureau (CNB).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Smoking, vaping or possession of smoking/prohibited materials&nbsp;</p>
+<p>(e.g. e-cigarettes, vaping peripherals, tobacco etc.)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Verbal warning, reflection, circle time, counselling<sup>1</sup>, caning<sup>2</sup> and
+referral to Police/Health Promotion Board (HPB)/Health Sciences Authority
+(HSA).</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em><sup>1</sup>Counselling will be provided by the School Counsellor.</em>
+</p>
+<p><em><sup>2</sup>Caning is administered only to boys.</em>
+</p>
+<p><em><sup>3</sup>External programmes refer to Enhanced Step-Up Programmes etc.</em>
+</p>
+<p><em><sup>4</sup>After internal investigations, affected students may have their marks penalised.</em>
+</p>
+<p><em><sup>5</sup>Cyberbullying includes impersonation, use of vulgarities or undesirable graphics, name-calling, spreading rumours, damaging another person’s reputation, slander on social media, and threats etc.</em>
+</p>
+<p><em><sup>6</sup>&nbsp;In consultation with SPF, students may be reported to the Police for sexual offences.</em>
+</p>
+<p><em><sup>7</sup>Students referred to HSA for vaping-related offences may receive a verbal warning and/or fine.</em>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Other Offences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Consequences</strong>
+</p>
+</td>
+<th rowspan="6" colspan="1">
+<p>Referral to medical professionals for clinical assessments to support
+non appropriate behaviours.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Disruptive behaviour (e.g. banging the table)</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Verbal warning, reflection, circle time, counselling<sup>1</sup>, suspension
+and caning<sup>2</sup>.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Truancy (from subject classes and school)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vulgarity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Acts pertaining to appearance, uniform and grooming (including dyed hair,
+tattoos, body piercing etc.)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Late-coming (at the school gate or assembly venues)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Verbal warning, reflection, circle time, counselling<sup>1</sup>, internal
+and external suspension.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>
+<p>Offences committed outside school may also incur consequences as indicated
+above.</p>
+</li>
+<li>
+<p>Consequences are based on the severity of the offence and determined by
+the Student Development Team and school leaders.</p>
+</li>
+<li>
+<p>Reported cases will be investigated to help guide students through behavioural
+guidance programmes.</p>
+</li>
+<li>
+<p>Major offences will be recorded in the MOE’s School Cockpit (School Offences
+Module), affecting eligibility for MOE Edusave awards and bursaries.</p>
+</li>
+</ul>
 <p></p>
