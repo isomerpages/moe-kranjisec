@@ -40,54 +40,29 @@ the year, both in school, SJB Headquarters and the community allow cadets
 to be exposed to a diverse range of essential skills and knowledge such
 as the First Aid, Home Nursing, Accident Prevention, Foot Drills and Leadership
 skills.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/KSJB%20First%20Aid.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/SJB/KSJB_St_John_Day.jpg">
 </div>
-<p>Cadets practising their first aid skills on a dummy manikin</p>
+<p>St John’s Day Commemoration 2024</p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/KSJB%20Foot%20Drills.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/SJB/KSJB_Kayaking_resized.jpg">
 </div>
-<p>Cadets practising their foot drills</p>
+<p>Cadet taking the one-star kayaking course</p>
+<p>One of the milestone activities that our cadets participate in yearly
+is the National First Aid Competition (NFAC). The NFAC is an annual competition
+organised by SJB Headquarters, where students compete against other schools
+to demonstrate their mastery of their first aid, home nursing and foot
+drill skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/2023/SJB/ksjb%20home%20nursing.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/SJB/KSJB_DFAC.jpg">
 </div>
-<p>Cadet practising their wound dressing skills</p>
-<p>Some of our milestone activities that our cadets participate in yearly
-include:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>National First Aid Competition (NFAC)</strong>
-</p>
-</li>
-</ol>
-<p>The NFAC is an annual competition organised by SJB Headquarters, where
-students compete against other schools to demonstrate their mastery of
-their first aid, home nursing and foot drill skills.</p>
+<p>Northwest District First Aid and Home Nursing Competition</p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/2023/SJB/ksjb%20nfac%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/SJB/KSJB_FAC_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/2023/SJB/ksjb%20nfac%202.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/2023/SJB/ksjb%20nfac%203.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/SJB/KSJB_FAC_2.jpg">
 </div>
 <p>Cadets demonstrating their skills in the first aid and home nursing cases
 at the competition</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Annual Training Camp</strong>
-</p>
-</li>
-</ol>
-<p>The ATC is an annual camp where cadets have the opportunity to learn new
-skills such as marksmanship. They also develop important 21CC and dispositions
-such as resilience, teamwork and communication skills, through activities
-such as team-building activities and hiking.</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/2023/SJB/ksjb%20atc%201.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/2023/SJB/ksjb%20atc%202.jpg">
-</div>
-<p>Cadets at the Annual Training Camp</p>
