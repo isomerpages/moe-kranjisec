@@ -26,19 +26,21 @@ positivity.</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/floor1.png">
 </div>
+<p>Students training during floorball CCA.</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/floor2.png">
 </div>
+<p>Student trying to hit the floorball into the goal post.</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/floor3.png">
 </div>
+<p>Our Division B girls after the game with another school.</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/floor4.png">
 </div>
+<p>Our Division C boys after the game with another school.</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/floor5.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/floor6.png">
-</div>
-<p></p>
+<p>Our Division C girls playing in the National Day Floorball Cup 2024 at
+Our Tampines Hub.</p>
