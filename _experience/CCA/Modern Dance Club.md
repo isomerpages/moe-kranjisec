@@ -25,20 +25,28 @@ dance production – and at our school's Performing Arts Combined Concert
 'Magical Symphony', where the club presented two dance items: 'Within'
 and 'Chapter XIV'. KMDC also supports community events such as the Limbang
 National Day Dinner.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/2023/Modern%20Dance/KMDC_Super_24__2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/KMDC/KMDC_Super24_2024.jpg">
 </div>
-<p>Dancers witnessed electrifying performances at the Super 24 Dance Competition.</p>
+<p>Dancers witnessed electrifying performances at the Super 24 Dance Competition</p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/2023/Modern%20Dance/KMDC_Limbang_ND_Dinner_2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/KMDC/KMDC_Limbang_NDP_Dinner_2024.jpg">
 </div>
-<p>Performing for the community at the Limbang National Day Dinner.</p>
+<p>KMDC student leaders performing at the Limbang National Day Dinner.</p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/2023/Modern%20Dance/Dimensions_X.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/KMDC/KMDC_Dimensions_Xtra_1.jpg">
 </div>
-<p>Dancers performing one of the items in Dimensions X, a KMDC Alumni dance
+<p>Dancers performing 'Chapter XIV' in Dimensions Xtra, a KMDC Alumni dance
 production.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/KMDC/KMDC_Dimensions_Xtra_2.jpg">
+</div>
+<p>The wonderful talents who made Dimensions Xtra possible.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/KMDC/KMDC_PA_Combined_concert.jpg">
+</div>
+<p>Dancers performing 'Within' in our Performing Arts Combined Concert 'Magical
+Symphony’</p>
 <h3><strong>Student Reflections:</strong></h3>
 <blockquote>
 <p>‘'Within', a dance piece choreographed by our instructor, Mr. Peter, showcases
