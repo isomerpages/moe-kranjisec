@@ -43,4 +43,23 @@ role and impact of each player on the whole team in music playing. The
 alumni players return frequently to help out and show support for the Band,
 and the dedicated team of teachers continually seeks out platforms for
 the Band to further improve and excel in their performance quality.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Symphonic Band/1__Singapore_Youth_Festival_2023.jpg">
+</div>
+<p>Singapore Youth Festival Arts Presentation 2023</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Symphonic Band/2__Limbang_National_Day_Carnival_2023.jpg">
+</div>
+<p>Limbang National Day Carnival 2023</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Symphonic Band/3__Open_House_2023.jpg">
+</div>
+<p>Open House 2023</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Symphonic Band/4__Magical_Symphony_2024.jpg">
+</div>
+<p>Combined Performing Arts Concert 2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Symphonic Band/5__Singapore_International_Band_Festival_2024.jpg">
+</div>
+<p>Singapore International Band Festival 2024</p>
