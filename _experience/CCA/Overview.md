@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/co-curricular-activities/Clubs-and-Societies/permalink" rel="noopener noreferrer nofollow" target="_blank">Science and Technology Club</a>
+<p><a href="/co-curricular-activities/clubs-and-societies/science-and-technology-club/" rel="noopener noreferrer nofollow" target="_blank">Science and Technology Club</a>
 </p>
 </th>
 </tr>
