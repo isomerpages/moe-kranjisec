@@ -3,41 +3,95 @@ title: National Cadet Corps Land
 permalink: /co-curricular-activities/Uniformed-Groups/national-cadet-corps-land/
 description: ""
 third_nav_title: CCA
-variant: markdown
+variant: tiptap
 ---
-### National Cadet Corps (Land)
-
-The National Cadet Corps (NCC) Land strives for cadets to be resilient and responsible citizens. The unit started the year on a good note, having attained Distinction in the annual Unit Recognition Award.
-
-<img src="/images/2023/NCC/KSS_NCC.jpeg" style="width:80%">
-
-The incoming Secondary One cadets were greatly inspired by the Freestyle and Precision Drill Showcases, and the Affirmation Ceremony at NCC Headquarters. Secondary Two cadets visited the SAFRA Yishun Indoor Air Weapons Range for the first time and were captivated by the air weapons displayed. Cadets underwent various enjoyable activities in line with NCC’s philosophy of being strong in body, heart, and mind. At Secondary Three, shortlisted cadets further enhanced their knowledge mastery and instructional abilities at the annual Senior Specialist Leadership Course. Shortlisted Secondary Four Senior Cadet Leaders were affirmed with the NCC Outstanding Cadet Award for their excellent leadership and contributions.
-
-<img src="/images/2023/NCC/Freestyle_Drill_Showcase.jpeg" style="width:80%">
-
-<img src="/images/2023/NCC/Precision_Drill_Showcase.jpeg" style="width:80%">
-
-<img src="/images/2023/NCC/Air_Rifle_Shooting_at_SAFRA_Yishun.jpeg" style="width:80%">
-
-Cadets who attended the International Maritime Defence Exhibition Asia 2023 were impressed with the maritime defence capabilities, latest military technology and the opportunities within the defence industry. Enlistment Day at the Basic Military Training Centre at Pulau Tekong serves to reinforce commitment to Defence and National Service (NS) and for cadets to appreciate the significance of NS. The cadets’ hard work also paid off and culminated in a successful NDP Parade 2023. The Sports Championship and Dragon Boating allowed cadets to build up their physical fitness and foster great friendships. The Under Siege simulated scenario game-based learning, which allowed cadets to better appreciate SGSecure messages. Cadets also positively impacted the community, as they reached out to residents and raised awareness on the various creative and dedicated strategies.
-
-<img src="/images/2023/NCC/KSS_NCC_Dragon_Boating_Fun_Experience.jpeg" style="width:80%">
-
-&gt; Camp STEEL was fascinating! We got to experience situational events, learn about navigation and have fun with paintball! We truly appreciate the opportunities to develop leadership attributes through the various experiences. My fellow cadets and I forged great bonds through these meaningful experiences.
-
-JENCILLAA HENDRY DANIEL CHITRARASU, 2A1
-SEAH WEI JUN, 2K1
-CAEDEN LIEW JIA RUI, 2K2
-
-
-&gt; The Senior Specialist Leadership Course (SSLC) taught us unique and valuable lessons. Initially, working with strangers seemed challenging, but we discovered one another's strengths and weaknesses, collaborated effectively and supported one another. SSLC made us adaptable and sociable, contributing to our personal growth.
-
-FANG YONGHAO, 3K3
-MOHAMMAD SHAFIQ BIN ABDUL NASIR, 3K1
-
-&gt; As the Parade Commander, it was a challenging yet fulfilling and rewarding experience. It taught me valuable life skills, and emphasized the collaborative nature of leadership. Effective communication and adaptability were key to engage the various uniformed groups and to coordinate the training, rehearsals and the parade. There was spectacular synergy as various CCA leaders and cadets unified towards a common goal and vision. All the time we spent on our drills demonstrated our dedication and our pride to be a part of the school’s National Day Parade 2023.
-
-DARYL LI RENJIE, 3R1
-TAN KE HAO RAY, 3K1
-KANIA MUTHAINAH BINTE RAMLAN, 3R2
-GOBI DHARSHNIDEVI, 3K1
+<h3>National Cadet Corps (Land)</h3>
+<p>The National Cadet Corps (NCC) Land strives for cadets to be resilient
+and responsible citizens. Based on the Cadet Strong framework, our training
+program aims to develop cadets to possess a Strong Body, Resilient Mind
+and Committed Heart.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NCC Land/NCC_Day.jpg">
+</div>
+<p>NCC Day Commemoration Parade 2024</p>
+<p>
+<br>To achieve this mission, our Secondary One to Three cadets undergo military-related
+knowledge training as well as a variety of enrichment activities that serve
+to enhance personal mastery as well as highlight the importance of teamwork
+to achieve excellence.</p>
+<h4>Key Events</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NCC Land/sec1to3banner.jpg">
+</div>
+<p>Exciting programs awaits our NCC cadets.</p>
+<p>
+<br>Follow us on Instagram!</p>
+<p><a href="https://www.instagram.com/kranji.ncc" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.instagram.com/kranji.ncc</u></a>
+</p>
+<p><strong><u>Secondary 1</u></strong>
+</p>
+<ul>
+<li>
+<p>Affirmation Ceremony</p>
+</li>
+<li>
+<p>Camp Forge</p>
+</li>
+</ul>
+<p><strong><u>Secondary 2</u></strong>
+</p>
+<ul>
+<li>
+<p>Camp Steel</p>
+</li>
+<li>
+<p>Air Rifle Shooting</p>
+</li>
+</ul>
+<p><strong><u>Secondary 3</u></strong>
+</p>
+<ul>
+<li>
+<p>SAR21 IMT and Familiarisation Shoot</p>
+</li>
+<li>
+<p>CPE-AED Certification (for Total Defence Gold)</p>
+</li>
+<li>
+<p>Senior Specialist Leadership Course (SSLC)</p>
+</li>
+</ul>
+<p>Another unique feature of NCC are the various different competitions and
+enrichment that our cadets can participate in, such as the Freestyle Drill
+Squad and the Precision Drill Squad.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NCC Land/freestyle.jpg">
+</div>
+<p>Freestyle Drill Competition 2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NCC Land/pds.jpg">
+</div>
+<p>Our Precision Drill Squad performing during the school National Day Celebrations.</p>
+<p>We also pit our skills in captains ball, ultimate frisbee and football
+with other NCC units from other schools annually.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NCC Land/sports.jpg">
+</div>
+<p>Sports Championships with other schools’ NCC units.</p>
+<p>Last but not least, we do our part for the community with various VIA
+programs.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NCC Land/beach_clean_up.jpg">
+</div>
+<p>Doing our part for the environment - Coney Island beach clean-up</p>
+<p>NCC is also proud to have attained Distinction in the annual Unit Recognition
+Award 2023, our 15th consecutive Distinction awards&nbsp;since 2009!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NCC Land/distinction.jpg">
+</div>
+<p>Distinction in the Unit Recognition Award 2023</p>
+<p>To serve with pride and dedication, NCC!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NCC Land/whole_unit_resized.jpg">
+</div>
+<p></p>
