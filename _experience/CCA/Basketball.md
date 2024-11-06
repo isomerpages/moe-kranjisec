@@ -3,42 +3,113 @@ title: Basketball
 permalink: /co-curricular-activities/Sports-and-Games/basketball/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-### Basketball
-
-**Achievements (2021-2022)**
-
-
-
-| 2022 |  | |
-| -------- | -------- | -------- |
-| Basketball Girls    | Basketball Boys     |
-| 2022 West Zone B Division Basketball (Girls) Competition: **2nd Runner Up** | 2022 West Zone C Division Basketball (Boys) Competition: **Second round** |
-
-
-**Kranji Basketball** aims to inculcate integrity, resilience and responsibility in each member. Our players strive for excellence during the National School Games (NSG) Basketball Zonal Championships in order to progress on to the next stage. In 2022, our players experienced the fruits of their labour, where the C Division boys advanced to the second round, and the B Division girls came in 2nd runner up in the Zonal competitions.
-
-<img src="/images/Basketball%201.jpg" 
-     style="width:60%">
-<center>B Division girls achieving 2nd runner up at the Zonal competitions</center>
-
-<img src="/images/Badminton%202.jpg" 
-     style="width:60%">
-<center>B Division boys at the 2022 NSG competitions</center>
-
-Players encourage one another towards the collective goal of giving their best effort during training and in competition. They train diligently and with passion as they hone their craft, and in the process build camaraderie and team spirit. We also organise friendly matches with other schools to learn from one other and develop skills as one basketball community.
-
-<img src="/images/Badminton%203.jpg" 
-     style="width:60%">
-		 
-<img src="/images/Badminton%204.jpg" 
-     style="width:60%">
-<center>Our students in action during training</center>
-
-<img src="/images/Badminton%205.jpg" 
-     style="width:60%">
-<center>Girls Vice-Captain, Lim Xian Shine, taking a free throw during the 2022 NSG</center>
-
-> When I attended my first training session in Secondary 1, I was nervous. New school, new people, new environment. I did not know what to expect. Fast forward to 2022, my team has become my second family. My welcoming teammates, coach and teachers have made training very enjoyable and is something I look forward to at the end of a school day. This year we’ve achieved 3rd place for the B division National School Games (NSG) and this motivates us further to achieve greater heights in the next competition. I’m grateful and honoured to be a part of this Kranji Basketball family!
-
-ARIELLE NG JING EN, 3K4 2022
+<h3>Basketball</h3>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Achievements (2022 - 2024)</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Basketball Boys</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Basketball Girls</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022 West Zone C Division Basketball (Boys) Competition: Second round</p>
+<p></p>
+<p>2023 Bukit Merah Cup: Participation</p>
+<p></p>
+<p>2024 C Division National School Games: Participation in League 4</p>
+<p></p>
+<p>2024 Bukit Panjang Government High Cup: Team 4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022 West Zone B Division Basketball (Girls) Competition: 2nd Runner Up</p>
+<p></p>
+<p>2023 West Zone C Division Basketball (Girls) Competition: 2nd Runner Up</p>
+<p></p>
+<p>2023 Bukit Merah Cup: Team 4th</p>
+<p></p>
+<p>2024 C Division National School Games: Participation in League 2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Kranji Basketball CCA fosters integrity, resilience, and responsibility
+in every member, with the shared goal of giving their best in both training
+and competitions. While achievements often measure a team's success, we
+affirm that the true essence lies in the pursuit of excellence, the resilience
+to never give up, and the strong camaraderie built along the way. This
+year, our teams fought hard in the National School Games (NSG) and various
+tournaments, showing remarkable grit and unity. Each game was an opportunity
+to grow, both as individuals and as a team. Kranji Basketball remains committed
+to working together and looks forward to achieving even greater success
+in 2025. Keep striving for excellence!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Basketball/1.jpg">
+</div>
+<p>C Division girls at 2024 NSG competition</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Basketball/2.jpg">
+</div>
+<p>C Division girls (2023) with their West Zone 2nd runner up medals</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Basketball/3.jpg">
+</div>
+<p>Girls team team-building day</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Basketball/4.jpg">
+</div>
+<p>Boys team in action at 2024 Bukit Panjang Government High Cup</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Basketball/5.jpg">
+</div>
+<p>C Division boys at 2024 NSG competition</p>
+<p></p>
+<p><strong><u>Reflection 1</u></strong>
+</p>
+<blockquote>
+<p>As a member of the Kranji Girls’ Basketball team, we celebrated both our
+victories and our losses together. Though we faced setbacks, I am deeply
+grateful for the time we spent united as one team, always showing our fighting
+spirit even in difficult moments. This has inspired me to be the best teammate
+and captain I can be, striving to lead our team toward even greater accomplishments.
+My experience with the team is something I will cherish long after my time
+at Kranji. I am incredibly proud to be the captain of the Kranji Girls’
+Basketball team.</p>
+</blockquote>
+<p><strong>Chua En Qi Germaine (Captain), 3-1 2024</strong>
+</p>
+<p>
+<br><strong><u>Reflection 2</u></strong>
+</p>
+<blockquote>
+<p>As the captain of the Kranji Boys' Basketball Team, I am incredibly proud
+of our team through both our wins and losses. Even when we don’t achieve
+the outcome we hope for, we still hustle for every ball and fight for every
+possession. I’m grateful for the people in this team; despite the highs
+and lows we’ve faced, one thing has never changed—our unity as a team.
+Every time we step onto the court, we give our best, not just for ourselves
+but for each other, whether it’s helping a teammate up when they’re down
+or cheering from the bench. Each of us brings something unique to the court.
+We all have individual skills, but it’s our teamwork—through hours of practice
+and intense games, leaving it all on the floor—that truly sets us apart.
+Every player on this team has shown resilience and dedication, and for
+that, I am deeply thankful.</p>
+</blockquote>
+<p><strong>Yap Dong You (Captain), 3-6 2024</strong>
+</p>
