@@ -43,23 +43,4 @@ role and impact of each player on the whole team in music playing. The
 alumni players return frequently to help out and show support for the Band,
 and the dedicated team of teachers continually seeks out platforms for
 the Band to further improve and excel in their performance quality.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Band%201.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Band%202.jpg">
-</div>
-<p>Singapore Youth Festival Arts Presentation 2021</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Band%203.jpg">
-</div>
-<p>Secondary One members perform their first recital “The Junior Band Recital”
-for their parents</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Band%204.jpg">
-</div>
-<p>Kranji Concert Band very own concert “Wind De Brassion VI”</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HRncEM4h5BU"></iframe>
-</div>
-<p>Lunar New Year Band Performance</p>
+<p></p>
