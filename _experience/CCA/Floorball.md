@@ -24,23 +24,23 @@ their stamina and skills to excel further and build a culture of vibrant
 positivity.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/floor1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Floorball/Photo_1.jpg">
 </div>
 <p>Students training during floorball CCA.</p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/floor2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Floorball/Photo_2.jpg">
 </div>
 <p>Student trying to hit the floorball into the goal post.</p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/floor3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Floorball/Photo_3.jpg">
 </div>
 <p>Our Division B girls after the game with another school.</p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/floor4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Floorball/Photo_4.jpg">
 </div>
 <p>Our Division C boys after the game with another school.</p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/floor5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Floorball/Photo_5.jpg">
 </div>
 <p>Our Division C girls playing in the National Day Floorball Cup 2024 at
 Our Tampines Hub.</p>
