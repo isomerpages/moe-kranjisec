@@ -15,12 +15,17 @@ solutions to address pressing sustainable living issues. They then work
 on collaborative projects to ideate solutions for their chosen sustainable
 living issues during THINK lessons.</p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/2023/Sec%201%20Sustainable%20Journey/edible_garden_city.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP Sec 1 Sustainiability lJ/Ento_Industries.jpg">
 </div>
-<p>Learning journey to Edible Garden City to learn how food can be grown
-in under-utilised spaces to improve food sustainability and resilience.</p>
+<p>Learning journey to Ento Industries to learn how waste food can be given
+a new lease of life.</p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/2023/Sec%201%20Sustainable%20Journey/Creuse_photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP Sec 1 Sustainiability lJ/Creuse.jpg">
+</div>
+<p>Learning journey to Creuse to learn how industries are adopting the circular
+economy approach and moving towards zero waste.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP Sec 1 Sustainiability lJ/Sustainable_Singapore_Gallery.jpg">
 </div>
 <p>Learning journey to Creuse to learn how industries are adopting the circular
 economy approach and moving towards zero waste.</p>
