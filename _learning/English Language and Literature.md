@@ -129,13 +129,15 @@ and Drama Enrichment Programme.</p>
 <img style="width:60%" height="auto" width="100%" src="/images/2023/English%20Literature/speech%20_%20drama%202023%20photo%204.jpg">
 </div>
 <h2>3. Kranji Voices</h2>
-<p>Kranji Voices is a platform for Kranjians’ to share their personal experiences
+<p>Kranji Voices is a platform for Kranjians to share their personal experiences
 or views on any matter and have their voices heard by fellow Kranjians.
-It involves a 3–8-minute sharing, which could be in the form of storytelling,
-speech or oral presentation. This programme serves to raise awareness of
-personal experiences of Kranjians so as to highlight and reinforce the
-Kranjian Identity. The key objectives of Kranji Voices are:</p>
-<ul data-tight="true" class="tight">
+Kranji Voices takes place on Friday mornings every fortnightly, and it
+involves a 5-to-10-minute sharing by students, which could be in the form
+of storytelling, speech or oral presentation, individually or in groups.
+The programme serves to raise awareness of personal experiences of Kranjians
+so as to highlight and reinforce the Kranjian Identity. The key objectives
+of Kranji Voices are:</p>
+<ul>
 <li>
 <p>To reach out to students through the spoken language by highlighting common
 experiences and/or sharing of reflections, views and thoughts&nbsp;</p>
@@ -148,8 +150,8 @@ changing their mindset as well as behaviour positively</p>
 <p>To develop students’ confidence in public speaking</p>
 </li>
 </ul>
-<p>Here is a video clip of a Kranjian giving a presentation to the school.
-Enjoy!</p>
+<p>Here are a few video clips of Kranjians giving presentations to the school
+as part of Kranji Voices. Enjoy!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-TMtyJULuCU"></iframe>
 </div>
