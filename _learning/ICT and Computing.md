@@ -148,10 +148,11 @@ or pursue computing-related careers in the future.</p>
 <p><a href="https://www.businesstimes.com.sg/government-economy/full-time-employment-rates-pay-for-fresh-grads-better-than-pre-covid-levels" rel="noopener noreferrer nofollow" target="_blank">Full time employment rates pay for fresh grads better than pre covid levels</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/2023/Computing/Computing1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Computing/ComPhoto_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/2023/Computing/Computing2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Computing/ComPhoto_2.jpg">
 </div>
 <h3>Objectives of Programme</h3>
 <p>The O Level Computing syllabus aims to provide students with the foundation
@@ -160,11 +161,8 @@ The skills acquired in computational and algorithmic thinking is a way
 of getting to a solution through clear definition of the steps leading
 to solutions. These skills are needed to embrace a rapidly changing technological
 landscape.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/2023/Computing/Computing3.png">
-</div>
 <p>The two-year course at upper secondary level will equip students to:</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Apply logical reasoning and algorithmic thinking in analysing problem
 situations and developing solutions</p>
@@ -185,57 +183,41 @@ with ICT</p>
 and other hardware. The computer science concepts and skills will also
 be taught.</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Com%204.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Computing/ComPhoto_3.png">
 </div>
 <p>For more information on the subject, please refer to the syllabus available
-at <a href="https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2024" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h3>Learning Journey</h3>
-<p>Students visited Singapore Polytechnic in July 2023 to further enhance
-their passion in the subject through their hands-on experience at the laboratories
-and interaction with the students at the tertiary institution.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/2023/Computing/Computing4.png">
-</div>
-<p><strong>Eco-system to cultivate students’ interest in computing</strong>
+at<a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/science/2021-o-level-computing-teaching-and-learning-syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
-<p>Currently, the school has an <strong>eco-system to build and cultivate students’ interest</strong> in
-computing. The school has a CCA in <strong>Science &amp; Technology Club</strong> with
-diverse selection of STEM workshops and challenges are provided for students
-to extend their scientific capabilities and interest and to develop coding
-and programming skills.</p>
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/science/2021-o-level-computing-teaching-and-learning-syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7155_y25_sy.pdf?sfvrsn=710c2588_2</u></a>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Com%205.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Computing/ComPhoto_4.jpg">
 </div>
-<p>In addition, the <strong>Code for Fun Programme</strong> is offered as a
-post examination enrichment to all Sec 1 students to increase their <strong>exposure to coding and computational thinking</strong>.
-This is part of a set of mathematical enrichment activities designed to
-nurture students’ interest in STEM and to develop their disposition in
-STEM. Students will use microcontrollers, basic drag and drop coding and
-cardboard Lego Blocks known as Blokies to build different physical structures
-based on their understanding of mathematical/STEM skills such as spatial
-visualisation, geometry and measurement. For example, they will write a
-program to create a house intruder system for their ‘house’ made from Blokies.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Com%207.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Computing/ComPhoto_5.jpg">
 </div>
+<h4>&nbsp;Eco-system to cultivate students’ interest in computing</h4>
+<p>Currently, the school has an eco-system to build and cultivate students’
+interest in computing. The school has a CCA in Science &amp; Technology
+Club with diverse selection of STEM workshops and challenges are provided
+for students to extend their scientific capabilities and interest and to
+develop coding and programming skills.</p>
+<p>In addition, the Code for Fun Programme is offered as a post examination
+enrichment to all Sec 1 students to increase their exposure to coding and
+computational thinking. This is part of a set of mathematical enrichment
+activities designed to nurture students’ interest in STEM and to develop
+their disposition in STEM. Students will use microcontrollers, basic drag
+and drop coding and cardboard Lego Blocks known as Blokies to build different
+physical structures based on their understanding of mathematical/STEM skills
+such as spatial visualisation, geometry and measurement. For example, they
+will write a program to create a house intruder system for their ‘house’
+made from Blokies.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Com%208.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Computing/ComPhoto_6.jpg">
 </div>
-<p>In 2023, ‘Coding With Python’ workshop was offered for all Secondary 2
-students. The workshop was conducted online and includes the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>use of Python programming to design data analytics models;</p>
-</li>
-<li>
-<p>hands-on and experiential project-based learning; and</p>
-</li>
-<li>
-<p>application on mathematics computational thinking</p>
-</li>
-</ul>
-<p>Students used online Replit to familiarise themselves with syntax-based
-programming concepts, including understanding Python language syntax, developing
-basic capabilities to explore and learn about Python data analytics models,
-and understanding coding fundamentals such as loops, events, conditionals,
-variables, etc.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Computing/ComPhoto_7.jpg">
+</div>
+<p></p>
