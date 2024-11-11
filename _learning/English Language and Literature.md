@@ -68,12 +68,18 @@ time is set aside in the morning for students to do silent reading together
 as a school. Apart from the assigned magazines, students are also encouraged
 to read their own reading material on selected days during the morning
 reading time.</p>
-<p>Each month, a one-hour English lesson is used for the discussion of a
-selected magazine article. Thinking Routines are adopted as a key pedagogy
-to facilitate class discussion of topics/issues featured in the magazine
-article. Thereafter, students write an individual reading reflection piece
-on the magazine article, based on guiding questions aligned to the Thinking
-Routine(s) employed during the class discussion.</p>
+<p>
+<br>Discussion of selected magazine articles is conducted during English lessons.
+Thinking Routines are adopted as a key pedagogy to facilitate class discussion
+of topics/issues featured in the magazine article. Thereafter, students
+write an individual reading reflection piece on the magazine article, based
+on guiding questions aligned to the Thinking Routine(s) employed during
+the class discussion.</p>
+<p>In our continued efforts to foster a strong reading culture in the school,
+a series of fun and enriching reading-related activities and competitions
+are organised for students to take part in. In addition, students are invited
+to vote for books they would like to see in the school library and also
+actively participate in the National Reading Movement.</p>
 <h2>2. Speech and Drama Enrichment Programme</h2>
 <p>The Speech and Drama Enrichment Programme is offered to all Secondary
 1 students and serves to achieve the following objectives:&nbsp;</p>
