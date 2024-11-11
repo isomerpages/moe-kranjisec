@@ -14,4 +14,23 @@ Kranjians along paths filled with nature and natural beauty. Through this
 refreshing walk, we hope our students are re-energised and are more motivated
 to maximise their effort to achieve the breakthrough in their results that
 they desire.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Wellness and Resilience Walk/01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Wellness and Resilience Walk/02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Wellness and Resilience Walk/03.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Wellness and Resilience Walk/04.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Wellness and Resilience Walk/05.jpg">
+</div>
 <p></p>
