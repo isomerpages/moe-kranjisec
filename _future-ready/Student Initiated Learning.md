@@ -29,10 +29,20 @@ their adult-life</p>
 <p>The long-term goal of SIL was for students to fully initiate and carry
 out their own learning activities. The school recognises students’ project/task
 through the Celebration of Learning at the end of each Semester.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/SIL/Photo_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/SIL/Photo_2.jpg">
+</div>
 <h3>Celebration of Learning</h3>
 <p>At the end of each semester, the school celebrates the SIL learning through
 the celebration of learning via a talk show, where selected students share
 or demonstrate their skills learnt through the semester or year with the
 school.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/SIL/Photo_3.jpg">
+</div>
 <p>This celebration embraces the resilience and growth mindset of our students
 for their tenacity and trying to master a new skill or learning.</p>
