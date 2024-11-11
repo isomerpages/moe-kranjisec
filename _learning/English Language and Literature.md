@@ -83,7 +83,7 @@ actively participate in the National Reading Movement.</p>
 <h2>2. Speech and Drama Enrichment Programme</h2>
 <p>The Speech and Drama Enrichment Programme is offered to all Secondary
 1 students and serves to achieve the following objectives:&nbsp;</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>To teach students the fundamentals of drama, such as basic acting and
 stage terminology, improvisation and movement, verbal and non-verbal elements
@@ -95,11 +95,12 @@ and pronunciation</p>
 </li>
 <li>
 <p>To inculcate in students 21st century competencies through working in
-teams&nbsp;</p>
+teams<strong><u>&nbsp;</u></strong>
+</p>
 </li>
 </ul>
 <p>The programme is designed with the following student outcomes in mind:</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Students are able to explain and apply their knowledge of basic speech
 and drama skills&nbsp;</p>
