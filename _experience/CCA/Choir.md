@@ -5,23 +5,41 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-### Kranji Choir
-
-Since its official inception in 2000,&nbsp;Kranji Choir&nbsp;has grown in strength and ability, with consistently good performance at the Singapore Youth Festival over the years. With its vision ‘Lift Every Voice, Sing and Rejoice’, Kranji Choir has performed on multiple platforms, both internally at school events and externally at various public events, and was most recently invited to perform at the Limbang National Day Dinner and&nbsp;A Little Singing Festival&nbsp;at School of the Arts (SOTA).
-
-The choir seeks to develop its members as singers, individuals and performers through a holistic learning experience, with a focus on musical development, character building and a Kranjian identity. Members of Kranji Choir will have the opportunity to develop and showcase their performance and leadership skills. With a group of dedicated teachers and instructors looking into high quality training, and a strong following of alumni who return regularly to support the CCA, Kranji Choir has grown from strength to strength, and continues striving for all-round development and excellence in all its undertakings.
-
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/wdlEg6uA1DU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<center>An introduction to Kranji Choir – a day in the life of a Kranji chorister</center>
-
-<img src="/images/Choir%201.jpg" style="width:70%">
-<center>Singapore Arts Festival Arts Presentation 2019</center>
-
-<img src="/images/Choir%202.jpg" style="width:70%">
-<center>Having a wefie moment with DPM Mr Lawrence Wong before our performance at Limbang National Day Dinner</center>
-
-<img src="/images/Choir%203.jpg" style="width:70%">
-<center>Singing our hearts out with our rendition of National Day songs at the Kranji National Day concert</center>
-
-<img src="/images/Choir%204.jpg" style="width:70%">
-<center>Choir members working on their breathing and singing techniques</center>
+<h3>Kranji Choir</h3>
+<p>Since its official inception in 2000, Kranji Choir is united by the shared
+purpose of creating beautiful music to inspire and evoke emotions. In pursuit
+of excellence and exposure for all choir members, we strive to develop
+well-rounded choristers and continue to explore opportunities to showcase
+the talents of their members. Beyond the music, Kranji Choir aims to foster
+a sense of belonging and friendship among the members while celebrating
+different cultures and traditions through the songs we learn.</p>
+<p>There are multiple platforms for the choir members to perform on stage,
+both internally at school events and externally at public events. On top
+of school events such as Lunar New Year Celebrations, Achievement Day and
+National Day Celebrations, Kranji Choir also supports community events
+like Limbang National Day Dinner every year. In 2023, the choir participated
+in the biennial Singapore Youth Festival (SYF) Arts Presentation and was
+awarded the Certificate of Distinction for SYF 2023. In 2024, the choir
+performed a spectacular rendition of a medley of songs during the Performing
+Arts Combined Concert 2024: Magical Symphony.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Choir/01_CNY_performance_2024.jpg">
+</div>
+<p>Ushering the Year of the Dragon in Kranji Sec!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Choir/02_Magical_Symphony_2024.jpg">
+</div>
+<p>Magical Symphony: Performing Arts Combined Concert 2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Choir/03_Achievement_Day_2024.jpg">
+</div>
+<p>Celebrating Breakthroughs at Kranji Achievement Day 2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Choir/04_National_Day_school_performance_2024.jpg">
+</div>
+<p>Singing our hearts out with a medley of National Day songs for the school’s
+National Day Celebrations 2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Choir/05_Limbang_National_Day_Dinner_2024.jpg">
+</div>
+<p>Eagerly waiting to perform for the Limbang’s National Day Dinner 2024</p>
