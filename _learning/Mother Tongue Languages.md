@@ -75,58 +75,57 @@ cultural exchanges. Their visit included school tours, classroom lessons,
 and participation in our Cross-cultural Immersion Programme, where they
 explored Bunga Manggar Art and Rice Rangoli Art.</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/2023/MTL/10__LNY_Celebration.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/MTL/5__Lunar_New_Year_Celebration.jpg">
 </div>
+<p>Lunar New Year Celebration</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/2023/MTL/11__Hari_Raya_Celebration.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/MTL/6__Hari_Raya_Celebration.jpg">
 </div>
+<p>Hari Raya Celebration</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/2023/MTL/12__Deepavali_Concert.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/MTL/7__Deepavali_Celebration.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/2023/MTL/13__Readership_Programme.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/2023/MTL/14__Readership_Programme.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/2023/MTL/15__Readership_Programme.jpeg">
-</div>
+<p>Deepavali Celebration</p>
 <p>As part of our school's ongoing internationalisation efforts, we have
 established a partnership with Xingzhi Junior Middle School in Hangzhou,
-China since 2015. This year, Sec One and Two students have participated
-in synchronous conference sessions, fostering a deeper understanding of
-the global community through interdisciplinary approaches. The exchange
-sessions enable students from both schools to share insights on culture,
-customs, Asian Games, Co-Curricular Activities (CCA), environmental conservation
+China, since 2015. Secondary One to three students have participated in
+synchronous conference sessions, fostering a deeper understanding of the
+global community through interdisciplinary approaches. The exchange sessions
+enable students from both schools to share insights on culture, customs,
+the Asian Games, Co-Curricular Activities (CCA), environmental conservation
 issues, and more.</p>
-<p>Furthermore, we had the pleasure of hosting a school visit from Shifang
-Middle School from Sichuan, China. Our school has been engaged in the school
-exchange programme with Shifang Middle School since 2010, and it was truly
-heartwarming to welcome them back after the brief hiatus during the pandemic.</p>
+<p>In May 2024, we hosted students and teachers from Hangzhou Xingzhi Junior
+Middle School, providing an opportunity for both schools to engage in meaningful
+cultural exchanges. Their visit included school tours, classroom lessons,
+and participation in our Cross-cultural Immersion Programme, where they
+explored Bunga Manggar Art and Rice Rangoli Art.</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/2023/MTL/16__Internationalisation_Programme.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/MTL/8__School_tours___classroom_lessons.jpg">
 </div>
+<p>School tours &amp; classroom lessons</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/2023/MTL/17__Internationalisation_Programme.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/MTL/9__Experiencing_Bunga_Manggar_Art_and_Rice_Rangoli_Art.jpg">
 </div>
+<p>Experiencing Bunga Manggar Art and Rice Rangoli Art
+<br>Under Tier 3, <strong><em>Aspire</em></strong>, the development of Kranjians’
+talents is approached in various ways, including involving students in
+writing, editing, emceeing, performing, and submitting work for creative
+Chinese essay compilations such as the 'Kspiration' 《憧憬》 publications.
+We also organise an Author-in-Residence programme, where we invite local
+writers to conduct workshops to hone our students' creative writing skills.</p>
+<p>Additionally, selected students are given opportunities to participate
+in various competition and workshops to go beyond syllabus requirements.</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/2023/MTL/18__Internationalisation_Programme.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/MTL/10__Kspiration_Book_Launch_cum_Writer_s_Talk.jpg">
 </div>
-<p>Under Tier 3, '<strong>Aspire</strong>', the development of Kranjians;
-talent is approached in various ways, including involving students in writing,
-editing, emceeing, performing, or submitting for creative Chinese essay
-compilations such as the 'Kspiration' 《憧憬》 publications. We also organise
-an Author-in-Residence program, where we invite local writers to conduct
-workshops to hone our students' creative writing skills.</p>
-<p>Student-Initiated Learning (SIL) opportunities related to MTL subjects,
-such as contemporary issue debates in Chinese and Traditional Chinese Calligraphy,
-are provided to broaden horizons. Additionally, selected students are exposed
-to numerous competition and workshop platforms to go beyond syllabus requirements.</p>
+<p>Kspiration Book Launch cum Writer’s Talk</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/2023/MTL/19__Competitions.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/MTL/11__Low_Zhi_Ting_from_2R1_was_awarded_the_Second_Prize_in_the_National_Secondary_Schools_Chinese_Creative_Writing_Competition.jpg">
 </div>
+<p>Low Zhi Ting from 2R1 was awarded the Second Prize in the National Secondary
+Schools Chinese Creative Writing Competition</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/2023/MTL/20__Competitions.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/MTL/12__Third_place_winners_in_National_Tik_Tok_Competition_organised_by_Berita_Harian.jpg">
 </div>
-<p></p>
+<p>Third place winners in National Tik Tok Competition organised by Berita
+Harian</p>
