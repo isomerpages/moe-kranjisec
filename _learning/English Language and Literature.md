@@ -12,9 +12,19 @@ and a passion for the English Language and Literature.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/EL%201.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/EL%202.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024/EL/EL_Lit_department_photo_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024/EL/EL_Lit_department_photo_4.jpg">
+</div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1K13JsqgDTs?si=ZFFRao0ejik1slbR"></iframe>
 </div>
@@ -80,6 +90,13 @@ a series of fun and enriching reading-related activities and competitions
 are organised for students to take part in. In addition, students are invited
 to vote for books they would like to see in the school library and also
 actively participate in the National Reading Movement.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/EL/Reading_photo_1_Read_for_Books_2024.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/EL/Reading_photo_2_Literature_Week_winners.jpg">
+</div>
 <h2>2. Speech and Drama Enrichment Programme</h2>
 <p>The Speech and Drama Enrichment Programme is offered to all Secondary
 1 students and serves to achieve the following objectives:&nbsp;</p>
@@ -119,14 +136,21 @@ and Drama Enrichment Programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/2023/English%20Literature/speech%20_%20drama%202023%20photo%201.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/2023/English%20Literature/speech%20_%20drama%202023%20photo%202.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/2023/English%20Literature/speech%20_%20drama%202023%20photo%203.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/2023/English%20Literature/speech%20_%20drama%202023%20photo%204.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024/EL/Speech___Drama_2024_photo_5.jpg">
 </div>
 <h2>3. Kranji Voices</h2>
 <p>Kranji Voices is a platform for Kranjians to share their personal experiences
@@ -154,6 +178,14 @@ changing their mindset as well as behaviour positively</p>
 as part of Kranji Voices. Enjoy!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-TMtyJULuCU"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z0O_W5CxHFI?si=c9aFXcdmZLLcDphO"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vL5F9AmkmD4?si=li5qsQLsb15KA0dL"></iframe>
 </div>
 <p>We hope that the above materials will give you a good understanding of
 our curriculum and programmes! Should you have any questions, please feel
