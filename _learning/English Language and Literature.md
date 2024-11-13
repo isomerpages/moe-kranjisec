@@ -12,9 +12,19 @@ and a passion for the English Language and Literature.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/EL%201.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/EL%202.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024/EL/EL_Lit_department_photo_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024/EL/EL_Lit_department_photo_4.jpg">
+</div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1K13JsqgDTs?si=ZFFRao0ejik1slbR"></iframe>
 </div>
@@ -68,16 +78,29 @@ time is set aside in the morning for students to do silent reading together
 as a school. Apart from the assigned magazines, students are also encouraged
 to read their own reading material on selected days during the morning
 reading time.</p>
-<p>Each month, a one-hour English lesson is used for the discussion of a
-selected magazine article. Thinking Routines are adopted as a key pedagogy
-to facilitate class discussion of topics/issues featured in the magazine
-article. Thereafter, students write an individual reading reflection piece
-on the magazine article, based on guiding questions aligned to the Thinking
-Routine(s) employed during the class discussion.</p>
+<p>
+<br>Discussion of selected magazine articles is conducted during English lessons.
+Thinking Routines are adopted as a key pedagogy to facilitate class discussion
+of topics/issues featured in the magazine article. Thereafter, students
+write an individual reading reflection piece on the magazine article, based
+on guiding questions aligned to the Thinking Routine(s) employed during
+the class discussion.</p>
+<p>In our continued efforts to foster a strong reading culture in the school,
+a series of fun and enriching reading-related activities and competitions
+are organised for students to take part in. In addition, students are invited
+to vote for books they would like to see in the school library and also
+actively participate in the National Reading Movement.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/EL/Reading_photo_1_Read_for_Books_2024.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/EL/Reading_photo_2_Literature_Week_winners.jpg">
+</div>
 <h2>2. Speech and Drama Enrichment Programme</h2>
 <p>The Speech and Drama Enrichment Programme is offered to all Secondary
 1 students and serves to achieve the following objectives:&nbsp;</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>To teach students the fundamentals of drama, such as basic acting and
 stage terminology, improvisation and movement, verbal and non-verbal elements
@@ -89,11 +112,12 @@ and pronunciation</p>
 </li>
 <li>
 <p>To inculcate in students 21st century competencies through working in
-teams&nbsp;</p>
+teams<strong><u>&nbsp;</u></strong>
+</p>
 </li>
 </ul>
 <p>The programme is designed with the following student outcomes in mind:</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Students are able to explain and apply their knowledge of basic speech
 and drama skills&nbsp;</p>
@@ -112,23 +136,32 @@ and Drama Enrichment Programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/2023/English%20Literature/speech%20_%20drama%202023%20photo%201.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/2023/English%20Literature/speech%20_%20drama%202023%20photo%202.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/2023/English%20Literature/speech%20_%20drama%202023%20photo%203.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/2023/English%20Literature/speech%20_%20drama%202023%20photo%204.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024/EL/Speech___Drama_2024_photo_5.jpg">
+</div>
 <h2>3. Kranji Voices</h2>
-<p>Kranji Voices is a platform for Kranjians’ to share their personal experiences
+<p>Kranji Voices is a platform for Kranjians to share their personal experiences
 or views on any matter and have their voices heard by fellow Kranjians.
-It involves a 3–8-minute sharing, which could be in the form of storytelling,
-speech or oral presentation. This programme serves to raise awareness of
-personal experiences of Kranjians so as to highlight and reinforce the
-Kranjian Identity. The key objectives of Kranji Voices are:</p>
-<ul data-tight="true" class="tight">
+Kranji Voices takes place on Friday mornings every fortnightly, and it
+involves a 5-to-10-minute sharing by students, which could be in the form
+of storytelling, speech or oral presentation, individually or in groups.
+The programme serves to raise awareness of personal experiences of Kranjians
+so as to highlight and reinforce the Kranjian Identity. The key objectives
+of Kranji Voices are:</p>
+<ul>
 <li>
 <p>To reach out to students through the spoken language by highlighting common
 experiences and/or sharing of reflections, views and thoughts&nbsp;</p>
@@ -141,10 +174,18 @@ changing their mindset as well as behaviour positively</p>
 <p>To develop students’ confidence in public speaking</p>
 </li>
 </ul>
-<p>Here is a video clip of a Kranjian giving a presentation to the school.
-Enjoy!</p>
+<p>Here are a few video clips of Kranjians giving presentations to the school
+as part of Kranji Voices. Enjoy!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-TMtyJULuCU"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z0O_W5CxHFI?si=c9aFXcdmZLLcDphO"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vL5F9AmkmD4?si=li5qsQLsb15KA0dL"></iframe>
 </div>
 <p>We hope that the above materials will give you a good understanding of
 our curriculum and programmes! Should you have any questions, please feel

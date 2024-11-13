@@ -20,9 +20,6 @@ love for creativity.</p>
 in the Schools Digital Media Awards (SDMA) and Our Schools Our Stories.
 These competitions provided our members with invaluable opportunities to
 receive constructive feedback and gain a sense of accomplishment.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/MPT/MPT_Cert_Presentation.jpg">
-</div>
 <p>Beyond competitions, we also focused on providing our students with enriching
 learning experiences. For example, the club went on learning journey to
 Singapore Polytechnic's Media, Arts, and Design School to expose our members
@@ -40,6 +37,6 @@ express their creativity in new ways.</p>
 digital media skills but also gained confidence, expanded their horizons,
 and discovered a passion for creative expression.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VMPhrkB5X2Q?si=hOlfwk2-oEHwmvyC"></iframe>
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VMPhrkB5X2Q?si=o6y_WkkTH-o2wiD6"></iframe>
 </div>
 <p></p>
