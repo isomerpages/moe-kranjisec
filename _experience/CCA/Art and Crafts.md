@@ -7,10 +7,11 @@ variant: tiptap
 ---
 <h3>Art and Crafts Club</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ws6sUTlGSmc?si=bW6Iue01mAJaRoMg"></iframe>
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ws6sUTlGSmc"></iframe>
 </div>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="784" width="441" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WNXfEaCwYI8"></iframe>
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WNXfEaCwYI8"></iframe>
 </div>
 <p><strong>Art Club</strong> provides both breadth and depth to facilitate
 Kranjians’ talents in the visual arts. The members engage in the Arts through
@@ -21,9 +22,11 @@ lead Art programmes to inculcate a sense of service towards the school
 and community through projects. To celebrate their achievements, platforms
 are craved to exhibit their artworks through exhibitions and static displays
 to showcase their talent.</p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B_lxj8ugA5Q?si=eTRxJ-3x9o2-85M7"></iframe>
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B_lxj8ugA5Q?si=WrZahvgjwExdjIR2"></iframe>
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Art Club/1a.jpg">
 </div>
