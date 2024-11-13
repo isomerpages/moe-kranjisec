@@ -36,7 +36,6 @@ express their creativity in new ways.</p>
 <p>Through these diverse experiences, our members not only developed their
 digital media skills but also gained confidence, expanded their horizons,
 and discovered a passion for creative expression.</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VMPhrkB5X2Q?si=o6y_WkkTH-o2wiD6"></iframe>
 </div>
