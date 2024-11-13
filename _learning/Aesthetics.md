@@ -54,7 +54,7 @@ where they are met with enthusiastic support from both students and teachers.</p
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/KGT_Finals_2.jpg">
 </div>
 <p>KGT Final held during Teachers’ Day Celebration</p>
-<h4><strong><u>Art Unit</u></strong></h4>
+<h3><strong><u>Art Unit</u></strong></h3>
 <p>Our Art Programme promotes creativity, self-expression, critical thinking,
 and problem-solving. It equips students with 21st-century skills through
 traditional and contemporary mediums, including painting, drawing, photography,
@@ -100,7 +100,7 @@ Lessons</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/critique.jpg">
 </div>
 <p>Mini coursework critique session</p>
-<h4><strong><u>D&amp;T Unit</u></strong></h4>
+<h3><strong><u>D&amp;T Unit</u></strong></h3>
 <p>Design and Technology (D&amp;T) focuses on nurturing creativity, design
 thinking, and problem-solving skills. Through hands-on learning and prototyping,
 students explore real-world challenges, applying concepts from STEM education
@@ -113,194 +113,86 @@ economy, as well as the Singapore Green Plan 2030.</p>
 <p>To complement the curriculum, students are exposed to various workshops
 that develop their 21st Century Competencies (21CC) and participate in
 design competitions to expand their understanding beyond the D&amp;T subject.</p>
-<p>
-<br>
-</p>
-<p>Pencil Holder (Sec 1 Prototype)</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/DNT%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_11_PM.jpg">
 </div>
-<p>Hand Phone Holder (Sec 2 Prototype)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/DNT%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_11_PM__1_.jpg">
 </div>
-<p>For the Upper Secondary, our school offers to the students D&amp;T elective
-which is a coursework and theory based (structures, mechanisms and electronics)
-subject to prepare them for the GCE N and ‘O’ level National Examination.</p>
-<p>With the new normal, our graduating cohort were able to work on their
-D&amp;T coursework physically in school with 100% submission in 2022.</p>
-<p>Lower Sec students working on their ideas individually and in groups as
-part of Differentiated Instructions.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/DNT%203.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_12_00_18_PM.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/DNT%204.jpg">
-</div>
-<p>Sec 2 D&amp;T students working on their mock-up design and using the scroll
-saw machines to cut the acrylic material.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/DNT%205.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/DNT%206.jpg">
-</div>
-<h3>Maker Programme</h3>
-<p>For this year, the D&amp;T unit continues to have its in-house Maker Programme
-to allow students tinkering their area of interest through hands-on activity
-outside classroom learning. There is a Makerspace where students have an
-opportunity to explore their own interests, learn to use hand tools and
-machines and work with materials to develop creative projects.</p>
-<p>The students gotten to design and make a coin box out of wood. In the
-process, the students were guided by D&amp;T teachers and Technical Support
-Officers (TSO) and the activity took place in term 2.</p>
-<p>Students work collaboratively to design and make the prototype and through
-this activity, these students discussed, make decision and solve any challenges
-arose in the process. Not only they built confidence in the process, the
-students really enjoyed themselves and took pride in their work upon completion.
-Do keep a look out for the next Maker activities.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/DNT%207.jpg">
-</div>
-<p>Cutting out the shape</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/DNT%208.jpg">
-</div>
-<p>Using the sanding machine</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/DNT%209.jpg">
-</div>
-<p>Touching up by sanding</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/DNT%2010.jpg">
-</div>
-<p>Group photo</p>
-<h3>Student Initiated-Learning, SLS (3D Printer)</h3>
-<p>For this year, as part of Student-Initiated Learning (SIL), the D&amp;T
-unit embarked on the designing and fabricating using the 3D printer. The
-students were taught 3D digital app using the Paint 3D, converting the
-final digitalised idea into the 3D printer for making. It was an exciting
-journey for students who used the 3D for the first time in school.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/DNT%2011.jpg">
-</div>
-<p>Students learning to use the Paint 3D</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/DNT%2012.jpg">
-</div>
-<p>Learning to use the 3D printer</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/DNT%2013.jpg">
-</div>
-<p>3D printer in action (printing the medal)</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/DNT%2014.jpg">
-</div>
-<p>Group photo</p>
-<h3>Design Camp@Temasek Polytechnic</h3>
-<p>Our Sec 3 D&amp;T students attended the 2 days camp at Temasek Polytechnic
-organised by the School of Design. The programme consists of talk on the
-various courses in School of Design, hands-on activities such as sustainable
-product development, risograph printing, silk screening of tote bags and
-product development using Rhino software. There were also Ice breaking
-games, station games and mass dance for the students from different schools
-to bond and work together. It was an enriching experience for our students
-to get insights on the possible design courses, school life at the Polytechnic
-and to inspire them to work hard for their graduating year.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/dnt%2015.jpg">
-</div>
-<p>Students learning silk screening of tote bags</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/dnt%2016.jpg">
-</div>
-<p>Students learning silk screening of tote bags</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/dnt%2017.jpg">
-</div>
-<p>Mass dance</p>
-<h2>Nutrition and Food Science</h2>
-<p>The Nutrition and Food Science (NFS) unit aims to educate students with
-knowledge in Nutrition &amp; Health, Food Literacy, Consumer Literacy and
-Food Science. We aim to provide our graduating students with a foundation
-that can be useful if they would like to pursue food sciences or other
-food related courses during their tertiary education.</p>
-<h3>Food Photography</h3>
-<p>In 2022, we received our 1st batch of FSBB Secondary 1 students, with
-a mixture of G1, G2 and G3 in the same class. We approach the students’
-learning in FCE common curriculum using Differentiated Instructions (DI),
-based on their readiness and pace of learning. The students worked on a
-coursework project which required them to plan and prepare an attractive
-and nutritious pancake dish for teenagers in school. Students applied their
-knowledge of plating and garnishing during the practical exam and served
-their pancakes in a creative manner.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/NFS%201.png">
-</div>
-<p>Pancake dish done by Lower secondary FCE students</p>
-<h3>Food Sustainability</h3>
-<p>As part of the Food Literacy lesson, students learnt to be a sustainable
-consumer by making purchasing decisions that are friendly for the environment.
-In both Upper and Lower Secondary practical lessons, students have a chance
-to harvest food produced directly from the Kranji’s Edible Garden and use
-it as part of the main ingredients in cooking and for garnishing.</p>
+<h3><strong><u>NFS Unit</u></strong></h3>
+<p>&nbsp;The <strong>Nutrition and Food Science (NFS) unit </strong>aims to
+educate students with knowledge in Nutrition &amp; Health, Food Literacy,
+Consumer Literacy and Food Science. We aim to provide our graduating students
+with a foundation that can be useful if they would like to pursue food
+sciences or other food related courses during their tertiary education.</p>
+<p><strong>Our Curriculum<br></strong>In our lower secondary FCE FSBB classroom,
+we welcomed a mix of Secondary 1 learners (G1, G2, G3) and adopted Differentiated
+Instruction (DI) alongside EdTech to address their diverse readiness levels
+and learning paces. Eg: We customized gamified lesson packages on SLS for
+topics like food lab safety and hygiene, and used Pear Deck for interactive
+lessons on nutrients and balanced diets.</p>
+<p><strong>Food and Consumer Literacy<br></strong>Lower and upper secondary
+students engaged in coursework projects focused on executing dishes that
+meet the nutritional needs of various age groups, showcasing their plating
+and garnishing skills. Aligned with the school’s Applied Learning Program
+on sustainable living and SDG 12 (responsible consumption and production),
+students explored the circular economy by repurposing food waste into resources
+like fertilizer. They harvested fresh produce from Kranji’s Edible Garden
+for their dishes and, in collaboration with the Science Department, Secondary
+3 NFS students sampled fish from the school's hydroponic garden to enhance
+their understanding of sustainable food practices.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/NFS%202.jpg">
 </div>
-<p>NFS students harvesting parsley from the school’s garden and used it as
-garnishing for Mushroom Soup</p>
-<h3>Maker Programme&nbsp;</h3>
-<p>The Maker Programme was conducted for our Secondary 1 to 5 students at
-the beginning of the year in Term 1. The objective of the activity is for
-our students to appreciate Singapore food cultures through recipe modification.
-Different ethnic ingredients such as blue pea flower, pandan paste, coconut
-milk and rose syrup were infused into a simple agar recipe. Utilizing a
-variety of natural colourings, students prepared multi-coloured agar cubes
-and assembled them to create their own Mirror Magic Agar.</p>
+<p>NFS students harvesting parsley and pandan leaves for practical lessons</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/NFS%203.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/Good_Harvest.jpg">
 </div>
-<p>Group photo of students’ participation</p>
-<h3>NFS baking and culinary competition</h3>
-<p>Every year, students are given the opportunity to participate in various
-cooking and baking competitions. The competition provides a platform for
-students to apply their nutritional knowledge through developing suitable
-recipes to meet the nutritional needs of the different age groups. Students
-will then have the opportunity to demonstrate their culinary skills and
-oral presentation when displaying the final products before a judging panel.
-These enriching experiences enable students to apply what they have learnt
-in FCE/ F&amp;N lessons and encourage them to see the relevance of the
-subject in their daily lives.</p>
+<p>Sec 3 NFS students catching fishes from aquaponic pond</p>
+<h4><strong>Baking and Culinary Competition</strong></h4>
+<p>Each year, students participate in cooking and baking competitions that
+allow them to apply their nutritional knowledge by creating innovative
+recipes for different age groups. They demonstrate their culinary skills
+and presentation abilities before a judging panel. These experiences help
+students apply what they’ve learned in FCE/F&amp;N lessons and highlight
+the subject's relevance in their daily lives.</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/NFS%204.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/Sandwich_making_competition_2024.jpg">
 </div>
+<p>National Schools Sandwich Competition 2024 “Our Little RED Dot, Our Culture”</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/NFS%205.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/Sandwich_making_competition_2024__winning_team_.jpg">
 </div>
-<p>2021 Keat Hong CC sandwich making competition (Nasi Le Mickey and Pandan
-Frogs)</p>
-<h2>Music</h2>
-<p>The Music unit aims to develop students’ abilities for creative expression
-through various modes of music making. Students’ awareness and appreciation
-of music of different cultures will also be cultivated during the 2-year
-Lower Secondary Music programme.</p>
-<p><strong>Music – Teaching and Learning Syllabus</strong>
+<p><em>Category B- Lower Secondary&nbsp;</em>
 </p>
-<p>Sec 1 students will go through instrumental modules where they will attain
-basic skills of playing the keyboard and ukulele. Through the modules,
-elements of Music are also introduced to ensure a holistic learning for
-students. Students’ musical competencies will be expanded through the use
-of ensemble playing and opportunities are provided for students to showcase
-their learning and final performances.</p>
-<p>For Sec 2 students, besides advanced instrumental modules, they will also
-deepen the musical concepts learnt thus far, by going through the Song
-Arrangement module where they experience and gain knowledge on the basics
-of song arrangement such as music genres, instrumentation and music technology.</p>
-<p>Additionally, they also go through a module of Jam Band where they will
-work closely in small groups to perform their chosen song to a live audience.
-Opportunities are also provided for students to record their performances
-as part of their portfolio.</p>
+<p><em>Overall Champion by team “Chaos Kins”</em>
+</p>
+<h3><strong><u>Music Unit</u></strong></h3>
+<p>The Music program aims to nurture students' creative expression through
+a variety of music-making experiences while fostering an appreciation for
+music from different cultures. Over the 2-year Lower Secondary Music curriculum,
+students will develop both technical and musical skills.</p>
+<p>In Sec 1, students will learn basic keyboard and ukulele skills through
+instrumental modules, which also introduce core elements of music for a
+well-rounded learning experience. Ensemble playing is a key feature, providing
+opportunities for students to showcase their progress through performances.</p>
+<p>The school will also be introducing a Performance Art-Based Learning program
+for the entire Secondary One cohort. This initiative allows students to
+experience live performances by professional artists at cultural venues,
+helping to deepen their understanding of cultural and heritage identity.</p>
+<p>In Sec 2, students will advance their instrumental abilities and deepen
+their understanding of musical concepts. They will explore song arrangement,
+learning about genres, instrumentation, and music technology. The program
+also includes a Jam Band module, where students collaborate in small groups
+to perform a chosen song for a live audience, with opportunities to record
+their performances for their portfolio.</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Music%201.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_08_PM.jpg">
 </div>
-<p>Students planning their Jam Band arrangement in small groups,</p>
+<p></p>
+<p></p>
