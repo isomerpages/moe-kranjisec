@@ -21,23 +21,16 @@ lead Art programmes to inculcate a sense of service towards the school
 and community through projects. To celebrate their achievements, platforms
 are craved to exhibit their artworks through exhibitions and static displays
 to showcase their talent.</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/Art%20&amp;%20Craft%201.jpg">
-</div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/y7hku4y0038"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B_lxj8ugA5Q?si=eTRxJ-3x9o2-85M7"></iframe>
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Art Club/1a.jpg">
+</div>
 <p>Fig 1: <em>Certificate of </em>Recognition in Singapore Youth Festival
 Art Exhibition | Group submission: Alya Amani Bte Md Suhaimi 2R1, Clara
 Tan Jia Xuan 2J, Mylie Tan Nguyen 2J and Nurul Huda Bte Abdul Rashid 2J,
 (Weaving Identity, Installation Art)</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/Art%20&amp;%20Craft%202.jpg">
-</div>
-<p>Fig 2: Exhibition at Projector in conjunction with a fundraising effort
-by Singapore Wildcat Action Group to screen a documentary by Layar Liar
-titled Malaysia’s Last Tiger</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/2023/Art%20Club/3a_art%20club.jpg">
 </div>
