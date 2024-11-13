@@ -68,6 +68,7 @@ and explore personal themes through advanced projects. They engage in deeper
 conceptual thinking when they learn more about mediums in depth. In preparation
 for future opportunities, students are encouraged to develop their own
 style and prepare portfolios.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/1_thinker_leader_champion.jpg">
 </div>
@@ -170,8 +171,7 @@ the subject's relevance in their daily lives.</p>
 </div>
 <p><em>Category B- Lower Secondary&nbsp;</em>
 </p>
-<p><em>Overall Champion by team “Chaos Kins”</em>
-</p>
+<p>Overall Champion by team “Chaos Kins”</p>
 <h3><strong><u>Music Unit</u></strong></h3>
 <p>The Music program aims to nurture students' creative expression through
 a variety of music-making experiences while fostering an appreciation for
@@ -195,4 +195,15 @@ their performances for their portfolio.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_08_PM.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_07_PM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/IMG_0808.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/edf5be69_9dab_4527_97f5_23a564788c63.jpg">
+</div>
 <p></p>
