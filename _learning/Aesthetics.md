@@ -149,16 +149,37 @@ economy, as well as the Singapore Green Plan 2030.</p>
 <p>To complement the curriculum, students are exposed to various workshops
 that develop their 21st Century Competencies (21CC) and participate in
 design competitions to expand their understanding beyond the D&amp;T subject.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_11_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_11_PM.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_11_PM__1_.jpg">
 </div>
-<p></p>
+<div class="isomer-card-body">
+<div class="isomer-card-title">D&amp;T 1</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_12_00_18_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_11_PM__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">D&amp;T 2</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_12_00_18_PM.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">D&amp;T 3</div>
+</div>
+</div>
 </div>
 <h3><strong><u>NFS Unit</u></strong></h3>
 <p>&nbsp;The <strong>Nutrition and Food Science (NFS) unit </strong>aims to
@@ -197,16 +218,28 @@ recipes for different age groups. They demonstrate their culinary skills
 and presentation abilities before a judging panel. These experiences help
 students apply what they’ve learned in FCE/F&amp;N lessons and highlight
 the subject's relevance in their daily lives.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/Sandwich_making_competition_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/Sandwich_making_competition_2024.jpg">
 </div>
-<p>National Schools Sandwich Competition 2024 “Our Little RED Dot, Our Culture”</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">National Schools Sandwich Competition 2024 “Our Little RED Dot, Our Culture”</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/Sandwich_making_competition_2024__winning_team_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/Sandwich_making_competition_2024__winning_team_.jpg">
 </div>
-<p><em>Category B- Lower Secondary&nbsp;</em>
-</p>
-<p>Overall Champion by team “Chaos Kins”</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Category B - Lower Secondary. Overall Champion by team “Chaos Kins”</div>
+</div>
+</div>
+</div>
 <h3><strong><u>Music Unit</u></strong></h3>
 <p>The Music program aims to nurture students' creative expression through
 a variety of music-making experiences while fostering an appreciation for
