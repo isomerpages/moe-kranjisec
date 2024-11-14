@@ -103,20 +103,38 @@ and explore personal themes through advanced projects. They engage in deeper
 conceptual thinking when they learn more about mediums in depth. In preparation
 for future opportunities, students are encouraged to develop their own
 style and prepare portfolios.</p>
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/1_thinker_leader_champion.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/1_thinker_leader_champion.jpg">
 </div>
-<p>Singapore Youth Festival Art Exhibition 2024 @ National Gallery</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Singapore Youth Festival Art Exhibition 2024 @ National Gallery</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/2_little_red_dot.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/2_little_red_dot.jpg">
 </div>
-<p>Winner: Chen Yebing Sherise&nbsp;</p>
-<p>The Little Red Dot… by Singapore Art Museum</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Winner: Chen Yebing Sherise. The Little Red Dot… by Singapore Art Museum</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/Sec2_Watercolour_competition.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/Sec2_Watercolour_competition.jpg">
 </div>
-<p>16th Singapore Watercolour Society Outdoor Painting Competition</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">16th Singapore Watercolour Society Outdoor Painting Competition</div>
+</div>
+</div>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/Sec1_ICT.jpg">
 </div>
