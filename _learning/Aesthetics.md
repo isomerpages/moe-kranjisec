@@ -259,19 +259,36 @@ learning about genres, instrumentation, and music technology. The program
 also includes a Jam Band module, where students collaborate in small groups
 to perform a chosen song for a live audience, with opportunities to record
 their performances for their portfolio.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_08_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_08_PM.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_07_PM.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/IMG_0808.jpg">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Music 1</div>
 </div>
-<p></p>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/edf5be69_9dab_4527_97f5_23a564788c63.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_07_PM.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Music 2</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/IMG_0808.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Music 3</div>
+</div>
+</div>
 </div>
 <p></p>
