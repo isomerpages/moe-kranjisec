@@ -27,16 +27,37 @@ talents and perspectives.</p>
 of workshops to cater to students' diverse interests. These aesthetic workshops
 cover a range of activities, including sand art, ceramics making, drumming,
 and more. Students can sign up for any workshop that appeals to their interests.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_12_00_16_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_12_00_16_PM.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_3_43_17_PM.jpg">
 </div>
-<p></p>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Artsperiences 1</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_3_28_20_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_3_43_17_PM.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Artsperiences 2</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_3_28_20_PM.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Artsperiences 3</div>
+</div>
+</div>
 </div>
 <h4>Kranji Got Talent (KGT)</h4>
 <p>Kranji Got Talent is an annual event that celebrates the diverse artistic
@@ -46,14 +67,28 @@ and more. The event provides a platform for aspiring performers while allowing
 the school community to experience the vibrant and dynamic culture. Finalists
 from the auditions have the opportunity to perform at major school events,
 where they are met with enthusiastic support from both students and teachers.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/KGT_Lunchtime_audition.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/KGT_Lunchtime_audition.png">
 </div>
-<p>KGT lunchtime audition</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">KGT lunchtime audition</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/KGT_Finals_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/KGT_Finals_2.jpg">
 </div>
-<p>KGT Final held during Teachers’ Day Celebration</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">KGT Final held during Teachers’ Day Celebration</div>
+</div>
+</div>
+</div>
 <h3><strong><u>Art Unit</u></strong></h3>
 <p>Our Art Programme promotes creativity, self-expression, critical thinking,
 and problem-solving. It equips students with 21st-century skills through
@@ -68,20 +103,38 @@ and explore personal themes through advanced projects. They engage in deeper
 conceptual thinking when they learn more about mediums in depth. In preparation
 for future opportunities, students are encouraged to develop their own
 style and prepare portfolios.</p>
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/1_thinker_leader_champion.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/1_thinker_leader_champion.jpg">
 </div>
-<p>Singapore Youth Festival Art Exhibition 2024 @ National Gallery</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Singapore Youth Festival Art Exhibition 2024 @ National Gallery</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/2_little_red_dot.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/2_little_red_dot.jpg">
 </div>
-<p>Winner: Chen Yebing Sherise&nbsp;</p>
-<p>The Little Red Dot… by Singapore Art Museum</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Winner: Chen Yebing Sherise. The Little Red Dot… by Singapore Art Museum</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/Sec2_Watercolour_competition.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/Sec2_Watercolour_competition.jpg">
 </div>
-<p>16th Singapore Watercolour Society Outdoor Painting Competition</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">16th Singapore Watercolour Society Outdoor Painting Competition</div>
+</div>
+</div>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/Sec1_ICT.jpg">
 </div>
@@ -114,16 +167,37 @@ economy, as well as the Singapore Green Plan 2030.</p>
 <p>To complement the curriculum, students are exposed to various workshops
 that develop their 21st Century Competencies (21CC) and participate in
 design competitions to expand their understanding beyond the D&amp;T subject.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_11_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_11_PM.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_11_PM__1_.jpg">
 </div>
-<p></p>
+<div class="isomer-card-body">
+<div class="isomer-card-title">D&amp;T 1</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_12_00_18_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_11_PM__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">D&amp;T 2</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_12_00_18_PM.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">D&amp;T 3</div>
+</div>
+</div>
 </div>
 <h3><strong><u>NFS Unit</u></strong></h3>
 <p>&nbsp;The <strong>Nutrition and Food Science (NFS) unit </strong>aims to
@@ -162,16 +236,28 @@ recipes for different age groups. They demonstrate their culinary skills
 and presentation abilities before a judging panel. These experiences help
 students apply what they’ve learned in FCE/F&amp;N lessons and highlight
 the subject's relevance in their daily lives.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/Sandwich_making_competition_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/Sandwich_making_competition_2024.jpg">
 </div>
-<p>National Schools Sandwich Competition 2024 “Our Little RED Dot, Our Culture”</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">National Schools Sandwich Competition 2024 “Our Little RED Dot, Our Culture”</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/Sandwich_making_competition_2024__winning_team_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/Sandwich_making_competition_2024__winning_team_.jpg">
 </div>
-<p><em>Category B- Lower Secondary&nbsp;</em>
-</p>
-<p>Overall Champion by team “Chaos Kins”</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Category B - Lower Secondary. Overall Champion by team “Chaos Kins”</div>
+</div>
+</div>
+</div>
 <h3><strong><u>Music Unit</u></strong></h3>
 <p>The Music program aims to nurture students' creative expression through
 a variety of music-making experiences while fostering an appreciation for
@@ -191,19 +277,36 @@ learning about genres, instrumentation, and music technology. The program
 also includes a Jam Band module, where students collaborate in small groups
 to perform a chosen song for a live audience, with opportunities to record
 their performances for their portfolio.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_08_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_08_PM.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_07_PM.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/IMG_0808.jpg">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Music 1</div>
 </div>
-<p></p>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/edf5be69_9dab_4527_97f5_23a564788c63.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_26_at_9_21_07_PM.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Music 2</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/IMG_0808.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Music 3</div>
+</div>
+</div>
 </div>
 <p></p>
