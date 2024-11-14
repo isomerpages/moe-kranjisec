@@ -27,16 +27,37 @@ talents and perspectives.</p>
 of workshops to cater to students' diverse interests. These aesthetic workshops
 cover a range of activities, including sand art, ceramics making, drumming,
 and more. Students can sign up for any workshop that appeals to their interests.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_12_00_16_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_12_00_16_PM.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_3_43_17_PM.jpg">
 </div>
-<p></p>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Artsperiences 1</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_3_28_20_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_3_43_17_PM.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Artsperiences 2</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/WhatsApp_Image_2024_10_24_at_3_28_20_PM.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Artsperiences 3</div>
+</div>
+</div>
 </div>
 <h4>Kranji Got Talent (KGT)</h4>
 <p>Kranji Got Talent is an annual event that celebrates the diverse artistic
@@ -46,14 +67,28 @@ and more. The event provides a platform for aspiring performers while allowing
 the school community to experience the vibrant and dynamic culture. Finalists
 from the auditions have the opportunity to perform at major school events,
 where they are met with enthusiastic support from both students and teachers.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/KGT_Lunchtime_audition.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/KGT_Lunchtime_audition.png">
 </div>
-<p>KGT lunchtime audition</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">KGT lunchtime audition</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Aesthetics/KGT_Finals_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Aesthetics/KGT_Finals_2.jpg">
 </div>
-<p>KGT Final held during Teachers’ Day Celebration</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">KGT Final held during Teachers’ Day Celebration</div>
+</div>
+</div>
+</div>
 <h3><strong><u>Art Unit</u></strong></h3>
 <p>Our Art Programme promotes creativity, self-expression, critical thinking,
 and problem-solving. It equips students with 21st-century skills through
