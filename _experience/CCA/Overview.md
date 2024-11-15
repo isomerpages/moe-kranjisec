@@ -16,7 +16,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/co-curricular-activities/Clubs-and-Societies/media-production-team" rel="noopener noreferrer nofollow" target="_blank">Media Production Team</a>
+<p><a href="/co-curricular-activities/clubs-and-societies/media-production-team/" rel="noopener noreferrer nofollow" target="_blank">Media Production Team</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -102,11 +102,11 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/co-curricular-activities/Visual-and-Performing-Arts/kranji-choir" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+<p><a href="/co-curricular-activities/visual-and-performing-arts/kranji-choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/co-curricular-activities/Visual-and-Performing-Arts/kranji-chinese-dance-society" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance Society</a>
+<p><a href="/co-curricular-activities/visual-and-performing-arts/kranji-chinese-dance-society/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance Society</a>
 </p>
 </th>
 </tr>
@@ -129,7 +129,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/co-curricular-activities/Visual-and-Performing-Arts/kranji-modern-dance-club" rel="noopener noreferrer nofollow" target="_blank">Modern Dance Club</a></strong>
+<p><strong><a href="/co-curricular-activities/visual-and-performing-arts/kranji-modern-dance-club/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance Club</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -160,7 +160,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/co-curricular-activities/Clubs-and-Societies/malay-culture-and-language-society/" rel="noopener noreferrer nofollow" target="_blank">Angklung and Kulintang Ensemble</a></strong>
+<p><strong><a href="/co-curricular-activities/clubs-and-societies/malay-culture-and-language-society/" rel="noopener noreferrer nofollow" target="_blank">Angklung and Kulintang Ensemble</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
