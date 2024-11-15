@@ -47,6 +47,6 @@ the Kranji Performing Arts Combined Concert Magical Symphony!</p>
 <p>Watch the following video to witness the Kranji Angklung and Kulintang
 Ensemble in action!</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/K_RsLB5TrDs?si=F0Mc-twv1_91qyNL"></iframe>
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/K_RsLB5TrDs?si=QZhWS7vp4PpYg5CU"></iframe>
 </div>
 <p></p>
