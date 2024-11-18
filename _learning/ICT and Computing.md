@@ -113,28 +113,6 @@ for various projects assigned by subject teachers.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/2023/ICT%20&amp;%20Computing/photo%209.jpg">
 </div>
-<h3>ICT Programme for Secondary 2</h3>
-<p>Kranji Secondary commenced the offering of <strong>O-Level Computing</strong> from <strong>2023 as an option in our Secondary 3 Subject Combination</strong>.</p>
-<p>To cultivate students’ interest in computing and the opportunity to be
-exposed in Python programming as part of a deeper appreciation for ICT,
-‘Coding with Python’ workshop was offered since 2022 for all Secondary
-2 students. The workshop was conducted online and includes the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>use of Python programming to design data analytics models;</p>
-</li>
-<li>
-<p>hands-on and experiential project-based learning; and</p>
-</li>
-<li>
-<p>application on mathematics computational thinking</p>
-</li>
-</ul>
-<p>Students use the online version of Python to familiarise themselves with
-syntax-based programming concepts, including understanding Python language
-syntax, developing basic capabilities to explore and learn about Python
-data analytics models, and understanding coding fundamentals such as loops,
-events, conditionals and variables.</p>
 <h2>O-Level Computing</h2>
 <p>Kranji Secondary began offering O-Level Computing from 2023 as an option
 in our Secondary 3 Subject Combination.</p>
