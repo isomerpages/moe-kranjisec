@@ -58,8 +58,8 @@ character and uphold the School Values.</p>
 <h3>Flag Raising Ceremony</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students must report to their respective assembly venues by 7:50 am each
-morning for the flag-raising ceremony.</p>
+<p>Students must report to their respective assembly venues by 8am each morning
+for the flag-raising ceremony.</p>
 </li>
 <li>
 <p>Upon arrival, students should begin their prescribed reading.</p>
@@ -329,10 +329,6 @@ the school canteen upon arrival.</p>
 <li>
 <p>Mobile phone use is strictly prohibited during curriculum hours, including
 breaks, between lessons, and before CCAs.</p>
-</li>
-<li>
-<p>Use outside of curriculum hours (before 8 am or after last period / CCA)
-is limited to the canteen.</p>
 </li>
 <li>
 <p><strong>Students found with mobile phones beyond the canteen or during restricted times will surrender them to the General Office for safekeeping for the day.</strong>
