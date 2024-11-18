@@ -173,7 +173,7 @@ house and earn points to bring Ibex closer to clinching the House Championship.<
 that we are stronger together, and when we come together as one house and
 work with each other, we will be better than ever.</p>
 <p>Find out what House you should belong to, by taking this fun <a href="https://tinyurl.com/ksshouse" rel="noopener noreferrer nofollow" target="_blank">quiz</a>!</p>
-<div class="isomer-image-wrapper">
+<a class="isomer-image-wrapper" href="https://tinyurl.com/ksshouse">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/KSS_House_Quiz.png">
-</div>
+</a>
 <p></p>
