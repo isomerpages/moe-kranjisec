@@ -43,7 +43,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/KSS_Sec_2_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
+<p><a href="/files/2025/Booklist_2025_KSS_S2_revised.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
