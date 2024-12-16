@@ -17,7 +17,7 @@ sections:
           url: https://sites.google.com/kss.kranjisec.moe.edu.sg/kss-staff-portal/home
         - title: Students
           description: Accessible via iCON
-          url: https://sites.google.com/moe.edu.sg/kss-links-for-student?usp=sharing
+          url: https://sites.google.com/kss.kranjisec.moe.edu.sg/kss-students-portal/home
         - title: Partners
           description: ""
           url: /school-canteen-ad/
