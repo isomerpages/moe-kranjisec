@@ -137,7 +137,7 @@ variant: tiptap
 <p>Ms Yap Janny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Math</p>
+<p>HOD/Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -166,26 +166,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Karen Thia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>LH/Humanities</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Low Fook Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>LH/Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yang Yarong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/Science</p>
 </td>
 </tr>
 <tr>
