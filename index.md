@@ -2,7 +2,7 @@
 layout: homepage
 title: Kranji Secondary School - Thinker. Leader. Champion.
 description: An Isomer site of the Singapore Government
-image: /images/2023sec1_2.jpg
+image: /images/KSS_Sch_Crest.jpg
 permalink: /
 notification: ""
 sections:
