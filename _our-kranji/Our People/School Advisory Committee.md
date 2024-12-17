@@ -33,7 +33,7 @@ variant: tiptap
 <p>Mr Chua Lek Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Honorable Secretary</p>
+<p>Principal, Honorable Secretary</p>
 </td>
 </tr>
 <tr>
