@@ -166,6 +166,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Amelia Gan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/EL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Karen Thia</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,18 +198,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tang Kim Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH/ICT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ng Yu Juan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH/NFS &amp; Aesthetics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Peggen Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Student Leadership</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Felicia Mah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Student Well-Being</p>
 </td>
 </tr>
 </tbody>
