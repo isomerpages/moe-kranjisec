@@ -14,7 +14,8 @@ child/ward to his/her fullest potential and ensuring that he/she will have
 an enriching Kranji Experience.</p>
 <p>Our Sec 1 Registration will be completed online.</p>
 <p>Please proceed to log in to our portal on <strong><u>19 Dec 2024, 9am</u></strong>.</p>
-<p>Portal Details</p>
+<hr>
+<h3>Portal Details</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>URL: <a href="https://enroll.edmension.com/" rel="noopener noreferrer nofollow" target="_blank">https://enroll.edmension.com/</a>
@@ -101,6 +102,7 @@ dietary requirements by 27 Dec 2024, 11am (Fri):&nbsp;
 </tbody>
 </table>
 <p>&nbsp;</p>
+<hr>
 <h3>School Contact</h3>
 <p>If you are unable to login to the online portal, or should you require
 any other assistance, please contact the school at:</p>
@@ -116,6 +118,7 @@ any other assistance, please contact the school at:</p>
 <p>Parents who have not acknowledged receipt of Parent's Gateway notification
 or have not logged in to our Secondary One Registration Portal will receive
 a courtesy call from the school.</p>
+<hr>
 <h3>Waiting List</h3>
 <p>If you would like to put your child/ward down on the waiting list, please
 fill in the form here:&nbsp; <a href="https://go.gov.sg/2025sec1appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025sec1appeal</a>
