@@ -158,10 +158,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chong Keting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>HOD/Science</p>
 </td>
 </tr>
 <tr>
