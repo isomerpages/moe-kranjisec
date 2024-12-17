@@ -89,7 +89,7 @@ variant: tiptap
 <p>Mr Tan Fong Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/CCE</p>
+<p>HOD/Character &amp; Citizenship Education</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +113,7 @@ variant: tiptap
 <p>Ms Yap Chin Ping, Amy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/EL</p>
+<p>HOD/English Language</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +145,7 @@ variant: tiptap
 <p>Ms Yang Ching-Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/MTL</p>
+<p>HOD/Mother Tongue Language</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ variant: tiptap
 <p>Miss Amelia Gan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/EL</p>
+<p>LH/English Language</p>
 </td>
 </tr>
 <tr>
