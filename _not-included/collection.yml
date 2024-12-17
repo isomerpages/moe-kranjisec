@@ -2,6 +2,7 @@ collections:
   not-included:
     output: true
     order:
+      - Staff Email Address.md
       - Talent Development Programme.md
       - Outward Bound School (OBS) Level Camp.md
       - Appeal for School Transfer for Sec 1.md
