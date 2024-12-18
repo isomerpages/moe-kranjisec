@@ -126,3 +126,9 @@ fill in the form here:&nbsp; <a href="https://go.gov.sg/2025sec1appeal" rel="noo
 <p>Your appeal is deemed unsuccessful if you do not hear from us by 2 January
 2025.</p>
 <p></p>
+<p>The cut-off-point for 2025 Secondary 1 is:</p>
+<p></p>
+<p>Posting Group 3: 13</p>
+<p>Posting Group 2: 23</p>
+<p>Posting Group 1: 27</p>
+<p></p>
