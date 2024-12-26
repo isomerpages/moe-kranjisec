@@ -33,7 +33,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Tan_Seow_Kheng.JPG">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SAC/Tan_Seow_Kheng.JPG">
 </div>
 </td>
 </tr>
@@ -46,7 +46,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/SMC 2023/mr chua lek hong.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SMC/SMC 2023/mr chua lek hong.jpeg">
 </div>
 </td>
 </tr>
@@ -59,7 +59,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Ivan.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SAC/Ivan.jpg">
 </div>
 </td>
 </tr>
@@ -72,7 +72,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Tan_Fuh_Gih.JPG">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SAC/Tan_Fuh_Gih.JPG">
 </div>
 </td>
 </tr>
@@ -85,7 +85,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Zhaoguang.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SAC/Zhaoguang.jpg">
 </div>
 </td>
 </tr>
@@ -98,7 +98,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Royston.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SAC/Royston.jpg">
 </div>
 </td>
 </tr>
@@ -111,7 +111,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Jaafar.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SAC/Jaafar.jpg">
 </div>
 </td>
 </tr>
@@ -124,7 +124,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Yen_Fang.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SAC/Yen_Fang.jpg">
 </div>
 </td>
 </tr>
@@ -137,7 +137,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Choon_Song.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SAC/Choon_Song.jpg">
 </div>
 </td>
 </tr>
