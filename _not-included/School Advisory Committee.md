@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SMC/SMC 2023/mr chua lek hong.jpeg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SMC/SMC 2023/mr chua lek hong.jpeg">
 </div>
 <p>Mr Chua Lek Hong, Honorable Secretary</p>
 </td>
