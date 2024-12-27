@@ -86,7 +86,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Alicia Lee</p>
+<p>Ms Alicia Loh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Covering)</p>
