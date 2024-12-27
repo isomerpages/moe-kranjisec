@@ -129,7 +129,7 @@ variant: tiptap
 <p>Ms Yap Chin Ping, Amy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/English Language</p>
+<p>HOD/English Language &amp; Literature</p>
 </td>
 </tr>
 <tr>
