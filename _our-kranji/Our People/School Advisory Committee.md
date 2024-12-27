@@ -1,13 +1,14 @@
 ---
 title: School Advisory Committee
-permalink: /partners/school-advisory-committee/
+permalink: /school-advisory-committee/
+variant: tiptap
 description: ""
 third_nav_title: Our People
-variant: tiptap
 ---
 <h3>School Advisory Committee</h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -19,6 +20,9 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Designation</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -26,6 +30,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SAC/Tan_Seow_Kheng.JPG">
+</div>
 </td>
 </tr>
 <tr>
@@ -35,6 +44,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Principal, Honorable Secretary</p>
 </td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SMC/SMC 2023/mr chua lek hong.jpeg">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -42,6 +56,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SAC/Ivan.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -51,6 +70,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Member</p>
 </td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SAC/Tan_Fuh_Gih.JPG">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -58,6 +82,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SAC/Zhaoguang.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -67,6 +96,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Member</p>
 </td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SAC/Royston.jpg">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -74,6 +108,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SAC/Jaafar.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -83,6 +122,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Member</p>
 </td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SAC/Yen_Fang.jpg">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -90,6 +134,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SAC/Choon_Song.jpg">
+</div>
 </td>
 </tr>
 </tbody>

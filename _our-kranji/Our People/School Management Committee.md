@@ -86,10 +86,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Fong Wei</p>
+<p>Ms Alicia Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Character &amp; Citizenship Education</p>
+<p>Assistant Year Head (Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Hendrik Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Peggen Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Character &amp; Citizenship Education (Internal)</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +158,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yang Ching-Ching</p>
+<p>Ms Yang Ching Ching</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Mother Tongue Language</p>
@@ -182,7 +198,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Low Fook Hong</p>
+<p>Mr Tang Kim Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH/Mathematics</p>
@@ -198,10 +214,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Kim Yong</p>
+<p>Miss Tan En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ICT</p>
+<p>SH/Character &amp; Citizenship Education (Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Andi Bin Mohammed Zulkepli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Malay Language</p>
 </td>
 </tr>
 <tr>
@@ -210,14 +234,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/NFS &amp; Aesthetics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Peggen Ang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Student Leadership</p>
 </td>
 </tr>
 <tr>
