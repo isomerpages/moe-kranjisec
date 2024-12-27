@@ -54,7 +54,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hisham Sairi</p>
+<p>Mr Muhamad Hisham</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -89,7 +89,7 @@ variant: tiptap
 <p>Ms Alicia Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Internal)</p>
+<p>Assistant Year Head (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ variant: tiptap
 <p>Mr Hendrik Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Internal)</p>
+<p>Assistant Year Head (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ variant: tiptap
 <p>Ms Peggen Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Character &amp; Citizenship Education (Internal)</p>
+<p>HOD/Character &amp; Citizenship Education (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -217,12 +217,12 @@ variant: tiptap
 <p>Miss Tan En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Character &amp; Citizenship Education (Internal)</p>
+<p>SH/Character &amp; Citizenship Education (Covering)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Andi Bin Mohammed Zulkepli</p>
+<p>Mr Muhammad Andi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Malay Language</p>
