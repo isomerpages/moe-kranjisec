@@ -18,7 +18,7 @@ view the slides.</p>
 PLD Initiative Infographic.</p>
 <p>Parents who want to use Edusave funds for the PLD (for Singapore citizens
 students only), please submit the online Standing Order (SO) from via this
-link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a>
+link: <a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a>
 </p>
 <p>If you are unable to submit the form online, please click <a href="https://for.edu.sg/kssndlpprocurementform" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 a hardcopy version.</p>
