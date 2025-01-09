@@ -16,12 +16,14 @@ Account to pay for the PLD.</p>
 view the slides.</p>
 <p>Please click <a href="https://for.edu.sg/ksspldinfographic" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 PLD Initiative Infographic.</p>
-<p>To proceed with the purchase of the PLD, please fill in the online form
-at this link: <a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pdlpadmin</a>
+<p>Parents who want to use Edusave funds for the PLD (for Singapore citizens
+students only), please submit the online Standing Order (SO) from via this
+link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a>
 </p>
 <p>If you are unable to submit the form online, please click <a href="https://for.edu.sg/kssndlpprocurementform" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 a hardcopy version.</p>
-<p>Please submit the online or hardcopy form by <strong>22 January 2024</strong>.</p>
+<p>Please consent for the purchase via the Parents Gateway (PG) notification
+by <strong>15 January 2025</strong>.</p>
 <p>More details will be provided at a later date on your child/ward’s PLD
 collection date.</p>
 <h3>Resources for Parents</h3>
