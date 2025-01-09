@@ -217,18 +217,19 @@ will gain awareness of the health, legal and moral issues related to viewing,
 downloading and/or distributing pornography. While students may perceive
 watching pornography as a private issue without consequences to bear, they
 will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
+<p>&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Understand and accept that as we work towards becoming our best self,
+<p>understand and accept that as we work towards becoming our best self,
 there will be times when we make mistakes, and recognise the importance
 of exercising moral courage in facing up to consequences</p>
 </li>
 <li>
-<p>Recognise that there are moral and legal consequences of risky sexual
+<p>recognise that there are moral and legal consequences of risky sexual
 behaviours, pornography access and acting irresponsibly or maliciously
 when online (e.g. spreading of online falsehoods, flouting copyright laws,
 etc.)</p>
@@ -236,7 +237,7 @@ etc.)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 3 Week 8</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -311,15 +312,16 @@ etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focus on how the family, culture and society can influence
-one’s perception of their gender roles.</p>
-<p>Students will learn what gender stereotypes are (e.g. males traditionally
-as breadwinners and females traditionally as doing household chores) and
-how gender stereotypes are formed.</p>
-<p>Students will discuss how one’s understanding of gender roles should not
-be limited by gender stereotypes, for example women can be pilots, while
-men can be nurses.</p>
+one’s perception of their gender roles. Students will learn what gender
+stereotypes are (e.g. males traditionally as breadwinners and females traditionally
+as doing household chores) and how gender stereotypes are formed. Students
+will discuss how one’s understanding of gender roles should not be limited
+by gender stereotypes, for example women can be pilots, while men can be
+nurses.</p>
+<p>&nbsp;</p>
 <p>Students learn to focus on their personal strengths to pursue their interests
 and build their self- confidence.</p>
+<p>&nbsp;</p>
 <p>Students will also learn about the definitions of biological sex, gender
 identity, gender expression and sexual orientation. They will learn to
 treat everyone with respect and empathy.</p>
@@ -340,7 +342,7 @@ as a male or female</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 7</p>
+<p>Term 3 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -357,6 +359,7 @@ influence. The lesson encourages the safe and responsible use of social
 media, and aims to deepen students’ conviction, and extend a call to action
 to students to taking appropriate decisions to safeguard their well-being
 and safety.</p>
+<p>&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
@@ -370,7 +373,7 @@ both online and offline</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 7</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -393,18 +396,18 @@ of babies.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Recognise the importance of self-respect and respect for others in relating
-to members of the opposite sex</p>
+<p>recognise the importance of self-respect and respect for others in relating
+members of the opposite sex</p>
 </li>
 <li>
-<p>Recognise one’s vulnerability to risky situations and the importance of
+<p>recognise one’s vulnerability to risky situations and the importance of
 exercising discretion to reduce risks and avoid negative consequences,
 both offline and online</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 7</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -490,7 +493,7 @@ is important when entering into a dating relationship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn how to manage their emotions if they were to face
-a breakup and know that relationship building involves person emotions
+a breakup and know that relationship-building involves personal emotions
 and vulnerabilities, and changes and challenges. Students will also learn
 that a decision to end a relationship will have consequences on oneself
 and others, and that grief and loss due to rejections and broken relationships
@@ -502,25 +505,25 @@ and that family and friends are important pillars of support.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Know that relationship-building involves personal emotions and vulnerabilities,
+<p>know that relationship-building involves personal emotions and vulnerabilities,
 and changes and challenges</p>
 </li>
 <li>
-<p>Know that a decision to end a relationship will have consequences on oneself
+<p>know that a decision to end a relationship will have consequences on oneself
 and others</p>
 </li>
 <li>
-<p>Know that grief and loss due to rejections and broken relationships is
+<p>know that grief and loss due to rejections and broken relationships is
 normal and one can recover from the experience</p>
 </li>
 <li>
-<p>Know there are healthy ways of coping with broken relationships, and family
+<p>know there are healthy ways of coping with broken relationships, and family
 and friends are important pillars of support</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -544,12 +547,12 @@ never justifiable and they can seek help in times of need.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Recognise the importance of being informed of social and moral issues
+<p>recognise the importance of being informed of social and moral issues
 of the day and the need to reflect on these issues, and weigh them against
 our own moral standpoints as we form our perspectives about them</p>
 </li>
 <li>
-<p>Understand that we strengthen our character when we commit to sound values-based
+<p>understand that we strengthen our character when we commit to sound values-based
 viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
 </li>
@@ -599,7 +602,9 @@ alignment with our beliefs</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Levelling the Ground </strong>Lesson 1</p>
+<p><strong>Levelling the Ground</strong>
+</p>
+<p>Lesson 1</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -615,17 +620,15 @@ others’ values and principles, with regard to gender stereotypes.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Understand what gender stereotypes comprise, e.g. notions of masculinity
+<p>understand what gender stereotypes comprise, e.g. notions of masculinity
 and femininity vary over time and space, and are shaped by societal expectations</p>
 </li>
 <li>
-<p>Know that imposing gender stereotypes on oneself and others can limit
+<p>know that imposing gender stereotypes on oneself and others can limit
 one’s experiences, cause harm to the self-esteem of oneself and others
 and should be avoided</p>
 </li>
 </ul>
-<p><em>&nbsp;</em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 3</p>
@@ -648,26 +651,25 @@ one can get out of such a relationship safely. Students will learn when,
 where and how to seek help from trusted adults (e.g. family, teachers,
 school counsellors) in the supportive environment that they have if they
 or their friends are involved in an unhealthy relationship.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Know there are healthy ways of coping with broken relationships, and family
+<p>know there are healthy ways of coping with broken relationships, and family
 and friends are important pillars of support</p>
 </li>
 <li>
-<p>Recognise emotions caused by traumatic situations, e.g. bullying, abuse
+<p>recognise emotions caused by traumatic situations, e.g. bullying, abuse
 and dating violence, and understand the physiological and psychological,
 social impact on victims</p>
 </li>
 <li>
-<p>Understand that we need moral courage and wisdom to recognise and end
+<p>understand that we need moral courage and wisdom to recognise and end
 relationships that are unhealthy and cause harm to our mental and emotional
 well-being</p>
 </li>
 <li>
-<p>Understand the importance of ensuring that non-verbal messages match with
+<p>understand the importance of ensuring that non-verbal messages match with
 verbal ones, when communicating personal and emotional boundaries in a
 relationship</p>
 </li>
@@ -675,7 +677,7 @@ relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -690,24 +692,25 @@ relationship</p>
 in a marriage. Students will understand that while a marriage, defined
 in Singapore as a union between a man and a woman, requires mutual commitment
 and effort like the other relationships in their lives, what sets a marriage
-apart is its lifelong commitment. Students will learn that what really
-matters to sustain and maintain a long-term romantic relationship leading
-to marriage is understanding the other person’s perspective and effectively
-communicating with each other.</p>
+apart is its lifelong commitment.</p>
+<p>Students will learn that what really matters in sustaining and maintaining
+a long-term romantic relationship that leads to marriage, is understanding
+the other person’s perspective and effectively communicating with each
+other.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Know that long-term romantic relationships leading to marriage involve
+<p>know that long-term romantic relationships leading to marriage involve
 understanding oneself and others in the intellectual, emotional, social
 and moral dimensions</p>
 </li>
 <li>
-<p>Know that marriage entails a union between a man and a woman based on
+<p>know that marriage entails a union between a man and a woman based on
 love, trust, commitment, and requires mutual effort</p>
 </li>
 <li>
-<p>Understand that conflicts are normal in any relationship, including marriage,
+<p>understand that conflicts are normal in any relationship, including marriage,
 and the way in which a couple handles conflict is critical to the success
 of their marriage</p>
 </li>
@@ -738,7 +741,7 @@ themselves from encountering danger.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Understand that we strengthen our character when we commit to sound values-based
+<p>understand that we strengthen our character when we commit to sound values-based
 viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
 </li>
@@ -806,19 +809,19 @@ in consideration of the well-being of themselves and others.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Understand that we strengthen our character when we commit to sound values-based
+<p>understand that we strengthen our character when we commit to sound values-based
 viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 4</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>eTeens Programme</h3>
+<h3><u>eTeens Programme</u></h3>
 <p></p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
 by Health Promotion Board, in collaboration with the Ministry of Education,
@@ -835,7 +838,7 @@ decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
 <p></p>
 <p>At Kranji Secondary School, the <em>eTeens</em> programme will be implemented
-as follows in 2024:</p>
+as follows in 2025:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -859,21 +862,21 @@ as follows in 2024:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Raise awareness and provide knowledge on:</p>
-<p>(a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
-to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-<p>(b) Managing relationships and risky situations in a healthy way.</p>
+<p>a)&nbsp; Infectious diseases (STIs and HIV): what it is, how it spreads,
+how to prevent infection mainly through ABC (abstinence, being faithful,
+correct, and consistent condom use).</p>
+<p>b) Managing relationships and risky situations in a healthy way.</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -889,7 +892,7 @@ of assertiveness and responsible decision-making</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 3 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -901,12 +904,12 @@ programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
 of the <strong>Sexuality Education lessons</strong> need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also accessible <a href="https://go.gov.sg/kss-sed-opt-out" rel="noopener noreferrer nofollow" target="_blank">here</a>. <strong>The completed form is to be submitted by 11th January 2024.</strong>
+and is also accessible <a href="https://form.gov.sg/677ce9c13d07871a25630660" rel="noopener noreferrer nofollow" target="_blank">here</a>. <strong>The completed form is to be submitted by 17th January 2025.</strong>
 </p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
 of the <strong><em>eTeens</em> programme</strong> need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also accessible <a href="https://go.gov.sg/kss-eteens-opt-out" rel="noopener noreferrer nofollow" target="_blank">here</a>. <strong>The completed form is to be submitted by 26th January 2024.</strong>
+and is also accessible <a href="https://form.gov.sg/677ceb1e103c8249e2e1dcaa" rel="noopener noreferrer nofollow" target="_blank">here</a>. <strong>The completed form is to be submitted by 17th January 2025.</strong>
 </p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6766 2464
 (email: <a rel="noopener noreferrer nofollow" target="_blank">kranji_ss@moe.edu.sg</a>)
