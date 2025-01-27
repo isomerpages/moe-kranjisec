@@ -88,11 +88,8 @@ Cousins and others);</p>
 <p>(b) family with more than 6 children in GGAS;</p>
 <p>(c) family with more than 5 unmarried children not in GGAS;</p>
 <p>(d) family with more than 3 grandparents in the household.</p>
-<p>Should you have further enquiries, please feel free to contact Ms Yong
+<p>Should you have further enquiries, please feel free to contact Mdm Yong
 at Tel: 67662464.</p>
-<h3>Leave of Absence (LOA) Scheme</h3>
-<p>If you would like to apply for Leave of Absence (LOA) for your child,
-please complete the form at this <a href="https://form.gov.sg/635b2a5088187100121f6b92" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
 <h3>Group Personal Accident (GPA) Insurance Plan for Students</h3>
 <p>All Kranji Secondary School students are covered under the GPA Insurance
 Plan which provides accident coverage while they are at the school premises,
