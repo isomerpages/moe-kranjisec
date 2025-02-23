@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<p>The school terms for 2025 will be as follows:-</p>
+<p>The school terms for 2025 will be as follows:</p>
 <h3>School Terms</h3>
 <table style="minWidth: 50px">
 <colgroup>
