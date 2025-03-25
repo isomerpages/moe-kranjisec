@@ -114,6 +114,133 @@ exchange has inspired the Kranjians’ and Youth participants to work together
 to create a better Asia for their generation in the future.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Internationalisation/Picture4.jpg">
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2025/Internationalisation/Picture7.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">IYCE 1</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2025/Internationalisation/Picture8.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">IYCE 2</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2025/Internationalisation/Picture9.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">IYCE 3</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IYCE 4" src="/images/2025/Internationalisation/Picture10.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">IYCE 4</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IYCE 5" src="/images/2025/Internationalisation/Picture11.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">IYCE 5</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IYCE 6" src="/images/2025/Internationalisation/Picture12.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">IYCE 6</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IYCE 7" src="/images/2025/Internationalisation/Picture13.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">IYCE 7</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IYCE 8" src="/images/2025/Internationalisation/Picture1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ICYE 8</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IYCE 9" src="/images/2025/Internationalisation/Picture2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">IYCE 9</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ICYE 10" src="/images/2025/Internationalisation/Picture3.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">IYCE 10</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ICYE 11" src="/images/2025/Internationalisation/Picture5.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ICYE 11</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ICYE 12" src="/images/2025/Internationalisation/Picture6.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ICYE 12</div>
+</div>
+</div>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Internationalisation/2024_6.png">
 </div>
 <div class="isomer-image-wrapper">
