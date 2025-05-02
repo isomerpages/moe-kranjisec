@@ -19,7 +19,9 @@ the student will be shortlisted/given an offer.</p>
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
 <h5>Application Timeline</h5>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Application_Timeline.png">
+</div>
 <h5>Additional Information:</h5>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11am
@@ -41,3 +43,4 @@ related to the talent they are selected for from year 1-4.</p>
 to participate in the annual S1 Posting Exercise to opt for secondary schools,
 and are expected to honour the commitment to the allocated DSA Sec school
 for the entire duration of the programme.</p>
+<p></p>
