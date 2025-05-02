@@ -12,7 +12,6 @@ and achievements that may not be demonstrated at the Primary School Leaving
 Examination (PSLE).</p>
 <p>We are accepting applications for DSA-Sec in the following categories:</p>
 <p></p>
-<p></p>
 <p>Please also take note that meeting all the criteria does not guarantee
 the student will be shortlisted/given an offer.</p>
 <p>Applicants who do not have prior experience may also apply. The school
