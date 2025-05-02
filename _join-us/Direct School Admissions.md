@@ -47,4 +47,3 @@ related to the talent they are selected for from year 1-4.</p>
 to participate in the annual S1 Posting Exercise to opt for secondary schools,
 and are expected to honour the commitment to the allocated DSA Sec school
 for the entire duration of the programme.</p>
-<p></p>
