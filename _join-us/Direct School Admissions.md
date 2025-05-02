@@ -11,7 +11,12 @@ students to seek admission to Kranji Secondary School on the basis of talents
 and achievements that may not be demonstrated at the Primary School Leaving
 Examination (PSLE).</p>
 <p>We are accepting applications for DSA-Sec in the following categories:</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA/Criteria.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA/Criteria_2.png">
+</div>
 <p>Please also take note that meeting all the criteria does not guarantee
 the student will be shortlisted/given an offer.</p>
 <p>Applicants who do not have prior experience may also apply. The school
@@ -19,7 +24,7 @@ will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
 <h5>Application Timeline</h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Application_Timeline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA/Application_Timeline.png">
 </div>
 <h5>Additional Information:</h5>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
