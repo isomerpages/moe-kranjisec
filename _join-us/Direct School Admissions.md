@@ -37,10 +37,15 @@ and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; honour their commitment
-to the school, and</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; participate in the activities
-related to the talent they are selected for from year 1-4.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>honour their commitment to the school, and</p>
+</li>
+<li>
+<p>participate in the activities related to the talent they are selected
+for from year 1-4.</p>
+</li>
+</ul>
 <p><strong>Please note that:</strong>
 </p>
 <p>Students successfully allocated to their DSA-Sec schools will NOT be allowed
