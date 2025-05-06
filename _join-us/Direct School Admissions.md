@@ -29,7 +29,7 @@ assessing the potential of the applicants.</p>
 <h5>Additional Information:</h5>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11am
-to 3 Jun 2025, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-sec</u></a><u>.</u>
+to 3 Jun 2025, 3pm. For more details, please refer to MOE website – <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a><u>.</u>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
@@ -37,10 +37,15 @@ and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; honour their commitment
-to the school, and</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; participate in the activities
-related to the talent they are selected for from year 1-4.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>honour their commitment to the school, and</p>
+</li>
+<li>
+<p>participate in the activities related to the talent they are selected
+for from year 1-4.</p>
+</li>
+</ul>
 <p><strong>Please note that:</strong>
 </p>
 <p>Students successfully allocated to their DSA-Sec schools will NOT be allowed
