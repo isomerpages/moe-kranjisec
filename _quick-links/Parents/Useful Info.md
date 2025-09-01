@@ -17,7 +17,7 @@ variant: tiptap
 <p>Address: 24 Lim Teck Boo Road #03-01 Nanyang Centre Singapore 537003</p>
 <p>Website: <a href="https://www.oapl.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.oapl.sg/</a>
 </p>
-<p>Contact Number: (65) 63826789 ext 128</p>
+<p>Contact Number: (65) 63826789 ext 305</p>
 <p>Fax: (65) 63829537</p>
 <p><u>During School Terms</u>
 </p>
