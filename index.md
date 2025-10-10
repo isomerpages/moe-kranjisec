@@ -39,7 +39,7 @@ sections:
       button: Read More
       url: /front-page/sec1/orientation-programme/
       alt: Image alt text
-      image: /images/2023sec1_2.jpg
+      image: /images/Pic_1___Vasheela_Mumtaj.jpg
       description: Discover your strengths and interests, as you make new friends and
         forge close bonds.
   - infopic:
