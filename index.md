@@ -54,7 +54,7 @@ sections:
       button: Read more
       url: /front-page/Sec-3-Distinctive-Experiences/industry-visits/
       alt: Image alt text
-      image: /images/IVJS 1.jpg
+      image: /images/WhatsApp_Image_2025_10_24_at_8_12_19_AM.jpg
       description: Grow to be a confident leader with a heart to serve.
   - infopic:
       title: Secondary 4 and 5
