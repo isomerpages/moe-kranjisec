@@ -71,24 +71,38 @@ students in Government and Government-Aided Schools (GGAS) to meet the
 basic schooling expenses.</p>
 <p>Student must be a Singapore citizen and meets either one of the following
 criteria:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAS%201.png">
-</div>
-<p>For your child who is a Comcare beneficiary, you need not submit the MOE
-FAS Application as MOE FAS will be auto-granted to Comcare beneficiaries.</p>
-<p>You may choose to apply for MOE FAS by:</p>
-<p>(a) e-FAS - for those who wish to submit via <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">e-FAS link</a>, you are required to submit
-softcopy supporting documents; or</p>
-<p>(b) <a href="/files/2025/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">Hardcopy form</a> to
-be submitted to the General Office.</p>
-<p>Please note that application via hardcopy form is required (i.e. e-FAS
-is not applicable) for:</p>
-<p>(a) families with other dependents (Great Grandparents, Aunties/Uncles,
-Cousins and others);</p>
-<p>(b) family with more than 6 children in GGAS;</p>
-<p>(c) family with more than 5 unmarried children not in GGAS;</p>
-<p>(d) family with more than 3 grandparents in the household.</p>
-<p>Should you have further enquiries, please feel free to contact Mdm Yong
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gross Monthly Household Income</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>$4000 or below</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Per Capita Income&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>(Per
+Capita Income = Total Gross Monthly Household Income divided by the number
+of Household Members)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>$1000 or below</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Please refer to the MOE website at this <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">link</a> for
+more information.</p>
+<p>Should you have further enquiries, please feel free to contact Ms Ima
 at Tel: 67662464.</p>
 <h3>Group Personal Accident (GPA) Insurance Plan for Students</h3>
 <p>All Kranji Secondary School students are covered under the GPA Insurance
