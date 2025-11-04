@@ -22,7 +22,7 @@ variant: tiptap
 <p><u>During School Terms</u>
 </p>
 <p>Monday to Friday: 7.00am to 3.00pm</p>
-<p>Please download the booklists below for 2025 Academic Year</p>
+<p>Please download the booklists below for 2026 Academic Year</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
