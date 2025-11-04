@@ -22,7 +22,7 @@ variant: tiptap
 <p><u>During School Terms</u>
 </p>
 <p>Monday to Friday: 7.00am to 3.00pm</p>
-<p>Please download the booklists below for 2025 Academic Year</p>
+<p>Please download the booklists below for 2026 Academic Year</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -43,15 +43,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/Booklist_2025_KSS_S2_revised.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
+<p><a href="https://for.edu.sg/ksssec2booklist" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/KSS_Sec_3_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 Booklist</a>
+<p><a href="https://for.edu.sg/ksssec3booklist" rel="noopener nofollow" target="_blank">Sec 3 Booklist</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/KSS_Sec_4_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5 Booklist</a>
+<p><a href="https://for.edu.sg/ksssec45booklist" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Booklist</a>
 </p>
 </td>
 </tr>
@@ -89,7 +89,7 @@ criteria:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Per Capita Income&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>(Per
+<p><strong>Per Capita Income&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>(Per
 Capita Income = Total Gross Monthly Household Income divided by the number
 of Household Members)</p>
 </td>
