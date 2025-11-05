@@ -8,25 +8,25 @@ variant: tiptap
 <p>To develop a dynamic team of teachers and students with a passion for
 mathematics.</p>
 <h3>Key Programmes</h3>
-<p>The Mathematics department engages students in the learning of mathematics
-using real-world applications of mathematics in lessons. We enrich students’
-learning experiences by providing various enrichment activities such as
-Mathematics Trail and <strong>STEM</strong> (<strong>S</strong>cience, <strong>T</strong>echnology, <strong>E</strong>ngineering, <strong>M</strong>athematics)
-Week. In addition, we provide opportunities for students to hone their
-mathematical problem-solving skills in various competitions such as the
-Singapore Mathematical Olympiad and Australian Mathematics Competition.</p>
+<p>The Mathematics Department engages students in meaningful learning through
+the application of mathematics to real-world contexts. Lessons are designed
+to develop students’ analytical thinking and problem-solving skills. Beyond
+the classroom, students’ learning experiences are enriched through <strong>STEM-related activities</strong>,
+where they explore the connections between Science, Technology, Engineering
+and Mathematics in authentic problem-solving settings. To further stretch
+and challenge our students, we provide opportunities for them to hone their
+mathematical thinking through participation in various competitions such
+as the <strong>Singapore Mathematical Olympiad</strong> and the <strong>Australian Mathematics Competition</strong>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Maths/ICT_infused_Lesson.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math Dept/2025_Math_pics_for_sch_website_1.png">
 </div>
 <p><strong>ICT- Infused Learning</strong>
 </p>
-<p>The Personal Learning Devices allow students to learn at their own pace
-and to collaborate with each other online. Students also have the opportunities
-to investigate mathematical problems with their friends and work out the
-solutions together.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Maths/Real_World_Application_of_Math.jpg">
-</div>
+<p>Personal Learning Devices empower students to take ownership of their
+learning by allowing them to learn at their own pace and explore topics
+more deeply. Through collaborative online platforms, students work together
+to investigate mathematical problems, share ideas and develop solutions
+collectively. This approach nurtures self-directly learning in our students.</p>
 <p><strong>Real-World Applications of Mathematics and STEM lessons</strong>
 </p>
 <p>Incorporation of real-world learning experiences&nbsp;into lessons enables
@@ -35,34 +35,29 @@ of the subject in the world around them. Through STEM-infused lessons,
 students develop the 3Cs (Be Curious, Be Creative, Be the Change). The
 students then use these skills to work on real world problems.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Maths/Code_for_Fun_Sec_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math Dept/2025_Math_pics_for_sch_website_2.png">
 </div>
 <p><strong>Code for fun</strong>
 </p>
-<p>The Code for Fun Programme is a joint initiative by IMDA and MOE to increase
-students’ exposure to coding and computational thinking. In Secondary 1,
-students are exposed to simple coding logic. In Secondary 2, students are
-exposed to Generative AI and their uses. The programme provides opportunities
-for students to be engaged in learning mathematical skills such as Spatial
-Visualization, Data Handling and Analysis, Geometry and Measurement. Students
-will use microcontrollers, basic drag and drop coding and cardboard Lego
-Blocks known as Blokies to build different physical structures based on
-their understanding of <strong>STEM</strong> to solve real world problems.</p>
+<p>The Code for Fun Programme, a joint initiative by IMDA and MOE, aims to
+increase students’ exposure to coding and computational thinking. In <strong>Secondary 1</strong>,
+students are introduced to basic coding logic through interactive and hands-on
+activities. In <strong>Secondary 2</strong>, they explore the world of <strong>Generative AI</strong> and
+its practical applications.</p>
+<p>These programmes provides authentic opportunities for students to apply
+mathematical concepts such as <strong>spatial visualisation</strong>, <strong>data handling and analysis</strong> as
+well as <strong>geometry and measurement</strong>. Through these experiences,
+students develop creative and logical thinking skills that strengthen their
+appreciation of how mathematics connects to technology and the real world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Maths/STEM_week.jpg">
-</div>
-<p><strong>STEM Week</strong>
-</p>
-<p>During STEM week, students participated in level activities that are interdisciplinary
-to use the knowledge and skills from different disciplines to work on small
-projects.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Maths/Mathematics_Competition_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math Dept/2025_Math_pics_for_sch_website_3.png">
 </div>
 <p><strong>Mathematics Competitions</strong>
 </p>
-<p>Students are given the opportunity to participate in various&nbsp;competitions
-held locally and internationally to expose them to the&nbsp;rigours of
-competitive Mathematics.&nbsp;
+<p>Students are given opportunities to participate in a range of <strong>local and international mathematics competitions</strong>,
+where they are exposed to the rigours of competitive problem-solving. These
+experiences challenge them to apply mathematical concepts creatively, think
+critically under pressure, and develop perseverance and confidence in tackling
+complex problems.
 <br>
 </p>
