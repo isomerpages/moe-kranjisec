@@ -37,7 +37,7 @@ students then use these skills to work on real world problems.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math Dept/2025_Math_pics_for_sch_website_2.png">
 </div>
-<p><strong>Code for fun</strong>
+<p><strong>Code For Fun Programme</strong>
 </p>
 <p>The Code for Fun Programme, a joint initiative by IMDA and MOE, aims to
 increase students’ exposure to coding and computational thinking. In <strong>Secondary 1</strong>,
