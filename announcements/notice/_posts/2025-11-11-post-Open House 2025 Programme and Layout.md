@@ -12,3 +12,14 @@ variant: tiptap
 witness The Kranji Experience! You can find the programme and Open House
 below!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025/Open_House_Programme.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025/CCA_Booths.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025/Subject_Department_Booths.png">
+</div>
+<p></p>
