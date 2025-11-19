@@ -10,7 +10,7 @@ variant: tiptap
 expected of all Kranjians.</p>
 <h3>Our Approach to Discipline</h3>
 <p>Our approach to discipline guides and encourages every Kranjian to become
-self-reflective and self-disciplined. Effective discipline is grounded
+self-reflective and self-disciplined. &nbsp;Effective discipline is grounded
 in a consistent philosophy, which the school promotes through opportunities
 for reflection and circle time.</p>
 <h3>School Values</h3>
@@ -43,9 +43,8 @@ Social and Emotional (SEL) Competencies by:</p>
 <p>Providing opportunities for students to demonstrate positive behaviour.</p>
 </li>
 <li>
-<p>Guiding and re-orientating students through restorative practices, using
-Appreciative Inquiry and the SAMIC Plan, for those who have erred in their
-behaviours.</p>
+<p>Guiding and re-orientating students through restorative practices for
+those who have erred in their behaviours.</p>
 </li>
 </ul>
 <h3>Engagement with Stakeholders</h3>
@@ -65,9 +64,8 @@ for the flag-raising ceremony.</p>
 <p>Upon arrival, students should begin their prescribed reading.</p>
 </li>
 <li>
-<p>Students who are Singapore citizens must sing the National Anthem and
-take the Pledge. Students will take the Pledge with the right fist over
-the heart.</p>
+<p><strong>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.</strong>
+</p>
 </li>
 <li>
 <p>The school song will be sung on Mondays.</p>
@@ -102,18 +100,29 @@ the assembly venue.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mondays, Wednesdays and Thursdays</p>
+<p>Mondays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parade Square</p>
+<p>Multi-Purpose Hall / Classroom</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesdays (Even)</p>
+<p>Tuesdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Classroom</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesdays and Thursdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Multi-Purpose Hall / Parade Square<sup>1</sup>
+</p>
+<p><em>In the event of rain or wet ground, morning assembly will be conducted in the Multi-Purpose Hall.</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +150,7 @@ to be presented at the security post.</p>
 </li>
 <li>
 <p>Students must submit a medical certificate (hardcopy or electronic form)
-to their class mentor upon returning to school.</p>
+to their class mentor upon returning to school.&nbsp;</p>
 </li>
 <li>
 <p>Students must leave the school premises by 6:40 pm each day.</p>
@@ -179,7 +188,8 @@ indicated in the table below on a semesterly basis.</p>
 <p>4 - 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Reflections / Detention / 1<sup>st</sup> warning letter / call to parents</p>
+<p>Reflections / Detention / 1<sup>st</sup> warning letter / call to parents
+/ conduct grade affected</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +197,8 @@ indicated in the table below on a semesterly basis.</p>
 <p>7 - 10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Reflections / Internal suspension / Final warning letter / call to parents</p>
+<p>Reflections / Internal suspension / Final warning letter / call to parents
+/ conduct grade downgraded</p>
 </td>
 </tr>
 <tr>
@@ -195,7 +206,8 @@ indicated in the table below on a semesterly basis.</p>
 <p>&gt;10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>External suspension / meeting with school leaders</p>
+<p>External suspension / meeting with school leaders / conduct grade downgraded
+further</p>
 </td>
 </tr>
 </tbody>
@@ -233,10 +245,10 @@ ends.</p>
 <p>It is the class’s responsibility to keep the classroom clean.</p>
 </li>
 <li>
-<p>Stand up to greet your teacher before and after each lesson.&nbsp;</p>
+<p>Stand up to greet your teacher before and after each lesson.</p>
 </li>
 <li>
-<p>Prepare your PLD and lesson materials before the start of each lesson,
+<p>Prepare your PLD and lesson materials before the start of each lesson
 and stay engaged during class.</p>
 </li>
 <li>
@@ -249,10 +261,11 @@ times.</p>
 </li>
 <li>
 <p>Food and drinks are not allowed in the classrooms, except for dry food
-during structured snack time.&nbsp;</p>
+during structured snack time.</p>
 </li>
 <li>
-<p>Keep personal belongings secure at all times.</p>
+<p>Students should not leave their valuables unattended and should bring
+their valuables with them. Keep personal belongings secure at all times.</p>
 </li>
 <li>
 <p>Playing frisbee, football, or similar activities in or around the classroom
@@ -275,9 +288,8 @@ clean.</p>
 <h4>Prohibited Items</h4>
 <ul>
 <li>
-<p>Students are not allowed to have any weapon in their possession. They
-are also not allowed to bring any weapon-like items which can be used or
-intended to be used to cause harm to others.</p>
+<p><strong>Students are not allowed to have any weapon in their possession. They are also not allowed to bring any weapon-like items which can be used or intended to be used to cause harm to others.</strong>
+</p>
 </li>
 <li>
 <p>Prohibited items include chewing gum, cigarettes, lighters, vaping devices
@@ -304,7 +316,8 @@ items.</p>
 the fire extinguishers.</p>
 </li>
 <li>
-<p>Vandals may be liable for damages on a case-by-case basis.</p>
+<p>Vandals will face school consequences and may be liable for damages on
+a case-by-case basis.</p>
 </li>
 </ul>
 <h4>Mobile Phones and Smart Watches Policy</h4>
@@ -318,32 +331,30 @@ appropriate use of mobile devices is crucial.</p>
 to theft or otherwise.</p>
 </li>
 <li>
-<p>Students must lock their mobile phones and smartwatches in lockers at
-the school canteen upon arrival.</p>
+<p>Students must lock their mobile phones, tablets (iPads) and smartwatches
+in lockers at the school canteen upon reporting to school and before morning
+assembly.</p>
 </li>
 <li>
 <p>Devices can only be retrieved after the curriculum or CCA ends.</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Mobile phone use is strictly prohibited during curriculum hours, including
-breaks, between lessons, and before CCAs.</p>
+breaks, between lessons and before CCAs.</p>
 </li>
 <li>
-<p><strong>Students found with mobile phones beyond the canteen or during restricted times will surrender them to the General Office for safekeeping for the day.</strong>
+<p><strong>Students found with mobile phones will be required to surrender them to the General Office for safekeeping for the day.</strong>
 </p>
 </li>
 <li>
 <p>Repeated violators may have their mobile phones safe-kept by the school
-for up to one month.</p>
+or banned from bringing mobile phones to school.</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Posting of inappropriate content on social media that is insensitive,
 illegal, or disreputable to the school is prohibited; violators may have
-their mobile phones safe-kept by the school for up to one month.</p>
+their mobile phones safe-kept by the school or ban from bringing mobile
+phones to school.</p>
 </li>
 <li>
 <p>Mobile phones used in unlawful offences will be safe-kept for further
@@ -396,7 +407,8 @@ ambassadors.</p>
 distract from the learning environment.</p>
 </li>
 <li>
-<p>Male students must be clean-shaven and neat in appearance.&nbsp;</p>
+<p><strong>Male students must be clean-shaven and neat in appearance.</strong>
+</p>
 </li>
 <li>
 <p>For male students, hair must be short, neat, and above the collar, not
@@ -423,8 +435,8 @@ with the school's standards.</p>
 <h4><u>Uniform</u></h4>
 <ul>
 <li>
-<p>Students are to wear the prescribed school uniform and modification to
-the uniform is not allowed.</p>
+<p><strong>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</strong>
+</p>
 </li>
 <li>
 <p>Only plain <strong>white</strong> canvas or sports shoes with white laces
@@ -440,7 +452,11 @@ allowed.</p>
 <li>
 <p>Students with non-compliant items (e.g. socks or accessories) will be
 safe-kept till the end of the term or semester, or until their parents/guardian
-come to school to retrieve their items.&nbsp;</p>
+come to school to retrieve their items.</p>
+</li>
+<li>
+<p>In the event of any foot/ankle injury, the wearing of non-standard school
+shoes must be supported by a valid medical certificate.</p>
 </li>
 </ul>
 <h4><u>Accessories</u></h4>
@@ -450,9 +466,9 @@ come to school to retrieve their items.&nbsp;</p>
 Coloured contact lenses are <u>not allowed</u>.</p>
 </li>
 <li>
-<p>Jewellery, body piercings (including ear sticks), tattoos, and other body
-ornaments or accessories (e.g. wristbands, friendship bands or bangles)
-are <u>not allowed</u>.</p>
+<p>Jewellery, body piercings (including the tongue or ear sticks), tattoos,
+and other body ornaments or accessories (e.g. wristbands, friendship bands
+or bangles) are <u>not allowed</u>.</p>
 </li>
 <li>
 <p>Only female students may wear a pair of identical small, simple ear studs,
@@ -462,7 +478,7 @@ which are worn only on the ear lobe.</p>
 <p>Earrings that dangle or are decorative are not allowed.</p>
 </li>
 <li>
-<p>Male students are not permitted to wear earrings, ear studs or earsticks</p>
+<p>Male students are not permitted to wear earrings, ear studs or earsticks.</p>
 </li>
 <li>
 <p>Nose rings, nose studs or nose sticks are not permitted.</p>
@@ -470,7 +486,7 @@ which are worn only on the ear lobe.</p>
 <li>
 <p>Students with non-compliant items (e.g. earrings, necklace, bangles) will
 be safe-kept till the end of the term or semester, or until their parents/guardian
-come to school to retrieve their items.&nbsp;</p>
+come to school to retrieve their items.</p>
 </li>
 </ul>
 <h4><u>Personal Hygiene</u></h4>
@@ -479,7 +495,7 @@ come to school to retrieve their items.&nbsp;</p>
 <p>Make-up, cosmetics, and the application of henna are not allowed.</p>
 </li>
 <li>
-<p>Fingernails should be kept short and clean.</p>
+<p>Fingernails should not be painted but should be kept short and clean.</p>
 </li>
 <li>
 <p>Students who have body tattoos, henna or make-up will be sent home for
@@ -668,8 +684,8 @@ with PE shorts).&nbsp;</p>
 </table>
 <ul>
 <li>
-<p>On <u>Mondays</u>, students are to report in full uniform, even if there
-is PE.</p>
+<p>&nbsp;On <u>Mondays</u>, students are to report in full uniform, even if
+there is PE.</p>
 </li>
 <li>
 <p>On <u>PE days (except Monday)</u>, students are to report in half uniform.</p>
@@ -686,7 +702,8 @@ a tie is required.</p>
 <p>PE attire is not allowed during curriculum time (lesson time).</p>
 </li>
 <li>
-<p>CCA or Class T-shirts are only permitted during special events with approval.</p>
+<p>CCA or Class T-shirts are only permitted during special events with approval
+by HOD Character Guidance.</p>
 </li>
 <li>
 <p>Printing of CCA or Class T-shirts will require the approval of HOD PE
@@ -736,9 +753,10 @@ to major if students show no improvement.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Major Offences</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Attendance</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>Possible Consequences</strong>
 </p>
@@ -750,175 +768,226 @@ to major if students show no improvement.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Theft</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Leaving school grounds without permission</p>
+</li>
+<li>
+<p>Truancy (from subject classes and school)</p>
+</li>
+</ul>
 </td>
-<td rowspan="12" colspan="1">
-<p>Verbal warning, reflection, circle time, counselling, caning or referral
-to the Police.</p>
+<td rowspan="15" colspan="1">
+<p>Verbal warning, reflection, circle time, counselling, caning<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> and referral to
+Police<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a>/Central
+Narcotics Bureau (CNB).</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
-<td rowspan="19" colspan="1">
+<td rowspan="15" colspan="1">
 <p>Student Development Team/Vice- Principal/Principal conference with parents/
 guardians.</p>
-<p>
-<br>
-</p>
+<p>&nbsp;</p>
 <p>Support via self-management planning process.</p>
-<p>
-<br>
-</p>
+<p>&nbsp;</p>
 <p>Performing school services.</p>
-<p>
-<br>
-</p>
+<p>&nbsp;</p>
 <p>During or after-school-hours detention.</p>
-<p>
-<br>
-</p>
+<p>&nbsp;</p>
 <p>Internal suspension.</p>
-<p>
-<br>
-</p>
+<p>&nbsp;</p>
 <p>External suspension.</p>
-<p>
-<br>
-</p>
+<p>&nbsp;</p>
 <p>Gear-Up programme.</p>
-<p>
-<br>Referral to external counselling team/ programmes for further guidance
-and support on appropriate behaviours.</p>
-<p></p>
+<p>&nbsp;</p>
+<p>Referral to external counselling team/ programmes for further guidance
+and support non appropriate behaviours.</p>
+<p>&nbsp;</p>
 <p>Referral to medical professionals for clinical assessments to support
 non appropriate behaviours.</p>
+<p>&nbsp;</p>
+<p>Refer to <strong>Offences Related to Vaping</strong>
+</p>
+<p>for vaping related offences.</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cheating&nbsp;</p>
+<p><strong>Defiant Behaviours</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gambling or playing cards/card games</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Open Defiance (e.g. repeatedly reporting late for class)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bullying or gangsterism (includes harassment/cyber-bullying)</p>
+<p><strong>Damage / Infringement to Property and Resources</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Extortion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Cybersecurity violations</p>
+</li>
+<li>
+<p>Trespassing and unauthorised access</p>
+</li>
+<li>
 <p>Vandalism (school or public property)</p>
+</li>
+<li>
+<p>Arson</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fighting/Assault</p>
+<p><strong>Dishonest Behaviours</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Open defiance to school authorities (e.g. repeatedly reporting late for
-class)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mischief by fire</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Cheating in assessments</p>
+</li>
+<li>
 <p>Forgery</p>
+</li>
+<li>
+<p>Scams and fraud</p>
+</li>
+<li>
+<p>Theft</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Hurtful Behaviours</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Bullying (cyber, physical, social, verbal)</p>
+</li>
+<li>
+<p>Gangsterism (e.g. extortion)</p>
+</li>
+<li>
+<p>Fighting</p>
+</li>
+<li>
+<p>Assault</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sexual Misconduct</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Sexual Harassment</p>
+</li>
+<li>
+<p>Sexual Exploitation</p>
+</li>
+<li>
+<p>Sexual Abuse / Assault</p>
+</li>
+<li>
+<p>Other forms of sexual misconduct (e.g. possession of pornographic materials
+/ voyeurism / sexual references /outrage of modesty etc.)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Substance Abuse</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Alcohol</p>
+</li>
+<li>
+<p>Inhalant</p>
+</li>
+<li>
+<p>Smoking</p>
+</li>
+<li>
+<p>Vaping (e.g. e-cigarettes, vaping peripherals etc.)</p>
+</li>
+<li>
+<p>Drug</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Others</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Disruptive behaviour</p>
+</li>
+<li>
+<p>Gambling</p>
+</li>
+<li>
 <p>Possession of weapons or weapon-like items</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sexual Misconduct (e.g. possession of pornographic materials / voyeurism/sexual
-references/outrage of modesty etc.)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Drug and inhalant abuse or its possession</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Verbal warning, reflection, circle time, counselling<sup>1</sup>, caning<sup>2</sup> and
-referral to Police/Central Narcotics Bureau (CNB).</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Smoking, vaping or possession of smoking/prohibited materials&nbsp;</p>
-<p>(e.g. e-cigarettes, vaping peripherals, tobacco etc.)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Verbal warning, reflection, circle time, counselling<sup>1</sup>, caning<sup>2</sup> and
-referral to Police/Health Promotion Board (HPB)/Health Sciences Authority
-(HSA).</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Disruptive behaviour (e.g. banging the table)</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>Verbal warning, reflection, circle time, counselling<sup>1</sup>, suspension
-and caning<sup>2</sup>.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Truancy (from subject classes and school)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vulgarity</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Acts pertaining to appearance, uniform and grooming (including dyed hair,
-tattoos, body piercing etc.)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Late-coming (at the school gate or assembly venues)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Verbal warning, reflection, circle time, counselling<sup>1</sup>, internal
-and external suspension.</p>
+</li>
+<li>
+<p>Other serious offences (e.g. mischief by fire)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p><em><sup>1</sup>Counselling will be provided by the School Counsellor.</em>
+<p>
+<br>
 </p>
-<p><em><sup>2</sup>Caning is administered only to boys.</em>
-</p>
-<p><em><sup>3</sup>External programmes refer to Enhanced Step-Up Programmes etc.</em>
-</p>
-<p><em><sup>4</sup>After internal investigations, affected students may have their marks penalised.</em>
-</p>
-<p><em><sup>5</sup>Cyberbullying includes impersonation, use of vulgarities or undesirable graphics, name-calling, spreading rumours, damaging another person’s reputation, slander on social media, and threats etc.</em>
-</p>
-<p><em><sup>6</sup>&nbsp;In consultation with SPF, students may be reported to the Police for sexual offences.</em>
-</p>
-<p><em><sup>7</sup>Students referred to HSA for vaping-related offences may receive a verbal warning and/or fine.</em>
-</p>
-<ul>
+<hr>
+<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Caning
+is administered for boys only.</p>
+<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> In
+consultation with the Police, students may be reported for assault, sexual
+offences etc.</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Offences committed outside school may also incur consequences as indicated
 above.</p>
@@ -936,23 +1005,230 @@ guidance programmes.</p>
 Module), affecting eligibility for MOE Edusave awards and bursaries.</p>
 </li>
 </ul>
+<h4>Offences Related to Vaping</h4>
+<p>Students caught for vaping offences related to vaping, possession of vape
+or its peripherals and selling of vapes will be subjected to both the national
+penalties and school-based consequences.</p>
+<p>The school-based disciplinary actions will be meted out in addition to
+the national penalties imposed by HSA. This applies to students who were
+caught offending in school and outside of school.</p>
+<p>Students caught selling and trafficking of e-vaporisers may be considered
+for additional school-based consequences, including expulsion (for secondary
+schools and JCs/MI).</p>
+<h4>National Penalties and Rehabilitation for Vaping</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Number of offences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Enhanced penalties from 1 Sep 2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> offence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NOC (fine) of:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Under 18: $500</p>
+</li>
+<li>
+<p>18-and-above: $700</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> offence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Notices to Attend Rehabilitation for 3 months</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> offence and onwards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prosecuted and subjected to a maximum fine of $2,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>National Penalties and Rehabilitation for Etomidate Abusers</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Number of offences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Enhanced penalties from 1 Sep 2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> offence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Notice of Composition (fine) of:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Under 18: $500</p>
+</li>
+<li>
+<p>18 and above: $700</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Notice to Attend Rehabilitation for up to 6 months</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> offence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mandatory supervision, including drug tests and rehabilitation for up
+to 6 months</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> offence and onwards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Under 16</u>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mandatory supervision including drug tests for up to 12 months, in lieu
+of DRC</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><u>16 and above</u>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Rehabilitation at the Drug Rehabilitation Centre (DRC)</p>
+</li>
+<li>
+<p>Post-DRC mandatory supervision, which includes drug tests for up to 10
+months</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>School-Based Consequences for Vaping Offences</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Number of offences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>School-Based Consequences</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First-time vaping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3</strong> days of suspension (female)</p>
+<p><strong>1</strong> stroke of the cane (male)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>+ conduct grade at most <strong>Fair</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Second-time vaping /</p>
+<p>First-time vaping with Etomidate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>5</strong> days of suspension (female)</p>
+<p><strong>2</strong> strokes of the cane (male)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>+ conduct grade at most <strong>Fair</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subsequent offenders</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Up to <strong>14</strong> days of suspension (female)</p>
+<p><strong>3</strong> strokes of the cane + Up to 14 days of suspension (male)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>+ conduct grade <strong>Poor</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>In addition to suspension and caning and conduct grade</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Removal from <strong>student leadership</strong> positions and No school <strong>representation.</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Rules and Regulations/School_uniform_1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025/Girl_s_Turnout__Lower___Upper_Secondary_.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Rules and Regulations/School_uniform_2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025/Boy_s_Turnout__Lower___Upper_Secondary_.png">
 </div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Rules and Regulations/School_uniform_3.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025/School_Polo_T_Shirt__Lower___Upper_Secondary_.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Rules and Regulations/School_uniform_4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025/School_Half_Uniform__Lower___Upper_Secondary_.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Rules and Regulations/School_uniform_5.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025/House_T_Shirt__Lower___Upper_Secondary_.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Rules and Regulations/student_hairstyle.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024/Rules and Regulations/student_hairstyle.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -973,6 +1249,7 @@ Module), affecting eligibility for MOE Edusave awards and bursaries.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Tinting or colouring of hair is not allowed.</p>
+<p></p>
 <p>Hair must be short, neat, and the fringe should be above the eyebrows.</p>
 <p></p>
 <p>Hair should be cut above the ears and collar, with a slope at the back,
@@ -980,7 +1257,7 @@ in a style acceptable to the school.</p>
 <p></p>
 <p>Must be clean-shaven; beards, moustaches, and long sideburns are not allowed.</p>
 <p></p>
-<p>Spiky or fanciful hairstyles are prohibited.</p>
+<p>Overlap, under-shave, under-cut or outlandish hairstyles are prohibited.</p>
 <p></p>
 <p>Hair tattoos are not permitted.</p>
 </td>
@@ -991,6 +1268,7 @@ in a style acceptable to the school.</p>
 (ribbons or elastic bands).</p>
 <p></p>
 <p>Fanciful hairstyles are not permitted.</p>
+<p></p>
 <p>Fringe should be clipped or tied up if it covers the eyebrows.</p>
 <p></p>
 <p>Hair tattoos are not allowed.</p>
