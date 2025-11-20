@@ -3,7 +3,9 @@ collections:
     output: true
     order:
       - Parents/.keep
-      - Parents/Useful Info.md
+      - Parents/MOE Financial Assistance Scheme.md
+      - Parents/Group Personal Accident (GPA) Insurance Plan.md
+      - Parents/School Bookshop & Uniform.md
       - Parents/School Terms and Holidays for 2025.md
       - Students.md
       - Partners/.keep
