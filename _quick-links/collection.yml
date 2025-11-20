@@ -2,10 +2,10 @@ collections:
   quick-links:
     output: true
     order:
-      - Parents/Group Personal Accident (GPA) Insurance Plan.md
-      - Parents/School Bookshop & Uniform.md
       - Parents/.keep
       - Parents/MOE Financial Assistance Scheme.md
+      - Parents/Group Personal Accident (GPA) Insurance Plan.md
+      - Parents/School Bookshop & Uniform.md
       - Parents/School Terms and Holidays for 2025.md
       - Students.md
       - Partners/.keep
