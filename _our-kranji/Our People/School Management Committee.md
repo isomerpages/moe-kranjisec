@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Oh-Ong Lay Ling</p>
+<p>Mr Koo Tiannuo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal 1 (Acad)</p>
@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Koo Tiannuo</p>
+<p>Mrs Parvathi Kesavan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal 2 (Acad)</p>
@@ -89,7 +89,7 @@ variant: tiptap
 <p>Mrs Alicia Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Covering)</p>
+<p>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ variant: tiptap
 <p>Mr Hendrik Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Covering)</p>
+<p>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ variant: tiptap
 <p>Ms Peggen Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Character &amp; Citizenship Education (Covering)</p>
+<p>HOD/Character &amp; Citizenship Education</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@ variant: tiptap
 <p>Miss Tan En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Character &amp; Citizenship Education (Covering)</p>
+<p>SH/Character &amp; Citizenship Education</p>
 </td>
 </tr>
 <tr>
