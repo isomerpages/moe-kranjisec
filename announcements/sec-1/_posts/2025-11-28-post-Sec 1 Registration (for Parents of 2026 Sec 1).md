@@ -45,7 +45,7 @@ vacancies and the school’s admission criteria.&nbsp;Appeal form: <a href="http
 <p>Posting Group 2: 24&nbsp;</p>
 </li>
 <li>
-<p>Posting Group 1: 28&nbsp;</p>
+<p>Posting Group 1: 28</p>
 </li>
 </ul>
 <p>Do note that if you do not hear from us by 2 Jan 2026, the appeal is deemed
