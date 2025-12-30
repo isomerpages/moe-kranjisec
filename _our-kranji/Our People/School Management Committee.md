@@ -190,7 +190,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Amelia Gan</p>
+<p>Ms Amelia Gan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH/English Language</p>
