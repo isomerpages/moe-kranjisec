@@ -70,50 +70,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Stephanie Png</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chin Chii Tarng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Alicia Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Hendrik Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Peggen Ang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Character &amp; Citizenship Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jeremy Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/Character Guidance</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +105,7 @@ variant: tiptap
 <p>Ms M Losiny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ICT</p>
+<p>HOD/Special Project</p>
 </td>
 </tr>
 <tr>
@@ -174,10 +134,58 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chong Keting</p>
+<p>Mr Chin Chii Tarng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Yong Yeu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ICT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms M Losiny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Special Project</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Stephanie Png</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Karen Thia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Alicia Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Hendrik Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
@@ -186,14 +194,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>LH/English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Karen Thia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH/Humanities</p>
 </td>
 </tr>
 <tr>
@@ -214,7 +214,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Tan En</p>
+<p>Ms Tan En</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Character &amp; Citizenship Education</p>
@@ -242,6 +242,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Student Well-Being</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ferozd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/PE &amp; CCA (covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kevin Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Mathematics &amp; Computing</p>
 </td>
 </tr>
 </tbody>
