@@ -102,10 +102,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms M Losiny</p>
+<p>Mr Goh Yong Yeu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Special Project</p>
+<p>HOD/ICT</p>
 </td>
 </tr>
 <tr>
@@ -138,14 +138,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Yong Yeu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/ICT</p>
 </td>
 </tr>
 <tr>
@@ -230,18 +222,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Yu Juan</p>
+<p>Mr Kevin Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/NFS &amp; Aesthetics</p>
+<p>SH/Mathematics &amp; Computing</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Felicia Mah</p>
+<p>Ms Ng Yu Juan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Well-Being</p>
+<p>SH/NFS &amp; Aesthetics</p>
 </td>
 </tr>
 <tr>
@@ -254,10 +246,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kevin Loh</p>
+<p>Ms Felicia Mah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Mathematics &amp; Computing</p>
+<p>SH/Student Well-Being</p>
 </td>
 </tr>
 </tbody>
