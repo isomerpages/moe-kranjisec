@@ -27,42 +27,50 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p>Welcome to Kranji Secondary School.</p>
-<p></p>
-<p>It is a pleasure to be appointed as Principal of this school. Established
-in 1995, the school has grown from strength to strength to develop each
-student into a self-directed learner, a caring leader, and an active contributor
-to the community. Our caring and motivated team of teachers supports our
-students in living up to the school motto to find their own “Breakthrough”
-in their life journey.</p>
+<p>It is a pleasure to serve as the Principal of this vibrant institution.
+Established in 1995, Kranji Secondary School has continuously strengthened
+its commitment to providing a positive and meaningful Kranji Experience
+for every student. At the heart of our mission is the development of the
+Kranjian Identity, where every student is nurtured to become a Thinker,
+a Leader, and a Champion. We are dedicated to cultivating a caring and
+enabling environment, grounded in our core values of Responsibility, Resilience,
+Respect, Compassion, Integrity, and a Passion for Learning.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Through the Kranji Experience, we prepare our students to be ready for
-the future. We equip them with the opportunities to be Creators, to have
-adaptive and inventive thinking, and to find innovative solutions for sustainable
-living. We also offer platforms to help them be Connectors to communicate
-and collaborate with peers and community partners in Singapore and beyond.
-This is so that every student can find a sense of purpose and be a Contributor
-to our society, with their unique gifts nurtured in school.</p>
+<p>The Kranji Experience includes both curricular and co-curricular programmes,
+as well as unique offerings like the Applied Learning Programme, "Design
+Innovation for Sustainable Living," the Learning for Life Programme, "Community
+and Youth Leadership," and our Internationalisation Programme. Our programmes
+utilise a three-tiered approach: Core, Enrich, and Aspire. This structure
+ensures that all students can participate in broad-based programmes while
+those with specific talents or interests have opportunities for further
+development.</p>
 <p></p>
-<p>The Kranji Experience includes the curricular and co-curricular programmes,
-as well as our distinctive programmes such as the Applied Learning Programme,
-“Design Innovation for Sustainable Living”; Learning for Life Programme,
-“Community and Youth Leadership”; and Internationalisation programme. Our
-school also leverages Educational Technology (EdTech) to facilitate learning.</p>
+<p>Having recently celebrated our 30th anniversary, we embark on a new chapter
+in Kranji’s journey. Anchored in our school motto, <strong>“Breakthrough,”</strong> we
+commit to nurturing students who find joy in learning and develop a lifelong
+disposition to learn, contribute, and lead. This spirit of breakthrough
+is brought to life through our <strong>4G approach — Goal, Growth Mindset, Grit, and Gratitude</strong> —
+which shapes how our students think, act, and learn each day. We believe
+that meaningful growth begins with purposeful goals, is strengthened by
+a growth mindset, sustained through perseverance, and anchored in gratitude.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>We will soon celebrate our 30th anniversary in 2025. As we begin a new
-chapter, we will continue to help each student find the joy of learning
-to nurture their disposition to learn for life. I invite you to explore
-this website to learn more about the Kranji Experience and the “Breakthroughs”
-our students achieved when they are with us.</p>
-<p></p>
-<p>We hope you will join us on this journey too</p>
+<p>We reaffirm our commitment to the school motto “Breakthrough” through
+the clarity provided by our 4G approach of Goal, Growth Mindset, Grit and
+Gratitude. We aspire for the spirit of breakthrough to be ingrained in
+our students’ daily lives — beginning with purposeful goal-setting, strengthened
+by a growth mindset, sustained through perseverance, and anchored in gratitude.
+Our aim is to nurture students who find joy in learning and develop a lifelong
+disposition to learn, contribute, and lead.</p>
+<p>I invite you to explore our website to learn more about the Kranji Experience
+and the many breakthroughs our students achieve during their time with
+us. We hope you will join us on this journey as we continue to grow, learn,
+and breakthrough together!</p>
 </td>
 </tr>
 <tr>
