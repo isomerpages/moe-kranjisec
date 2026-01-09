@@ -23,7 +23,7 @@ link: <a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofol
 <p>If you are unable to submit the form online, please click <a href="https://for.edu.sg/kssndlpprocurementform" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 a hardcopy version.</p>
 <p>Please consent for the purchase via the Parents Gateway (PG) notification
-by <strong>15 January 2025</strong>.</p>
+by <strong>16 January 2026</strong>.</p>
 <p>More details will be provided at a later date on your child/ward’s PLD
 collection date.</p>
 <h3>Resources for Parents</h3>
