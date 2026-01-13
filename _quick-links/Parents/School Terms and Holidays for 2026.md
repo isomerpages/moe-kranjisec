@@ -23,7 +23,7 @@ variant: tiptap
 <p>Term I</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue 2 Jan to Fri 14 Mar</p>
+<p>Fri 2 Jan to Fri 13 Mar</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +31,7 @@ variant: tiptap
 <p>Term II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 24 Mar to Fri 30 May</p>
+<p>Mon 23 Mar to Fri 29 May</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ variant: tiptap
 <p>Term III</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 30 Jun to Fri 5 Sep</p>
+<p>Mon 29 Jun to Fri 4 Sep</p>
 </td>
 </tr>
 <tr>
@@ -53,14 +53,14 @@ variant: tiptap
 <p>Term IV</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 15 Sep to Fri 21 Nov</p>
+<p>Mon 14 Sep to Fri 20 Nov</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>The last day of the final school term for schools which will be used as
-venues for the GCE O-Level written examinations, will be Friday, 24 October
-2025.</p>
+venues for the GCE O-Level written examinations, will be Friday, 23 October
+2026.</p>
 <h3>School Vacation</h3>
 <p>The 4 vacation periods will be as follows:</p>
 <table style="minWidth: 50px">
