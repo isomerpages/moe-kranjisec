@@ -19,7 +19,7 @@ electronically.&nbsp; Parents are to submit their claims online and check
 the claims status through the online portal. Click&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 submit claims online.&nbsp;
 <br>
-<br>Click&nbsp;<a href="https://www.lakesidepri.moe.edu.sg/files/Admin%20Forms/GPA_Insurance_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<br>Click <a href="/files/2026/GPA_Product_Fact_Sheet__Year_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 the updated product factsheet for the NTUC Income Group Personal Accident
 (GPA) Insurance Plan for Students.&nbsp;</p>
 <p>
