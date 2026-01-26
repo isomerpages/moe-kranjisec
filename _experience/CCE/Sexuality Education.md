@@ -49,7 +49,7 @@ Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h2>Overview of Kranji Secondary School’s Sexuality Education Programme for 2025</h2>
+<h2>Overview of Kranji Secondary School’s Sexuality Education Programme for 2026</h2>
 <p></p>
 </li>
 <li>
@@ -92,7 +92,7 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p></p>
 <p>At Kranji Secondary School, the following Sexuality Education lessons
-will be taught in 2025:</p>
+will be taught in 2026:</p>
 </li>
 </ol>
 <h4><strong>&nbsp;Secondary 1</strong></h4>
@@ -145,8 +145,6 @@ will have the opportunity to better understand the considerations involved
 in making responsible decisions towards dating and romantic relationships
 and understand how to build healthy and supportive relationships, both
 online and offline.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -169,7 +167,7 @@ in dating vary among individuals</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +198,7 @@ self-concept</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -237,7 +235,7 @@ etc.)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 3</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -342,7 +340,7 @@ as a male or female</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -373,7 +371,7 @@ both online and offline</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -407,7 +405,7 @@ both offline and online</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 3</p>
 </td>
 </tr>
 </tbody>
@@ -483,7 +481,7 @@ is important when entering into a dating relationship</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 3</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -523,7 +521,7 @@ and friends are important pillars of support</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 4</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -559,7 +557,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -631,7 +629,7 @@ and should be avoided</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 3</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -677,7 +675,7 @@ relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 4</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -717,7 +715,7 @@ of their marriage</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 <tr>
@@ -748,7 +746,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -816,20 +814,23 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 4</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3><u>eTeens Programme</u></h3>
 <p></p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
-by Health Promotion Board, in collaboration with the Ministry of Education,
-to provide Secondary 3 students with accurate information on STIs, HIV
-and protection from a health perspective. <em>eTeens</em> is conducted in
-two segments – a mass talk segment and a classroom-based programme. The
-desired outcome of the <em>eTeens</em> programme is that students are empowered
-to make wise, informed and sensible decisions.</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme that
+was developed by Health Promotion Board, in collaboration with the Ministry
+of Education, to provide Secondary 3 students with accurate information
+on STIs, HIV and protection from a health perspective. With the formation
+of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme
+would now be managed by CDA’s Training and Education Division instead of
+HPB. <em>eTeens</em> is conducted in two segments – a mass talk segment and
+a classroom-based programme. The desired outcome of the <em>eTeens</em> programme
+is that students are empowered to make wise, informed and sensible decisions
+to protect themselves from sexually transmitted infectious diseases.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
 as decision-making, assertiveness and negotiation to say “no” to sex and
 negative peer pressure. They also learn that the impact of STIs/HIV extends
@@ -838,7 +839,7 @@ decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
 <p></p>
 <p>At Kranji Secondary School, the <em>eTeens</em> programme will be implemented
-as follows in 2025:</p>
+as follows in 2026:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -868,15 +869,21 @@ as follows in 2025:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Raise awareness and provide knowledge on:</p>
-<p>a)&nbsp; Infectious diseases (STIs and HIV): what it is, how it spreads,
-how to prevent infection mainly through ABC (abstinence, being faithful,
-correct, and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.</p>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact</p>
+<p></p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p></p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -892,7 +899,7 @@ of assertiveness and responsible decision-making</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -904,12 +911,12 @@ programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
 of the <strong>Sexuality Education lessons</strong> need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also accessible <a href="https://form.gov.sg/677ce9c13d07871a25630660" rel="noopener noreferrer nofollow" target="_blank">here</a>. <strong>The completed form is to be submitted by 17th January 2025.</strong>
+and is also accessible <a href="https://form.gov.sg/6972239e80c908cb6a61209c" rel="noopener noreferrer nofollow" target="_blank">here</a>. <strong>The completed form is to be submitted by 29th January 2026.</strong>
 </p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
 of the <strong><em>eTeens</em> programme</strong> need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also accessible <a href="https://form.gov.sg/677ceb1e103c8249e2e1dcaa" rel="noopener noreferrer nofollow" target="_blank">here</a>. <strong>The completed form is to be submitted by 17th January 2025.</strong>
+and is also accessible <a href="https://form.gov.sg/69722d178f0ccd0e0c303e8d" rel="noopener noreferrer nofollow" target="_blank">here</a>. <strong>The completed form is to be submitted by 29th January 2026.</strong>
 </p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6766 2464
 (email: <a rel="noopener noreferrer nofollow" target="_blank">kranji_ss@moe.edu.sg</a>)
