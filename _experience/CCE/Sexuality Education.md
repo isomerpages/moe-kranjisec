@@ -167,7 +167,7 @@ in dating vary among individuals</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -340,7 +340,7 @@ as a male or female</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -746,7 +746,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 </tbody>
