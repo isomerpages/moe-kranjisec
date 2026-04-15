@@ -104,7 +104,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Jaafar</p>
+<p>Mr Mohamed Jaafar PBM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -130,14 +130,15 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Low Choon Song</p>
+<p>Mr Ong Cheng Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SAC/Choon_Song.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
 </td>
 </tr>
