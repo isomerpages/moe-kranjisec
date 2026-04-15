@@ -104,7 +104,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Jaafar PBM</p>
+<p>Mr Mohamed Jaafar, PBM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
