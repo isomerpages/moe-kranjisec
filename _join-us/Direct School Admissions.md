@@ -23,10 +23,10 @@ will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
 <h5>Application Timeline</h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA/Application_Timeline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/DSA6.png">
 </div>
 <h5><strong><u>Additional Information:</u></strong></h5>
-<p>&nbsp;</p>
+<p></p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 6 May 2026, 11am
 to 2 Jun 2026, 4.30pm. For more details, please refer to MOE website –
