@@ -150,6 +150,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Kevin Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Stephanie Png</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,7 +169,7 @@ variant: tiptap
 <p>Ms Karen Thia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (covering)</p>
+<p>Year Head</p>
 </td>
 </tr>
 <tr>
@@ -222,14 +230,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kevin Loh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Mathematics &amp; Computing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Ng Yu Juan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -241,7 +241,7 @@ variant: tiptap
 <p>Mr Ferozd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/PE &amp; CCA (covering)</p>
+<p>SH/PE &amp; CCA</p>
 </td>
 </tr>
 <tr>
